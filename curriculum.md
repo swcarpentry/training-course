@@ -2,6 +2,7 @@
 title: Curriculum
 author: Greg Wilson
 layout: page
+permalink: /curriculum/
 ---
 We are continually trying to improve this course, so the exact content changes from one run to the next, but the exercises we do have settled into more-or-less the following form:
 

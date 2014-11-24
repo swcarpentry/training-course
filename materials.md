@@ -2,6 +2,7 @@
 title: Materials
 author: Greg Wilson
 layout: page
+permalink: /materials/
 ---
 ## Main Readings
 
