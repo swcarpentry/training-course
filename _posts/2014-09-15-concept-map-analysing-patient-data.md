@@ -1,0 +1,18 @@
+---
+title: 'Concept map: Analysing patient data'
+author: Jeremy Metz
+layout: post
+permalink: /2014/09/concept-map-analysing-patient-data/
+categories:
+  - Concept Map
+  - Round 11/2
+---
+Map describing concepts in http://software-carpentry.org/v5/novice/python/01-numpy.html
+
+&#8220;Classical&#8221; operational flow highlighted in red.
+
+Comments welcome!
+
+[<img class="alignnone size-medium wp-image-8649" alt="20140915_142812" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/20140915_142812-300x225.jpg" width="300" height="225" />][1]
+
+ [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/09/20140915_142812.jpg

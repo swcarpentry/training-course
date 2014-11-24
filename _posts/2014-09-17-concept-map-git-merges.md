@@ -1,0 +1,14 @@
+---
+title: 'Concept map: git merges'
+author: Jared Camins-Esakov
+layout: post
+permalink: /2014/09/concept-map-git-merges/
+categories:
+  - Concept Map
+  - Round 11/2
+---
+[<img class="alignnone size-medium wp-image-8738" alt="git merge conflicts concept map" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/git-merge-conflicts-concept-map-300x231.jpg" width="300" height="231" />][1]
+
+One of the more frustrating aspects of git, especially for beginners working on large projects, is git&#8217;s penchant for cryptic messages about merge conflicts. This concept map shows how I conceptualize dealing with them. Based on <http://software-carpentry.org/v5/novice/git/03-conflict.html>
+
+ [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/09/git-merge-conflicts-concept-map.jpg

@@ -1,0 +1,24 @@
+---
+title: 'Concept Map &#8211; Random Number Generation in R'
+author: Dan Warren
+layout: post
+permalink: /2014/04/concept-map-random-number-generation-in-r/
+categories:
+  - Concept Map
+  - Round 09/1
+---
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Here&#8217;s my concept map for random number generation in R.  Apologies for the penmanship.
+
+[<img class="alignnone size-large wp-image-6811" alt="Concept map" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/04/Concept-map1-1024x757.jpg" width="707" height="522" />][1]
+
+ [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/04/Concept-map1.jpg

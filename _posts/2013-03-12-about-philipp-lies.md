@@ -1,0 +1,10 @@
+---
+title: About Philipp Lies
+author: Philipp Lies
+layout: post
+permalink: /2013/03/about-philipp-lies/
+categories:
+  - Biography
+  - Round 03/0
+---
+I&#8217;m a PhD student at the Werner Reichardt Centre for Integratrive Neuroscience in Tübingen, Germany and have a diploma in computer science from TU Darmstadt, Germany. I work on unsupervised learning in the mammalian primary visual cortex, mainly trying to figure out which response properties of the cells in the primary visual cortex can be explained by which learning paradigm (or not). As an undergrad I worked mainly with C/C++ and switched to python about 4 years ago for my PhD project.

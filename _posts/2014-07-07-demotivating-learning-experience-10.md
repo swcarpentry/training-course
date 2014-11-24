@@ -1,0 +1,17 @@
+---
+title: Demotivating Learning Experience
+author: Mark Laufersweiler
+layout: post
+permalink: /2014/07/demotivating-learning-experience-10/
+categories:
+  - Motivation
+---
+My demotivating experience came while an undergraduate at a major state institution. I was a physics major and was in my junior year, Spring term, 1981. I was enrolled in Statistical Thermodynamics which was a cross listed course for undergraduate and graduate students. The first day of class, there were 9 graduates students and 4 undergrads including me. The professor talked about his syllabus and went over the exam and grading of the course. His exams were to be take home closed book and had a time limit. We were on the honor system to work alone and obey the rules as set up by the honor system. The second class, there were 9 graduate students and only one undergrad, me.
+
+Since there was only one undergrad (me), the professor decided to teach at the graduate level. I was lucky to get 2/10 on the weekly home works. The first exam was a disaster. I followed to the letter the honor rules. I found a spot in the library, set  aside the three hours allotted and proceeded to work on the exam. I was blown away. It was obvious the exam was set at a graduate student level. The class where we were to turn in the exam, it was obvious from the talk between the grad students, a number of the them had not followed the rules and the honor code. They had worked together and took many more hours than the three hours. And I failed the midterm. This was a shock, as I had never failed an exam ever and had a very good (high) GPA.
+
+I was too stubborn to drop the class. I visited the professor during his office hours and worked even harder on the material. I kept quite about the honor code infractions as I had no real proof that they had occurred. My home work scores improved to a whopping 3-4/10. The second midterm went no better but I again followed and held myself to following the honor code. The result was no better and I was convinced that most the graduate students in the course were not keeping the honor code for the take home exams.
+
+The time came for the final and while it was thought that the final would be a take home like the midterms, the professor has some conflict and decided on holding the exam during the scheduled time. The graduate students moaned and I smiled. I studied harder then I ever had before for a course. I aced the exam, earning in the low 90&#8217;s/100. The hard work and experience of working by myself paid off. I talked with the professor about my final grade. Despite being the only undergrad in a cross listed course, the professor decided not to have two grading scales as most would do with a cross listed course. He said my final grade was a C.
+
+My love of physics was tarnished due to the teaching approach and the inequality of both the grading scale and exam policy.  My view of graduate students was also not very high. From that point on, I only enrolled in the minimum of credits required of the degree and took electives from engineering and math from that point till graduation. The only saving grace was that my career path was to be meteorology and not physics. But to this day, I still get a bit angry when I think about this course.

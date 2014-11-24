@@ -1,0 +1,12 @@
+---
+title: for loop concept map
+author: Mark Wilber
+layout: post
+permalink: /2014/04/for-loop-concept-map/
+categories:
+  - Concept Map
+  - Round 09/1
+---
+[<img class="alignnone size-medium wp-image-6889" alt="Concept_map_MWilber" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/04/Concept_map_MWilber-231x300.jpg" width="231" height="300" />][1]
+
+ [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/04/Concept_map_MWilber.jpg

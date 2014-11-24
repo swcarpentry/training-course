@@ -1,0 +1,9 @@
+---
+title: 'Topic for final: Creating a CPAN module'
+author: Sarah Richardson
+layout: post
+permalink: /2013/08/topic-for-final-creating-a-cpan-module/
+categories:
+  - Round 05/5
+---
+I&#8217;d like to make a screencast on creating a perl module that is ready for submission to CPAN. I have people here I can do livecasting with and people elsewhere I can test a screencast with.

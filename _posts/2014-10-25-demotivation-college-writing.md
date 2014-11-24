@@ -1,0 +1,18 @@
+---
+title: 'Demotivation: College Writing'
+author: Matthew Aiello-Lammens
+layout: post
+permalink: /2014/10/demotivation-college-writing/
+categories:
+  - Motivation
+  - Round 11/4
+---
+The college I attended for my undergraduate degree had a required writing class that every student took in their first year. The work load for this course included about 40 pages of reading and two 2 &#8211; 3 page essays each week. I was then, and still remain, a rather slow writer. But I thought there was great value in learning new writing techniques, and I had done very well in my honors English classes in high school. Thus, to use the parlance of &#8220;How Learning Works&#8221;, I started this course with relatively high efficacy and a high sense of value for the course material. The instructor for the course was an advanced graduate student, and he was enthusiastic about his teaching, but did not feel very approachable to me.
+
+At the start of the semester, I tried hard to put into practice the various techniques we were learning in class. I spent many hours preparing each essay. But I was achieving mediocre grades at best. I started questioning my abilities and eventually began to doubt whether I could ever learn to write well. At this point I still believed there was value in the course content. Also during this time, I perceived my instructors comments as purely critically, only pointing out what I was doing wrong, rather than constructive, and pointing out ways I could improve my essays. To reference HLW again, I was probably in a &#8220;fragile&#8221; state.
+
+Around mid-semester, a series of circumstances lead me to a situation in which I ended up writing one of my essays in the two hours prior to class. It was the least amount of time or effort I had put into an assignment for this course. I didn&#8217;t try to implement any of the techniques we were working on, but simply wrote two pages of text. I received the highest marks of any of my essays up to that point. I immediately changed my perspective on the course, feeling that if I could put in a ton of effort and receive poor marks, or put in barely any effort at all, and receive relatively OK marks, how valuable could the content be? I spent very little effort on the rest of the course, and other than learning how to write many essays quickly, mostly did not gain a lot of knowledge.
+
+I periodically think about my experiences in this course. It&#8217;s rare that I felt this disengaged with course material. There was certainly a lot of information I could have learned. In terms of what could have been done to fix this situation, I think that actions not taken by either the instructor and myself could have helped. I still believe that the instructors comments and feedback were largely critical, and lacked constructive comments regarding what I was doing right, and what I could have done to fix my work. Receiving such comments may have helped me to maintain a high expectation of my abilities.
+
+As for my own behavior, I should have discussed with the instructor my frustrations regarding that first assignment that I spent so little time on, and gotten a detailed description of what made that work better than all of the previous essays. It&#8217;s possible that I had actually written it using the methods we were learning throughout the semester, but because I wasn&#8217;t trying as hard, I didn&#8217;t realize what I was successful with and what I wasn&#8217;t. Ultimately, writing is a skill that I had continue to work on, so this experience didn&#8217;t push me away from a certain academic pursuit per se, but I cant help but feel that I missed out on a good learning experience.
