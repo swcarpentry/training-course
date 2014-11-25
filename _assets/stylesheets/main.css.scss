@@ -1,0 +1,31 @@
+@import "journal_variables";
+@import "bootstrap";
+
+// adjustments
+
+p {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+// footer
+
+$footer-height:     10em;
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: $footer-height;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  padding: 20px;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: $footer-height;
+  background-color: #f5f5f5;
+}
+
