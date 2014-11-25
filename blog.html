@@ -3,18 +3,23 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-
-<h1 class="page-heading">Posts</h1>
-
-<ul class="post-list">
+<div class="col-md-4">
+  <div class="page-header">
+    <h1>Categories</h1>
+  </div>
+  <ul>
+    {% assign categories = site.categories | sort %}
+    {% for category in categories %}
+    <li>{{ category[0] | category_links }}</li>
+    {% endfor %}
+  </ul>
+</div>
+<div class="col-md-8">
+  <div class="page-header">
+    <h1>Posts</h1>
+  </div>
   {% for post in site.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-    </li>
+  <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+  <small>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}{% if post.categories != empty %} • Posted in: {{ post.categories | category_links }}{% endif %}</small>
   {% endfor %}
-</ul>
-
+</div>

@@ -206,6 +206,11 @@ module Jekyll
     # Returns string
     def category_links(categories)
       base_dir = @context.registers[:site].config['category_dir']
+      categories = if categories.is_a?(Array)
+                     categories
+                   else
+                     [categories]
+                   end
       categories = categories.sort!.map do |category|
         category_dir = GenerateCategories.category_dir(base_dir, category)
         # Make sure the category directory begins with a slash.
