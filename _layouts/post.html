@@ -4,7 +4,7 @@ layout: default
 <div class="col-md-8 col-md-offset-2">
   <header clas="page-header">
     <h1>{{ page.title }}</h1>
-    <small>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}{% if page.categories != empty %} • Posted in: {{ page.categories | category_links }}{% endif %}</small>
+    <small>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}{% if page.categories != empty %} • Posted in: {{ page.categories | category_links }}{% endif %}{% if page.tags != empty %} • Tags: {{ page.tags }}{% endif %}</small>
   </header>
   <article>
     {{ content }}

@@ -6,7 +6,10 @@ description: >
   basic computing skills. 
 baseurl: ""
 twitter_username: swcarpentry
-github_username: swcarpentry 
+github_username: swcarpentry
+
+category_dir: rounds
+category_title_prefix: "Round: "
 
 # Build settings
 markdown: kramdown
