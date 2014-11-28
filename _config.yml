@@ -8,8 +8,9 @@ baseurl: ""
 twitter_username: swcarpentry
 github_username: swcarpentry
 
-category_dir: rounds
-category_title_prefix: "Round: "
+collections:
+  submissions:
+    output: true
 
 # Build settings
 markdown: kramdown
