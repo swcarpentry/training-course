@@ -1,7 +1,6 @@
 ---
 title: Concept map for Python dictionaries
 author: Jeremiah Lant
-layout: post
 permalink: /2014/04/concept-map-for-python-dictionaries/
 categories:
   - Concept Map

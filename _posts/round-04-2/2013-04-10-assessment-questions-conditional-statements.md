@@ -1,7 +1,6 @@
 ---
 title: 'Assessment questions: Conditional statements'
 author: Rich FitzJohn
-layout: post
 permalink: /2013/04/assessment-questions-conditional-statements/
 categories:
   - Proficiency

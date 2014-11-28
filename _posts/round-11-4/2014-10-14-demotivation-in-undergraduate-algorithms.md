@@ -1,7 +1,6 @@
 ---
 title: Demotivation in Undergraduate Algorithms
 author: Greg Caporaso
-layout: post
 permalink: /2014/10/demotivation-in-undergraduate-algorithms/
 categories:
   - Motivation

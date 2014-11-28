@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: shell automation'
 author: Fan
-layout: post
 permalink: /2013/10/concept-map-shell-automation/
 categories:
   - Concept Map

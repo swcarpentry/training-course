@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: SQL/Selecting Data'
 author: James Hiebert
-layout: post
 permalink: /2014/09/assessment-sqlselecting-data/
 categories:
   - Assessment

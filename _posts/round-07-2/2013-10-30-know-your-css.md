@@ -1,7 +1,6 @@
 ---
 title: Know Your CSS
 author: Bill Mills
-layout: post
 permalink: /2013/10/know-your-css/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Linux Shell: Creating Things'
 author: Alif
-layout: post
 permalink: /2014/09/linux-shell-creating-things/
 categories:
   - Concept Map

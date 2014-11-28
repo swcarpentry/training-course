@@ -1,7 +1,6 @@
 ---
 title: Writing R Functions
 author: Daniel Hocking
-layout: post
 permalink: /2014/01/writing-r-functions/
 categories:
   - Round 07/4

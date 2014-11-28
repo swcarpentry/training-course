@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.2: Lex&#8217;s video on printing a range of lines with sed'
 author: Lex Nederbragt
-layout: post
 permalink: /2012/11/round-2-2-lexs-video-on-printing-a-range-of-lines-with-sed/
 categories:
   - Round 02/2

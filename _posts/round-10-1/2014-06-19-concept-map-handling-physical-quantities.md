@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Handling Physical Quantities'
 author: Mark Betnel
-layout: post
 permalink: /2014/06/concept-map-handling-physical-quantities/
 categories:
   - Concept Map

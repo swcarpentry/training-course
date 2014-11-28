@@ -1,7 +1,6 @@
 ---
 title: Thoughts on Flipping the Classroom
 author: Greg Wilson
-layout: post
 permalink: /2012/10/thoughts-on-flipping-the-classroom/
 categories:
   - Design

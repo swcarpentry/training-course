@@ -1,7 +1,6 @@
 ---
 title: 'Columbia University Recap: Part 2'
 author: Erik Bray
-layout: post
 permalink: /2012/10/columbia-university-recap-part-2/
 categories:
   - Reports

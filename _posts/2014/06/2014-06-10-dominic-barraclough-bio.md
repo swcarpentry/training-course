@@ -1,7 +1,6 @@
 ---
 title: 'Dominic Barraclough &#8211; bio'
 author: Dominic Barraclough
-layout: post
 permalink: /2014/06/dominic-barraclough-bio/
 categories:
   - Biography

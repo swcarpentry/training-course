@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Test driven development of FizzBuzz'
 author: Cliburn Chan
-layout: post
 permalink: /2013/11/screencast-test-driven-development-of-fizzbuzz-2/
 enclosure:
   - |

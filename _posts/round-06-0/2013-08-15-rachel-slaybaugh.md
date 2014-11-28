@@ -1,7 +1,6 @@
 ---
 title: Rachel Slaybaugh
 author: Rachel Slaybaugh
-layout: post
 permalink: /2013/08/rachel-slaybaugh/
 categories:
   - Biography

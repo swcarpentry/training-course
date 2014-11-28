@@ -1,7 +1,6 @@
 ---
 title: About Matt Davis
 author: Matt Davis
-layout: post
 permalink: /2012/08/about-matt-davis/
 categories:
   - Biography

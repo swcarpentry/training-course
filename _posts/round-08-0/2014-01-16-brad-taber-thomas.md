@@ -1,7 +1,6 @@
 ---
 title: Brad Taber-Thomas
 author: Bradley Taber-Thomas
-layout: post
 permalink: /2014/01/brad-taber-thomas/
 categories:
   - Biography

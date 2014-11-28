@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: The new Heat beta service'
 author: Martin Paulo
-layout: post
 permalink: /2014/03/screencast-the-new-heat-beta-service/
 categories:
   - Round 08/4

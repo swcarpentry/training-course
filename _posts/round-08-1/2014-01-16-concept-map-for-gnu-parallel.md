@@ -1,7 +1,6 @@
 ---
 title: Concept map for GNU parallel
 author: Stephen Turner
-layout: post
 permalink: /2014/01/concept-map-for-gnu-parallel/
 categories:
   - Concept Map

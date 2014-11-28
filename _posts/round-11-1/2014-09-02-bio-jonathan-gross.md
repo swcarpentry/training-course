@@ -1,7 +1,6 @@
 ---
 title: Jonathan Gross
 author: Jonathan Gross
-layout: post
 permalink: /2014/09/bio-jonathan-gross/
 categories:
   - Biography

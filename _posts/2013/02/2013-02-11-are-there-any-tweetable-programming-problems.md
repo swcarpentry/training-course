@@ -1,7 +1,6 @@
 ---
 title: Are There Any Tweetable Programming Problems?
 author: Greg Wilson
-layout: post
 permalink: /2013/02/are-there-any-tweetable-programming-problems/
 categories:
   - Content

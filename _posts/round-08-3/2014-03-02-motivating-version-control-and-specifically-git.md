@@ -1,7 +1,6 @@
 ---
 title: Motivating version control (and specifically git)
 author: Jessica Hamrick
-layout: post
 permalink: /2014/03/motivating-version-control-and-specifically-git/
 categories:
   - Motivation

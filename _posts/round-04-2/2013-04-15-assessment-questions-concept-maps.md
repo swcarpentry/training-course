@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Concept Maps'
 author: Stefan van der Walt
-layout: post
 permalink: /2013/04/assessment-questions-concept-maps/
 categories:
   - Proficiency

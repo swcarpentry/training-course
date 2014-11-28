@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: SSH short cut'
 author: Fan
-layout: post
 permalink: /2013/11/screencast-ssh-short-cut/
 categories:
   - Round 07/3

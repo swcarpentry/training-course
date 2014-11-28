@@ -1,7 +1,6 @@
 ---
 title: Michelle Hall
 author: Michelle Hall
-layout: post
 permalink: /2013/10/michelle-hall/
 categories:
   - Biography

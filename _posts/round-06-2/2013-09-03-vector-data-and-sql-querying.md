@@ -1,7 +1,6 @@
 ---
 title: Vector Data and SQL Querying
 author: Jonah Duckles
-layout: post
 permalink: /2013/09/vector-data-and-sql-querying/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Let&#8217;s Take a Look At Ourselves'
 author: Greg Wilson
-layout: post
 permalink: /2012/11/lets-take-a-look-at-ourselves/
 categories:
   - Round 01/5

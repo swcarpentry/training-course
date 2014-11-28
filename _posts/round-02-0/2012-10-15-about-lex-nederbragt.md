@@ -1,7 +1,6 @@
 ---
 title: About Lex Nederbragt
 author: Lex Nederbragt
-layout: post
 permalink: /2012/10/about-lex-nederbragt/
 categories:
   - Biography

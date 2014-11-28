@@ -1,7 +1,6 @@
 ---
 title: About Joon Ro
 author: Joon Ro
-layout: post
 permalink: /2013/01/about-joon-ro/
 categories:
   - Biography

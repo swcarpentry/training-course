@@ -1,7 +1,6 @@
 ---
 title: Concept map for make
 author: Michael Schliephake
-layout: post
 permalink: /2014/04/concept-map-for-make/
 categories:
   - Concept Map

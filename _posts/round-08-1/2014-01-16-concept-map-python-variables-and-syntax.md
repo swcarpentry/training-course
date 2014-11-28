@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Python Variables (and syntax)'
 author: Daniel Chen
-layout: post
 permalink: /2014/01/concept-map-python-variables-and-syntax/
 categories:
   - Concept Map

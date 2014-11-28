@@ -1,7 +1,6 @@
 ---
 title: Leah Wasser
 author: Leah Wasser
-layout: post
 permalink: /2014/04/leah-wasser-2/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Object Oriented Programming'
 author: Leonor Garcia-Gutierrez
-layout: post
 permalink: /2014/06/concept-map-object-oriented-programming/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Screencast:  Python Classes'
 author: Matthew Lightman
-layout: post
 permalink: /2013/09/screencast-python-classes/
 categories:
   - Round 06/3

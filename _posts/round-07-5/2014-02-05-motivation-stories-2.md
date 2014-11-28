@@ -1,7 +1,6 @@
 ---
 title: Motivation stories
 author: Denis Haine
-layout: post
 permalink: /2014/02/motivation-stories-2/
 categories:
   - Motivation

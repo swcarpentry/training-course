@@ -1,7 +1,6 @@
 ---
 title: 'Motivation &#8211; Aron'
 author: Aron Ahmadia
-layout: post
 permalink: /2012/10/motivation-aron/
 categories:
   - Motivation

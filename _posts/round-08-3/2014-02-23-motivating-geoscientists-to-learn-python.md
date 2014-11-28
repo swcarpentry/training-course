@@ -1,7 +1,6 @@
 ---
 title: Motivating geoscientists to learn Python
 author: Matt Hall
-layout: post
 permalink: /2014/02/motivating-geoscientists-to-learn-python/
 categories:
   - Motivation

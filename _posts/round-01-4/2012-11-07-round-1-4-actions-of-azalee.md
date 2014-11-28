@@ -1,7 +1,6 @@
 ---
 title: 'Round 1.4: Actions of + (Azalee)'
 author: Azalee Bostroem
-layout: post
 permalink: /2012/11/round-1-4-actions-of-azalee/
 categories:
   - Lesson

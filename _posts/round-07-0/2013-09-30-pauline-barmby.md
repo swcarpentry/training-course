@@ -1,7 +1,6 @@
 ---
 title: Pauline Barmby
 author: Pauline Barmby
-layout: post
 permalink: /2013/09/pauline-barmby/
 categories:
   - Biography

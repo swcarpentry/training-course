@@ -1,7 +1,6 @@
 ---
 title: Assessment Questions for List Comprehension
 author: Stefan Pfenninger
-layout: post
 permalink: /2014/05/assessment-questions-for-list-comprehension/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Sam Popowich
 author: Sam Popowich
-layout: post
 permalink: /2014/04/biography-sam-popowich/
 categories:
   - Biography

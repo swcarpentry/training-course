@@ -1,7 +1,6 @@
 ---
 title: James Robinson
 author: James Robinson
-layout: post
 permalink: /2014/05/james-robinson/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Juan Nunez-Iglesias
 author: Juan Nunez-Iglesias
-layout: post
 permalink: /2014/09/juan-nunez-iglesias/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: How to demotivate a pupil
 author: Kirill Palamartchouk
-layout: post
 permalink: /2014/10/how-to-demotivate-a-pupil/
 categories:
   - Motivation

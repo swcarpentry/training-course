@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Git – 2. A Better Kind of Backup'
 author: Jonathan Gross
-layout: post
 permalink: /2014/09/concept-map-git-2-a-better-kind-of-backup/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Catalina Anghel'
 author: Catalina Anghel
-layout: post
 permalink: /2014/04/biography-catalina-anghel/
 categories:
   - Biography

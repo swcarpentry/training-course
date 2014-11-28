@@ -1,7 +1,6 @@
 ---
 title: 'Brenna O&#8217;Brien'
 author: "Brenna O'Brien"
-layout: post
 permalink: /2014/01/brenna-obrien/
 categories:
   - Biography

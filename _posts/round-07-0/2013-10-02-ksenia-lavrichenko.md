@@ -1,7 +1,6 @@
 ---
 title: Ksenia Lavrichenko
 author: Ksenia Lavrichenko
-layout: post
 permalink: /2013/10/ksenia-lavrichenko/
 categories:
   - Biography

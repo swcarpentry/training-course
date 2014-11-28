@@ -1,7 +1,6 @@
 ---
 title: Reflections on SWC online course
 author: Julia Gustavsen
-layout: post
 permalink: /2013/06/reflections-on-swc-online-course/
 categories:
   - Round 04/5

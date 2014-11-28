@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Jon Duncan'
 author: Jon Duncan
-layout: post
 permalink: /2014/04/biography-jon-duncan/
 categories:
   - Biography

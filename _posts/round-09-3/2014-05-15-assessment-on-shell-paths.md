@@ -1,7 +1,6 @@
 ---
 title: Assessment on Shell Paths
 author: Jacob Levernier
-layout: post
 permalink: /2014/05/assessment-on-shell-paths/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Motivation stories
 author: David Worth
-layout: post
 permalink: /2014/02/motivation-stories-3/
 categories:
   - Motivation

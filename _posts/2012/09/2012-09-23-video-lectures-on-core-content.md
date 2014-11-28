@@ -1,7 +1,6 @@
 ---
 title: Video Lectures on Core Content
 author: Greg Wilson
-layout: post
 permalink: /2012/09/video-lectures-on-core-content/
 categories:
   - Content

@@ -1,7 +1,6 @@
 ---
 title: Kate Kirby
 author: Kate Kirby
-layout: post
 permalink: /2014/09/kate-kirby/
 categories:
   - Biography

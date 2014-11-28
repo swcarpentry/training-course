@@ -1,7 +1,6 @@
 ---
 title: The One Blog You Have To Read
 author: Greg Wilson
-layout: post
 permalink: /2012/09/the-one-blog-you-have-to-read/
 categories:
   - Community

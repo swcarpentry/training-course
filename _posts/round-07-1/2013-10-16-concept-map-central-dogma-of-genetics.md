@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Central Dogma of Genetics'
 author: Aaron Garoutte
-layout: post
 permalink: /2013/10/concept-map-central-dogma-of-genetics/
 categories:
   - Concept Map

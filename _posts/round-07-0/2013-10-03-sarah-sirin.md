@@ -1,7 +1,6 @@
 ---
 title: Sarah Sirin
 author: Sarah Sirin
-layout: post
 permalink: /2013/10/sarah-sirin/
 categories:
   - Biography

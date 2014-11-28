@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design &#8212; Data extraction and manipulation with awk'
 author: Leonor Garcia-Gutierrez
-layout: post
 permalink: /2014/07/reverse-instructional-design-using-awk/
 categories:
   - Assessment

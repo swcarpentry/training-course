@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: IPython &#8220;run magic&#8221;'
 author: David Jones
-layout: post
 permalink: /2013/11/screencast-some-ipython-features/
 categories:
   - Round 07/3

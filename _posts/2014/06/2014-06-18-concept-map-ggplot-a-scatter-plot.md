@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: ggplot a scatter plot'
 author: Kenny Daily
-layout: post
 permalink: /2014/06/concept-map-ggplot-a-scatter-plot/
 categories:
   - Concept Map

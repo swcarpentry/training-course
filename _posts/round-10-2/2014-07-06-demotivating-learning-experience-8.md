@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Clare Sloggett
-layout: post
 permalink: /2014/07/demotivating-learning-experience-8/
 categories:
   - Motivation

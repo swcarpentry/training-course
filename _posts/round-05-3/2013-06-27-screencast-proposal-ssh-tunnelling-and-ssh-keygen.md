@@ -1,7 +1,6 @@
 ---
 title: 'Screencast Proposal: SSH tunnelling and ssh-keygen'
 author: David Perez-Suarez
-layout: post
 permalink: /2013/06/screencast-proposal-ssh-tunnelling-and-ssh-keygen/
 categories:
   - Round 05/3

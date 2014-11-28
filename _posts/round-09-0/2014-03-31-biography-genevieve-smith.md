@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Geneviève Smith'
 author: Genevieve Smith
-layout: post
 permalink: /2014/03/biography-genevieve-smith/
 categories:
   - Biography

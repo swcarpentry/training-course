@@ -1,7 +1,6 @@
 ---
 title: 'Motivation: The Hero&#8217;s Journey'
 author: Mark Stacy
-layout: post
 permalink: /2014/02/motivation-the-heros-journey/
 categories:
   - Motivation

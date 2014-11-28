@@ -1,7 +1,6 @@
 ---
 title: SWC teaching module wrap-up
 author: Amanda Whitlock
-layout: post
 permalink: /2013/06/swc-teaching-module-wrap-up/
 categories:
   - Round 04/5

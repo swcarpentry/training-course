@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Katy Huff'
 author: Katy Huff
-layout: post
 permalink: /2012/09/mastery-katy-huff/
 categories:
   - Proficiency

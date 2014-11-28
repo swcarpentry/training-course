@@ -1,7 +1,6 @@
 ---
 title: 'Wrap up &#8211; what I learned'
 author: Karin Lagesen
-layout: post
 permalink: /2013/03/wrap-up-what-i-learned/
 categories:
   - Round 02/5

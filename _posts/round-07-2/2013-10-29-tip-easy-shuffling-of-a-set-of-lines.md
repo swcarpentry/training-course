@@ -1,7 +1,6 @@
 ---
 title: 'Tip: easy shuffling of a set of lines'
 author: Remi Emonet
-layout: post
 permalink: /2013/10/tip-easy-shuffling-of-a-set-of-lines/
 categories:
   - Assessment

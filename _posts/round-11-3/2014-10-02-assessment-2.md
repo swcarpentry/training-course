@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Relative paths, absolute paths, and the home directory'
 author: Lauren Michael
-layout: post
 permalink: /2014/10/assessment-2/
 categories:
   - Assessment

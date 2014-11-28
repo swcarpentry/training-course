@@ -1,7 +1,6 @@
 ---
 title: Roberto Vitillo
 author: Roberto Vitillo
-layout: post
 permalink: /2014/09/roberto-vitillo/
 categories:
   - Biography

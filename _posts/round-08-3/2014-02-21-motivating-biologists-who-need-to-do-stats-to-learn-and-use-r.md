@@ -1,7 +1,6 @@
 ---
 title: Motivating biologists who need to do stats to learn and use R
 author: Stephen Turner
-layout: post
 permalink: /2014/02/motivating-biologists-who-need-to-do-stats-to-learn-and-use-r/
 categories:
   - Motivation

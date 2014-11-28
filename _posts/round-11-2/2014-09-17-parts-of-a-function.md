@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Parts of a Function'
 author: Ashwin Srinath
-layout: post
 permalink: /2014/09/parts-of-a-function/
 categories:
   - Concept Map

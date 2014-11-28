@@ -1,7 +1,6 @@
 ---
 title: Preston Holmes
 author: Preston Holmes
-layout: post
 permalink: /2013/05/preston-holmes/
 categories:
   - Biography

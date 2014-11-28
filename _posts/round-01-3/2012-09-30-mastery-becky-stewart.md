@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Becky Stewart'
 author: Becky Stewart
-layout: post
 permalink: /2012/09/mastery-becky-stewart/
 categories:
   - Proficiency

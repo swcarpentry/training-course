@@ -1,7 +1,6 @@
 ---
 title: 'Assessment for Devasena Inupakutiks&#8217;s Shell Paths.'
 author: Padraic Stack
-layout: post
 permalink: /2014/05/assessment-for-devasena-inupakutikss-shell-paths/
 categories:
   - Uncategorized

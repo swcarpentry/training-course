@@ -1,7 +1,6 @@
 ---
 title: 'Final: social git'
 author: David Perez-Suarez
-layout: post
 permalink: /2013/08/final-social-git/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Setting up git'
 author: Padraic Stack
-layout: post
 permalink: /2014/05/concept-map-setting-up-git/
 categories:
   - Concept Map

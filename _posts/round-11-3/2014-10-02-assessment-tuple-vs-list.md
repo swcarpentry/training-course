@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Tuple vs List'
 author: Franz Navarro
-layout: post
 permalink: /2014/10/assessment-tuple-vs-list/
 categories:
   - Assessment

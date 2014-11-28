@@ -1,7 +1,6 @@
 ---
 title: Integer vs. floating point division in Python
 author: Trevor Bekolay
-layout: post
 permalink: /2014/01/integer-vs-floating-point-division-in-python/
 categories:
   - Round 07/4

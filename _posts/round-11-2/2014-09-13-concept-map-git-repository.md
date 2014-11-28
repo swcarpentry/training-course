@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: git repository'
 author: Bennet Fauber
-layout: post
 permalink: /2014/09/concept-map-git-repository/
 categories:
   - Concept Map

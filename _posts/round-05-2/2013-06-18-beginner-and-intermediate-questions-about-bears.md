@@ -1,7 +1,6 @@
 ---
 title: Beginner and Intermediate questions about bears!
 author: Kirsten Fagnan
-layout: post
 permalink: /2013/06/beginner-and-intermediate-questions-about-bears/
 categories:
   - Round 05/2

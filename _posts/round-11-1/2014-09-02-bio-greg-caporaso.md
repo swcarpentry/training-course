@@ -1,7 +1,6 @@
 ---
 title: Greg Caporaso
 author: Greg Caporaso
-layout: post
 permalink: /2014/09/bio-greg-caporaso/
 categories:
   - Biography

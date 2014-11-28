@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Command Line Parameters'
 author: "Steven 'Kreuvf' Koenig"
-layout: post
 permalink: /2013/03/concept-map-command-line-parameters/
 categories:
   - Concept Map

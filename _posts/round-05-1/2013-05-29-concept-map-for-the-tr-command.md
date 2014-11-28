@@ -1,7 +1,6 @@
 ---
 title: Concept map for the tr command
 author: Jordan Fish
-layout: post
 permalink: /2013/05/concept-map-for-the-tr-command/
 categories:
   - Concept Map

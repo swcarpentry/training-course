@@ -1,7 +1,6 @@
 ---
 title: 'Mastery Table: LaTeX'
 author: Amy Brown
-layout: post
 permalink: /2013/02/mastery-table-latex/
 categories:
   - Proficiency

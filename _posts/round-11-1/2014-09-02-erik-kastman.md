@@ -1,7 +1,6 @@
 ---
 title: Erik Kastman
 author: Erik Kastman
-layout: post
 permalink: /2014/09/erik-kastman/
 categories:
   - Biography

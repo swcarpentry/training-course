@@ -1,7 +1,6 @@
 ---
 title: Assessment Questions for Basic Loop Structures
 author: Russell Alleen-Willems
-layout: post
 permalink: /2014/05/assessment-questions-for-basic-loop-structures/
 categories:
   - Assessment

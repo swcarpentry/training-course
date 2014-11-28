@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design &#8211; Pipes and Shell'
 author: Sarah Edwards
-layout: post
 permalink: /2014/07/reverse-instructional-design-pipes-and-shell/
 categories:
   - Assessment

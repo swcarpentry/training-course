@@ -1,7 +1,6 @@
 ---
 title: Multiple choice questions on lists and loops
 author: Luis Figueira
-layout: post
 permalink: /2013/02/multiple-choice-questions-on-lists-and-loops/
 categories:
   - Proficiency

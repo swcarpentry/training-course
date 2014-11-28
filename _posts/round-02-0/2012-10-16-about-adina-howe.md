@@ -1,7 +1,6 @@
 ---
 title: About Adina Howe
 author: Adina Chuang Howe
-layout: post
 permalink: /2012/10/about-adina-howe/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Motivation stories
 author: David Jones
-layout: post
 permalink: /2014/02/motivation-stories/
 categories:
   - Motivation

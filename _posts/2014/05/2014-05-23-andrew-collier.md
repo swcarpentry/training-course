@@ -1,7 +1,6 @@
 ---
 title: Andrew Collier
 author: Andrew
-layout: post
 permalink: /2014/05/andrew-collier/
 categories:
   - Biography

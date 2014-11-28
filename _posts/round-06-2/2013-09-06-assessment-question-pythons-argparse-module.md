@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Question: Python&#8217;s argparse module'
 author: Rachel Anderson
-layout: post
 permalink: /2013/09/assessment-question-pythons-argparse-module/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Python Functions/Debugging/Composition/Calling'
 author: Jay Freeman (saurik)
-layout: post
 permalink: /2014/09/concept-map-python-functionsdebuggingcompositioncalling/
 categories:
   - Concept Map

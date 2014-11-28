@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Java object, class, variables and methods'
 author: Helen Yezerets
-layout: post
 permalink: /2014/01/concept-map-java-object-class-variables-and-methods/
 categories:
   - Concept Map

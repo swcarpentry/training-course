@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Ben, Carlos and Erik (Neon Carrot)'
 author: Ben Waugh
-layout: post
 permalink: /2012/10/mastery-ben-carlos-and-erik-neon-carrot/
 categories:
   - Proficiency

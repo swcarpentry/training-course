@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Win a pizza'
 author: Mark Laufersweiler
-layout: post
 permalink: /2013/08/intro-to-programing-win-a-pizza/
 categories:
   - Concept Map

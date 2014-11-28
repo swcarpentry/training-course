@@ -1,7 +1,6 @@
 ---
 title: François Michonneau
 author: François Michonneau
-layout: post
 permalink: /2014/09/francois-michonneau/
 categories:
   - Biography

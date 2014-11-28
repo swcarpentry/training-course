@@ -1,7 +1,6 @@
 ---
 title: A task-based approach to measuring teaching efficacy
 author: Julia Evans
-layout: post
 permalink: /2013/07/a-task-based-approach-to-measuring-teaching-efficacy/
 categories:
   - Round 05/4

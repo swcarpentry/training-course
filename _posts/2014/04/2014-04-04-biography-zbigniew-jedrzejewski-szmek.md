@@ -1,7 +1,6 @@
 ---
 title: Zbigniew Jędrzejewski-Szmek
 author: Zbigniew Jedrzejewski-Szmek
-layout: post
 permalink: /2014/04/biography-zbigniew-jedrzejewski-szmek/
 categories:
   - Biography

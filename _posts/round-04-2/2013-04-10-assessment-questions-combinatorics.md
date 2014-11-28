@@ -1,7 +1,6 @@
 ---
 title: Assessment Questions – Combinatorics
 author: Will Trimble
-layout: post
 permalink: /2013/04/assessment-questions-combinatorics/
 categories:
   - Proficiency

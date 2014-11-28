@@ -1,7 +1,6 @@
 ---
 title: Motivation/demotivation stories
 author: Remi Emonet
-layout: post
 permalink: /2014/02/motivationdemotivation-stories/
 categories:
   - Motivation

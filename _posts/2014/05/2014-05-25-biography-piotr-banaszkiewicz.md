@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Piotr Banaszkiewicz'
 author: Piotr Banaszkiewicz
-layout: post
 permalink: /2014/05/biography-piotr-banaszkiewicz/
 categories:
   - Biography

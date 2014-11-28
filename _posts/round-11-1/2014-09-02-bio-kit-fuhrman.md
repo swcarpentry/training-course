@@ -1,7 +1,6 @@
 ---
 title: Kit Fuhrman
 author: Kit Fuhrman
-layout: post
 permalink: /2014/09/bio-kit-fuhrman/
 categories:
   - Biography

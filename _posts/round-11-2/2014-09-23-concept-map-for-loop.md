@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; For Loop'
 author: Dureid El-Moghraby
-layout: post
 permalink: /2014/09/concept-map-for-loop/
 categories:
   - Concept Map

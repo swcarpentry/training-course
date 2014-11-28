@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Christian Jacobs'
 author: Christian Jacobs
-layout: post
 permalink: /2014/03/biography-christian-jacobs/
 categories:
   - Biography

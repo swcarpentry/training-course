@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Conditional Statements'
 author: Sheldon McKay
-layout: post
 permalink: /2014/01/concept-map-conditional-statements/
 categories:
   - Concept Map

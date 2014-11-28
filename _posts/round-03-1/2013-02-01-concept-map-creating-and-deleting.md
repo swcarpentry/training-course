@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Creating and Deleting'
 author: Nancy Giang
-layout: post
 permalink: /2013/02/concept-map-creating-and-deleting/
 categories:
   - Concept Map

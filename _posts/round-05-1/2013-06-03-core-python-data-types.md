@@ -1,7 +1,6 @@
 ---
 title: Core Python data types
 author: Luke Lee
-layout: post
 permalink: /2013/06/core-python-data-types/
 categories:
   - Concept Map

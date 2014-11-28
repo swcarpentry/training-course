@@ -1,7 +1,6 @@
 ---
 title: Motivation and Demotivation
 author: Scott Chamberlain
-layout: post
 permalink: /2014/02/motivation-and-demotivation-2/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Identifying Expertise: LaTeX'
 author: Kirsten Robinson
-layout: post
 permalink: /2013/03/identifying-expertise-latex/
 categories:
   - Proficiency

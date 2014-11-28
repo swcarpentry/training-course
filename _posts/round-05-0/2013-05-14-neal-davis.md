@@ -1,7 +1,6 @@
 ---
 title: Neal Davis
 author: Neal Davis
-layout: post
 permalink: /2013/05/neal-davis/
 categories:
   - Biography

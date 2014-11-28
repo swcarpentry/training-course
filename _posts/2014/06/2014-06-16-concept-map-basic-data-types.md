@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Basic Data Types'
 author: Joseph Viviano
-layout: post
 permalink: /2014/06/concept-map-basic-data-types/
 categories:
   - Uncategorized

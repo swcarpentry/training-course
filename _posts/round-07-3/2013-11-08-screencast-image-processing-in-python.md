@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Image Processing in Python (now with video)'
 author: John Corless
-layout: post
 permalink: /2013/11/screencast-image-processing-in-python/
 categories:
   - Round 07/3

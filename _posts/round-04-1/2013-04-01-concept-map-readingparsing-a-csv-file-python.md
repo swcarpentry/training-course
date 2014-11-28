@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Reading/Parsing a CSV File (Python)'
 author: Patrick Marsh
-layout: post
 permalink: /2013/04/concept-map-readingparsing-a-csv-file-python/
 categories:
   - Concept Map

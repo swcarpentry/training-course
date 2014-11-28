@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Creating your own python functions'
 author: Julian Garcia
-layout: post
 permalink: /2013/08/concept-map-creating-your-own-python-functions/
 categories:
   - Concept Map

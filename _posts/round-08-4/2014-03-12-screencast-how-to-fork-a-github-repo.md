@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: How to Fork A GitHub Repo'
 author: "Brenna O'Brien"
-layout: post
 permalink: /2014/03/screencast-how-to-fork-a-github-repo/
 categories:
   - Round 08/4

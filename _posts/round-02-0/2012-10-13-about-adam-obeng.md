@@ -1,7 +1,6 @@
 ---
 title: About Adam Obeng
 author: Adam Obeng
-layout: post
 permalink: /2012/10/about-adam-obeng/
 categories:
   - Biography

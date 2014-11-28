@@ -1,7 +1,6 @@
 ---
 title: 'Unix shell: Creating things assessment'
 author: Carl Boettiger
-layout: post
 permalink: /2014/09/unix-shell-creating-things-assessment/
 categories:
   - Assessment

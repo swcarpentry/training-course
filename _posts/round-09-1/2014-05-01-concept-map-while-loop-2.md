@@ -1,7 +1,6 @@
 ---
 title: 'concept map: while loop'
 author: Stefan Pfenninger
-layout: post
 permalink: /2014/05/concept-map-while-loop-2/
 categories:
   - Concept Map

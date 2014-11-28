@@ -1,7 +1,6 @@
 ---
 title: Isabelle Laforest
 author: Isabelle Laforest
-layout: post
 permalink: /2014/09/bio-isabelle-laforest/
 categories:
   - Biography

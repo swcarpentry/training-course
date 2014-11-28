@@ -1,7 +1,6 @@
 ---
 title: Concept Map – How awk works
 author: Yu-Ching Shih
-layout: post
 permalink: /2014/05/concept-map-how-awk-works/
 categories:
   - Concept Map

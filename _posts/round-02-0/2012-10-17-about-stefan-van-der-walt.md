@@ -1,7 +1,6 @@
 ---
 title: About Stéfan van der Walt
 author: Stefan van der Walt
-layout: post
 permalink: /2012/10/about-stefan-van-der-walt/
 categories:
   - Biography

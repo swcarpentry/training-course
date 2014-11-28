@@ -1,7 +1,6 @@
 ---
 title: About Dan McCloy
 author: Daniel McCloy
-layout: post
 permalink: /2013/03/about-dan-mccloy/
 categories:
   - Biography

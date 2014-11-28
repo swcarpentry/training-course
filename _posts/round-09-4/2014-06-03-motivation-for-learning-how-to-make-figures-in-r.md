@@ -1,7 +1,6 @@
 ---
 title: motivation for learning how to make figures in R
 author: Genevieve Smith
-layout: post
 permalink: /2014/06/motivation-for-learning-how-to-make-figures-in-r/
 categories:
   - Motivation

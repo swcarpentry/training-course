@@ -1,7 +1,6 @@
 ---
 title: Study Group 1 Wrap Up
 author: Katy Huff
-layout: post
 permalink: /2012/12/study-group-1-wrap-up/
 categories:
   - Meta

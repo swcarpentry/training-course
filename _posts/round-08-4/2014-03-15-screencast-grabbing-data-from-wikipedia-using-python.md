@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Grabbing data from Wikipedia using Python'
 author: Matt Hall
-layout: post
 permalink: /2014/03/screencast-grabbing-data-from-wikipedia-using-python/
 categories:
   - Round 08/4

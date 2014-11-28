@@ -1,7 +1,6 @@
 ---
 title: About Jessica McKellar
 author: Jessica McKellar
-layout: post
 permalink: /2012/10/about-jessica-mckellar/
 categories:
   - Biography

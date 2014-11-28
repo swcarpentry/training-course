@@ -1,7 +1,6 @@
 ---
 title: Claudia Octaviano
 author: Claudia Octaviano
-layout: post
 permalink: /2013/10/claudia-octaviano/
 categories:
   - Biography

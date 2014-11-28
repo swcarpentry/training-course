@@ -1,7 +1,6 @@
 ---
 title: Assessment Questions for Regular Expressions
 author: Jeremiah Lant
-layout: post
 permalink: /2014/05/assessment-questions-for-regular-expressions/
 categories:
   - Assessment

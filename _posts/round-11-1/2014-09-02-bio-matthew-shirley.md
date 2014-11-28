@@ -1,7 +1,6 @@
 ---
 title: Matthew Shirley
 author: Matthew Shirley
-layout: post
 permalink: /2014/09/bio-matthew-shirley/
 categories:
   - Biography

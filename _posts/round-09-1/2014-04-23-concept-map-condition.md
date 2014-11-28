@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Condition'
 author: Aur Saraf
-layout: post
 permalink: /2014/04/concept-map-condition/
 categories:
   - Concept Map

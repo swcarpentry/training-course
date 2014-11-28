@@ -1,7 +1,6 @@
 ---
 title: Kirsten Fagnan
 author: Kirsten Fagnan
-layout: post
 permalink: /2013/05/kirsten-fagnan/
 categories:
   - Biography

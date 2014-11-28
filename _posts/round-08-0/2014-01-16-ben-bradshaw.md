@@ -1,7 +1,6 @@
 ---
 title: Ben Bradshaw
 author: Benjamin Bradshaw
-layout: post
 permalink: /2014/01/ben-bradshaw/
 categories:
   - Biography

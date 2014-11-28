@@ -1,7 +1,6 @@
 ---
 title: Bennet Fauber
 author: Bennet Fauber
-layout: post
 permalink: /2014/09/bennet-fauber/
 categories:
   - Biography

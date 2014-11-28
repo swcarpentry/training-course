@@ -1,7 +1,6 @@
 ---
 title: 'Assessment exercise: Git'
 author: Radovan Bast
-layout: post
 permalink: /2014/09/assessment-exercise-git/
 categories:
   - Assessment

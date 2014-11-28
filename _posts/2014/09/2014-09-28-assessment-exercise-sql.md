@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Exercise: SQL'
 author: Roberto Vitillo
-layout: post
 permalink: /2014/09/assessment-exercise-sql/
 categories:
   - Assessment

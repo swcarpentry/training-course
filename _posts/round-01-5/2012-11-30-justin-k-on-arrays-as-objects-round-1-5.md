@@ -1,7 +1,6 @@
 ---
 title: 'Justin K on Arrays as Objects &#8211; Round 1.5'
 author: Justin Kitzes
-layout: post
 permalink: /2012/11/justin-k-on-arrays-as-objects-round-1-5/
 categories:
   - Round 01/5

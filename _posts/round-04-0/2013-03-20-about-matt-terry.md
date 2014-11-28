@@ -1,7 +1,6 @@
 ---
 title: About Matt Terry
 author: Matt Terry
-layout: post
 permalink: /2013/03/about-matt-terry/
 categories:
   - Biography

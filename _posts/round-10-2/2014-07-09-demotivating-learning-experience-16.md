@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Luiz Irber
-layout: post
 permalink: /2014/07/demotivating-learning-experience-16/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: Asela Wijeratne
 author: Asela Wijeratne
-layout: post
 permalink: /2013/10/asela-wijeratne/
 categories:
   - Biography

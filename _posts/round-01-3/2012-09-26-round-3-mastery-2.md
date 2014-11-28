@@ -1,7 +1,6 @@
 ---
 title: 'Round 3: Mastery'
 author: Lynne Williams
-layout: post
 permalink: /2012/09/round-3-mastery-2/
 categories:
   - Proficiency

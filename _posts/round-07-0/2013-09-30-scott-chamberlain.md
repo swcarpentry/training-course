@@ -1,7 +1,6 @@
 ---
 title: Scott Chamberlain
 author: Scott Chamberlain
-layout: post
 permalink: /2013/09/scott-chamberlain/
 categories:
   - Biography

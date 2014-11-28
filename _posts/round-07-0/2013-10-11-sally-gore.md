@@ -1,7 +1,6 @@
 ---
 title: Sally Gore
 author: Sally Gore
-layout: post
 permalink: /2013/10/sally-gore/
 categories:
   - Biography

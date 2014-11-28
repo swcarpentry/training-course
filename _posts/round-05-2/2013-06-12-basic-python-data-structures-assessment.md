@@ -1,7 +1,6 @@
 ---
 title: Basic Python data structures assessment
 author: Philipp Bayer
-layout: post
 permalink: /2013/06/basic-python-data-structures-assessment/
 categories:
   - Proficiency

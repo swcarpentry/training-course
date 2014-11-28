@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Using Databases, 3. Filtering'
 author: Ruth Collings
-layout: post
 permalink: /2014/10/assessment-using-databases-3-filtering/
 categories:
   - Assessment

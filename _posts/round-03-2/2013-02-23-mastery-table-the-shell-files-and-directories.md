@@ -1,7 +1,6 @@
 ---
 title: 'Mastery Table: The Shell: Files and Directories'
 author: Geoff Oxberry
-layout: post
 permalink: /2013/02/mastery-table-the-shell-files-and-directories/
 categories:
   - Proficiency

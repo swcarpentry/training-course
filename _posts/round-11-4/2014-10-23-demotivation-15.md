@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: David Pugh
-layout: post
 permalink: /2014/10/demotivation-15/
 categories:
   - Motivation

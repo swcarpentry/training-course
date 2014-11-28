@@ -1,7 +1,6 @@
 ---
 title: Discouragement story
 author: Maneesha Sane
-layout: post
 permalink: /2014/10/discouragement-story/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: Jay Freeman (saurik)
 author: Jay Freeman (saurik)
-layout: post
 permalink: /2014/09/jay-freeman/
 categories:
   - Biography

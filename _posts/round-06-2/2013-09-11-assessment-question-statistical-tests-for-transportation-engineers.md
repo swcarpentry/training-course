@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Question: Statistical Tests for Transportation Engineers'
 author: Nicolas Saunier
-layout: post
 permalink: /2013/09/assessment-question-statistical-tests-for-transportation-engineers/
 categories:
   - Assessment

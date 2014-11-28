@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Finding Things'
 author: Logan Cox
-layout: post
 permalink: /2014/09/concept-map-finding-things-2/
 categories:
   - Concept Map

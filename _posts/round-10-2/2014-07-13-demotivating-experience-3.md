@@ -1,7 +1,6 @@
 ---
 title: Demotivating Experience
 author: Francisco Palm
-layout: post
 permalink: /2014/07/demotivating-experience-3/
 categories:
   - Biography

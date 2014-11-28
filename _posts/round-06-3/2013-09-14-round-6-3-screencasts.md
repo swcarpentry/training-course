@@ -1,7 +1,6 @@
 ---
 title: 'Round 6.3: Screencasts'
 author: Greg Wilson
-layout: post
 permalink: /2013/09/round-6-3-screencasts/
 categories:
   - Round 06/3

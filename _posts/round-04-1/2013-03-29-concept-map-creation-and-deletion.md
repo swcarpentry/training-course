@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; creation and deletion'
 author: April Wright
-layout: post
 permalink: /2013/03/concept-map-creation-and-deletion/
 categories:
   - Concept Map

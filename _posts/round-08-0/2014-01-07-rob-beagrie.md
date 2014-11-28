@@ -1,7 +1,6 @@
 ---
 title: Rob Beagrie
 author: Robert Beagrie
-layout: post
 permalink: /2014/01/rob-beagrie/
 categories:
   - Biography

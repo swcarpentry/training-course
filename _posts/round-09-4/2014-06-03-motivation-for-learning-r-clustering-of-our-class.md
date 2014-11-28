@@ -1,7 +1,6 @@
 ---
 title: 'Motivation for learning R: clustering of our class'
 author: Catalina Anghel
-layout: post
 permalink: /2014/06/motivation-for-learning-r-clustering-of-our-class/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: Michael R. Crusoe
 author: Michael Crusoe
-layout: post
 permalink: /2013/08/michael-r-crusoe/
 categories:
   - Biography

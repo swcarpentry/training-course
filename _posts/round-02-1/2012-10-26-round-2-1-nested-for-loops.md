@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.1 &#8211; nested for loops'
 author: Lex Nederbragt
-layout: post
 permalink: /2012/10/round-2-1-nested-for-loops/
 categories:
   - Concept Map

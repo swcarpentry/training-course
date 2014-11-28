@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: SQL'
 author: Roberto Vitillo
-layout: post
 permalink: /2014/09/concept-map-sql/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: An Overview and Some Concept Maps
 author: Greg Wilson
-layout: post
 permalink: /2014/01/an-overview-and-some-concept-maps/
 categories:
   - Concept Map

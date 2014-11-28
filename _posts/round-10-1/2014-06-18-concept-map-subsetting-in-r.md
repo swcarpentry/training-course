@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Subsetting in R'
 author: Chelsea Chisholm
-layout: post
 permalink: /2014/06/concept-map-subsetting-in-r/
 categories:
   - Concept Map

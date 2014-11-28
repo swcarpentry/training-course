@@ -1,7 +1,6 @@
 ---
 title: 'Week 1: returning versus printing'
 author: Jessica McKellar
-layout: post
 permalink: /2012/10/week-1-returning-versus-printing/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Luiz Irber
 author: Luiz Irber
-layout: post
 permalink: /2014/06/luiz-irber/
 categories:
   - Biography

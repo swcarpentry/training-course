@@ -1,7 +1,6 @@
 ---
 title: Jennie Rose Halperin
 author: Jennie Halperin
-layout: post
 permalink: /2014/04/jennie-rose-halperin/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: '2.4 Multiple choice questions &#8211; unix and python'
 author: Karin Lagesen
-layout: post
 permalink: /2013/02/2-4-multiple-choice-questions-unix-and-python/
 categories:
   - Proficiency

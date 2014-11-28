@@ -1,7 +1,6 @@
 ---
 title: Demotivating experience
 author: Dominic Barraclough
-layout: post
 permalink: /2014/07/demotivating-experience-2/
 categories:
   - Motivation

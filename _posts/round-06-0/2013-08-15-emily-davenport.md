@@ -1,7 +1,6 @@
 ---
 title: Emily Davenport
 author: Emily Davenport
-layout: post
 permalink: /2013/08/emily-davenport/
 categories:
   - Biography

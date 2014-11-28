@@ -1,7 +1,6 @@
 ---
 title: Concept Map for Image Loading
 author: Luis Pedro Coelho
-layout: post
 permalink: /2013/10/concept-map-for-image-loading/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Natalie Robinson
 author: Natalie Robinson
-layout: post
 permalink: /2014/04/natalie-robinson/
 categories:
   - Biography

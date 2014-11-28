@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Russell Alleen-Willems'
 author: Russell Alleen-Willems
-layout: post
 permalink: /2014/04/biography-russell-alleen-willems/
 categories:
   - Biography

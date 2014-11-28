@@ -1,7 +1,6 @@
 ---
 title: 'Concept map:  Functional progamming'
 author: Neal Davis
-layout: post
 permalink: /2013/05/concept-map-functional-progamming/
 categories:
   - Concept Map

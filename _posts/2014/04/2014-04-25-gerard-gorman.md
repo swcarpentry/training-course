@@ -1,7 +1,6 @@
 ---
 title: Gerard Gorman
 author: Gerard Gorman
-layout: post
 permalink: /2014/04/gerard-gorman/
 categories:
   - Biography

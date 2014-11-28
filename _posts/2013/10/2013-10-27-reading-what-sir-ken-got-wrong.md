@@ -1,7 +1,6 @@
 ---
 title: 'Reading &#8220;What Sir Ken Got Wrong&#8221;'
 author: Greg Wilson
-layout: post
 permalink: /2013/10/reading-what-sir-ken-got-wrong/
 categories:
   - Noticed

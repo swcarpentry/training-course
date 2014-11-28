@@ -1,7 +1,6 @@
 ---
 title: Cait Pickens on the Scripps Institute Boot Camp
 author: Greg Wilson
-layout: post
 permalink: /2012/11/cait-pickens-on-the-scripps-institute-boot-camp/
 categories:
   - Teaching

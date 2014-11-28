@@ -1,7 +1,6 @@
 ---
 title: Dana Ouellette
 author: Dana Ouellette
-layout: post
 permalink: /2014/04/biography-dana-ouellette/
 categories:
   - Biography

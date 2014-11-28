@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Using Assertions'
 author: Anthony Harrison
-layout: post
 permalink: /2014/10/assessment-using-assertions/
 categories:
   - Assessment

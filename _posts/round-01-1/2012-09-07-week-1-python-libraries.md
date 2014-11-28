@@ -1,7 +1,6 @@
 ---
 title: 'Week 1 &#8211; Python: Libraries'
 author: Sarah Supp
-layout: post
 permalink: /2012/09/week-1-python-libraries/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: defensive programming'
 author: David Pugh
-layout: post
 permalink: /2014/09/concept-map-defensive-programming/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Amanda&#8217;s teaching feedback'
 author: Amanda Whitlock
-layout: post
 permalink: /2013/06/amandas-teaching-feedback/
 categories:
   - Round 04/5

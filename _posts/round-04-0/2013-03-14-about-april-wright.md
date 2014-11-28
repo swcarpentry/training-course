@@ -1,7 +1,6 @@
 ---
 title: About April Wright
 author: April Wright
-layout: post
 permalink: /2013/03/about-april-wright/
 categories:
   - Biography

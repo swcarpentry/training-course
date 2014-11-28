@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Batch data processing script'
 author: Bradley Taber-Thomas
-layout: post
 permalink: /2014/01/concept-map-batch-data-processing-script/
 categories:
   - Concept Map

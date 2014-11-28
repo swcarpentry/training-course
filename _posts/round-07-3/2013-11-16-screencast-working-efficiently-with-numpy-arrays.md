@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Working efficiently with numpy arrays'
 author: Joshua Adelman
-layout: post
 permalink: /2013/11/screencast-working-efficiently-with-numpy-arrays/
 categories:
   - Round 07/3

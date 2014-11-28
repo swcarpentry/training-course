@@ -1,7 +1,6 @@
 ---
 title: Diego Barneche
 author: Diego Barneche
-layout: post
 permalink: /2013/03/diego-barneche/
 categories:
   - Biography

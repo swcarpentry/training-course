@@ -1,7 +1,6 @@
 ---
 title: 'Matt on Array Math &#8211; Round 1.5'
 author: Matt Davis
-layout: post
 permalink: /2012/11/matt-on-array-math-round-1-5/
 categories:
   - Round 01/5

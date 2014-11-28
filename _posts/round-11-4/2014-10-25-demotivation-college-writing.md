@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: College Writing'
 author: Matthew Aiello-Lammens
-layout: post
 permalink: /2014/10/demotivation-college-writing/
 categories:
   - Motivation

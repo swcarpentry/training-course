@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Justin K'
 author: Justin Kitzes
-layout: post
 permalink: /2012/09/mastery-justin/
 categories:
   - Proficiency

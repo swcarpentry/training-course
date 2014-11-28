@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: What is a program?'
 author: Robert Beagrie
-layout: post
 permalink: /2014/01/concept-map-what-is-a-program/
 categories:
   - Concept Map

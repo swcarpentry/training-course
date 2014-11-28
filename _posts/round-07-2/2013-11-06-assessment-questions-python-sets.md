@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Python Sets'
 author: Sean Dawson
-layout: post
 permalink: /2013/11/assessment-questions-python-sets/
 categories:
   - Assessment

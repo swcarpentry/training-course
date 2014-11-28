@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Katy, Justin K &#038; Lynne (Atomic Tangerine)'
 author: Justin Kitzes
-layout: post
 permalink: /2012/10/mastery-atomic-tangerine/
 categories:
   - Proficiency

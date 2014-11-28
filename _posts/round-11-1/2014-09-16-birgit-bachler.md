@@ -1,7 +1,6 @@
 ---
 title: Birgit Bachler
 author: Birgit Bachler
-layout: post
 permalink: /2014/09/birgit-bachler/
 categories:
   - Biography

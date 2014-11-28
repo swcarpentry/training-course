@@ -1,7 +1,6 @@
 ---
 title: 'Motivational video: SQL'
 author: Tim McNamara
-layout: post
 permalink: /2014/06/motivational-video-sql/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: DOM Events'
 author: Margaret Leibovic
-layout: post
 permalink: /2013/10/concept-map-dom-events/
 categories:
   - Concept Map

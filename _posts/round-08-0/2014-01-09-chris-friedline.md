@@ -1,7 +1,6 @@
 ---
 title: Chris Friedline
 author: Chris Friedline
-layout: post
 permalink: /2014/01/chris-friedline/
 categories:
   - Biography

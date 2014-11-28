@@ -1,7 +1,6 @@
 ---
 title: Goals and Key Points Page
 author: Greg Wilson
-layout: post
 permalink: /2012/10/goals-and-key-points-page/
 categories:
   - Curriculum

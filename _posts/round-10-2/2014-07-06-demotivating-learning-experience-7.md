@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Daisie Huang
-layout: post
 permalink: /2014/07/demotivating-learning-experience-7/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map : Data structure in R'
 author: Ahmadou Dicko
-layout: post
 permalink: /2014/04/concept-map-data-structure-in-r/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Kate Hertweck
 author: Kate Hertweck
-layout: post
 permalink: /2014/09/bio-kate-hertweck/
 categories:
   - Biography

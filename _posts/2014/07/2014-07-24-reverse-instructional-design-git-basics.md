@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design- Git Basics'
 author: Scott Talafuse
-layout: post
 permalink: /2014/07/reverse-instructional-design-git-basics/
 categories:
   - Uncategorized

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: File Permissions'
 author: Gayathri Swaminathan
-layout: post
 permalink: /2013/08/concept-map-file-permissions-2/
 categories:
   - Concept Map

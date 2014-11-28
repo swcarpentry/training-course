@@ -1,7 +1,6 @@
 ---
 title: 'Motivating Students &#8211; Soft Touch and Hard Touch'
 author: James Harmon
-layout: post
 permalink: /2014/02/motivating-students-soft-touch-and-hard-touch/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Screencast &#8211; Reading a CSV using pandas &#038; IPython Notebook'
 author: Julia Evans
-layout: post
 permalink: /2013/07/screencast-reading-a-csv-using-pandas-ipython-notebook/
 categories:
   - Round 05/3

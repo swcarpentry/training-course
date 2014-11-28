@@ -1,7 +1,6 @@
 ---
 title: About Carlos Anderson
 author: Carlos Anderson
-layout: post
 permalink: /2012/09/about-carlos-anderson/
 categories:
   - Biography

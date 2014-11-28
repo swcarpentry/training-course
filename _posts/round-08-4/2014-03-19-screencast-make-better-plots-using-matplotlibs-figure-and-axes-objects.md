@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Make better plots using Matplotlib&#8217;s Figure and Axes objects'
 author: Evan Bianco
-layout: post
 permalink: /2014/03/screencast-make-better-plots-using-matplotlibs-figure-and-axes-objects/
 categories:
   - Round 08/4

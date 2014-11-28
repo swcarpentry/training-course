@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: How to manage .bib files in a central location for TeXLive with Mendeley'
 author: Joon Ro
-layout: post
 permalink: /2014/03/screencast-how-to-manage-bib-files-in-a-central-location-for-texlive-with-mendeley/
 categories:
   - Round 08/4

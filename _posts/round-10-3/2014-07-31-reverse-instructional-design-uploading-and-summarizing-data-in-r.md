@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design: Uploading and Summarizing Data in R'
 author: Chelsea Chisholm
-layout: post
 permalink: /2014/07/reverse-instructional-design-uploading-and-summarizing-data-in-r/
 categories:
   - Assessment

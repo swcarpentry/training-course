@@ -1,7 +1,6 @@
 ---
 title: Concept Map Round 8.1
 author: ablackpz
-layout: post
 permalink: /2014/01/concept-map-round-8-1/
 categories:
   - Concept Map

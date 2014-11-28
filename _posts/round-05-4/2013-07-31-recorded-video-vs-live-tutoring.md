@@ -1,7 +1,6 @@
 ---
 title: recorded video vs live tutoring
 author: Martin Schilling
-layout: post
 permalink: /2013/07/recorded-video-vs-live-tutoring/
 categories:
   - Round 05/4

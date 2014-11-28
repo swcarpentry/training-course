@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Paulina Lach
-layout: post
 permalink: /2014/07/demotivating-learning-experience-15/
 categories:
   - Motivation

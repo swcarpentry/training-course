@@ -1,7 +1,6 @@
 ---
 title: 'Concept map &#8211; organizing computational projects'
 author: Dana Brunson
-layout: post
 permalink: /2014/02/concept-map-organizing-computational-projects/
 categories:
   - Concept Map

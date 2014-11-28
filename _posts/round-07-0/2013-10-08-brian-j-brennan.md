@@ -1,7 +1,6 @@
 ---
 title: Brian J Brennan
 author: Brian Brennan
-layout: post
 permalink: /2013/10/brian-j-brennan/
 categories:
   - Biography

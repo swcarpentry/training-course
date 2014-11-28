@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice assessment: Pipe&#038;Redirect comprehension'
 author: Yuxi Luo
-layout: post
 permalink: /2013/06/multiple-choice-assessment-piperedirect-comprehension/
 categories:
   - Proficiency

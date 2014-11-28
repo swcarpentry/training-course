@@ -1,7 +1,6 @@
 ---
 title: 'Week 1 &#8211; The Shell: Finding Things'
 author: Michael Hansen
-layout: post
 permalink: /2012/09/week-1-the-shell-finding-things/
 categories:
   - Concept Map

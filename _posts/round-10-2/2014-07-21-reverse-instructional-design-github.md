@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design &#8211; GitHub'
 author: Jane Lewis
-layout: post
 permalink: /2014/07/reverse-instructional-design-github/
 categories:
   - Assessment

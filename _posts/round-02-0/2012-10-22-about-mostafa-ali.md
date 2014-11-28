@@ -1,7 +1,6 @@
 ---
 title: About Mostafa Ali
 author: Mostafa Ali
-layout: post
 permalink: /2012/10/about-mostafa-ali/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Round 6.1: Concept Maps'
 author: Greg Wilson
-layout: post
 permalink: /2013/08/round-6-1-concept-maps/
 categories:
   - Concept Map

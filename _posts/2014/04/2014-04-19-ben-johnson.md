@@ -1,7 +1,6 @@
 ---
 title: Ben Johnson
 author: Ben Johnson
-layout: post
 permalink: /2014/04/ben-johnson/
 categories:
   - Biography

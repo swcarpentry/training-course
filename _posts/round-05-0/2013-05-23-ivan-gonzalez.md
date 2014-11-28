@@ -1,7 +1,6 @@
 ---
 title: Ivan Gonzalez
 author: Ivan Gonzalez
-layout: post
 permalink: /2013/05/ivan-gonzalez/
 categories:
   - Biography

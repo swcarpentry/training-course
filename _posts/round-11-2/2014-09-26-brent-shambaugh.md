@@ -1,7 +1,6 @@
 ---
 title: Brent Shambaugh
 author: Brent Shambaugh
-layout: post
 permalink: /2014/09/brent-shambaugh/
 categories:
   - Biography

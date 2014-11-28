@@ -1,7 +1,6 @@
 ---
 title: Matt Burton
 author: Matt Burton
-layout: post
 permalink: /2014/04/matt-burton/
 categories:
   - Biography

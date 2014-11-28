@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Pipes and Filters'
 author: Kirsten Robinson
-layout: post
 permalink: /2013/01/concept-map-pipes-and-filters/
 categories:
   - Concept Map

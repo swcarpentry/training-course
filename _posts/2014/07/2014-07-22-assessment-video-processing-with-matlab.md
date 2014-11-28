@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; Video processing with matlab'
 author: Tom
-layout: post
 permalink: /2014/07/assessment-video-processing-with-matlab/
 categories:
   - Uncategorized

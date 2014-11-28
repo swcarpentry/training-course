@@ -1,7 +1,6 @@
 ---
 title: 'Reverse instructional design: mutable vs immutable parameters'
 author: Dominic Barraclough
-layout: post
 permalink: /2014/07/reverse-instructional-design-mutable-vs-immutable-parameters/
 categories:
   - Round 10/3

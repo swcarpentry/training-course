@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Question: Sequence variation'
 author: Joshua Herr
-layout: post
 permalink: /2013/09/assessment-question-sequence-variation/
 categories:
   - Assessment

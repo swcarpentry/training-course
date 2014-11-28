@@ -1,7 +1,6 @@
 ---
 title: Multiple Choice Questions
 author: Stephen McGough
-layout: post
 permalink: /2013/02/multiple-choice-questions-3/
 categories:
   - Proficiency

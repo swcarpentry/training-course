@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Question: Python functions'
 author: Cliburn Chan
-layout: post
 permalink: /2013/09/assessment-question-python-functions/
 categories:
   - Assessment

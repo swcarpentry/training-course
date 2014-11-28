@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: Biological science'
 author: Jeremy Metz
-layout: post
 permalink: /2014/10/demotivation-biological-science/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Unix Permissions'
 author: Melissa Santos
-layout: post
 permalink: /2013/10/concept-map-unix-permissions/
 categories:
   - Concept Map

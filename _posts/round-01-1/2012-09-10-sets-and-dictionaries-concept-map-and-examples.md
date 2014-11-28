@@ -1,7 +1,6 @@
 ---
 title: 'Sets and Dictionaries: Concept Map and Examples'
 author: Azalee Bostroem
-layout: post
 permalink: /2012/09/sets-and-dictionaries-concept-map-and-examples/
 categories:
   - Concept Map

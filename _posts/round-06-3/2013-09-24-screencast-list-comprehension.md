@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: List Comprehension'
 author: Leszek Tarkowski
-layout: post
 permalink: /2013/09/screencast-list-comprehension/
 categories:
   - Round 06/3

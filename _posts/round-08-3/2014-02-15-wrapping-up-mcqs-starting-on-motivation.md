@@ -1,7 +1,6 @@
 ---
 title: Wrapping Up MCQs, Starting on Motivation
 author: Greg Wilson
-layout: post
 permalink: /2014/02/wrapping-up-mcqs-starting-on-motivation/
 categories:
   - Assessment

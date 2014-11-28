@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Unix redirection and pipes'
 author: Ramalingam Saravanan
-layout: post
 permalink: /2014/09/concept-map-unix-redirection-and-pipes/
 categories:
   - Concept Map

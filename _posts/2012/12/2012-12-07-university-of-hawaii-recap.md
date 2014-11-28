@@ -1,7 +1,6 @@
 ---
 title: University of Hawaii Recap
 author: Erik Bray
-layout: post
 permalink: /2012/12/university-of-hawaii-recap/
 categories:
   - Reports

@@ -1,7 +1,6 @@
 ---
 title: 'Screencast proposal: Editing a table to clearly tell a story'
 author: Ted Kirkpatrick
-layout: post
 permalink: /2013/06/screencast-proposal-editing-a-table-to-clearly-tell-a-story/
 categories:
   - Round 05/3

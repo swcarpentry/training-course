@@ -1,7 +1,6 @@
 ---
 title: Roman Valls Guimera
 author: Roman Valls
-layout: post
 permalink: /2014/09/roman-valls-guimera/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Installing Perl modules'
 author: Gayathri Swaminathan
-layout: post
 permalink: /2013/09/screencast-installing-perl-modules/
 categories:
   - Round 06/3

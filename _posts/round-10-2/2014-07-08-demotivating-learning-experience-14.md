@@ -1,7 +1,6 @@
 ---
 title: Demotivating Learning Experience (x2)
 author: Leonor Garcia-Gutierrez
-layout: post
 permalink: /2014/07/demotivating-learning-experience-14/
 categories:
   - Motivation

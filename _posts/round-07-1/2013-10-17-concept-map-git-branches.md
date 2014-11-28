@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Git branches'
 author: Trevor Bekolay
-layout: post
 permalink: /2013/10/concept-map-git-branches/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Evaluation on The Unix Shell/ Creating Things
 author: Alif
-layout: post
 permalink: /2014/10/evaluation-on-the-unix-shell-creating-things/
 categories:
   - Assessment

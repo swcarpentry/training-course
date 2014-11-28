@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: The Shell.'
 author: Andy Teucher
-layout: post
 permalink: /2014/10/assessment-the-shell/
 categories:
   - Assessment

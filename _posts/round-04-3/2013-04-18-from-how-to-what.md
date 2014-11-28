@@ -1,7 +1,6 @@
 ---
 title: From How to What
 author: Greg Wilson
-layout: post
 permalink: /2013/04/from-how-to-what/
 categories:
   - Round 04/2

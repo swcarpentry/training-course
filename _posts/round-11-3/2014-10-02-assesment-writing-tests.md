@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; Writing Tests'
 author: Ashwin Srinath
-layout: post
 permalink: /2014/10/assesment-writing-tests/
 categories:
   - Assessment

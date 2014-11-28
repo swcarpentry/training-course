@@ -1,7 +1,6 @@
 ---
 title: Round 2.5 Summary
 author: Ariel Rokem
-layout: post
 permalink: /2013/03/round-2-5-summary/
 categories:
   - Meta

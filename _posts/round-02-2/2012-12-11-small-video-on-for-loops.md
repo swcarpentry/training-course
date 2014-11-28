@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.2 &#8211; video about for loops'
 author: Luis Figueira
-layout: post
 permalink: /2012/12/small-video-on-for-loops/
 categories:
   - Round 02/2

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Pipes and Filters'
 author: Kate Hertweck
-layout: post
 permalink: /2014/09/assessment-pipes-and-filters/
 categories:
   - Assessment

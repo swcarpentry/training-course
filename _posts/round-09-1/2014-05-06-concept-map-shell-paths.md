@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Shell Paths'
 author: Devasena Inupakutika
-layout: post
 permalink: /2014/05/concept-map-shell-paths/
 categories:
   - Concept Map

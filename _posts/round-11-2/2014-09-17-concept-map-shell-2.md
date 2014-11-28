@@ -1,7 +1,6 @@
 ---
 title: Concept Map Shell
 author: Kathy Chung
-layout: post
 permalink: /2014/09/concept-map-shell-2/
 categories:
   - Concept Map

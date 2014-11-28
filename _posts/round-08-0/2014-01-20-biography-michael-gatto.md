@@ -1,7 +1,6 @@
 ---
 title: 'Biography &#8211; Michael Gatto'
 author: Michael Gatto
-layout: post
 permalink: /2014/01/biography-michael-gatto/
 categories:
   - Biography

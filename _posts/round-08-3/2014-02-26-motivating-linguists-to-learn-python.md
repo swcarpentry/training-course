@@ -1,7 +1,6 @@
 ---
 title: Motivating linguists to learn Python
 author: Martin Callaghan
-layout: post
 permalink: /2014/02/motivating-linguists-to-learn-python/
 categories:
   - Motivation

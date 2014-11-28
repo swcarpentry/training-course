@@ -1,7 +1,6 @@
 ---
 title: 'Week 2: Motivation'
 author: Greg Wilson
-layout: post
 permalink: /2012/09/week-2-motivation/
 categories:
   - Round 01/2

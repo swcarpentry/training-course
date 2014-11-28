@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Catherine McGoveran
-layout: post
 permalink: /2014/07/demotivating-learning-experience-11/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Round 5.5: Graduation Exercise'
 author: Greg Wilson
-layout: post
 permalink: /2013/08/round-5-5-graduation-exercise/
 categories:
   - Round 05/5

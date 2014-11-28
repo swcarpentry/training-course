@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Regex concept'
 author: Aaron Erlich
-layout: post
 permalink: /2014/06/regex-concept/
 categories:
   - Concept Map

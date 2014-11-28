@@ -1,7 +1,6 @@
 ---
 title: Editing with vi
 author: Chandler Wilkerson
-layout: post
 permalink: /2014/04/editing-with-vi/
 categories:
   - Concept Map

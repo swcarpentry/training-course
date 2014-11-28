@@ -1,7 +1,6 @@
 ---
 title: 'Reflections on teaching: repeating things'
 author: Rich FitzJohn
-layout: post
 permalink: /2013/06/reflections-repeating-things/
 categories:
   - Round 04/5

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; Git Staging Area'
 author: Dmitri Novikov
-layout: post
 permalink: /2014/10/assessment-git-staging-area/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Resources on multiple-choice questions
 author: Pauline Barmby
-layout: post
 permalink: /2013/10/resources-on-multiple-choice-questions/
 categories:
   - Assessment

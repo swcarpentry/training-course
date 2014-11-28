@@ -1,7 +1,6 @@
 ---
 title: 'Jason K. Moore&#8217;s Bio'
 author: Jason Moore
-layout: post
 permalink: /2014/05/jason-k-moores-bio/
 categories:
   - Biography

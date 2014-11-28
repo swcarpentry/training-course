@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.1: Filters and pipes'
 author: Henry Chong
-layout: post
 permalink: /2012/11/round-2-1-filters-and-pipes/
 categories:
   - Concept Map

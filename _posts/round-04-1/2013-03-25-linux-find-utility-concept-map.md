@@ -1,7 +1,6 @@
 ---
 title: 'Linux &#8216;find&#8217; utility concept map'
 author: Eugene Goltsman
-layout: post
 permalink: /2013/03/linux-find-utility-concept-map/
 categories:
   - Concept Map

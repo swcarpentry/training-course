@@ -1,7 +1,6 @@
 ---
 title: About Kirsten Robinson
 author: Kirsten Robinson
-layout: post
 permalink: /2013/01/introduction-kirsten-robinson/
 categories:
   - Biography

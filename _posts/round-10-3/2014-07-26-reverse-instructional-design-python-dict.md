@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design: python dict'
 author: Clare Sloggett
-layout: post
 permalink: /2014/07/reverse-instructional-design-python-dict/
 categories:
   - Round 10/3

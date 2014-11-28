@@ -1,7 +1,6 @@
 ---
 title: Johnny LIn
 author: Johnny Lin
-layout: post
 permalink: /2014/05/johnny-lin/
 categories:
   - Biography

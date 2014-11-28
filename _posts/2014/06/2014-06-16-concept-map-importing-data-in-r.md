@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: importing data in R'
 author: Luca Cerone
-layout: post
 permalink: /2014/06/concept-map-importing-data-in-r/
 categories:
   - Uncategorized

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: screen'
 author: Sean Dawson
-layout: post
 permalink: /2013/10/concept-map-screen/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Motivation Video for Vagrant
 author: Mark Stillwell
-layout: post
 permalink: /2014/06/motivation-video-for-vagrant/
 categories:
   - Motivation

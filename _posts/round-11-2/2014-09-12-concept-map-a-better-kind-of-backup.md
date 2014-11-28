@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: A Better Kind of Backup'
 author: Dmitri Novikov
-layout: post
 permalink: /2014/09/concept-map-a-better-kind-of-backup/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; Navigating the Windows file system with Git Bash'
 author: Marcello Barisonzi
-layout: post
 permalink: /2014/07/assessment-navigating-the-windows-file-system-with-git-bash/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Python variable scope'
 author: Martin Paulo
-layout: post
 permalink: /2014/01/concept-map-python-variable-scope/
 categories:
   - Concept Map

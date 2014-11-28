@@ -1,7 +1,6 @@
 ---
 title: WUSTL round-up
 author: Justin Ely
-layout: post
 permalink: /2012/12/wustl-round-up/
 categories:
   - Reports

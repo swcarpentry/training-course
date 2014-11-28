@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Simple SQL queries'
 author: Billy Rowell
-layout: post
 permalink: /2013/05/concept-map-simple-sql-queries/
 categories:
   - Concept Map

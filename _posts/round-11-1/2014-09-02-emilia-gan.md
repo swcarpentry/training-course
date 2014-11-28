@@ -1,7 +1,6 @@
 ---
 title: Emilia Gan
 author: Emilia Gan
-layout: post
 permalink: /2014/09/emilia-gan/
 categories:
   - Biography

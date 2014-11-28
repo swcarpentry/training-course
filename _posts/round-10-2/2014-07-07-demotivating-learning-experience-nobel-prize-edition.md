@@ -1,7 +1,6 @@
 ---
 title: 'Demotivating learning experience: Nobel Prize edition'
 author: Marcello Barisonzi
-layout: post
 permalink: /2014/07/demotivating-learning-experience-nobel-prize-edition/
 categories:
   - Motivation

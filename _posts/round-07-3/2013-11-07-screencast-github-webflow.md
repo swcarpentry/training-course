@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: github webflow [video now available]'
 author: Luis Pedro Coelho
-layout: post
 permalink: /2013/11/screencast-github-webflow/
 categories:
   - Round 07/3

@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: Pretest/Post-test for Github Contribution Workflow using a Patch Branch.'
 author: Anne Moroney
-layout: post
 permalink: /2014/02/mcq-pretestpost-test-for-github-contribution-workflow-using-a-patch-branch/
 categories:
   - Assessment

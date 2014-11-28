@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Path'
 author: Joon Ro
-layout: post
 permalink: /2013/02/concept-map-path/
 categories:
   - Concept Map

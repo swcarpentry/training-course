@@ -1,7 +1,6 @@
 ---
 title: 'Final lesson: Keeping your projects organized and documented'
 author: Ivan Gonzalez
-layout: post
 permalink: /2013/08/final-lesson/
 categories:
   - Round 05/5

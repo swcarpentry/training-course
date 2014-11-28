@@ -1,7 +1,6 @@
 ---
 title: My Concept Map for Teaching Batch Submission scripts
 author: Alexandra Simperler
-layout: post
 permalink: /2014/04/my-concept-map-for-teaching-batch-submission-scripts/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: David Schryer
 author: David Schryer
-layout: post
 permalink: /2013/05/david-schryer/
 categories:
   - Biography

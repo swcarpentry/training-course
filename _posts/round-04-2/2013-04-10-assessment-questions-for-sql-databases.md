@@ -1,7 +1,6 @@
 ---
 title: Assessment questions for SQL databases
 author: Randy Olson
-layout: post
 permalink: /2013/04/assessment-questions-for-sql-databases/
 categories:
   - Proficiency

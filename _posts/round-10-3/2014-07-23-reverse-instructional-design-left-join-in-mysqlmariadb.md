@@ -1,7 +1,6 @@
 ---
 title: Reverse Instructional Design — LEFT JOIN in MySQL/MariaDB
 author: Luca Cerone
-layout: post
 permalink: /2014/07/reverse-instructional-design-left-join-in-mysqlmariadb/
 categories:
   - Assessment

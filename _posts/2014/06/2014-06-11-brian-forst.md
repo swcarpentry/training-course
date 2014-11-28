@@ -1,7 +1,6 @@
 ---
 title: Brian Forst
 author: Brian Forst
-layout: post
 permalink: /2014/06/brian-forst/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Jory&#8217;s Teaching Feedback'
 author: Jorden Schossau
-layout: post
 permalink: /2013/06/jorys-teaching-feedback/
 categories:
   - Round 04/5

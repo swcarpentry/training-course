@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: NumPy slicing'
 author: Juan Nunez-Iglesias
-layout: post
 permalink: /2014/10/assessment-numpy-slicing/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Passing by reference and by value in Python
 author: Ted Kirkpatrick
-layout: post
 permalink: /2013/06/passing-by-reference-and-by-value-in-python/
 categories:
   - Proficiency

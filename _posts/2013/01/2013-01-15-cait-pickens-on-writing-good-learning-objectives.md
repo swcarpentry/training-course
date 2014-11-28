@@ -1,7 +1,6 @@
 ---
 title: Cait Pickens on Writing Good Learning Objectives
 author: Greg Wilson
-layout: post
 permalink: /2013/01/cait-pickens-on-writing-good-learning-objectives/
 categories:
   - Teaching

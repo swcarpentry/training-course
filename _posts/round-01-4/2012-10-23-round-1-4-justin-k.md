@@ -1,7 +1,6 @@
 ---
 title: 'Round 1.4 &#8211; Justin K'
 author: Justin Kitzes
-layout: post
 permalink: /2012/10/round-1-4-justin-k/
 categories:
   - Lesson

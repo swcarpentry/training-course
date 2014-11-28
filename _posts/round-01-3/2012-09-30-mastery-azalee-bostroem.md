@@ -1,7 +1,6 @@
 ---
 title: 'Mastery- Azalee Bostroem'
 author: Azalee Bostroem
-layout: post
 permalink: /2012/09/mastery-azalee-bostroem/
 categories:
   - Proficiency

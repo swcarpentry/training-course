@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Collaborating in GitHub'
 author: Liberty Foreman
-layout: post
 permalink: /2014/10/assessment-collaborating-in-github/
 categories:
   - Assessment

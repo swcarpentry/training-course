@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice questions: Emacs'
 author: Trevor Bekolay
-layout: post
 permalink: /2013/10/multiple-choice-questions-emacs/
 categories:
   - Assessment

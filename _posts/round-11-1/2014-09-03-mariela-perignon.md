@@ -1,7 +1,6 @@
 ---
 title: Mariela Perignon
 author: Mariela Perignon
-layout: post
 permalink: /2014/09/mariela-perignon/
 categories:
   - Biography

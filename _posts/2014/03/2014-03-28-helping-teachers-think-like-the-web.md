@@ -1,7 +1,6 @@
 ---
 title: Helping Teachers Think Like the Web
 author: Greg Wilson
-layout: post
 permalink: /2014/03/helping-teachers-think-like-the-web/
 categories:
   - Opinion

@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Dan Warren'
 author: Dan Warren
-layout: post
 permalink: /2014/03/biography-dan-warren/
 categories:
   - Biography

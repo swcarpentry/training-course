@@ -1,7 +1,6 @@
 ---
 title: Systematic Curriculum Design (well, sort of)
 author: Greg Wilson
-layout: post
 permalink: /2012/09/systematic-curriculum-design-well-sort-of/
 categories:
   - Curriculum

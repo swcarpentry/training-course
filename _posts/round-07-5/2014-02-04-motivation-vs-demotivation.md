@@ -1,7 +1,6 @@
 ---
 title: Motivation VS. Demotivation
 author: Fan
-layout: post
 permalink: /2014/02/motivation-vs-demotivation/
 categories:
   - Motivation

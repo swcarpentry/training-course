@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Lists in R'
 author: Matt Landis
-layout: post
 permalink: /2013/11/assessment-questions-lists-in-r/
 categories:
   - Assessment

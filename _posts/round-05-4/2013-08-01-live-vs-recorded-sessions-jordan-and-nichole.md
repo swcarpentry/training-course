@@ -1,7 +1,6 @@
 ---
 title: 'Live vs Recorded Sessions: Jordan and Nichole'
 author: Nichole Bennett
-layout: post
 permalink: /2013/08/live-vs-recorded-sessions-jordan-and-nichole/
 categories:
   - Round 05/4

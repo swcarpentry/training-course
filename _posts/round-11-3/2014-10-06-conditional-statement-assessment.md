@@ -1,7 +1,6 @@
 ---
 title: conditional statement assessment
 author: Greg Caporaso
-layout: post
 permalink: /2014/10/conditional-statement-assessment/
 categories:
   - Assessment

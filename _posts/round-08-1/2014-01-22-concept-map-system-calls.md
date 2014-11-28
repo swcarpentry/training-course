@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: System Calls'
 author: Benjamin Bradshaw
-layout: post
 permalink: /2014/01/concept-map-system-calls/
 categories:
   - Concept Map

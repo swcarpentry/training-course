@@ -1,7 +1,6 @@
 ---
 title: Julián García
 author: Julian Garcia
-layout: post
 permalink: /2013/08/julian-garcia/
 categories:
   - Biography

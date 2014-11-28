@@ -1,7 +1,6 @@
 ---
 title: Jinwoo Leem
 author: Jinwoo Leem
-layout: post
 permalink: /2013/08/jinwoo-leem/
 categories:
   - Biography

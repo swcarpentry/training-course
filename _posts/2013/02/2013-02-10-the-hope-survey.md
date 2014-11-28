@@ -1,7 +1,6 @@
 ---
 title: The Hope Survey
 author: Greg Wilson
-layout: post
 permalink: /2013/02/the-hope-survey/
 categories:
   - Research

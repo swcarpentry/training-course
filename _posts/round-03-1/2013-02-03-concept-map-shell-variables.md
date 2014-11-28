@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Shell Variables'
 author: Kwasi Kwakwa
-layout: post
 permalink: /2013/02/concept-map-shell-variables/
 categories:
   - Concept Map

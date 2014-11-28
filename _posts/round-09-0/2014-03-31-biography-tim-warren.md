@@ -1,7 +1,6 @@
 ---
 title: 'Biography : Tim Warren'
 author: Timothy Warren
-layout: post
 permalink: /2014/03/biography-tim-warren/
 categories:
   - Biography

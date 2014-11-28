@@ -1,7 +1,6 @@
 ---
 title: Wrapping Up Round 11
 author: Greg Wilson
-layout: post
 permalink: /2014/11/wrapping-up-round-11/
 categories:
   - Round 11/4

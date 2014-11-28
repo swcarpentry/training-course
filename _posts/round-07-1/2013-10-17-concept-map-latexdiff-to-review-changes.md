@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: latexdiff to review changes'
 author: Remi Emonet
-layout: post
 permalink: /2013/10/concept-map-latexdiff-to-review-changes/
 categories:
   - Concept Map

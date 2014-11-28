@@ -1,7 +1,6 @@
 ---
 title: 'Week 2 &#8211; Motivation'
 author: Erik Bray
-layout: post
 permalink: /2012/09/week-2-motivation-3/
 categories:
   - Motivation

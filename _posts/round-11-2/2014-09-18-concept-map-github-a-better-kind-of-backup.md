@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; GitHub A Better Kind of Backup'
 author: Liberty Foreman
-layout: post
 permalink: /2014/09/concept-map-github-a-better-kind-of-backup/
 categories:
   - Concept Map

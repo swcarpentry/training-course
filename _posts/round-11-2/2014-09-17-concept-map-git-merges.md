@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: git merges'
 author: Jared Camins-Esakov
-layout: post
 permalink: /2014/09/concept-map-git-merges/
 categories:
   - Concept Map

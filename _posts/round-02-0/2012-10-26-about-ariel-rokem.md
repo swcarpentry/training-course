@@ -1,7 +1,6 @@
 ---
 title: About Ariel Rokem
 author: Ariel Rokem
-layout: post
 permalink: /2012/10/about-ariel-rokem/
 categories:
   - Biography

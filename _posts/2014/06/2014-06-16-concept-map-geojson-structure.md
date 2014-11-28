@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: GeoJSON structure'
 author: Sarah Simpkin
-layout: post
 permalink: /2014/06/concept-map-geojson-structure/
 categories:
   - Concept Map

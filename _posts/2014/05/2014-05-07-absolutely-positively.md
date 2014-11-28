@@ -1,7 +1,6 @@
 ---
 title: Absolutely, Positively
 author: Greg Wilson
-layout: post
 permalink: /2014/05/absolutely-positively/
 categories:
   - Community

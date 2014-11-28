@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Using Assertions'
 author: Anthony Harrison
-layout: post
 permalink: /2014/09/concept-map-using-assertions/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Motivation: How to motivate scientist to learn basic programming'
 author: Andrea Zonca
-layout: post
 permalink: /2014/02/how-motivate-scientists-to-learn-basic-programming/
 categories:
   - Motivation

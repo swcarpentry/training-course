@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Files and Directories in Unix Shell'
 author: Fatma Imamoglu
-layout: post
 permalink: /2014/10/assessment-files-and-directories-in-unix-shell/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: A Good End-of-Year Post from Mark Guzdial About Culture and Pedagogy
 author: Greg Wilson
-layout: post
 permalink: /2012/12/a-good-end-of-year-post-from-mark-guzdial-about-culture-and-pedagogy/
 categories:
   - Noticed

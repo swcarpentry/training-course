@@ -1,7 +1,6 @@
 ---
 title: Basic Data Types in Python
 author: Paulina Lach
-layout: post
 permalink: /2014/06/basic-data-types-in-python/
 categories:
   - Concept Map

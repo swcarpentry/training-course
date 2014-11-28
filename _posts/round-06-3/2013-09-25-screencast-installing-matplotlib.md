@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Installing matplotlib'
 author: Cam Macdonell
-layout: post
 permalink: /2013/09/screencast-installing-matplotlib/
 categories:
   - Round 06/3

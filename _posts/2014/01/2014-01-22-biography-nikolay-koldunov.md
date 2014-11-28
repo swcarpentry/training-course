@@ -1,7 +1,6 @@
 ---
 title: 'Biography &#8211; Nikolay Koldunov'
 author: Nikolay Koldunov
-layout: post
 permalink: /2014/01/biography-nikolay-koldunov/
 categories:
   - Biography

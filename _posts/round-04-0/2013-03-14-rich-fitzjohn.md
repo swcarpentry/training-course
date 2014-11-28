@@ -1,7 +1,6 @@
 ---
 title: Rich FitzJohn
 author: Rich FitzJohn
-layout: post
 permalink: /2013/03/rich-fitzjohn/
 categories:
   - Biography

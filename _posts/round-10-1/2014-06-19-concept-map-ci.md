@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Continuous Integration'
 author: Luiz Irber
-layout: post
 permalink: /2014/06/concept-map-ci/
 categories:
   - Concept Map

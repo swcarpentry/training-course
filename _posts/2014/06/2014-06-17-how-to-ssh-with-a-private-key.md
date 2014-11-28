@@ -1,7 +1,6 @@
 ---
 title: How to SSH with a private key
 author: Sarah Edwards
-layout: post
 permalink: /2014/06/how-to-ssh-with-a-private-key/
 categories:
   - Concept Map

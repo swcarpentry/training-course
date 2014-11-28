@@ -1,7 +1,6 @@
 ---
 title: 'Round 4.1: Concept Maps'
 author: Greg Wilson
-layout: post
 permalink: /2013/03/round-4-1-concept-maps/
 categories:
   - Round 04/1

@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Andy Teucher
-layout: post
 permalink: /2014/10/demotivation-11/
 categories:
   - Motivation

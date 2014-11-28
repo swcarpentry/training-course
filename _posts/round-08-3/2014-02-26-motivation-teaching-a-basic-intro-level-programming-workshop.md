@@ -1,7 +1,6 @@
 ---
 title: 'Motivation: Teaching a basic intro level programming workshop'
 author: Neem Serra
-layout: post
 permalink: /2014/02/motivation-teaching-a-basic-intro-level-programming-workshop/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Github'
 author: Jon Duncan
-layout: post
 permalink: /2014/05/concept-map-for-github/
 categories:
   - Concept Map

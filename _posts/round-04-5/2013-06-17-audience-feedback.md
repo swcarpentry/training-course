@@ -1,7 +1,6 @@
 ---
 title: Audience feedback
 author: Diego Barneche
-layout: post
 permalink: /2013/06/audience-feedback/
 categories:
   - Round 04/5

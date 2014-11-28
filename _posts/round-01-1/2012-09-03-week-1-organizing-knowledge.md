@@ -1,7 +1,6 @@
 ---
 title: 'Week 1: Organizing Knowledge'
 author: Greg Wilson
-layout: post
 permalink: /2012/09/week-1-organizing-knowledge/
 categories:
   - Concept Map

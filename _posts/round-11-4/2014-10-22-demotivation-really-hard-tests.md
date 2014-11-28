@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: Really hard tests'
 author: Ramalingam Saravanan
-layout: post
 permalink: /2014/10/demotivation-really-hard-tests/
 categories:
   - Motivation

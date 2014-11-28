@@ -1,7 +1,6 @@
 ---
 title: Rémi Emonet
 author: Remi Emonet
-layout: post
 permalink: /2013/10/remi-emonet/
 categories:
   - Biography

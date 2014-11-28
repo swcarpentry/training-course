@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Analyzing Patient Data'
 author: Jon Guyer
-layout: post
 permalink: /2014/10/assessment-analyzing-patient-data/
 categories:
   - Assessment

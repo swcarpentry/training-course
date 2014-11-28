@@ -1,7 +1,6 @@
 ---
 title: About Aleksandra Pawlik
 author: Aleksandra Pawlik
-layout: post
 permalink: /2012/10/about-aleksandra-pawlik/
 categories:
   - Biography

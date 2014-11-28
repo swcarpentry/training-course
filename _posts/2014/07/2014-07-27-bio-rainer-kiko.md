@@ -1,7 +1,6 @@
 ---
 title: 'Bio: Rainer Kiko'
 author: Rainer Kiko
-layout: post
 permalink: /2014/07/bio-rainer-kiko/
 categories:
   - Biography

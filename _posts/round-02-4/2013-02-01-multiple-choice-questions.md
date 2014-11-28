@@ -1,7 +1,6 @@
 ---
 title: Multiple choice questions
 author: Adina Chuang Howe
-layout: post
 permalink: /2013/02/multiple-choice-questions/
 categories:
   - Proficiency

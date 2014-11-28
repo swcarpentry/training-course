@@ -1,7 +1,6 @@
 ---
 title: Selena Deckelmann
 author: Selena Deckelmann
-layout: post
 permalink: /2013/05/selena-deckelmann/
 categories:
   - Biography

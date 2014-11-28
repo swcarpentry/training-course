@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: basic data visualization'
 author: Emily Coffey
-layout: post
 permalink: /2014/06/concept-map-basic-data-visualization/
 categories:
   - Concept Map

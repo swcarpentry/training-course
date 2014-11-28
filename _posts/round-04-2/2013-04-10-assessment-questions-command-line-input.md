@@ -1,7 +1,6 @@
 ---
 title: Assessment Questions -Command Line Input
 author: Cindee Madison
-layout: post
 permalink: /2013/04/assessment-questions-command-line-input/
 categories:
   - Proficiency

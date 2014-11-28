@@ -1,7 +1,6 @@
 ---
 title: 'Round 4: A Slight Diversion'
 author: Greg Wilson
-layout: post
 permalink: /2012/09/round-4-a-slight-diversion/
 categories:
   - Round 01/4

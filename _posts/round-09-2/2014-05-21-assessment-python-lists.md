@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; Python lists'
 author: Tim McNamara
-layout: post
 permalink: /2014/05/assessment-python-lists/
 categories:
   - Assessment

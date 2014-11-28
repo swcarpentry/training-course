@@ -1,7 +1,6 @@
 ---
 title: About Aron Ahmadia
 author: Aron Ahmadia
-layout: post
 permalink: /2012/09/about-aron-ahmadia/
 categories:
   - Biography

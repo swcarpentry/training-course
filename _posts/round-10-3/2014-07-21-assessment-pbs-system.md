@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; PBS system'
 author: Maciej Czuchry
-layout: post
 permalink: /2014/07/assessment-pbs-system/
 categories:
   - Assessment

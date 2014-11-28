@@ -1,7 +1,6 @@
 ---
 title: About Philipp Lies
 author: Philipp Lies
-layout: post
 permalink: /2013/03/about-philipp-lies/
 categories:
   - Biography

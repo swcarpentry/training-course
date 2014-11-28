@@ -1,7 +1,6 @@
 ---
 title: About Ian Langmore
 author: Ian Langmore
-layout: post
 permalink: /2012/10/about-ian-langmore/
 categories:
   - Biography

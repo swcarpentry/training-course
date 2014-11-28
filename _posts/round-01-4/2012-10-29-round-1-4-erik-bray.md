@@ -1,7 +1,6 @@
 ---
 title: 'Round 1.4 &#8211; Erik Bray'
 author: Erik Bray
-layout: post
 permalink: /2012/10/round-1-4-erik-bray/
 categories:
   - Lesson

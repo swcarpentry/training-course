@@ -1,7 +1,6 @@
 ---
 title: An Example of a Well-Written Lesson
 author: Greg Wilson
-layout: post
 permalink: /2014/11/an-example-of-a-well-written-lesson/
 categories:
   - Teaching

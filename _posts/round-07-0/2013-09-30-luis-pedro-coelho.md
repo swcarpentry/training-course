@@ -1,7 +1,6 @@
 ---
 title: Luis Pedro Coelho
 author: Luis Pedro Coelho
-layout: post
 permalink: /2013/09/luis-pedro-coelho/
 categories:
   - Biography

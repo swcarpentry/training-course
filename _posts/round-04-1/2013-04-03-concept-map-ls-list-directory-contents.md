@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: ls &#8212; list directory contents'
 author: Daniel Falster
-layout: post
 permalink: /2013/04/concept-map-ls-list-directory-contents/
 categories:
   - Concept Map

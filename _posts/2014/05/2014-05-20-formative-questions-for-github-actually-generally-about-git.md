@@ -1,7 +1,6 @@
 ---
 title: 'Formative Questions for &#8220;GitHub&#8221; (actually generally about git)'
 author: Dav Clark
-layout: post
 permalink: /2014/05/formative-questions-for-github-actually-generally-about-git/
 categories:
   - Uncategorized

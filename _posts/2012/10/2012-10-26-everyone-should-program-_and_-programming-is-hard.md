@@ -1,7 +1,6 @@
 ---
 title: Everyone Should Program _and_ Programming Is Hard
 author: Greg Wilson
-layout: post
 permalink: /2012/10/everyone-should-program-_and_-programming-is-hard/
 categories:
   - Community

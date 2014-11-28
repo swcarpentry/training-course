@@ -1,7 +1,6 @@
 ---
 title: data.tables in R
 author: Scott Ritchie
-layout: post
 permalink: /2014/06/data-tables-in-r/
 categories:
   - Concept Map

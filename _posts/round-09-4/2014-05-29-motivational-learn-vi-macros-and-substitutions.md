@@ -1,7 +1,6 @@
 ---
 title: 'Motivational: Learn Vi Macros and Substitutions'
 author: Chandler Wilkerson
-layout: post
 permalink: /2014/05/motivational-learn-vi-macros-and-substitutions/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: Demotivating Learning Experience
 author: Mark Laufersweiler
-layout: post
 permalink: /2014/07/demotivating-learning-experience-10/
 categories:
   - Motivation

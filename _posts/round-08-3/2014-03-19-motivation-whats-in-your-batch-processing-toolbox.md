@@ -1,7 +1,6 @@
 ---
 title: 'Motivation: What&#8217;s in your batch processing toolbox?'
 author: Bradley Taber-Thomas
-layout: post
 permalink: /2014/03/motivation-whats-in-your-batch-processing-toolbox/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Shell'
 author: Andy Teucher
-layout: post
 permalink: /2014/09/concept-map-shell/
 categories:
   - Concept Map

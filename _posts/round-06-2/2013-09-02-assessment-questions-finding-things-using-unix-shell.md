@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Finding Things using Unix Shell'
 author: Molly Gibson
-layout: post
 permalink: /2013/09/assessment-questions-finding-things-using-unix-shell/
 categories:
   - Assessment

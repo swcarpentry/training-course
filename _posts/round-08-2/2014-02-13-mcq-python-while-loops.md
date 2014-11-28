@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: python while-loops'
 author: Isabel Fenton
-layout: post
 permalink: /2014/02/mcq-python-while-loops/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: About Nathan S. Watson-Haigh
 author: Nathan S. Watson-Haigh
-layout: post
 permalink: /2013/08/about-nathan-s-watson-haigh/
 categories:
   - Biography

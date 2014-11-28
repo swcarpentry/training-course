@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Redirection'
 author: Nathan S. Watson-Haigh
-layout: post
 permalink: /2013/08/concept-map-redirection/
 categories:
   - Concept Map

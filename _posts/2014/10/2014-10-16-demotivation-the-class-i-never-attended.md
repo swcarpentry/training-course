@@ -1,7 +1,6 @@
 ---
 title: 'demotivation: the class I never attended'
 author: Carl Boettiger
-layout: post
 permalink: /2014/10/demotivation-the-class-i-never-attended/
 categories:
   - Motivation

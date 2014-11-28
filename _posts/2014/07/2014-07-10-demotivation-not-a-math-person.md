@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: Not a math person'
 author: Joseph Viviano
-layout: post
 permalink: /2014/07/demotivation-not-a-math-person/
 categories:
   - Uncategorized

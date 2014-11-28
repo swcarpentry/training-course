@@ -1,7 +1,6 @@
 ---
 title: Ofer Bartal
 author: Ofer Bartal
-layout: post
 permalink: /2013/10/ofer-bartal/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; Scoping in Python'
 author: Anja Boskovic
-layout: post
 permalink: /2014/10/assessment-scoping-in-python/
 categories:
   - Assessment

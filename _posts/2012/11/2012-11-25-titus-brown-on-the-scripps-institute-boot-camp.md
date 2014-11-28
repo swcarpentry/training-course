@@ -1,7 +1,6 @@
 ---
 title: Titus Brown on the Scripps Institute Boot Camp
 author: Greg Wilson
-layout: post
 permalink: /2012/11/titus-brown-on-the-scripps-institute-boot-camp/
 categories:
   - Teaching

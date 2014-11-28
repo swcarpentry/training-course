@@ -1,7 +1,6 @@
 ---
 title: Matthew Landis
 author: Matt Landis
-layout: post
 permalink: /2013/10/matthew-landis/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Broken CPAN mirror'
 author: Sarah Richardson
-layout: post
 permalink: /2013/06/screencast-proposal-broken-cpan-mirror/
 categories:
   - Round 05/3

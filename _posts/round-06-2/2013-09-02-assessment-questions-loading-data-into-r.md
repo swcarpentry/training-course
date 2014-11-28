@@ -1,7 +1,6 @@
 ---
 title: 'Assessment questions: Loading data into R'
 author: Emily Davenport
-layout: post
 permalink: /2013/09/assessment-questions-loading-data-into-r/
 categories:
   - Assessment

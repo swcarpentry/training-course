@@ -1,7 +1,6 @@
 ---
 title: 'Round 8.5: Teach a Lesson'
 author: Greg Wilson
-layout: post
 permalink: /2014/03/round-8-5-teach-a-lesson/
 categories:
   - Round 08/5

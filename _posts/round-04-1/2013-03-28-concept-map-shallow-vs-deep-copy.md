@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Shallow vs Deep Copy'
 author: Marianne Corvellec
-layout: post
 permalink: /2013/03/concept-map-shallow-vs-deep-copy/
 categories:
   - Concept Map

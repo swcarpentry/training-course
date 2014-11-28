@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.2 &#8211; Mercurial Version Control'
 author: Aleksandra Pawlik
-layout: post
 permalink: /2013/01/round-2-2-mercurial-version-control/
 categories:
   - Round 02/2

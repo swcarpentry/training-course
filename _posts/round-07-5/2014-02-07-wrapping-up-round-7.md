@@ -1,7 +1,6 @@
 ---
 title: Wrapping Up Round 7
 author: Greg Wilson
-layout: post
 permalink: /2014/02/wrapping-up-round-7/
 categories:
   - Reflection

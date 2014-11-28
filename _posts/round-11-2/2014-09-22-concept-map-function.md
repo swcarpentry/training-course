@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Function'
 author: Cody Hinchliff
-layout: post
 permalink: /2014/09/concept-map-function/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Matthew Lightman
 author: Matthew Lightman
-layout: post
 permalink: /2013/08/matthew-lightman/
 categories:
   - Biography

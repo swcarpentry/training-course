@@ -1,7 +1,6 @@
 ---
 title: Jeramia Ory
 author: Jeramia Ory
-layout: post
 permalink: /2014/01/jeramia-ory/
 categories:
   - Biography

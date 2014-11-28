@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: pushing to GitHub'
 author: Stephen Turner
-layout: post
 permalink: /2014/03/screencast-pushing-to-github/
 categories:
   - Round 08/4

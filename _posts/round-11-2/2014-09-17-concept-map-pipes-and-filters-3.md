@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Pipes and filters'
 author: Matthew Aiello-Lammens
-layout: post
 permalink: /2014/09/concept-map-pipes-and-filters-3/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Emilia Gan
-layout: post
 permalink: /2014/10/demotivation-12/
 categories:
   - Motivation

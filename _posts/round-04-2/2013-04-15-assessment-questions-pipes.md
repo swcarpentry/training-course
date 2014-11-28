@@ -1,7 +1,6 @@
 ---
 title: 'Assessment questions: pipes'
 author: Amanda Whitlock
-layout: post
 permalink: /2013/04/assessment-questions-pipes/
 categories:
   - Proficiency

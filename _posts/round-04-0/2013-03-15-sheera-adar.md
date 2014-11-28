@@ -1,7 +1,6 @@
 ---
 title: Sheera Adar
 author: Sheera Adar
-layout: post
 permalink: /2013/03/sheera-adar/
 categories:
   - Biography

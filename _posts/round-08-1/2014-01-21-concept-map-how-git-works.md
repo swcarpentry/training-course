@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: how git works'
 author: Atul Varma
-layout: post
 permalink: /2014/01/concept-map-how-git-works/
 categories:
   - Concept Map

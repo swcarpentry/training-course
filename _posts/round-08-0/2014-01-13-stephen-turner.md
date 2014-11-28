@@ -1,7 +1,6 @@
 ---
 title: Stephen Turner
 author: Stephen Turner
-layout: post
 permalink: /2014/01/stephen-turner/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Reverse instructional design: questions about &#8220;design&#8221;'
 author: Piotr Banaszkiewicz
-layout: post
 permalink: /2014/07/reverse-instructional-design-questions-about-design/
 categories:
   - Assessment

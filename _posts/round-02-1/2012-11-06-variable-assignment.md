@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.1: Use = to assign a value to a variable'
 author: Paul Ivanov
-layout: post
 permalink: /2012/11/variable-assignment/
 categories:
   - Concept Map

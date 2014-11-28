@@ -1,7 +1,6 @@
 ---
 title: Raniere Silva
 author: Raniere Silva
-layout: post
 permalink: /2013/08/raniere-silva/
 categories:
   - Biography

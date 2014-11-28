@@ -1,7 +1,6 @@
 ---
 title: Nichole Bennett
 author: Nichole Bennett
-layout: post
 permalink: /2013/05/nichole-bennett/
 categories:
   - Biography

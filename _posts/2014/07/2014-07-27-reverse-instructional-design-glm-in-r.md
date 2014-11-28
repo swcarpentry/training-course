@@ -1,7 +1,6 @@
 ---
 title: 'Reverse instructional design- glm in R'
 author: Easton White
-layout: post
 permalink: /2014/07/reverse-instructional-design-glm-in-r/
 categories:
   - Uncategorized

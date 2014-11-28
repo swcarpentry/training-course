@@ -1,7 +1,6 @@
 ---
 title: Mike Smorul
 author: Mike Smorul
-layout: post
 permalink: /2014/04/mike-smorul/
 categories:
   - Biography

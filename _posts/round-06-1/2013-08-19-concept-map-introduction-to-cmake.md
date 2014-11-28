@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Introduction to cmake'
 author: Christopher
-layout: post
 permalink: /2013/08/concept-map-introduction-to-cmake/
 categories:
   - Concept Map

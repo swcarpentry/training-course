@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Python File Object'
 author: Mark Stacy
-layout: post
 permalink: /2014/01/concept-map-python-file-object/
 categories:
   - Concept Map

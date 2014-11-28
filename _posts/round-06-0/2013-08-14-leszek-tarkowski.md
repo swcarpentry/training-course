@@ -1,7 +1,6 @@
 ---
 title: Leszek Tarkowski
 author: Leszek Tarkowski
-layout: post
 permalink: /2013/08/leszek-tarkowski/
 categories:
   - Biography

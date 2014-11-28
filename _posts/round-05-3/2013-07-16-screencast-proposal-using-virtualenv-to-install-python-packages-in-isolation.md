@@ -1,7 +1,6 @@
 ---
 title: 'Screencast proposal &#8211; Using virtualenv to install Python packages in isolation'
 author: Ivan Gonzalez
-layout: post
 permalink: /2013/07/screencast-proposal-using-virtualenv-to-install-python-packages-in-isolation/
 categories:
   - Round 05/3

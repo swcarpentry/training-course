@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Importing Modules in Python'
 author: David Kua
-layout: post
 permalink: /2014/06/concept-map-importing-modules-in-python/
 categories:
   - Concept Map

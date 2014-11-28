@@ -1,7 +1,6 @@
 ---
 title: Gayathri Swaminathan
 author: Gayathri Swaminathan
-layout: post
 permalink: /2013/08/gayathri-swaminathan/
 categories:
   - Biography

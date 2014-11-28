@@ -1,7 +1,6 @@
 ---
 title: Jeremy Metz
 author: Jeremy Metz
-layout: post
 permalink: /2014/09/jeremy-metz/
 categories:
   - Biography

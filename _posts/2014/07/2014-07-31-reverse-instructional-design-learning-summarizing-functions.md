@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design: Learning summarizing functions'
 author: Tim Bean
-layout: post
 permalink: /2014/07/reverse-instructional-design-learning-summarizing-functions/
 categories:
   - Uncategorized

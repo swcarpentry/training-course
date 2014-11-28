@@ -1,7 +1,6 @@
 ---
 title: 'Revised Screencast  Multi-panel plot with matplotlib'
 author: Pauline Barmby
-layout: post
 permalink: /2013/11/screencast-multi-panel-plot-with-matplotlib/
 categories:
   - Round 07/3

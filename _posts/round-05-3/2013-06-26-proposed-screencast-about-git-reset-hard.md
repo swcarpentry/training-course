@@ -1,7 +1,6 @@
 ---
 title: 'Proposed screencast  &#8211; about &#8220;git reset &#8211;hard&#8221;'
 author: Yuxi Luo
-layout: post
 permalink: /2013/06/proposed-screencast-about-git-reset-hard/
 categories:
   - Round 05/3

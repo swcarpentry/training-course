@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Jacob Levernier'
 author: Jacob Levernier
-layout: post
 permalink: /2014/03/biography-jacob-levernier/
 categories:
   - Biography

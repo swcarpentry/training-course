@@ -1,7 +1,6 @@
 ---
 title: Sean Dawson
 author: Sean Dawson
-layout: post
 permalink: /2013/10/sean-dawson/
 categories:
   - Biography

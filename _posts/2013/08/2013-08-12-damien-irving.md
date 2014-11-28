@@ -1,7 +1,6 @@
 ---
 title: Damien Irving
 author: Damien Irving
-layout: post
 permalink: /2013/08/damien-irving/
 categories:
   - Biography

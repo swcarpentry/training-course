@@ -1,7 +1,6 @@
 ---
 title: Stuart Charters
 author: Stuart Charters
-layout: post
 permalink: /2013/05/stuart-charters/
 categories:
   - Biography

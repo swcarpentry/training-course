@@ -1,7 +1,6 @@
 ---
 title: Assessment questions
 author: Amanda Charbonneau
-layout: post
 permalink: /2013/09/assessment-questions/
 categories:
   - Assessment

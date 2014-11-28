@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: SSH in a nutshell'
 author: Wesley Goi
-layout: post
 permalink: /2014/05/concept-map-ssh-in-a-nutshell/
 categories:
   - Uncategorized

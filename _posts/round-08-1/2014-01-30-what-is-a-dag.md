@@ -1,7 +1,6 @@
 ---
 title: What is a DAG
 author: James Harmon
-layout: post
 permalink: /2014/01/what-is-a-dag/
 categories:
   - Concept Map

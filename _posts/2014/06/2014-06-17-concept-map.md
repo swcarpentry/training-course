@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: chmod'
 author: Jesus Ballesteros
-layout: post
 permalink: /2014/06/concept-map/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Melanie Segado
 author: Melanie Segado
-layout: post
 permalink: /2014/01/melanie-segado/
 categories:
   - Biography

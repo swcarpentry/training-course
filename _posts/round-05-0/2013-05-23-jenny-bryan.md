@@ -1,7 +1,6 @@
 ---
 title: Jenny Bryan
 author: Jennifer Bryan
-layout: post
 permalink: /2013/05/jenny-bryan/
 categories:
   - Biography

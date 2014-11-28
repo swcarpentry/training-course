@@ -1,7 +1,6 @@
 ---
 title: About Erik Bray
 author: Erik Bray
-layout: post
 permalink: /2012/08/about-erik-bray/
 categories:
   - Biography

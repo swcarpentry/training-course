@@ -1,7 +1,6 @@
 ---
 title: 'R Matrices: Multiple Choice'
 author: Robert Flight
-layout: post
 permalink: /2013/11/r-matrices-multiple-choice/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Erik Schnetter
 author: Erik Schnetter
-layout: post
 permalink: /2013/10/erik-schnetter/
 categories:
   - Biography

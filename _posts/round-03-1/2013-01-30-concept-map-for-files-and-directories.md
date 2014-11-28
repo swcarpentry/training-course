@@ -1,7 +1,6 @@
 ---
 title: Concept Map for Files and Directories
 author: Amy Brown
-layout: post
 permalink: /2013/01/concept-map-for-files-and-directories/
 categories:
   - Concept Map

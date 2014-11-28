@@ -1,7 +1,6 @@
 ---
 title: Concept Map for teaching Doxygen
 author: David Worth
-layout: post
 permalink: /2013/10/concept-map-for-teaching-doxygen/
 categories:
   - Concept Map

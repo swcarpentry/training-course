@@ -1,7 +1,6 @@
 ---
 title: Multiple choice questions about Lists in Python
 author: Genevieve Smith
-layout: post
 permalink: /2014/05/multiple-choice-questions-about-lists-in-python/
 categories:
   - Assessment

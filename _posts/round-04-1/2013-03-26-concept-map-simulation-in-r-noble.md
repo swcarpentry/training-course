@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Simulation in R &#8211; Noble'
 author: Daniel Noble
-layout: post
 permalink: /2013/03/concept-map-simulation-in-r-noble/
 categories:
   - Concept Map

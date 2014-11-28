@@ -1,7 +1,6 @@
 ---
 title: Anthony Harrison
 author: Anthony Harrison
-layout: post
 permalink: /2014/09/bio-anthony-harrison/
 categories:
   - Biography

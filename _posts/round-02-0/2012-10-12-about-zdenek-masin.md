@@ -1,7 +1,6 @@
 ---
 title: About Zdenek Masin
 author: Zdenek Masin
-layout: post
 permalink: /2012/10/about-zdenek-masin/
 categories:
   - Biography

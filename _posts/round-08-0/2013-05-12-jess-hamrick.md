@@ -1,7 +1,6 @@
 ---
 title: Jess Hamrick
 author: Jessica Hamrick
-layout: post
 permalink: /2013/05/jess-hamrick/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Introduction: Amy Brown'
 author: Amy Brown
-layout: post
 permalink: /2013/01/introduction-amy-brown/
 categories:
   - Biography

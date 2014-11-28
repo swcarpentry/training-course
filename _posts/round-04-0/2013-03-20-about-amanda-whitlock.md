@@ -1,7 +1,6 @@
 ---
 title: About Amanda Whitlock
 author: Amanda Whitlock
-layout: post
 permalink: /2013/03/about-amanda-whitlock/
 categories:
   - Biography

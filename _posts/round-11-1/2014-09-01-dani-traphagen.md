@@ -1,7 +1,6 @@
 ---
 title: Dani Traphagen
 author: Danielle Traphagen
-layout: post
 permalink: /2014/09/dani-traphagen/
 categories:
   - Biography

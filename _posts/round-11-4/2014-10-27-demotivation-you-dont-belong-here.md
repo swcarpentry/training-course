@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: You don&#8217;t belong here'
 author: Jonathan Gross
-layout: post
 permalink: /2014/10/demotivation-you-dont-belong-here/
 categories:
   - Motivation

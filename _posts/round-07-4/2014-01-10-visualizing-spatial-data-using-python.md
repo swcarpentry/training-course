@@ -1,7 +1,6 @@
 ---
 title: Visualizing spatial data using python
 author: Joshua Adelman
-layout: post
 permalink: /2014/01/visualizing-spatial-data-using-python/
 categories:
   - Round 07/4

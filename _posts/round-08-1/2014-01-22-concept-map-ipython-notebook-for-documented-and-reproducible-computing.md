@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: IPython notebook for documented and reproducible computing'
 author: Chris Friedline
-layout: post
 permalink: /2014/01/concept-map-ipython-notebook-for-documented-and-reproducible-computing/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'GNU Coreutils &#8211; Introduction to &#8220;Linux&#8221; command line'
 author: Raniere Silva
-layout: post
 permalink: /2013/08/gnu-coreutils-introduction-to-linux-command-line/
 categories:
   - Concept Map

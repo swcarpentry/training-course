@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: project contest with misunderstood rules'
 author: Hamid
-layout: post
 permalink: /2014/10/demotivation-project-contest-with-misunderstood-rules/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Path (UNIX)'
 author: Nichole Bennett
-layout: post
 permalink: /2013/05/concept-map-path-unix/
 categories:
   - Concept Map

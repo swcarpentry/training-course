@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: iPython Notebook'
 author: Rachel Anderson
-layout: post
 permalink: /2013/09/screencast-ipython-notebook/
 categories:
   - Round 06/3

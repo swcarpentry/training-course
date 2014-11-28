@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Loading functions from file'
 author: Rich FitzJohn
-layout: post
 permalink: /2013/03/concept-map-loading-functions-from-file/
 categories:
   - Concept Map

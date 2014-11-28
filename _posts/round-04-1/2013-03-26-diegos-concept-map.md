@@ -1,7 +1,6 @@
 ---
 title: 'Diego&#8217;s concept map'
 author: Diego Barneche
-layout: post
 permalink: /2013/03/diegos-concept-map/
 categories:
   - Concept Map

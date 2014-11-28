@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Matrices in R'
 author: Ryan Williams
-layout: post
 permalink: /2013/10/assessment-questions-matrices-in-r/
 categories:
   - Assessment

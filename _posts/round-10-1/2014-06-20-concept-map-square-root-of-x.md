@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: square root of x'
 author: Xu Fei
-layout: post
 permalink: /2014/06/concept-map-square-root-of-x/
 categories:
   - Concept Map

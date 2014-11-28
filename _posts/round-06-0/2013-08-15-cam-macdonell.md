@@ -1,7 +1,6 @@
 ---
 title: Cam Macdonell
 author: Cam Macdonell
-layout: post
 permalink: /2013/08/cam-macdonell/
 categories:
   - Biography

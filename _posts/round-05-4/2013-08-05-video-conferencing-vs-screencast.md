@@ -1,7 +1,6 @@
 ---
 title: Video conferencing vs screencast
 author: Markus Binsteiner
-layout: post
 permalink: /2013/08/video-conferencing-vs-screencast/
 categories:
   - Round 05/4

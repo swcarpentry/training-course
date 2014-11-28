@@ -1,7 +1,6 @@
 ---
 title: About Geoff Oxberry
 author: Geoff Oxberry
-layout: post
 permalink: /2013/01/geoff-oxberry/
 categories:
   - Biography

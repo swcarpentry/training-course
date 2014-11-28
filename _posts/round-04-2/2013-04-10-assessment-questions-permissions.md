@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Permissions'
 author: "Steven 'Kreuvf' Koenig"
-layout: post
 permalink: /2013/04/assessment-questions-permissions/
 categories:
   - Proficiency

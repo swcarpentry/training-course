@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Software Testing'
 author: Rachel Slaybaugh
-layout: post
 permalink: /2013/09/assessment-software-testing/
 categories:
   - Assessment

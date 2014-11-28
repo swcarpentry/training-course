@@ -1,7 +1,6 @@
 ---
 title: Screencast—revising a table
 author: Ted Kirkpatrick
-layout: post
 permalink: /2013/07/screencast-revising-a-table/
 categories:
   - Round 05/3

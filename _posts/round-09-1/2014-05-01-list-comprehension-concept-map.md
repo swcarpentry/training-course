@@ -1,7 +1,6 @@
 ---
 title: list comprehension concept map
 author: Timothy Warren
-layout: post
 permalink: /2014/05/list-comprehension-concept-map/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: About Karmel Allison
 author: Karmel Allison
-layout: post
 permalink: /2013/05/about-karmel-allison/
 categories:
   - Biography

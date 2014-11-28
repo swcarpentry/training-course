@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: SQL &#8211; Selecting Data'
 author: James Hiebert
-layout: post
 permalink: /2014/09/concept-map-sql-selecting-data/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: About Ian Mitchell
 author: Ian Mitchell
-layout: post
 permalink: /2012/09/about-ian-mitchell/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Sarah Simpkin
 author: Sarah Simpkin
-layout: post
 permalink: /2014/06/sarah-simpkin/
 categories:
   - Biography

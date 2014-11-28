@@ -1,7 +1,6 @@
 ---
 title: From Basic Principles to Concept Maps
 author: Greg Wilson
-layout: post
 permalink: /2014/09/from-basic-principles-to-concept-maps/
 categories:
   - Concept Map

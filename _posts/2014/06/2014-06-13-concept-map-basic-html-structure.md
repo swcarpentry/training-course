@@ -1,7 +1,6 @@
 ---
 title: 'Concept map &#8211; basic HTML structure'
 author: Catherine McGoveran
-layout: post
 permalink: /2014/06/concept-map-basic-html-structure/
 categories:
   - Concept Map

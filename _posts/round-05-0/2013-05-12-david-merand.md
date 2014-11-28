@@ -1,7 +1,6 @@
 ---
 title: David Merand
 author: David Merand
-layout: post
 permalink: /2013/05/david-merand/
 categories:
   - Biography

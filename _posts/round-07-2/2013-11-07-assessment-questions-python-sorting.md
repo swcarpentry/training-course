@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Python Sorting'
 author: Chris Waigl
-layout: post
 permalink: /2013/11/assessment-questions-python-sorting/
 categories:
   - Assessment

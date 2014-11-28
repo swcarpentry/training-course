@@ -1,7 +1,6 @@
 ---
 title: Andrea Zonca
 author: Andrea Zonca
-layout: post
 permalink: /2014/01/andrea-zonca/
 categories:
   - Biography

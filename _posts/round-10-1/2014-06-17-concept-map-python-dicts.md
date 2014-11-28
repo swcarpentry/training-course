@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: python dicts'
 author: Clare Sloggett
-layout: post
 permalink: /2014/06/concept-map-python-dicts/
 categories:
   - Concept Map

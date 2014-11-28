@@ -1,7 +1,6 @@
 ---
 title: 'MCQ Exercise: regular expressions'
 author: Brian Miles
-layout: post
 permalink: /2014/02/mcq-exercise-regular-expressions/
 categories:
   - Assessment

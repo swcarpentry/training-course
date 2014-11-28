@@ -1,7 +1,6 @@
 ---
 title: Simon Belluzzo
 author: Simon Belluzzo
-layout: post
 permalink: /2013/05/simon-belluzzo/
 categories:
   - Biography

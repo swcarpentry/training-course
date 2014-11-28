@@ -1,7 +1,6 @@
 ---
 title: 'Demotivating experience &#8211; climbing course'
 author: Klemens Noga
-layout: post
 permalink: /2014/07/demotivating-experience-climbing-course/
 categories:
   - Motivation

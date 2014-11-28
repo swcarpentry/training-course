@@ -1,7 +1,6 @@
 ---
 title: Alistair Blachford
 author: Alistair Blachford
-layout: post
 permalink: /2014/04/alistair-blachford/
 categories:
   - Biography

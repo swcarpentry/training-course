@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Creating functions'
 author: Olivier Lafleur
-layout: post
 permalink: /2014/10/assessment-creating-functions/
 categories:
   - Assessment

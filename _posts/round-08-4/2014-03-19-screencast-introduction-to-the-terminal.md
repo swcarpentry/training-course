@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Introduction to the Terminal'
 author: Gabriel Devenyi
-layout: post
 permalink: /2014/03/screencast-introduction-to-the-terminal/
 categories:
   - Round 08/4

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: subversion'
 author: Kara Woo
-layout: post
 permalink: /2014/06/concept-map-subversion/
 categories:
   - Concept Map

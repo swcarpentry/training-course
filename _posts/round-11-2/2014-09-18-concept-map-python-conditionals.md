@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Python Conditionals'
 author: Birgit Bachler
-layout: post
 permalink: /2014/09/concept-map-python-conditionals/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Tutorial Critique: Regular Expressions'
 author: Nichole Bennett
-layout: post
 permalink: /2013/08/tutorial-critique-regular-expressions-2/
 categories:
   - Round 05/4

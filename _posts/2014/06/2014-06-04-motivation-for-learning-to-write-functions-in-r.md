@@ -1,7 +1,6 @@
 ---
 title: Motivation for learning to write functions in R
 author: Dan Warren
-layout: post
 permalink: /2014/06/motivation-for-learning-to-write-functions-in-r/
 categories:
   - Uncategorized

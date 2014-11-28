@@ -1,7 +1,6 @@
 ---
 title: Multiple Choice Questions on vi
 author: David Worth
-layout: post
 permalink: /2013/10/multiple-choice-questions-on-vi/
 categories:
   - Assessment

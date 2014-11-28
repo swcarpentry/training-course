@@ -1,7 +1,6 @@
 ---
 title: Francisco Palm
 author: Francisco Palm
-layout: post
 permalink: /2014/05/francisco-palm/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Motivation: Daniel Hocking'
 author: Daniel Hocking
-layout: post
 permalink: /2014/02/motivation-daniel-hocking/
 categories:
   - Motivation

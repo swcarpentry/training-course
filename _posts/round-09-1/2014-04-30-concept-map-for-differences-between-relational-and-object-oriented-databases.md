@@ -1,7 +1,6 @@
 ---
 title: Concept Map for Differences Between Relational and Object-Oriented Databases
 author: Russell Alleen-Willems
-layout: post
 permalink: /2014/04/concept-map-for-differences-between-relational-and-object-oriented-databases/
 categories:
   - Concept Map

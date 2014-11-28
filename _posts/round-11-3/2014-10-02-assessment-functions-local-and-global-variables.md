@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Functions, local and global variables'
 author: Ramalingam Saravanan
-layout: post
 permalink: /2014/10/assessment-functions-local-and-global-variables/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: don&#8217;t hold students back'
 author: Juan Nunez-Iglesias
-layout: post
 permalink: /2014/10/demotivation-dont-hold-students-back/
 categories:
   - Uncategorized

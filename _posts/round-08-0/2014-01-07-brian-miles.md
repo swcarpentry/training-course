@@ -1,7 +1,6 @@
 ---
 title: Brian Miles
 author: Brian Miles
-layout: post
 permalink: /2014/01/brian-miles/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Screencast proposal: git branching'
 author: Karmel Allison
-layout: post
 permalink: /2013/06/screencast-proposal-git-branching/
 categories:
   - Round 05/3

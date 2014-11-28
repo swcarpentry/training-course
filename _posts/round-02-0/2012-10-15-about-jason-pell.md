@@ -1,7 +1,6 @@
 ---
 title: About Jason Pell
 author: Jason Pell
-layout: post
 permalink: /2012/10/about-jason-pell/
 categories:
   - Biography

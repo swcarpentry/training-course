@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Loading functions from file'
 author: Marianne Corvellec
-layout: post
 permalink: /2013/04/assessment-questions-loading-functions-from-file/
 categories:
   - Proficiency

@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design: Python Dictionaries'
 author: Johnny Lin
-layout: post
 permalink: /2014/07/reverse-instructional-design-python-dictionaries/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Daniel Chen
 author: Daniel Chen
-layout: post
 permalink: /2014/01/daniel-chen/
 categories:
   - Biography

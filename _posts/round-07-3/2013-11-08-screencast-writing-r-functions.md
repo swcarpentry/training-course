@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Writing Custom R Functions'
 author: Daniel Hocking
-layout: post
 permalink: /2013/11/screencast-writing-r-functions/
 categories:
   - Round 07/3

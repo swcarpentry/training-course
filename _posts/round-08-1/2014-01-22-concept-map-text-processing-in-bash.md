@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Text Processing in Bash'
 author: Gabriel Devenyi
-layout: post
 permalink: /2014/01/concept-map-text-processing-in-bash/
 categories:
   - Concept Map

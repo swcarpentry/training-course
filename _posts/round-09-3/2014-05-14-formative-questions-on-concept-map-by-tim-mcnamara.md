@@ -1,7 +1,6 @@
 ---
 title: Formative questions on function concept map by Tim McNamara
 author: Matthew Dimmock
-layout: post
 permalink: /2014/05/formative-questions-on-concept-map-by-tim-mcnamara/
 categories:
   - Assessment

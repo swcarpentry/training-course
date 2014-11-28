@@ -1,7 +1,6 @@
 ---
 title: 'Assessment – Git: A Better Kind of Backup'
 author: Jonathan Gross
-layout: post
 permalink: /2014/10/assessment-git-a-better-kind-of-backup/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Double-Barrelled UBC Workshop (Part 1)
 author: Greg Wilson
-layout: post
 permalink: /2012/10/double-barrelled-ubc-workshop-part-1/
 categories:
   - Reports

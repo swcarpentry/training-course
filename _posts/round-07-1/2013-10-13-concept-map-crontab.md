@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: crontab'
 author: Ofer Bartal
-layout: post
 permalink: /2013/10/concept-map-crontab/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Motivating molecular biologists to develop computational skills
 author: David Schryer
-layout: post
 permalink: /2014/02/motivating-molecular-biologists-to-develop-computational-skills/
 categories:
   - Motivation

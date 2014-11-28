@@ -1,7 +1,6 @@
 ---
 title: Tidbit about rote vs. meaningful learning
 author: Amy Brown
-layout: post
 permalink: /2013/01/tidbit-about-rote-vs-meaningful-learning/
 categories:
   - Noticed

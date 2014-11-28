@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: formatting e-mail addresses using Vim'
 author: Shoaib Sufi
-layout: post
 permalink: /2013/07/screencast-formatting-e-mail-addresses-using-vim/
 categories:
   - Round 05/3

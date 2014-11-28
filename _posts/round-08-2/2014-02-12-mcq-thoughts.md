@@ -1,7 +1,6 @@
 ---
 title: MCQ Thoughts
 author: Patrick Marsh
-layout: post
 permalink: /2014/02/mcq-thoughts/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Victoria Offord'
 author: Victoria Offord
-layout: post
 permalink: /2014/03/biography-victoria-offord/
 categories:
   - Biography

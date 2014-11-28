@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: intro to SQL databases'
 author: Ben Morris
-layout: post
 permalink: /2013/02/concept-map-intro-to-sql-databases/
 categories:
   - Concept Map

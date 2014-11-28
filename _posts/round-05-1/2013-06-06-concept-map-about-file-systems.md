@@ -1,7 +1,6 @@
 ---
 title: Concept Map about file systems
 author: Kirsten Fagnan
-layout: post
 permalink: /2013/06/concept-map-about-file-systems/
 categories:
   - Concept Map

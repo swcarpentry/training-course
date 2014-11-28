@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: Combining Changes from Multiple Streams of Development'
 author: James Harmon
-layout: post
 permalink: /2014/02/mcq-topic-combining-changes-from-multiple-streams-of-development/
 categories:
   - Assessment

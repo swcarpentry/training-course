@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; Python functions'
 author: Cody Hinchliff
-layout: post
 permalink: /2014/10/assessment-python-functions-3/
 categories:
   - Assessment

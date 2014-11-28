@@ -1,7 +1,6 @@
 ---
 title: Aaron Garoutte
 author: Aaron Garoutte
-layout: post
 permalink: /2013/10/aaron-garoutte/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Bio: Thomas Scheidsteger'
 author: Thomas Scheidsteger
-layout: post
 permalink: /2014/06/bio-thomas-scheidsteger/
 categories:
   - Biography

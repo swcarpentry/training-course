@@ -1,7 +1,6 @@
 ---
 title: 'Motivation &#8211; Justin K'
 author: Justin Kitzes
-layout: post
 permalink: /2012/09/motivation-justin-k/
 categories:
   - Motivation

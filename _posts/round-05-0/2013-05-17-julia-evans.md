@@ -1,7 +1,6 @@
 ---
 title: Julia Evans
 author: Julia Evans
-layout: post
 permalink: /2013/05/julia-evans/
 categories:
   - Biography

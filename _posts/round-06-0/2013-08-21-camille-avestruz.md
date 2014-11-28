@@ -1,7 +1,6 @@
 ---
 title: Camille Avestruz
 author: Camille Avestruz
-layout: post
 permalink: /2013/08/camille-avestruz/
 categories:
   - Biography

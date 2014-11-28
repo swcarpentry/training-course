@@ -1,7 +1,6 @@
 ---
 title: Comments on SWC Teaching04
 author: Diego Barneche
-layout: post
 permalink: /2013/06/comments-on-swc-teaching04/
 categories:
   - Round 04/5

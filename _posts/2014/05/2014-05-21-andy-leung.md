@@ -1,7 +1,6 @@
 ---
 title: Andy Leung
 author: Andy Leung
-layout: post
 permalink: /2014/05/andy-leung/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Mastery Table: Data Management'
 author: Kwasi Kwakwa
-layout: post
 permalink: /2013/02/mastery-table-data-management/
 categories:
   - Proficiency

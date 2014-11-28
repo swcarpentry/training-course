@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Padraic Stack'
 author: Padraic Stack
-layout: post
 permalink: /2014/03/biography-padraic-stack/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Concept Map Concept Map
 author: Jorden Schossau
-layout: post
 permalink: /2013/04/concept-map-concept-map-2/
 categories:
   - Concept Map

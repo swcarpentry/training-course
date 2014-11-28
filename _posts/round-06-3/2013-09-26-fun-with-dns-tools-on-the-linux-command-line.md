@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Fun with DNS tools on the Linux command line'
 author: Dave Lane
-layout: post
 permalink: /2013/09/fun-with-dns-tools-on-the-linux-command-line/
 categories:
   - Round 06/3

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Bash command line'
 author: Camille Avestruz
-layout: post
 permalink: /2013/09/assessment-questions-bash-command-line/
 categories:
   - Assessment

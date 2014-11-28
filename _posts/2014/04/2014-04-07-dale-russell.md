@@ -1,7 +1,6 @@
 ---
 title: Dale Russell
 author: Dale Russell
-layout: post
 permalink: /2014/04/dale-russell/
 categories:
   - Live 01

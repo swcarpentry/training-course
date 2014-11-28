@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: An introduction to web APIs'
 author: Matt Hall
-layout: post
 permalink: /2014/02/an-introduction-to-web-apis/
 categories:
   - Assessment

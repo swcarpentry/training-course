@@ -1,7 +1,6 @@
 ---
 title: 'Final project: Indexing in SQL'
 author: Philipp Bayer
-layout: post
 permalink: /2013/08/final-project-indexing-in-sql/
 categories:
   - Round 05/5

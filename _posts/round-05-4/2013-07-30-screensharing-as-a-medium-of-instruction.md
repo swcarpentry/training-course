@@ -1,7 +1,6 @@
 ---
 title: Screensharing as a Medium of Instruction
 author: Shreyas Cholia
-layout: post
 permalink: /2013/07/screensharing-as-a-medium-of-instruction/
 categories:
   - Round 05/4

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Image Processing'
 author: Matthew Dimmock
-layout: post
 permalink: /2014/04/concept-map-image-processing/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Question: Compiled and Interpreted Languages'
 author: ablackpz
-layout: post
 permalink: /2013/09/assessment-question-compiled-and-interpreted-languages/
 categories:
   - Assessment

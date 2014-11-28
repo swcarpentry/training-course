@@ -1,7 +1,6 @@
 ---
 title: Python functions vs. methods
 author: Jessica Hamrick
-layout: post
 permalink: /2013/06/python-functions-vs-methods/
 categories:
   - Proficiency

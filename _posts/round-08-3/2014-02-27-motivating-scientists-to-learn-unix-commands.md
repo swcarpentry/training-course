@@ -1,7 +1,6 @@
 ---
 title: 'Motivating scientists to learn Unix commands:'
 author: ablackpz
-layout: post
 permalink: /2014/02/motivating-scientists-to-learn-unix-commands/
 categories:
   - Motivation

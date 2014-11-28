@@ -1,7 +1,6 @@
 ---
 title: Screencast idea proposal
 author: Luke Lee
-layout: post
 permalink: /2013/06/screencast-idea-proposal/
 categories:
   - Round 05/3

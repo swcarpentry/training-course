@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: The Unix Shell &#8211; Files and Directories'
 author: Emilia Gan
-layout: post
 permalink: /2014/10/assessment-the-unix-shell-files-and-directories/
 categories:
   - Assessment

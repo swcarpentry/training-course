@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation &#8211; sport'
 author: Jane Lewis
-layout: post
 permalink: /2014/07/demotivation-sport/
 categories:
   - Motivation

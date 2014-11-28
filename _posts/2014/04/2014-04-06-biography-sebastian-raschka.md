@@ -1,7 +1,6 @@
 ---
 title: Sebastian Raschka
 author: Sebastian Raschka
-layout: post
 permalink: /2014/04/biography-sebastian-raschka/
 categories:
   - Biography

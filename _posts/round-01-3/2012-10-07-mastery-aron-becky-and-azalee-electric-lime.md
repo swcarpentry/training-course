@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Aron, Becky, and Azalee (Electric Lime)'
 author: Azalee Bostroem
-layout: post
 permalink: /2012/10/mastery-aron-becky-and-azalee-electric-lime/
 categories:
   - Proficiency

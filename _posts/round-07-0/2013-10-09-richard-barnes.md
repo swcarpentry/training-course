@@ -1,7 +1,6 @@
 ---
 title: Richard Barnes
 author: Richard Barnes
-layout: post
 permalink: /2013/10/richard-barnes/
 categories:
   - Biography

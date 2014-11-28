@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Git'
 author: Ana
-layout: post
 permalink: /2014/06/concept-map-git-2/
 categories:
   - Concept Map

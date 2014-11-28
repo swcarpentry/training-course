@@ -1,7 +1,6 @@
 ---
 title: 'Round 1.4: Matt on Array Math'
 author: Matt Davis
-layout: post
 permalink: /2012/11/round-1-4-matt-on-array-math/
 categories:
   - Lesson

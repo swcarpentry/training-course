@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Git: how to contribute to an upstream with a feature branch'
 author: Joon Ro
-layout: post
 permalink: /2014/01/concept-map-git-how-to-contribute-to-an-upstream-with-a-feature-branch/
 categories:
   - Concept Map

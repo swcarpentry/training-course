@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Functional vs Procedural languages'
 author: Stefan van der Walt
-layout: post
 permalink: /2013/04/concept-map-functional-vs-procedural-languages/
 categories:
   - Concept Map

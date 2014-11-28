@@ -1,7 +1,6 @@
 ---
 title: Motivation for learning functions
 author: Isabel Fenton
-layout: post
 permalink: /2014/06/motivation-for-learning-functions/
 categories:
   - Motivation

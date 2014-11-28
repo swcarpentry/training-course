@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: remediation for all!'
 author: Orion Buske
-layout: post
 permalink: /2014/10/demotivation-remediation-for-all/
 categories:
   - Motivation

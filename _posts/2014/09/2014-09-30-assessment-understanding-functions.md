@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Understanding Functions'
 author: Maneesha Sane
-layout: post
 permalink: /2014/09/assessment-understanding-functions/
 categories:
   - Assessment

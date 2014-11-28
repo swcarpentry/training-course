@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Heather Gunning
-layout: post
 permalink: /2014/10/demotivation-3/
 categories:
   - Motivation

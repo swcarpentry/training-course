@@ -1,7 +1,6 @@
 ---
 title: Numpy Array Creation Concept Map
 author: Jacob Vanderplas
-layout: post
 permalink: /2013/03/numpy-array-creation-concept-map/
 categories:
   - Concept Map

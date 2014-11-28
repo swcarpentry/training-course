@@ -1,7 +1,6 @@
 ---
 title: 'Motivation &#8211; Becky'
 author: Becky Stewart
-layout: post
 permalink: /2012/09/motivation-becky/
 categories:
   - Motivation

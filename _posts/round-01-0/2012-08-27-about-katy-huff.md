@@ -1,7 +1,6 @@
 ---
 title: About Katy Huff
 author: Katy Huff
-layout: post
 permalink: /2012/08/about-katy-huff/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Motivational Screencast on Plotting in Python
 author: Jeremiah Lant
-layout: post
 permalink: /2014/05/motivational-screencast-on-plotting-in-python/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: Heather Gunning
 author: Heather Gunning
-layout: post
 permalink: /2014/09/heather-gunning/
 categories:
   - Biography

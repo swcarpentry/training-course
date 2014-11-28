@@ -1,7 +1,6 @@
 ---
 title: Matthew Rupp
 author: Matthew Rupp
-layout: post
 permalink: /2013/05/matthew-rupp/
 categories:
   - Biography

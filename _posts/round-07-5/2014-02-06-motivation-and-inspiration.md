@@ -1,7 +1,6 @@
 ---
 title: Motivation and Inspiration
 author: Naupaka Zimmerman
-layout: post
 permalink: /2014/02/motivation-and-inspiration/
 categories:
   - Motivation

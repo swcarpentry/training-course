@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Unit Tests'
 author: Neem Serra
-layout: post
 permalink: /2014/01/concept-map-unit-tests/
 categories:
   - Concept Map

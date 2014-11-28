@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map : Version Control'
 author: Jane Lewis
-layout: post
 permalink: /2014/06/concept-map-version-control/
 categories:
   - Concept Map

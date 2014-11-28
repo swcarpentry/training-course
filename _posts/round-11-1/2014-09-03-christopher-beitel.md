@@ -1,7 +1,6 @@
 ---
 title: Christopher Beitel
 author: Christopher Beitel
-layout: post
 permalink: /2014/09/christopher-beitel/
 categories:
   - Biography

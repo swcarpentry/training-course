@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: Unbounded Expectations'
 author: James Hiebert
-layout: post
 permalink: /2014/10/demotivation-unbounded-expectations/
 categories:
   - Motivation

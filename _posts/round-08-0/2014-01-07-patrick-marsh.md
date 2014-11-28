@@ -1,7 +1,6 @@
 ---
 title: Patrick Marsh
 author: Patrick Marsh
-layout: post
 permalink: /2014/01/patrick-marsh/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment question: wavread'
 author: Daniel McCloy
-layout: post
 permalink: /2013/04/assessment-question-wavread/
 categories:
   - Proficiency

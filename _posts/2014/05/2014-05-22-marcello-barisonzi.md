@@ -1,7 +1,6 @@
 ---
 title: Marcello Barisonzi
 author: Marcello Barisonzi
-layout: post
 permalink: /2014/05/marcello-barisonzi/
 categories:
   - Biography

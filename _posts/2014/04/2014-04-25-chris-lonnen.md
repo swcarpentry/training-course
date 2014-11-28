@@ -1,7 +1,6 @@
 ---
 title: Chris Lonnen
 author: Chris Lonnen
-layout: post
 permalink: /2014/04/chris-lonnen/
 categories:
   - Biography

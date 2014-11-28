@@ -1,7 +1,6 @@
 ---
 title: 'Screencast &#8211; fixing database entries in Rails using rake'
 author: Philipp Bayer
-layout: post
 permalink: /2013/06/screencast-fixing-database-entries-in-rails-using-rake/
 categories:
   - Round 05/3

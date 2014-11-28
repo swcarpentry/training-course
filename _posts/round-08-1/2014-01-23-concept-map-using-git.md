@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Using Git'
 author: Evan Bianco
-layout: post
 permalink: /2014/01/concept-map-using-git/
 categories:
   - Concept Map

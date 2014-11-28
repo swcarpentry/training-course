@@ -1,7 +1,6 @@
 ---
 title: Assessing expertise of getting data into R
 author: Daniel Hocking
-layout: post
 permalink: /2013/11/assessing-expertise-of-getting-data-into-r/
 categories:
   - Assessment

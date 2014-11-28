@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Matthew Dimmock'
 author: Matthew Dimmock
-layout: post
 permalink: /2014/03/biography-matthew-dimmock/
 categories:
   - Biography

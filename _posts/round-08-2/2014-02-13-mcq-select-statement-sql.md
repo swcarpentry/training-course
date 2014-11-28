@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: SELECT Statement (SQL)'
 author: Abigail Cabunoc
-layout: post
 permalink: /2014/02/mcq-select-statement-sql/
 categories:
   - Assessment

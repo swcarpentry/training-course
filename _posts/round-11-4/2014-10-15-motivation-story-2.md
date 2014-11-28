@@ -1,7 +1,6 @@
 ---
 title: Motivation Story
 author: Roberto Vitillo
-layout: post
 permalink: /2014/10/motivation-story-2/
 categories:
   - Motivation

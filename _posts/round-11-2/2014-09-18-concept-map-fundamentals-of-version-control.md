@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Fundamentals of Version Control'
 author: Juan Nunez-Iglesias
-layout: post
 permalink: /2014/09/concept-map-fundamentals-of-version-control/
 categories:
   - Concept Map

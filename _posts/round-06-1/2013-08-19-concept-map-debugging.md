@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: debugging'
 author: Damien Irving
-layout: post
 permalink: /2013/08/concept-map-debugging/
 categories:
   - Concept Map

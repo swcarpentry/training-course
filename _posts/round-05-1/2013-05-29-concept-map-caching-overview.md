@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Caching Overview'
 author: Simon Belluzzo
-layout: post
 permalink: /2013/05/concept-map-caching-overview/
 categories:
   - Concept Map

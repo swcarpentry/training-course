@@ -1,7 +1,6 @@
 ---
 title: Molly Gibson
 author: Molly Gibson
-layout: post
 permalink: /2013/08/molly-gibson/
 categories:
   - Biography

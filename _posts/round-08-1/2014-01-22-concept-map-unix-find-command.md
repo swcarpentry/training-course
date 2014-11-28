@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Unix find command'
 author: Jeramia Ory
-layout: post
 permalink: /2014/01/concept-map-unix-find-command/
 categories:
   - Concept Map

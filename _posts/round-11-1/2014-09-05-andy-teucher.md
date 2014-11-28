@@ -1,7 +1,6 @@
 ---
 title: Andy Teucher
 author: Andy Teucher
-layout: post
 permalink: /2014/09/andy-teucher/
 categories:
   - Biography

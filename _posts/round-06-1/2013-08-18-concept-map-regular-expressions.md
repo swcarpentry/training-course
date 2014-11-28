@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Regular Expressions'
 author: Molly Gibson
-layout: post
 permalink: /2013/08/concept-map-regular-expressions/
 categories:
   - Concept Map

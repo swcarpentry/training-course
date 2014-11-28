@@ -1,7 +1,6 @@
 ---
 title: A Few Changes
 author: Greg Wilson
-layout: post
 permalink: /2012/10/a-few-changes/
 categories:
   - Meta

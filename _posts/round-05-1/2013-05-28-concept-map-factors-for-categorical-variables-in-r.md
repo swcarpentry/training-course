@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: factors for categorical variables in R'
 author: Jennifer Bryan
-layout: post
 permalink: /2013/05/concept-map-factors-for-categorical-variables-in-r/
 categories:
   - Concept Map

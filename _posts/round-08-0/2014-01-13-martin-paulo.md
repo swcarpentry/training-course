@@ -1,7 +1,6 @@
 ---
 title: Martin Paulo
 author: Martin Paulo
-layout: post
 permalink: /2014/01/martin-paulo/
 categories:
   - Biography

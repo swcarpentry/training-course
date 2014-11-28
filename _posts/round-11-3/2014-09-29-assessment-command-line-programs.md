@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Command-Line Programs'
 author: Isabelle Laforest
-layout: post
 permalink: /2014/09/assessment-command-line-programs/
 categories:
   - Assessment

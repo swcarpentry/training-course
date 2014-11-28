@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Assignment statements in Python'
 author: Mariela Perignon
-layout: post
 permalink: /2014/10/assessment-assignment-statements-in-python/
 categories:
   - Assessment

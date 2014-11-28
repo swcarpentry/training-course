@@ -1,7 +1,6 @@
 ---
 title: 'screencast: gnu parallel'
 author: Jonah Duckles
-layout: post
 permalink: /2013/09/gnu-parallel/
 categories:
   - Round 06/3

@@ -1,7 +1,6 @@
 ---
 title: 'Class wrap up &#8211; Azalee Bostroem'
 author: Azalee Bostroem
-layout: post
 permalink: /2012/12/class-wrap-up-azalee-bostroem/
 categories:
   - Round 01/5

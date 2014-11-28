@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Mutable vs Immutable Objects in Python'
 author: Matt Terry
-layout: post
 permalink: /2013/04/assessment-mutable-vs-immutable-objects-in-python/
 categories:
   - Proficiency

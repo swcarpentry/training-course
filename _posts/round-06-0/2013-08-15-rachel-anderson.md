@@ -1,7 +1,6 @@
 ---
 title: Rachel Anderson
 author: Rachel Anderson
-layout: post
 permalink: /2013/08/rachel-anderson/
 categories:
   - Biography

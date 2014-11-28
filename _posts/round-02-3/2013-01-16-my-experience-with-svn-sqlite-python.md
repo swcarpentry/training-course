@@ -1,7 +1,6 @@
 ---
 title: My Experience with SVN + SQLite + Python
 author: Alex Viana
-layout: post
 permalink: /2013/01/my-experience-with-svn-sqlite-python/
 categories:
   - Connections

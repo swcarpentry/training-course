@@ -1,7 +1,6 @@
 ---
 title: 'Biography &#8211; Anne Moroney, NYC &#8211; Round 8.0'
 author: Anne Moroney
-layout: post
 permalink: /2014/01/biography-anne-moroney-nyc-round-8-1/
 categories:
   - Biography

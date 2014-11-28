@@ -1,7 +1,6 @@
 ---
 title: Shoaib Sufi
 author: Shoaib Sufi
-layout: post
 permalink: /2013/05/shoaib-sufi/
 categories:
   - Biography

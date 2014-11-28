@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Video Analysis Introduction'
 author: Nicolas Saunier
-layout: post
 permalink: /2013/09/video-analysis-introduction/
 categories:
   - Round 06/3

@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.2: Short teaching video on level and game environments.'
 author: Oliver Szymanezyk
-layout: post
 permalink: /2012/12/short-teaching-video-on-level-and-game-environments/
 categories:
   - Round 02/2

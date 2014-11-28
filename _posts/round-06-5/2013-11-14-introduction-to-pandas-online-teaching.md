@@ -1,7 +1,6 @@
 ---
 title: 'Introduction to Pandas &#8211; Online teaching'
 author: Julian Garcia
-layout: post
 permalink: /2013/11/introduction-to-pandas-online-teaching/
 categories:
   - Lesson

@@ -1,7 +1,6 @@
 ---
 title: Assessment for python dicts (Aur Saraf)
 author: Aur Saraf
-layout: post
 permalink: /2014/05/assessment-for-python-dicts-aur-saraf/
 categories:
   - Assessment

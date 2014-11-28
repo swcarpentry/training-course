@@ -1,7 +1,6 @@
 ---
 title: 'screencast: exploratory plots in R ggplot2'
 author: Robert Flight
-layout: post
 permalink: /2013/11/screencast-ggplot2-r/
 categories:
   - Round 07/3

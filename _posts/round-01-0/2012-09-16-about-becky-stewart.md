@@ -1,7 +1,6 @@
 ---
 title: About Becky Stewart
 author: Becky Stewart
-layout: post
 permalink: /2012/09/about-becky-stewart/
 categories:
   - Biography

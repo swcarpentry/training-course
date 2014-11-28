@@ -1,7 +1,6 @@
 ---
 title: Assessment – data aggregation with dplyr
 author: Kara Woo
-layout: post
 permalink: /2014/07/assessment-data-aggregation-with-dplyr/
 categories:
   - Assessment

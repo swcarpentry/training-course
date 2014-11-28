@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Internet Protocol Subnet Masks'
 author: Patrick Calhoun
-layout: post
 permalink: /2013/08/concept-map-internet-protocol-subnet-masks/
 categories:
   - Concept Map

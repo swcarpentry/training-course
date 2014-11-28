@@ -1,7 +1,6 @@
 ---
 title: Reverse Instructional Design — Insert and Select in SQL
 author: Rainer Kiko
-layout: post
 permalink: /2014/07/reverse-instructional-design-insert-and-select-in-sql/
 categories:
   - Round 10/3

@@ -1,7 +1,6 @@
 ---
 title: 'Motivation: Collaborative writing using version control'
 author: Joshua Adelman
-layout: post
 permalink: /2014/02/motivation-collaborative-writing-using-version-control/
 categories:
   - Motivation

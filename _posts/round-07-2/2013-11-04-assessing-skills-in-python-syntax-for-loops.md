@@ -1,7 +1,6 @@
 ---
 title: 'Assessing Skills in Python Syntax &#038; For-Loops'
 author: Sharon Benjamin
-layout: post
 permalink: /2013/11/assessing-skills-in-python-syntax-for-loops/
 categories:
   - Assessment

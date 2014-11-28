@@ -1,7 +1,6 @@
 ---
 title: Cody Hinchliff
 author: Cody Hinchliff
-layout: post
 permalink: /2014/09/cody-hinchliff/
 categories:
   - Biography

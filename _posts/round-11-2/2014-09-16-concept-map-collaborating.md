@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Collaborating'
 author: Olivier Lafleur
-layout: post
 permalink: /2014/09/concept-map-collaborating/
 categories:
   - Concept Map

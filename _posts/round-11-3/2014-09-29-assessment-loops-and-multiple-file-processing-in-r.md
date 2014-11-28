@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8212; loops and multiple file processing in R'
 author: François Michonneau
-layout: post
 permalink: /2014/09/assessment-loops-and-multiple-file-processing-in-r/
 categories:
   - Assessment

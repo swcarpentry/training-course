@@ -1,7 +1,6 @@
 ---
 title: Jonathan Strootman
 author: Jonathan Strootman
-layout: post
 permalink: /2014/04/biography-jonathan-strootman/
 categories:
   - Biography

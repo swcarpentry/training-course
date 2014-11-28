@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: shell intro'
 author: Christina Koch
-layout: post
 permalink: /2013/08/concept-map-shell-intro/
 categories:
   - Concept Map

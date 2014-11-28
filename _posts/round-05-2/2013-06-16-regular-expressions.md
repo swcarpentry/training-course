@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice assessment: Regular expressions'
 author: Julia Evans
-layout: post
 permalink: /2013/06/regular-expressions/
 categories:
   - Proficiency

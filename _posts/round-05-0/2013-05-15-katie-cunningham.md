@@ -1,7 +1,6 @@
 ---
 title: 'Katie Cunningham: who am I?'
 author: Katie Cunningham
-layout: post
 permalink: /2013/05/katie-cunningham/
 categories:
   - Biography

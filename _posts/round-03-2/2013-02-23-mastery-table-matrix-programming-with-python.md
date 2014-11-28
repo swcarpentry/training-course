@@ -1,7 +1,6 @@
 ---
 title: 'Mastery Table: Matrix Programming with Python'
 author: Joon Ro
-layout: post
 permalink: /2013/02/mastery-table-matrix-programming-with-python/
 categories:
   - Proficiency

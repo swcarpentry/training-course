@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map:  Bash Command Line'
 author: Camille Avestruz
-layout: post
 permalink: /2013/08/concept-map-bash-command-line/
 categories:
   - Concept Map

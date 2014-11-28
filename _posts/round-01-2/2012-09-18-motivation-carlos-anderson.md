@@ -1,7 +1,6 @@
 ---
 title: Motivation – Carlos Anderson
 author: Carlos Anderson
-layout: post
 permalink: /2012/09/motivation-carlos-anderson/
 categories:
   - Motivation

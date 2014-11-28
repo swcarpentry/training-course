@@ -1,7 +1,6 @@
 ---
 title: P Alex Demarsh
 author: Alex Demarsh
-layout: post
 permalink: /2013/09/p-alex-demarsh/
 categories:
   - Biography

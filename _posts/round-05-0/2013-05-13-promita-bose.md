@@ -1,7 +1,6 @@
 ---
 title: Promita Bose
 author: Promita Bose
-layout: post
 permalink: /2013/05/promita-bose/
 categories:
   - Biography

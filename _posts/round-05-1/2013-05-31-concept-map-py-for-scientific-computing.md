@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Py for Scientific Computing'
 author: Martin Schilling
-layout: post
 permalink: /2013/05/concept-map-py-for-scientific-computing/
 categories:
   - Concept Map

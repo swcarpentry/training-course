@@ -1,7 +1,6 @@
 ---
 title: 'Assessment questions &#8211; Looping in R'
 author: Daniel Noble
-layout: post
 permalink: /2013/04/assessment-questions-looping-in-r/
 categories:
   - Proficiency

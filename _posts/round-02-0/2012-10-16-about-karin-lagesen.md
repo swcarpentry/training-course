@@ -1,7 +1,6 @@
 ---
 title: About Karin Lagesen
 author: Karin Lagesen
-layout: post
 permalink: /2012/10/about-karin-lagesen/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: If statements
 author: Karin Lagesen
-layout: post
 permalink: /2012/10/if-statements/
 categories:
   - Concept Map

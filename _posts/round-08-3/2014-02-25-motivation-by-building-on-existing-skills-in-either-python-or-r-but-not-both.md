@@ -1,7 +1,6 @@
 ---
 title: Motivation by building on existing skills in either Python or R, but not both
 author: Chris Friedline
-layout: post
 permalink: /2014/02/motivation-by-building-on-existing-skills-in-either-python-or-r-but-not-both/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: Vicky Schneider-Gricar
 author: Vicky Schneider-Gricar
-layout: post
 permalink: /2013/10/vicky-schneider-gricar/
 categories:
   - Biography

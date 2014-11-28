@@ -1,7 +1,6 @@
 ---
 title: Concept Map for Regular Expressions
 author: Shyam Rallapalli
-layout: post
 permalink: /2014/04/concept-map-for-regular-expressions/
 categories:
   - Concept Map

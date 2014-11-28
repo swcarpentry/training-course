@@ -1,7 +1,6 @@
 ---
 title: Helen Yezerets
 author: Helen Yezerets
-layout: post
 permalink: /2014/01/helen-yezerets/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: yield in python'
 author: Jean-Christophe Leyder
-layout: post
 permalink: /2014/01/concept-map-yield-in-python/
 categories:
   - Concept Map

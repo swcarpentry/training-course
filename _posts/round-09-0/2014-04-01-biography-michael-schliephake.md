@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Michael Schliephake'
 author: Michael Schliephake
-layout: post
 permalink: /2014/04/biography-michael-schliephake/
 categories:
   - Biography

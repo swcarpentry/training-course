@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Aggregation in SQL'
 author: Robert Beagrie
-layout: post
 permalink: /2014/03/screencast-aggregation-in-sql/
 categories:
   - Round 08/4

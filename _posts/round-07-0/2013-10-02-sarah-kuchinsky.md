@@ -1,7 +1,6 @@
 ---
 title: Sarah Kuchinsky
 author: Sarah Kuchinsky
-layout: post
 permalink: /2013/10/sarah-kuchinsky/
 categories:
   - Biography

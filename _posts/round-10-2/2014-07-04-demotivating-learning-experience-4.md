@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Tom
-layout: post
 permalink: /2014/07/demotivating-learning-experience-4/
 categories:
   - Motivation

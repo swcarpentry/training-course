@@ -1,7 +1,6 @@
 ---
 title: Screencast—Periodic crystal rendering using VMD
 author: Neal Davis
-layout: post
 permalink: /2013/07/screencast-periodic-crystal-rendering-using-vmd/
 categories:
   - Round 05/3

@@ -1,7 +1,6 @@
 ---
 title: Assessment for Python Functions
 author: Mark Wilber
-layout: post
 permalink: /2014/05/assessment-for-python-functions/
 categories:
   - Assessment

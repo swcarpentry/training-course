@@ -1,7 +1,6 @@
 ---
 title: Mastery – Erik Bray
 author: Erik Bray
-layout: post
 permalink: /2012/09/mastery-erik-bray/
 categories:
   - Proficiency

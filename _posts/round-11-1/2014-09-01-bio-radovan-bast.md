@@ -1,7 +1,6 @@
 ---
 title: Radovan Bast
 author: Radovan Bast
-layout: post
 permalink: /2014/09/bio-radovan-bast/
 categories:
   - Biography

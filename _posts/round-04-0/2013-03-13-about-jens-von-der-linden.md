@@ -1,7 +1,6 @@
 ---
 title: About Jens von der Linden
 author: Jens von der Linden
-layout: post
 permalink: /2013/03/about-jens-von-der-linden/
 categories:
   - Biography

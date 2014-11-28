@@ -1,7 +1,6 @@
 ---
 title: Reflection on Software Carpentry Course
 author: Jens von der Linden
-layout: post
 permalink: /2013/06/reflection-on-software-carpentry-course/
 categories:
   - Round 04/5

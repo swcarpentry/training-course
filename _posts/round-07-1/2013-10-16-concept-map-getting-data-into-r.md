@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Getting Data into R'
 author: Daniel Hocking
-layout: post
 permalink: /2013/10/concept-map-getting-data-into-r/
 categories:
   - Concept Map

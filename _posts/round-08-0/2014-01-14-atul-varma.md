@@ -1,7 +1,6 @@
 ---
 title: Atul Varma
 author: Atul Varma
-layout: post
 permalink: /2014/01/atul-varma/
 categories:
   - Biography

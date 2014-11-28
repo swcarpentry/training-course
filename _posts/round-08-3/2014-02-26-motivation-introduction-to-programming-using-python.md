@@ -1,7 +1,6 @@
 ---
 title: 'Motivation: introduction to programming, using Python'
 author: Martin Paulo
-layout: post
 permalink: /2014/02/motivation-introduction-to-programming-using-python/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Motivation: Writing tests'
 author: Jason Orendorff
-layout: post
 permalink: /2014/02/motivation-writing-tests/
 categories:
   - Motivation

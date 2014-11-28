@@ -1,7 +1,6 @@
 ---
 title: Ruth Collings
 author: Ruth Collings
-layout: post
 permalink: /2014/09/ruth-collings/
 categories:
   - Biography

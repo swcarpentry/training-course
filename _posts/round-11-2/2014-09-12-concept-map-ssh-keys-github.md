@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: SSH Keys &#038; Github'
 author: Carl Boettiger
-layout: post
 permalink: /2014/09/concept-map-ssh-keys-github/
 categories:
   - Concept Map

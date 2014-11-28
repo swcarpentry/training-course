@@ -1,7 +1,6 @@
 ---
 title: Sarah Edwards
 author: Sarah Edwards
-layout: post
 permalink: /2014/06/sarah-edwards/
 categories:
   - Biography

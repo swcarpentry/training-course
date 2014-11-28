@@ -1,7 +1,6 @@
 ---
 title: 'Motivation: Python Dictionaries'
 author: Christian Jacobs
-layout: post
 permalink: /2014/05/motivation-python-dictionaries/
 categories:
   - Motivation

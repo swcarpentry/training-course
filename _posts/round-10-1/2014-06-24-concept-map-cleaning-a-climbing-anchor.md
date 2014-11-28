@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Cleaning a climbing anchor'
 author: Brian Forst
-layout: post
 permalink: /2014/06/concept-map-cleaning-a-climbing-anchor/
 categories:
   - Concept Map

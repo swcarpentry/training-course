@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Why I changed your .bash_profile'
 author: Katie Cunningham
-layout: post
 permalink: /2013/06/concept-map-why-i-changed-your-bash_profile/
 categories:
   - Concept Map

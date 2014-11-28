@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Initialize Git Repo + Simple Workflow'
 author: Abigail Cabunoc
-layout: post
 permalink: /2014/03/screencast-initialize-git-repo-simple-workflow/
 categories:
   - Round 08/4

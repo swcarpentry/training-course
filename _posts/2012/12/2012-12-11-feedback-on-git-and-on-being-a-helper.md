@@ -1,7 +1,6 @@
 ---
 title: Feedback on Git and on Being a Helper
 author: Greg Wilson
-layout: post
 permalink: /2012/12/feedback-on-git-and-on-being-a-helper/
 categories:
   - Reports

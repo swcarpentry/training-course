@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Florian Rathgeber'
 author: Florian Rathgeber
-layout: post
 permalink: /2014/04/biography-florian-rathgeber/
 categories:
   - Biography

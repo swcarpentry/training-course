@@ -1,7 +1,6 @@
 ---
 title: Classes and methods in R
 author: Fernando Mayer
-layout: post
 permalink: /2014/05/classes-and-methods-in-r/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Neem Serra
 author: Neem Serra
-layout: post
 permalink: /2014/01/neem-serra/
 categories:
   - Biography

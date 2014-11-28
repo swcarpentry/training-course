@@ -1,7 +1,6 @@
 ---
 title: Java Proficiency Questions
 author: Jordan Fish
-layout: post
 permalink: /2013/06/java-proficiency-questions/
 categories:
   - Proficiency

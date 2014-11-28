@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: data file formats'
 author: Pauline Barmby
-layout: post
 permalink: /2013/10/concept-map-data-file-formats/
 categories:
   - Concept Map

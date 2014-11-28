@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Finding Things'
 author: Kate Hertweck
-layout: post
 permalink: /2014/09/concept-map-finding-things/
 categories:
   - Concept Map

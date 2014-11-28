@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; Collaborating with Git'
 author: Hamid
-layout: post
 permalink: /2014/10/assessment-collaborating-with-git/
 categories:
   - Assessment

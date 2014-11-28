@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: List Comprehension in Python'
 author: Leszek Tarkowski
-layout: post
 permalink: /2013/08/concept-map-list-comprehension-in-python/
 categories:
   - Concept Map

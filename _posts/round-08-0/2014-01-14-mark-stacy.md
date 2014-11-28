@@ -1,7 +1,6 @@
 ---
 title: Mark Stacy
 author: Mark Stacy
-layout: post
 permalink: /2014/01/mark-stacy/
 categories:
   - Biography

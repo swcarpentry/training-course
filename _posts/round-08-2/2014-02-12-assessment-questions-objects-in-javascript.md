@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Objects in JavaScript'
 author: "Brenna O'Brien"
-layout: post
 permalink: /2014/02/assessment-questions-objects-in-javascript/
 categories:
   - Assessment

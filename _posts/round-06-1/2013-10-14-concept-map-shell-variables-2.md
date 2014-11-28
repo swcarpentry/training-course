@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Shell variables'
 author: Gayathri Swaminathan
-layout: post
 permalink: /2013/10/concept-map-shell-variables-2/
 categories:
   - Concept Map

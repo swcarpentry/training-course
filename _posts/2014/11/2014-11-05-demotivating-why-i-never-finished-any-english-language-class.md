@@ -1,7 +1,6 @@
 ---
 title: 'Demotivating: why I never finished any English language class'
 author: Sahar Rahmani
-layout: post
 permalink: /2014/11/demotivating-why-i-never-finished-any-english-language-class/
 categories:
   - Motivation

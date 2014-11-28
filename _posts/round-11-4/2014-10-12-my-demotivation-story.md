@@ -1,7 +1,6 @@
 ---
 title: My demotivation story
 author: Isabelle Laforest
-layout: post
 permalink: /2014/10/my-demotivation-story/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Using Databases &#038; SQL &#8211; Selecting Data'
 author: Eric Youngson
-layout: post
 permalink: /2014/10/assessment-using-databases-sql-selecting-data/
 categories:
   - Assessment

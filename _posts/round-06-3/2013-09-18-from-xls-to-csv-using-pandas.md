@@ -1,7 +1,6 @@
 ---
 title: From xls to csv (using pandas)
 author: Julian Garcia
-layout: post
 permalink: /2013/09/from-xls-to-csv-using-pandas/
 categories:
   - Round 06/3

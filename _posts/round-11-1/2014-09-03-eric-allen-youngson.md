@@ -1,7 +1,6 @@
 ---
 title: Eric Allen Youngson
 author: Eric Youngson
-layout: post
 permalink: /2014/09/eric-allen-youngson/
 categories:
   - Biography

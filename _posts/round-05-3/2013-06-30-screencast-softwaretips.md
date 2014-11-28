@@ -1,7 +1,6 @@
 ---
 title: Screencast software/tips?
 author: Luke Lee
-layout: post
 permalink: /2013/06/screencast-softwaretips/
 categories:
   - Round 05/3

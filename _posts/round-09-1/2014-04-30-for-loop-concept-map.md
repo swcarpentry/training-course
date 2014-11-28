@@ -1,7 +1,6 @@
 ---
 title: for loop concept map
 author: Mark Wilber
-layout: post
 permalink: /2014/04/for-loop-concept-map/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Chris Waigl
 author: Chris Waigl
-layout: post
 permalink: /2013/10/chris-waigl/
 categories:
   - Biography

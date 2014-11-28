@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Huayan Gao'
 author: Huayan Gao
-layout: post
 permalink: /2014/04/biography-huayan-gao/
 categories:
   - Biography

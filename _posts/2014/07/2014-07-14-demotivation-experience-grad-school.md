@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation Experience: grad school'
 author: Ana
-layout: post
 permalink: /2014/07/demotivation-experience-grad-school/
 categories:
   - Motivation

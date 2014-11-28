@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation &#8211; recursion'
 author: Xu Fei
-layout: post
 permalink: /2014/07/demotivation-recursion/
 categories:
   - Round 10/2

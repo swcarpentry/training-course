@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: git branch basics'
 author: Trevor Bekolay
-layout: post
 permalink: /2013/11/screencast-git-branch-basics/
 categories:
   - Round 07/3

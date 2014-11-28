@@ -1,7 +1,6 @@
 ---
 title: 'Class Wrap Up &#8211; Matt Davis'
 author: Matt Davis
-layout: post
 permalink: /2012/12/class-wrap-up-matt-davis/
 categories:
   - Round 01/5

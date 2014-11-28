@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: GIT'
 author: Cam Macdonell
-layout: post
 permalink: /2013/09/assessment-questions-git/
 categories:
   - Assessment

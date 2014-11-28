@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: 7th grade pile-on'
 author: Chris Gates
-layout: post
 permalink: /2014/10/demotivation-7th-grade-pile-on/
 categories:
   - Motivation

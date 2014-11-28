@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Creation and Deletion'
 author: Jorden Schossau
-layout: post
 permalink: /2013/04/assessment-questions-creation-and-deletion/
 categories:
   - Proficiency

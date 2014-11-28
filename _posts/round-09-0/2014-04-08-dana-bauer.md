@@ -1,7 +1,6 @@
 ---
 title: Dana Bauer
 author: Dana Bauer
-layout: post
 permalink: /2014/04/dana-bauer/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Christie Bahlai
 author: Christie Bahlai
-layout: post
 permalink: /2014/04/biography-christie-bahlai/
 categories:
   - Biography

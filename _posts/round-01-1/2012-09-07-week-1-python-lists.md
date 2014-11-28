@@ -1,7 +1,6 @@
 ---
 title: 'Week 1 &#8211; Python: Lists'
 author: Justin Kitzes
-layout: post
 permalink: /2012/09/week-1-python-lists/
 categories:
   - Concept Map

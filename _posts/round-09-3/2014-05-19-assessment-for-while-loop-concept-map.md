@@ -1,7 +1,6 @@
 ---
 title: Assessment for while-loop concept map
 author: Devasena Inupakutika
-layout: post
 permalink: /2014/05/assessment-for-while-loop-concept-map/
 categories:
   - Assessment

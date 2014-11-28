@@ -1,7 +1,6 @@
 ---
 title: gitignore
 author: Pauline Barmby
-layout: post
 permalink: /2013/12/gitignore/
 categories:
   - Online

@@ -1,7 +1,6 @@
 ---
 title: VNC Through SSH
 author: Melanie Segado
-layout: post
 permalink: /2014/02/vnc-through-ssh/
 categories:
   - Assessment

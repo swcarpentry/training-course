@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Dureid El-Moghraby'
 author: Dureid El-Moghraby
-layout: post
 permalink: /2014/03/dureid-el-moghraby/
 categories:
   - Biography

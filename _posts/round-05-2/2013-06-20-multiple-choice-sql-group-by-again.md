@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice &#8211; SQL GROUP BY &#8230; again ; )'
 author: Shoaib Sufi
-layout: post
 permalink: /2013/06/multiple-choice-sql-group-by-again/
 categories:
   - Proficiency

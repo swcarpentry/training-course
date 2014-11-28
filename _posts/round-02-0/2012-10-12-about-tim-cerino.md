@@ -1,7 +1,6 @@
 ---
 title: About Tim Cerino
 author: Tim Cerino
-layout: post
 permalink: /2012/10/about-tim-cerino/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Virtualenv'
 author: Lisa Ballard
-layout: post
 permalink: /2014/06/concept-map-virtualenv/
 categories:
   - Uncategorized

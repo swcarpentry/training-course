@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Random Number Generation in R'
 author: Dan Warren
-layout: post
 permalink: /2014/04/concept-map-random-number-generation-in-r/
 categories:
   - Concept Map

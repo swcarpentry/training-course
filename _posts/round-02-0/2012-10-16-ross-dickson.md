@@ -1,7 +1,6 @@
 ---
 title: About Ross Dickson
 author: Ross Dickson
-layout: post
 permalink: /2012/10/ross-dickson/
 categories:
   - Biography

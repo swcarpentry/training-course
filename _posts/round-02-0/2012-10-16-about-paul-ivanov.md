@@ -1,7 +1,6 @@
 ---
 title: About Paul Ivanov
 author: Paul Ivanov
-layout: post
 permalink: /2012/10/about-paul-ivanov/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Elijah Lowe
 author: Elijah Lowe
-layout: post
 permalink: /2014/04/elijah-lowe/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Object-Oriented Programming Basics'
 author: Jinwoo Leem
-layout: post
 permalink: /2013/08/concept-map-object-oriented-programming-basics/
 categories:
   - Concept Map

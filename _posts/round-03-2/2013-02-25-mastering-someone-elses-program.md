@@ -1,7 +1,6 @@
 ---
 title: 'Mastering: Someone Else&#8217;s Program'
 author: David Jones
-layout: post
 permalink: /2013/02/mastering-someone-elses-program/
 categories:
   - Proficiency

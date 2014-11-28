@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Immutable vs mutable (Python)'
 author: Franz Navarro
-layout: post
 permalink: /2014/09/concept-map-immutable-vs-mutable-python/
 categories:
   - Concept Map

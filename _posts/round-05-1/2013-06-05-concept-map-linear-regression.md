@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Linear Regression'
 author: Chris Holdgraf
-layout: post
 permalink: /2013/06/concept-map-linear-regression/
 categories:
   - Concept Map

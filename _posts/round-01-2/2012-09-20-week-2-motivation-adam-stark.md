@@ -1,7 +1,6 @@
 ---
 title: 'Week 2: Motivation &#8211; Adam Stark'
 author: Adam Stark
-layout: post
 permalink: /2012/09/week-2-motivation-adam-stark/
 categories:
   - Motivation

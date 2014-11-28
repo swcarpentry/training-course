@@ -1,7 +1,6 @@
 ---
 title: Carl Boettiger
 author: Carl Boettiger
-layout: post
 permalink: /2014/09/carl-boettiger/
 categories:
   - Biography

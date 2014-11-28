@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; mutable and immutable objects in python'
 author: Cindee Madison
-layout: post
 permalink: /2013/03/concept-map-mutable-and-immutable-objects-in-python/
 categories:
   - Concept Map

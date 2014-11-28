@@ -1,7 +1,6 @@
 ---
 title: Learning Calculus, and why one should learn Git
 author: Robert Flight
-layout: post
 permalink: /2014/01/learning-calculus-and-why-one-should-learn-git/
 categories:
   - Motivation

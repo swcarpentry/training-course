@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Permissions'
 author: Amanda Whitlock
-layout: post
 permalink: /2013/03/concept-map-permissions/
 categories:
   - Concept Map

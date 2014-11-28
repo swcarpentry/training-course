@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Johnny Lin
-layout: post
 permalink: /2014/07/demotivating-learning-experience-12/
 categories:
   - Motivation

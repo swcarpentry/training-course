@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Testing for scientists (in Python)'
 author: Chris Waigl
-layout: post
 permalink: /2013/10/concept-map-testing-for-scientists-in-python/
 categories:
   - Concept Map

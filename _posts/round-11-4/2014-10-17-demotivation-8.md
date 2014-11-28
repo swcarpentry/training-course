@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: Academic Presentations'
 author: Daniel Smith
-layout: post
 permalink: /2014/10/demotivation-8/
 categories:
   - Motivation

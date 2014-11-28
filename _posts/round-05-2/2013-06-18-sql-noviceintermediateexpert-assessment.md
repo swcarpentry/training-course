@@ -1,7 +1,6 @@
 ---
 title: SQL novice/intermediate/expert assessment
 author: David Merand
-layout: post
 permalink: /2013/06/sql-noviceintermediateexpert-assessment/
 categories:
   - Round 05/2

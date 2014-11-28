@@ -1,7 +1,6 @@
 ---
 title: What did David learn at university
 author: David Jones
-layout: post
 permalink: /2013/01/what-did-david-learn-at-university/
 categories:
   - Round 03/1

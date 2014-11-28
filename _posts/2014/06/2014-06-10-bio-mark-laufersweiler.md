@@ -1,7 +1,6 @@
 ---
 title: 'Bio: Mark Laufersweiler'
 author: Mark Laufersweiler
-layout: post
 permalink: /2014/06/bio-mark-laufersweiler/
 categories:
   - Biography

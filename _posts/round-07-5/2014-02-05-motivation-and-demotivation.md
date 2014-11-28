@@ -1,7 +1,6 @@
 ---
 title: Motivation and Demotivation
 author: Kwasi Kwakwa
-layout: post
 permalink: /2014/02/motivation-and-demotivation/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Motivational screencast: The power of list comprehensions'
 author: Florian Rathgeber
-layout: post
 permalink: /2014/05/motivational-screencast-the-power-of-list-comprehensions/
 categories:
   - Motivation

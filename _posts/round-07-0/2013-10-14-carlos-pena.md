@@ -1,7 +1,6 @@
 ---
 title: Carlos Peña
 author: Carlos Pena
-layout: post
 permalink: /2013/10/carlos-pena/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Margaret Leibovic
 author: Margaret Leibovic
-layout: post
 permalink: /2013/10/margaret-leibovic/
 categories:
   - Biography

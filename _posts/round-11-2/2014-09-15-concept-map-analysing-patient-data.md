@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Analysing patient data'
 author: Jeremy Metz
-layout: post
 permalink: /2014/09/concept-map-analysing-patient-data/
 categories:
   - Concept Map

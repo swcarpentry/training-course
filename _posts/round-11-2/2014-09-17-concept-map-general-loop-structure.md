@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: General loop structure'
 author: Asela Wijeratne
-layout: post
 permalink: /2014/09/concept-map-general-loop-structure/
 categories:
   - Concept Map

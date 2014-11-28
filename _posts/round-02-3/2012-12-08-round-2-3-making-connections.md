@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.3: Making Connections'
 author: Greg Wilson
-layout: post
 permalink: /2012/12/round-2-3-making-connections/
 categories:
   - Connections

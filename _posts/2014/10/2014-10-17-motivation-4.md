@@ -1,7 +1,6 @@
 ---
 title: Motivation
 author: Fatma Imamoglu
-layout: post
 permalink: /2014/10/motivation-4/
 categories:
   - Motivation

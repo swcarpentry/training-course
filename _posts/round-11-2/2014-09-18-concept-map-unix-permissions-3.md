@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Unix Permissions'
 author: Orion Buske
-layout: post
 permalink: /2014/09/concept-map-unix-permissions-3/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Roman Valls
-layout: post
 permalink: /2014/10/demotivation-2/
 categories:
   - Motivation

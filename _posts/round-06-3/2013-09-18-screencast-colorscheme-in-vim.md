@@ -1,7 +1,6 @@
 ---
 title: 'screencast: colorscheme in vim'
 author: Rachel Slaybaugh
-layout: post
 permalink: /2013/09/screencast-colorscheme-in-vim/
 categories:
   - Round 06/3

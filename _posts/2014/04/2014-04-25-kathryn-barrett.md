@@ -1,7 +1,6 @@
 ---
 title: Kathryn Barrett
 author: Kathryn Barrett
-layout: post
 permalink: /2014/04/kathryn-barrett/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Learners creating concept maps before coming to SWC
 author: Tracy Teal
-layout: post
 permalink: /2012/09/learners-creating-concept-maps-before-coming-to-swc/
 categories:
   - Concept Map

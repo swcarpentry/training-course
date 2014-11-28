@@ -1,7 +1,6 @@
 ---
 title: 'About Steven &#8216;Kreuvf&#8217; Koenig'
 author: "Steven 'Kreuvf' Koenig"
-layout: post
 permalink: /2013/03/about-steven-kreuvf-koenig/
 categories:
   - Biography

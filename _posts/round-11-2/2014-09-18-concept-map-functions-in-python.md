@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Functions in Python'
 author: Maneesha Sane
-layout: post
 permalink: /2014/09/concept-map-functions-in-python/
 categories:
   - Concept Map

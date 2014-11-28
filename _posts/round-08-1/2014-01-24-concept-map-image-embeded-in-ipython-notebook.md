@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Image(&#8230;,embeded=) in IPython Notebook'
 author: Matthias Bussonnier
-layout: post
 permalink: /2014/01/concept-map-image-embeded-in-ipython-notebook/
 categories:
   - Concept Map

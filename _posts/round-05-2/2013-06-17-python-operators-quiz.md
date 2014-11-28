@@ -1,7 +1,6 @@
 ---
 title: Python Operators Quiz
 author: Itamar Turner-Trauring
-layout: post
 permalink: /2013/06/python-operators-quiz/
 categories:
   - Proficiency

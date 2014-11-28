@@ -1,7 +1,6 @@
 ---
 title: Gene Goltsman
 author: Eugene Goltsman
-layout: post
 permalink: /2013/03/gene-goltsman/
 categories:
   - Biography

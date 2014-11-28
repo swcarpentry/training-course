@@ -1,7 +1,6 @@
 ---
 title: 'Bogdan&#8217;s Workshop Feedback and Comments'
 author: Bogdan Vera
-layout: post
 permalink: /2013/06/bogdans-workshop-feedback-and-comments/
 categories:
   - Round 04/5

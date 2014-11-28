@@ -1,7 +1,6 @@
 ---
 title: Assessment for Concept Match for Regular Expressions
 author: Dan MacLean
-layout: post
 permalink: /2014/05/assessment-for-concept-match-for-regular-expressions/
 categories:
   - Uncategorized

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Digital GIS Data'
 author: Jonah Duckles
-layout: post
 permalink: /2013/08/concept-map-digital-gis-data/
 categories:
   - Concept Map

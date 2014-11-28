@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Maciej Czuchry
-layout: post
 permalink: /2014/07/demotivating-learning-experience-another/
 categories:
   - Motivation

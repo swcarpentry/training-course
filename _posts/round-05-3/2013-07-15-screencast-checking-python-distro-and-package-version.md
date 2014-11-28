@@ -1,7 +1,6 @@
 ---
 title: Screencast – Checking python distro and package version
 author: Chris Holdgraf
-layout: post
 permalink: /2013/07/screencast-checking-python-distro-and-package-version/
 categories:
   - Round 05/3

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: issue tracking system'
 author: Klemens Noga
-layout: post
 permalink: /2014/06/concept-map-issue-tracking-system/
 categories:
   - Concept Map

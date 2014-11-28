@@ -1,7 +1,6 @@
 ---
 title: Abigail Cabunoc
 author: Abigail Cabunoc
-layout: post
 permalink: /2014/01/abigail-cabunoc/
 categories:
   - Biography

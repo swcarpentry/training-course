@@ -1,7 +1,6 @@
 ---
 title: Motivating novice web developers to learn Git and GitHub
 author: "Brenna O'Brien"
-layout: post
 permalink: /2014/02/motivating-novice-web-developers-to-learn-git-and-github/
 categories:
   - Motivation

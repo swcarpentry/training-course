@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.1: Writing a Unit Test'
 author: Ethan White
-layout: post
 permalink: /2012/11/round-2-1-writing-a-unit-test/
 categories:
   - Concept Map

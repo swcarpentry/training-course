@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Video Manipulation with Matlab'
 author: Tom
-layout: post
 permalink: /2014/06/concept-map-video-manipulation-with-matlab/
 categories:
   - Concept Map

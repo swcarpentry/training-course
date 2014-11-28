@@ -1,7 +1,6 @@
 ---
 title: Assessment for Learning Github
 author: Mark Stillwell
-layout: post
 permalink: /2014/05/assessment-for-learning-github/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Round 5.2: Assessment'
 author: Greg Wilson
-layout: post
 permalink: /2013/06/round-5-2-assessment/
 categories:
   - Proficiency

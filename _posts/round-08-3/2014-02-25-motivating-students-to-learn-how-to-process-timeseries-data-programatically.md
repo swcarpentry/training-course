@@ -1,7 +1,6 @@
 ---
 title: Motivating students to learn how to process timeseries data programatically
 author: Brian Miles
-layout: post
 permalink: /2014/02/motivating-students-to-learn-how-to-process-timeseries-data-programatically/
 categories:
   - Motivation

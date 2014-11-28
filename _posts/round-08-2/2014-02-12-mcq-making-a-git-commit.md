@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: Making a git commit'
 author: Jessica Hamrick
-layout: post
 permalink: /2014/02/mcq-making-a-git-commit/
 categories:
   - Assessment

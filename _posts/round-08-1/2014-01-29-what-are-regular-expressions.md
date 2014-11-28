@@ -1,7 +1,6 @@
 ---
 title: What are regular expressions?
 author: Brian Miles
-layout: post
 permalink: /2014/01/what-are-regular-expressions/
 categories:
   - Concept Map

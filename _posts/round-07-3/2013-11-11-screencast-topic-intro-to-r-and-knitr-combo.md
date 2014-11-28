@@ -1,7 +1,6 @@
 ---
 title: 'Screencast (with video): Intro to R and knitr combo'
 author: Denis Haine
-layout: post
 permalink: /2013/11/screencast-topic-intro-to-r-and-knitr-combo/
 enclosure:
   - |

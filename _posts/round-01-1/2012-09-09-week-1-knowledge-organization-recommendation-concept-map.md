@@ -1,7 +1,6 @@
 ---
 title: 'Week 1: Knowledge Organization &#8212; Recommendation Concept Map'
 author: Lynne Williams
-layout: post
 permalink: /2012/09/week-1-knowledge-organization-recommendation-concept-map/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Final Project: Reading Data from Files in R'
 author: Nichole Bennett
-layout: post
 permalink: /2013/08/final-project-reading-data-from-files-in-r/
 categories:
   - Round 05/5

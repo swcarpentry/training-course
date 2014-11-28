@@ -1,7 +1,6 @@
 ---
 title: 'Tutorial critique: Regular expressions'
 author: Luke Lee
-layout: post
 permalink: /2013/07/tutorial-critique-regular-expressions/
 categories:
   - Round 05/4

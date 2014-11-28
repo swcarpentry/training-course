@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: What is a wildcard?'
 author: Jose Beltran
-layout: post
 permalink: /2014/09/concept-map-what-is-a-wildcard/
 categories:
   - Concept Map

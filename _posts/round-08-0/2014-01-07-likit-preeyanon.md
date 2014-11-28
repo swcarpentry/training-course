@@ -1,7 +1,6 @@
 ---
 title: Likit Preeyanon
 author: Likit Preeyanon
-layout: post
 permalink: /2014/01/likit-preeyanon/
 categories:
   - Biography

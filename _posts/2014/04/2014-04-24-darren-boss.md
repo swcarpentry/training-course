@@ -1,7 +1,6 @@
 ---
 title: Darren Boss
 author: Darren Boss
-layout: post
 permalink: /2014/04/darren-boss/
 categories:
   - Biography

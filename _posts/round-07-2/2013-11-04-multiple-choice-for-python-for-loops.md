@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice for &#8220;Python for Loops&#8221;'
 author: Luis Pedro Coelho
-layout: post
 permalink: /2013/11/multiple-choice-for-python-for-loops/
 categories:
   - Assessment

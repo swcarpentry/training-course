@@ -1,7 +1,6 @@
 ---
 title: Klemens Noga
 author: Klemens Noga
-layout: post
 permalink: /2014/06/klemens-noga/
 categories:
   - Biography

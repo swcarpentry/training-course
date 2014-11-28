@@ -1,7 +1,6 @@
 ---
 title: Short Teaching Video on Python Lists
 author: Adina Chuang Howe
-layout: post
 permalink: /2012/12/short-teaching-video-on-python-lists/
 categories:
   - Round 02/2

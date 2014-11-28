@@ -1,7 +1,6 @@
 ---
 title: Jennifer Shelton
 author: Jennifer Shelton
-layout: post
 permalink: /2014/06/jennifer-shelton/
 categories:
   - Uncategorized

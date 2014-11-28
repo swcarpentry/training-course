@@ -1,7 +1,6 @@
 ---
 title: Autovivification Concept Map
 author: Sarah Richardson
-layout: post
 permalink: /2013/06/autovivification-concept-map/
 categories:
   - Concept Map

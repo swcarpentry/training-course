@@ -1,7 +1,6 @@
 ---
 title: About Nancy Giang
 author: Nancy Giang
-layout: post
 permalink: /2013/02/about-nancy-giang/
 categories:
   - Biography

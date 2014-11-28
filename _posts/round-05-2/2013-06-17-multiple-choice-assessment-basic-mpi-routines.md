@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice assessment:  Basic MPI routines.'
 author: Neal Davis
-layout: post
 permalink: /2013/06/multiple-choice-assessment-basic-mpi-routines/
 categories:
   - Round 05/2

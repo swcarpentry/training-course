@@ -1,7 +1,6 @@
 ---
 title: Taking Apart an Online Course
 author: Greg Wilson
-layout: post
 permalink: /2012/09/taking-apart-an-online-course/
 categories:
   - Noticed

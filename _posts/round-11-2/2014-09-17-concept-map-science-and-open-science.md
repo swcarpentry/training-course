@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Science and Open Science'
 author: David LeBauer
-layout: post
 permalink: /2014/09/concept-map-science-and-open-science/
 categories:
   - Concept Map

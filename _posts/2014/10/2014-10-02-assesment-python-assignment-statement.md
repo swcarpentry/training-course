@@ -1,7 +1,6 @@
 ---
 title: 'Assesment: python assignment statement'
 author: R. David Murray
-layout: post
 permalink: /2014/10/assesment-python-assignment-statement/
 categories:
   - Assessment

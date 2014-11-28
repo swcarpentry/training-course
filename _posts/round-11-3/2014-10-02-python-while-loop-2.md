@@ -1,7 +1,6 @@
 ---
 title: python while-loop
 author: Asela Wijeratne
-layout: post
 permalink: /2014/10/python-while-loop-2/
 categories:
   - Assessment

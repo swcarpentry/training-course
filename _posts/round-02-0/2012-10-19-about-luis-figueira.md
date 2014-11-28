@@ -1,7 +1,6 @@
 ---
 title: About Luís Figueira
 author: Luis Figueira
-layout: post
 permalink: /2012/10/about-luis-figueira/
 categories:
   - Biography

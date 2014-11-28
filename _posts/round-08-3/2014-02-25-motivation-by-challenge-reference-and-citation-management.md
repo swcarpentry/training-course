@@ -1,7 +1,6 @@
 ---
 title: 'Motivation by Challenge: Reference and Citation Management'
 author: Gabriel Devenyi
-layout: post
 permalink: /2014/02/motivation-by-challenge-reference-and-citation-management/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: Assessment for SQL SELECT statements
 author: Huayan Gao
-layout: post
 permalink: /2014/05/assessment-for-sql-select-statements/
 categories:
   - Assessment

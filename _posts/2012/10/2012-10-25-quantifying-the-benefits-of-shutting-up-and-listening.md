@@ -1,7 +1,6 @@
 ---
 title: Quantifying the Benefits of Shutting Up and Listening
 author: Greg Wilson
-layout: post
 permalink: /2012/10/quantifying-the-benefits-of-shutting-up-and-listening/
 categories:
   - Assessment

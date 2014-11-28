@@ -1,7 +1,6 @@
 ---
 title: About Greg Wilson
 author: Greg Wilson
-layout: post
 permalink: /2012/08/about-greg-wilson/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Unicode &#038; Normalization'
 author: Daniel McCloy
-layout: post
 permalink: /2013/03/concept-map-unicode-normalization/
 categories:
   - Concept Map

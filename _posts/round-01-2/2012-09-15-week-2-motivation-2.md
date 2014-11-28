@@ -1,7 +1,6 @@
 ---
 title: 'Motivation &#8211; Emily Jane'
 author: Emily Jane McTavish
-layout: post
 permalink: /2012/09/week-2-motivation-2/
 categories:
   - Motivation

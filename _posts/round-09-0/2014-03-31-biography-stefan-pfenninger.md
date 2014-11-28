@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Stefan Pfenninger'
 author: Stefan Pfenninger
-layout: post
 permalink: /2014/03/biography-stefan-pfenninger/
 categories:
   - Biography

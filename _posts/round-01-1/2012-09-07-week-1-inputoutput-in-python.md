@@ -1,7 +1,6 @@
 ---
 title: 'Week 1- Input/Output in Python'
 author: Emily Jane McTavish
-layout: post
 permalink: /2012/09/week-1-inputoutput-in-python/
 categories:
   - Concept Map

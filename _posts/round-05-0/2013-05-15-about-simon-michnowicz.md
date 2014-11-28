@@ -1,7 +1,6 @@
 ---
 title: About Simon Michnowicz
 author: Simon Michnowicz
-layout: post
 permalink: /2013/05/about-simon-michnowicz/
 categories:
   - Biography

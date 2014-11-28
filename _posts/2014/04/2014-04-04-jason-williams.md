@@ -1,7 +1,6 @@
 ---
 title: Jason Williams
 author: Jason Williams
-layout: post
 permalink: /2014/04/jason-williams/
 categories:
   - Biography

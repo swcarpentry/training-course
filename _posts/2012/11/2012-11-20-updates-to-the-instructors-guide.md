@@ -1,7 +1,6 @@
 ---
 title: 'Updates to the Instructor&#8217;s Guide'
 author: Greg Wilson
-layout: post
 permalink: /2012/11/updates-to-the-instructors-guide/
 categories:
   - Content

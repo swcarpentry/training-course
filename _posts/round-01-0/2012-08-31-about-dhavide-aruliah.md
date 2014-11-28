@@ -1,7 +1,6 @@
 ---
 title: About Dhavide Aruliah
 author: Dhavide Aruliah
-layout: post
 permalink: /2012/08/about-dhavide-aruliah/
 categories:
   - Biography

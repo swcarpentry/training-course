@@ -1,7 +1,6 @@
 ---
 title: Testing effectiveness of live tutoring vs. recorded video
 author: Luke Lee
-layout: post
 permalink: /2013/07/testing-effectiveness-of-live-tutoring-vs-recorded-video/
 categories:
   - Round 05/4

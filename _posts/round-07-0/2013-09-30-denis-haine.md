@@ -1,7 +1,6 @@
 ---
 title: Denis Haine
 author: Denis Haine
-layout: post
 permalink: /2013/09/denis-haine/
 categories:
   - Biography

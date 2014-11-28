@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: GLMs in R'
 author: Easton White
-layout: post
 permalink: /2014/06/concept-map-glms-in-r/
 categories:
   - Concept Map

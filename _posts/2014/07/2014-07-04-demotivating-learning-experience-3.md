@@ -1,7 +1,6 @@
 ---
 title: Demotivating Learning Experience
 author: Luca Cerone
-layout: post
 permalink: /2014/07/demotivating-learning-experience-3/
 categories:
   - Uncategorized

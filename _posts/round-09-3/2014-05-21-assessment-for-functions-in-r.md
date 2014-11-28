@@ -1,7 +1,6 @@
 ---
 title: Assessment for functions in R
 author: Catalina Anghel
-layout: post
 permalink: /2014/05/assessment-for-functions-in-r/
 categories:
   - Assessment

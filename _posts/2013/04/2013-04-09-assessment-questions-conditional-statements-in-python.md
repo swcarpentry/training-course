@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions &#8211; Conditional Statements in Python'
 author: April Wright
-layout: post
 permalink: /2013/04/assessment-questions-conditional-statements-in-python/
 categories:
   - Proficiency

@@ -1,7 +1,6 @@
 ---
 title: Round 8.4 Wrap-Up
 author: Greg Wilson
-layout: post
 permalink: /2014/03/round-8-4-wrap-up/
 categories:
   - Round 08/4

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment exercise: The unix shell &#8211; pipes and filters'
 author: Heather Gunning
-layout: post
 permalink: /2014/09/assessment/
 categories:
   - Assessment

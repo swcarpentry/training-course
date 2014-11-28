@@ -1,7 +1,6 @@
 ---
 title: Video about if statements
 author: Karin Lagesen
-layout: post
 permalink: /2012/12/video-about-if-statements/
 categories:
   - Round 02/2

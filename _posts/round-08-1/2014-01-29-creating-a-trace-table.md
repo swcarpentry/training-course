@@ -1,7 +1,6 @@
 ---
 title: Creating a trace table
 author: Zahra Shirzadi
-layout: post
 permalink: /2014/01/creating-a-trace-table/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: For loops'
 author: Karthik Ram
-layout: post
 permalink: /2013/01/concept-map-for-loops/
 categories:
   - Concept Map

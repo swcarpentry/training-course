@@ -1,7 +1,6 @@
 ---
 title: An Example of a Good Teaching Tip
 author: Greg Wilson
-layout: post
 permalink: /2012/11/an-example-of-a-good-teaching-tip/
 categories:
   - Teaching

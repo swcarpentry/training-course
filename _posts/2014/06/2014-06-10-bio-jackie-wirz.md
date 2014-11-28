@@ -1,7 +1,6 @@
 ---
 title: 'Bio: Jackie Wirz'
 author: Jackie Wirz
-layout: post
 permalink: /2014/06/bio-jackie-wirz/
 categories:
   - Biography

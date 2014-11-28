@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Common NGS File formats'
 author: Jennifer Shelton
-layout: post
 permalink: /2014/06/concept-map-common-ngs-file-formats/
 categories:
   - Uncategorized

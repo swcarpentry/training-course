@@ -1,7 +1,6 @@
 ---
 title: Not All Stacys Are Concave
 author: Greg Wilson
-layout: post
 permalink: /2012/10/not-all-stacys-are-concave/
 categories:
   - Curriculum

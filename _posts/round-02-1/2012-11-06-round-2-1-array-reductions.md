@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.1: Array Reductions'
 author: Chang She
-layout: post
 permalink: /2012/11/round-2-1-array-reductions/
 categories:
   - Concept Map

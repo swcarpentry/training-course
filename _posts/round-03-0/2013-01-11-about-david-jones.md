@@ -1,7 +1,6 @@
 ---
 title: About David Jones
 author: David Jones
-layout: post
 permalink: /2013/01/about-david-jones/
 categories:
   - Biography

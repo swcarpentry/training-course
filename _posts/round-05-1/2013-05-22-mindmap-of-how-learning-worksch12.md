@@ -1,7 +1,6 @@
 ---
 title: 'mindmap of &#8220;how learning works&#8221;(ch1/2)'
 author: Yuxi Luo
-layout: post
 permalink: /2013/05/mindmap-of-how-learning-worksch12/
 categories:
   - Round 05/1

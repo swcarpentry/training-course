@@ -1,7 +1,6 @@
 ---
 title: Round 2.4 Wrap-Up
 author: Greg Wilson
-layout: post
 permalink: /2013/03/round-2-4-wrap-up/
 categories:
   - Round 02/4

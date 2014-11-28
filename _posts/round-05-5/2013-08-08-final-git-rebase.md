@@ -1,7 +1,6 @@
 ---
 title: 'Final: git rebase'
 author: Preston Holmes
-layout: post
 permalink: /2013/08/final-git-rebase/
 categories:
   - Round 05/5

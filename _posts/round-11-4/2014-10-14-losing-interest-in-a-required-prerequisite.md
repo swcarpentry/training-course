@@ -1,7 +1,6 @@
 ---
 title: Losing interest in a required prerequisite
 author: Jared Camins-Esakov
-layout: post
 permalink: /2014/10/losing-interest-in-a-required-prerequisite/
 categories:
   - Motivation

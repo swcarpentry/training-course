@@ -1,7 +1,6 @@
 ---
 title: Tom Wright
 author: Tom
-layout: post
 permalink: /2014/05/tom-wright/
 categories:
   - Biography

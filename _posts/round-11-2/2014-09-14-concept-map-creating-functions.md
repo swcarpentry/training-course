@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Creating Functions'
 author: Radovan Bast
-layout: post
 permalink: /2014/09/concept-map-creating-functions/
 categories:
   - Concept Map

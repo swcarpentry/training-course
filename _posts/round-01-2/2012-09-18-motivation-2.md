@@ -1,7 +1,6 @@
 ---
 title: Motivation
 author: Ben Waugh
-layout: post
 permalink: /2012/09/motivation-2/
 categories:
   - Motivation

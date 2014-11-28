@@ -1,7 +1,6 @@
 ---
 title: Kaitlin Thaney
 author: Kaitlin Thaney
-layout: post
 permalink: /2014/05/kaitlin-thaney/
 categories:
   - Biography

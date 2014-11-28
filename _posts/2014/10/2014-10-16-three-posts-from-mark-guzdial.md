@@ -1,7 +1,6 @@
 ---
 title: Three Posts from Mark Guzdial
 author: Greg Wilson
-layout: post
 permalink: /2014/10/three-posts-from-mark-guzdial/
 categories:
   - Noticed

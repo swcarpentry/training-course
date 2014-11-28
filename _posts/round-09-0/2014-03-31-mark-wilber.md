@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Mark Wilber'
 author: Mark Wilber
-layout: post
 permalink: /2014/03/mark-wilber/
 categories:
   - Biography

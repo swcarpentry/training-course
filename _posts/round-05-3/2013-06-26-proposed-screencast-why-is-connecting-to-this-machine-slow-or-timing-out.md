@@ -1,7 +1,6 @@
 ---
 title: 'Proposed screencast &#8211; &#8220;Why is connecting to this machine slow or timing out?&#8221;'
 author: Itamar Turner-Trauring
-layout: post
 permalink: /2013/06/proposed-screencast-why-is-connecting-to-this-machine-slow-or-timing-out/
 categories:
   - Round 05/3

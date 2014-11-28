@@ -1,7 +1,6 @@
 ---
 title: Olivier Lafleur
 author: Olivier Lafleur
-layout: post
 permalink: /2014/09/bio-olivier-lafleur/
 categories:
   - Biography

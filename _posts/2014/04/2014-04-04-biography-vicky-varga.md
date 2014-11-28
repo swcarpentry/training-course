@@ -1,7 +1,6 @@
 ---
 title: Vicky Varga
 author: Vicky Varga
-layout: post
 permalink: /2014/04/biography-vicky-varga/
 categories:
   - Biography

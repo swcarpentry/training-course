@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Sharing IPython notebook on nbviewer'
 author: Matthias Bussonnier
-layout: post
 permalink: /2014/03/screencast-sharing-ipython-notebook-on-nbviewer/
 enclosure:
   - |

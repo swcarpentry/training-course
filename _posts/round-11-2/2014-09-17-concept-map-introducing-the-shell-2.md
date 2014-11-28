@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Introducing the Shell'
 author: Brent Shambaugh
-layout: post
 permalink: /2014/09/concept-map-introducing-the-shell-2/
 categories:
   - Concept Map

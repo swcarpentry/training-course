@@ -1,7 +1,6 @@
 ---
 title: 'Claiming a topic: why global variables are a bad idea'
 author: Luis Figueira
-layout: post
 permalink: /2012/11/claiming-a-topic-why-global-variables-are-a-bad-idea/
 categories:
   - Concept Map

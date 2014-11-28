@@ -1,7 +1,6 @@
 ---
 title: Assessing proficiency at classical genetics
 author: Billy Rowell
-layout: post
 permalink: /2013/06/assessing-proficiency-at-classical-genetics/
 categories:
   - Proficiency

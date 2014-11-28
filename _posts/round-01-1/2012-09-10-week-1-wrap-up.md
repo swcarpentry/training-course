@@ -1,7 +1,6 @@
 ---
 title: Week 1 Wrap-Up
 author: Greg Wilson
-layout: post
 permalink: /2012/09/week-1-wrap-up/
 categories:
   - Round 01/1

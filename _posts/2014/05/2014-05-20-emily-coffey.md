@@ -1,7 +1,6 @@
 ---
 title: Emily Coffey
 author: Emily Coffey
-layout: post
 permalink: /2014/05/emily-coffey/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: About Lynne Williams
 author: Lynne Williams
-layout: post
 permalink: /2012/08/about-lynne-williams/
 categories:
   - Biography

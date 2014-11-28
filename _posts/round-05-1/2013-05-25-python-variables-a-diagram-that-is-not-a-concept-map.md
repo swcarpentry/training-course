@@ -1,7 +1,6 @@
 ---
 title: Python variables (a diagram that is not a concept map)
 author: Itamar Turner-Trauring
-layout: post
 permalink: /2013/05/python-variables-a-diagram-that-is-not-a-concept-map/
 categories:
   - Concept Map

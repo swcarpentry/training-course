@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Full versus relative paths'
 author: Daniel Falster
-layout: post
 permalink: /2013/04/assessment-questions-full-versus-relative-paths/
 categories:
   - Proficiency

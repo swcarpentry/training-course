@@ -1,7 +1,6 @@
 ---
 title: 'Erik Bray on variable assignment &#8211; Round 1.5'
 author: Erik Bray
-layout: post
 permalink: /2012/12/erik-bray-on-variable-assignment-round-1-5/
 categories:
   - Round 01/5

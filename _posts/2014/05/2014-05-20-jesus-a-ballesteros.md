@@ -1,7 +1,6 @@
 ---
 title: Jesus A Ballesteros
 author: Jesus Ballesteros
-layout: post
 permalink: /2014/05/jesus-a-ballesteros/
 categories:
   - Biography

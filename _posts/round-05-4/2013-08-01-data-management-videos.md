@@ -1,7 +1,6 @@
 ---
 title: Data Management videos
 author: Shoaib Sufi
-layout: post
 permalink: /2013/08/data-management-videos/
 categories:
   - Round 05/4

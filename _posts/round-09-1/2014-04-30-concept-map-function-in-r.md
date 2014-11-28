@@ -1,7 +1,6 @@
 ---
 title: 'concept map &#8211; function in R'
 author: Catalina Anghel
-layout: post
 permalink: /2014/04/concept-map-function-in-r/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Scott Gifford
 author: Scott Gifford
-layout: post
 permalink: /2014/04/scott-gifford/
 categories:
   - Biography

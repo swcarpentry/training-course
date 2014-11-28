@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions &#8212; ls'
 author: Fan
-layout: post
 permalink: /2013/10/assessment-questions-ls/
 categories:
   - Assessment

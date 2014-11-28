@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: numpy arrays'
 author: Joshua Adelman
-layout: post
 permalink: /2013/10/concept-map-numpy-arrays/
 categories:
   - Concept Map

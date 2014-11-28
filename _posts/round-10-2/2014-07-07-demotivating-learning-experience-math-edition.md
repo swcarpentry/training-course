@@ -1,7 +1,6 @@
 ---
 title: 'Demotivating learning experience: math edition!'
 author: Sarah Simpkin
-layout: post
 permalink: /2014/07/demotivating-learning-experience-math-edition/
 categories:
   - Motivation

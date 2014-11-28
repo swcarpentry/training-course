@@ -1,7 +1,6 @@
 ---
 title: 'Katy Huff &#8211; Round 1.5'
 author: Katy Huff
-layout: post
 permalink: /2012/12/katy-huff-round-1-5/
 categories:
   - Round 01/5

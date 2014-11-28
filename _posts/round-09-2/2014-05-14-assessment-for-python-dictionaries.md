@@ -1,7 +1,6 @@
 ---
 title: Assessment for Python dictionaries
 author: Florian Rathgeber
-layout: post
 permalink: /2014/05/assessment-for-python-dictionaries/
 categories:
   - Assessment

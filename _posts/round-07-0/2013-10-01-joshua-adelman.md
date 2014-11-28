@@ -1,7 +1,6 @@
 ---
 title: Joshua Adelman
 author: Joshua Adelman
-layout: post
 permalink: /2013/10/joshua-adelman/
 categories:
   - Biography

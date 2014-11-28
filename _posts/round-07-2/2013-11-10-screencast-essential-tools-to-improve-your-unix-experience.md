@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Essential tools to improve your UNIX experience.'
 author: David Rio
-layout: post
 permalink: /2013/11/screencast-essential-tools-to-improve-your-unix-experience/
 enclosure:
   - |

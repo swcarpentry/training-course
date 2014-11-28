@@ -1,7 +1,6 @@
 ---
 title: Assessment for Lists in Python
 author: Simon Michnowicz
-layout: post
 permalink: /2014/05/assessment-for-lists-in-python/
 categories:
   - Assessment

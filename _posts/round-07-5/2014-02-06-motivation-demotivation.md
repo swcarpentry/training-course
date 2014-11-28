@@ -1,7 +1,6 @@
 ---
 title: 'Motivation &#038; Demotivation'
 author: Luis Pedro Coelho
-layout: post
 permalink: /2014/02/motivation-demotivation/
 categories:
   - Reflection

@@ -1,7 +1,6 @@
 ---
 title: John Corless
 author: John Corless
-layout: post
 permalink: /2013/09/john-corless/
 categories:
   - Biography

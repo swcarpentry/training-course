@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: Dancing'
 author: Asela Wijeratne
-layout: post
 permalink: /2014/10/demotivation-dancing/
 categories:
   - Motivation

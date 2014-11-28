@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Loops'
 author: Isabel Fenton
-layout: post
 permalink: /2014/01/concept-map-loops/
 categories:
   - Concept Map

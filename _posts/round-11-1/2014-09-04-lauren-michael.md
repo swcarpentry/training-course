@@ -1,7 +1,6 @@
 ---
 title: Lauren Michael
 author: Lauren Michael
-layout: post
 permalink: /2014/09/lauren-michael/
 categories:
   - Biography

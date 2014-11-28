@@ -1,7 +1,6 @@
 ---
 title: Assessment for intruduction to python
 author: Sahar Rahmani
-layout: post
 permalink: /2014/10/assessment-for-intruduction-to-python/
 categories:
   - Assessment

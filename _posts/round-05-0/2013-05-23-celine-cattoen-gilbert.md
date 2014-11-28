@@ -1,7 +1,6 @@
 ---
 title: Celine Cattoen-Gilbert
 author: Celine Cattoen-Gilbert
-layout: post
 permalink: /2013/05/celine-cattoen-gilbert/
 categories:
   - Biography

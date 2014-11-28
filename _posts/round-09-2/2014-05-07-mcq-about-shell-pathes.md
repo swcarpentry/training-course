@@ -1,7 +1,6 @@
 ---
 title: MCQ about shell pathes
 author: Michael Schliephake
-layout: post
 permalink: /2014/05/mcq-about-shell-pathes/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Chris Gray
 author: Chris Gray
-layout: post
 permalink: /2013/05/chris-gray/
 categories:
   - Biography

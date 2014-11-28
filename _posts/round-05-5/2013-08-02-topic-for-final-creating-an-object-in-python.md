@@ -1,7 +1,6 @@
 ---
 title: 'Topic for Final: Creating an object in Python'
 author: David Merand
-layout: post
 permalink: /2013/08/topic-for-final-creating-an-object-in-python/
 categories:
   - Round 05/5

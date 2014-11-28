@@ -1,7 +1,6 @@
 ---
 title: live vs video learning
 author: Preston Holmes
-layout: post
 permalink: /2013/07/live-vs-video-learning/
 categories:
   - Round 05/4

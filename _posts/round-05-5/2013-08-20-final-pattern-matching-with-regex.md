@@ -1,7 +1,6 @@
 ---
 title: 'Final: Pattern matching with regex'
 author: Martin Schilling
-layout: post
 permalink: /2013/08/final-pattern-matching-with-regex/
 categories:
   - Round 05/5

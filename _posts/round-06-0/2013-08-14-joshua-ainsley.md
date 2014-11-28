@@ -1,7 +1,6 @@
 ---
 title: Joshua Ainsley
 author: Joshua Ainsley
-layout: post
 permalink: /2013/08/joshua-ainsley/
 categories:
   - Biography

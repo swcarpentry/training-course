@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: loading data into R'
 author: Emily Davenport
-layout: post
 permalink: /2013/08/concept-map-loading-data-into-r/
 categories:
   - Concept Map

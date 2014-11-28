@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Conditional statements (Python)'
 author: John Blischak
-layout: post
 permalink: /2013/03/concept-map-conditional-statements-python/
 categories:
   - Concept Map

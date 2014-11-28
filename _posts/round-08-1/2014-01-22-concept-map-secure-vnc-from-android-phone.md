@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Secure VNC from android phone'
 author: Melanie Segado
-layout: post
 permalink: /2014/01/concept-map-secure-vnc-from-android-phone/
 categories:
   - Concept Map

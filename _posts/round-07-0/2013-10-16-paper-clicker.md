@@ -1,7 +1,6 @@
 ---
 title: Paper clicker
 author: Pauline Barmby
-layout: post
 permalink: /2013/10/paper-clicker/
 categories:
   - Round 07/0

@@ -1,7 +1,6 @@
 ---
 title: About Hans-Martin von Gaudecker
 author: Hans-Martin von Gaudecker
-layout: post
 permalink: /2012/08/about-hans-martin-von-gaudecker/
 categories:
   - Biography

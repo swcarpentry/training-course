@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design: regex'
 author: Daisie Huang
-layout: post
 permalink: /2014/07/reverse-instructional-design-regex/
 categories:
   - Assessment

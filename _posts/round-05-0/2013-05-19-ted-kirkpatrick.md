@@ -1,7 +1,6 @@
 ---
 title: Ted Kirkpatrick
 author: Ted Kirkpatrick
-layout: post
 permalink: /2013/05/ted-kirkpatrick/
 categories:
   - Biography

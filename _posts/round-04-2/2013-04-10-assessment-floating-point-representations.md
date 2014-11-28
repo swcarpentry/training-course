@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Floating Point Representations'
 author: Bogdan Vera
-layout: post
 permalink: /2013/04/assessment-floating-point-representations/
 categories:
   - Proficiency

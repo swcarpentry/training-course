@@ -1,7 +1,6 @@
 ---
 title: Motivation and Screencasts
 author: Greg Wilson
-layout: post
 permalink: /2014/03/motivation-and-screencasts/
 categories:
   - Motivation

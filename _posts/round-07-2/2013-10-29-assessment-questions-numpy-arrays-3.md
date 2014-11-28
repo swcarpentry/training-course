@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Numpy Arrays'
 author: Joshua Adelman
-layout: post
 permalink: /2013/10/assessment-questions-numpy-arrays-3/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: git backup for beginners
 author: Bill Mills
-layout: post
 permalink: /2013/12/git-collaboration-for-beginners/
 categories:
   - Round 07/4

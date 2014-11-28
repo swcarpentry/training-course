@@ -1,7 +1,6 @@
 ---
 title: Maciej Czuchry
 author: Maciej Czuchry
-layout: post
 permalink: /2014/05/maciej-czuchry-2/
 categories:
   - Biography

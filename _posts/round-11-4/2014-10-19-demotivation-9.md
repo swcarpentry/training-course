@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Birgit Bachler
-layout: post
 permalink: /2014/10/demotivation-9/
 categories:
   - Motivation

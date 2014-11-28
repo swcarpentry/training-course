@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.1 Function Returns &#8211; Tim C.'
 author: Tim Cerino
-layout: post
 permalink: /2012/11/round-1-4-function-returns-tim-c/
 categories:
   - Concept Map

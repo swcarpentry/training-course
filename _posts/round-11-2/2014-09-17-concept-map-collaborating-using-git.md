@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Collaborating using Git'
 author: Hamid
-layout: post
 permalink: /2014/09/concept-map-collaborating-using-git/
 categories:
   - Concept Map

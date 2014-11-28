@@ -1,7 +1,6 @@
 ---
 title: Matthew Aiello-Lammens
 author: Matthew Aiello-Lammens
-layout: post
 permalink: /2014/09/bio-matthew-aiello-lammens/
 categories:
   - Biography

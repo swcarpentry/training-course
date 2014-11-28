@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: git status, log, and reflog'
 author: David Kua
-layout: post
 permalink: /2013/11/assessment-questions-git-status-log-and-reflog/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Dictionaries in Python'
 author: Aaron Garoutte
-layout: post
 permalink: /2013/11/assessment-questions-dictionaries-in-python/
 categories:
   - Assessment

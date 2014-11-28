@@ -1,7 +1,6 @@
 ---
 title: 'Teaching Tips: New Category, and One Tip'
 author: Greg Wilson
-layout: post
 permalink: /2012/10/teaching-tips-new-category-and-one-tip/
 categories:
   - Teaching

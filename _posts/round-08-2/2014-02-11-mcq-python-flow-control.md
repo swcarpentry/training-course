@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: Python Flow-Control'
 author: Daniel Chen
-layout: post
 permalink: /2014/02/mcq-python-flow-control/
 categories:
   - Assessment

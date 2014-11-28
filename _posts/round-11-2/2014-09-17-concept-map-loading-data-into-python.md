@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: :Loading Data into Python'
 author: Emilia Gan
-layout: post
 permalink: /2014/09/concept-map-loading-data-into-python/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Python Assignment Statement'
 author: R. David Murray
-layout: post
 permalink: /2014/09/python-assignment-statement/
 categories:
   - Concept Map

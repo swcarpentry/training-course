@@ -1,7 +1,6 @@
 ---
 title: Motivation Story
 author: Ryan Williams
-layout: post
 permalink: /2014/02/motivation-story/
 categories:
   - Motivation

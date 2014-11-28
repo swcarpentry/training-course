@@ -1,7 +1,6 @@
 ---
 title: Samuel Bosch
 author: Samuel Bosch
-layout: post
 permalink: /2013/09/samuel-bosch/
 categories:
   - Biography

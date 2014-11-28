@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: calling functions with parameters'
 author: Olav Vahtras
-layout: post
 permalink: /2014/10/assessment-calling-functions-with-parameters/
 categories:
   - Uncategorized

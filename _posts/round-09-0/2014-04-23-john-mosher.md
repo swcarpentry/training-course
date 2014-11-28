@@ -1,7 +1,6 @@
 ---
 title: John Mosher
 author: John Mosher
-layout: post
 permalink: /2014/04/john-mosher/
 categories:
   - Biography

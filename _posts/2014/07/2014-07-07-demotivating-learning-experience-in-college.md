@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience in college
 author: Piotr Banaszkiewicz
-layout: post
 permalink: /2014/07/demotivating-learning-experience-in-college/
 categories:
   - Uncategorized

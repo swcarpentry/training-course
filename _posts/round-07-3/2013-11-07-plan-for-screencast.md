@@ -1,7 +1,6 @@
 ---
 title: Plan for ScreenCast
 author: Sharon Benjamin
-layout: post
 permalink: /2013/11/plan-for-screencast/
 categories:
   - Round 07/3

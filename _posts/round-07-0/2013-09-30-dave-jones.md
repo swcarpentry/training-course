@@ -1,7 +1,6 @@
 ---
 title: Dave Jones
 author: David Jones
-layout: post
 permalink: /2013/09/dave-jones/
 categories:
   - Biography

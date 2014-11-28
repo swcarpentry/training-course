@@ -1,7 +1,6 @@
 ---
 title: About Justin Ely
 author: Justin Ely
-layout: post
 permalink: /2012/08/about-justin-ely/
 categories:
   - Biography

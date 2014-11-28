@@ -1,7 +1,6 @@
 ---
 title: Matthias Bussonnier
 author: Matthias Bussonnier
-layout: post
 permalink: /2014/01/matthias-bussonnier/
 categories:
   - Biography

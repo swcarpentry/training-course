@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Olav Vahtras
-layout: post
 permalink: /2014/10/demotivation-14/
 categories:
   - Uncategorized

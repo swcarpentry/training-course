@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.2: The Monty Hall problem'
 author: Stefan van der Walt
-layout: post
 permalink: /2012/11/round-2-2-the-monty-hall-problem/
 categories:
   - Round 02/2

@@ -1,7 +1,6 @@
 ---
 title: Hawaii Wrap-Up from Fernando Perez
 author: Greg Wilson
-layout: post
 permalink: /2012/12/hawaii-wrap-up-from-fernando-perez/
 categories:
   - Reports

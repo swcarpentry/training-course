@@ -1,7 +1,6 @@
 ---
 title: About Warren Code
 author: Warren Code
-layout: post
 permalink: /2012/10/about-warren-code/
 categories:
   - Biography

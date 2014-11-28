@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: python file object'
 author: Mark Stacy
-layout: post
 permalink: /2014/02/mcq-python-file-object/
 categories:
   - Assessment

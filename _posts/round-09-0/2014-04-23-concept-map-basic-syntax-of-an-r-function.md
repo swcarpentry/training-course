@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Basic Syntax of an R Function'
 author: Jeff Hollister
-layout: post
 permalink: /2014/04/concept-map-basic-syntax-of-an-r-function/
 categories:
   - Concept Map

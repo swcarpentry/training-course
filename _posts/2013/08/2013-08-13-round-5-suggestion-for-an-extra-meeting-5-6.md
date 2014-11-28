@@ -1,7 +1,6 @@
 ---
 title: 'Round 5: Suggestion for an extra meeting (5.6+)'
 author: Ted Kirkpatrick
-layout: post
 permalink: /2013/08/round-5-suggestion-for-an-extra-meeting-5-6/
 categories:
   - Meta

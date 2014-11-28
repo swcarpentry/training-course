@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Scott Burns'
 author: Scott Burns
-layout: post
 permalink: /2014/03/biography-scott-burns/
 categories:
   - Biography

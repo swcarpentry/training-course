@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Installing Windows XP in a VM using Virtualbox'
 author: Daniel Chen
-layout: post
 permalink: /2014/03/screencast-installing-windows-xp-in-a-vm-using-virtualbox/
 categories:
   - Round 08/4

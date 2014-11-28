@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Jon Guyer
-layout: post
 permalink: /2014/10/demotivation-4/
 categories:
   - Motivation

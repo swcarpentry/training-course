@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: JavaScript Prototypes'
 author: Bill Mills
-layout: post
 permalink: /2013/10/concept-map-javascript-prototypes/
 categories:
   - Concept Map

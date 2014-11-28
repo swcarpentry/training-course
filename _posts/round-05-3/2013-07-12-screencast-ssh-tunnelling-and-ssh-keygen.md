@@ -1,7 +1,6 @@
 ---
 title: 'Screencast &#8211; SSH tunnelling and ssh-keygen'
 author: David Perez-Suarez
-layout: post
 permalink: /2013/07/screencast-ssh-tunnelling-and-ssh-keygen/
 categories:
   - Round 05/3

@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: François Michonneau
-layout: post
 permalink: /2014/10/demotivation-13/
 categories:
   - Motivation

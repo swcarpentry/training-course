@@ -1,7 +1,6 @@
 ---
 title: Sharing excitement about pandas
 author: Jeramia Ory
-layout: post
 permalink: /2014/03/sharing-excitement-about-pandas/
 categories:
   - Motivation

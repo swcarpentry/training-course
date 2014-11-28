@@ -1,7 +1,6 @@
 ---
 title: Jane Lewis
 author: Jane Lewis
-layout: post
 permalink: /2014/06/jane-lewis/
 categories:
   - Biography

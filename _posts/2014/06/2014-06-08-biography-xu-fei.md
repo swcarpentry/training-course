@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Xu Fei'
 author: Xu Fei
-layout: post
 permalink: /2014/06/biography-xu-fei/
 categories:
   - Biography

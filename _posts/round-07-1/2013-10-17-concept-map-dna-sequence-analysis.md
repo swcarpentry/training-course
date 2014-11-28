@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: DNA sequence analysis'
 author: Asela Wijeratne
-layout: post
 permalink: /2013/10/concept-map-dna-sequence-analysis/
 categories:
   - Concept Map

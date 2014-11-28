@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Mercurial changeset'
 author: Greg Ward
-layout: post
 permalink: /2013/05/concept-map-mercurial-changeset/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Assessment for Python Dictionaries
 author: Jacob Levernier
-layout: post
 permalink: /2014/05/assessment-for-python-dictionaries-2/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Introducing the Shell'
 author: Tiffany Timbers
-layout: post
 permalink: /2014/09/concept-map-introducing-the-shell/
 categories:
   - Concept Map

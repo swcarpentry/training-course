@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: R functions'
 author: Cliburn Chan
-layout: post
 permalink: /2013/08/concept-map-r-functions/
 categories:
   - Concept Map

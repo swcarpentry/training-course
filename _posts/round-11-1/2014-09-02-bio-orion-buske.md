@@ -1,7 +1,6 @@
 ---
 title: Orion Buske
 author: Orion Buske
-layout: post
 permalink: /2014/09/bio-orion-buske/
 categories:
   - Biography

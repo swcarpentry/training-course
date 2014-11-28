@@ -1,7 +1,6 @@
 ---
 title: Basic text processing with Python built-in string methods with examples
 author: Likit Preeyanon
-layout: post
 permalink: /2014/01/basic-text-processing-with-python-built-in-string-methods-with-examples/
 categories:
   - Concept Map

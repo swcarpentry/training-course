@@ -1,7 +1,6 @@
 ---
 title: 'Demotivating Learning Experiences: A contrast between teachers'
 author: Scott Ritchie
-layout: post
 permalink: /2014/07/demotivating-learning-experiences-a-contrast-between-teachers/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'When the sticky goes &#8230;'
 author: David Martin
-layout: post
 permalink: /2013/01/when-the-sticky-goes/
 categories:
   - Community

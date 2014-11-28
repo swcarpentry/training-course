@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Python Slicing'
 author: Kwasi Kwakwa
-layout: post
 permalink: /2013/11/assessment-questions-python-slicing/
 categories:
   - Assessment

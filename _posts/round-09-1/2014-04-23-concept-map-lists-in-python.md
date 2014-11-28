@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Lists in Python'
 author: Christian Jacobs
-layout: post
 permalink: /2014/04/concept-map-lists-in-python/
 categories:
   - Concept Map

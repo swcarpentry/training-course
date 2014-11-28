@@ -1,7 +1,6 @@
 ---
 title: Assessment Questions
 author: Richard Barnes
-layout: post
 permalink: /2013/11/assessment-questions-2/
 categories:
   - Assessment

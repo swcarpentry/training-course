@@ -1,7 +1,6 @@
 ---
 title: Reflections on the course
 author: April Wright
-layout: post
 permalink: /2013/06/reflections-on-the-course/
 categories:
   - Round 04/5

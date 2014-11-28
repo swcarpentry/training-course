@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: git commit'
 author: Jessica Hamrick
-layout: post
 permalink: /2014/01/concept-map-git-commit/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: read text file'
 author: Bror Fredrik Jonsson
-layout: post
 permalink: /2014/05/concept-map-read-text-file/
 categories:
   - Concept Map

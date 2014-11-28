@@ -1,7 +1,6 @@
 ---
 title: How to help students setup the scientific Python stack
 author: Chang She
-layout: post
 permalink: /2012/11/setup-stack/
 categories:
   - Python

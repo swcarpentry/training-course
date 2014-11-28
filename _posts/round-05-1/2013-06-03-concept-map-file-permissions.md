@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: File Permissions'
 author: Tim McNamara
-layout: post
 permalink: /2013/06/concept-map-file-permissions/
 categories:
   - Concept Map

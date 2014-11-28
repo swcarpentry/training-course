@@ -1,7 +1,6 @@
 ---
 title: Python Equality Vs. Identity
 author: Benjamin Bradshaw
-layout: post
 permalink: /2014/02/python-equality-vs-identity/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: About Will Trimble
 author: Will Trimble
-layout: post
 permalink: /2013/03/about-will-trimble/
 categories:
   - Biography

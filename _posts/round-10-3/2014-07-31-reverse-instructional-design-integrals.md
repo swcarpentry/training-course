@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design &#8211; Integrals'
 author: Paulina Lach
-layout: post
 permalink: /2014/07/reverse-instructional-design-integrals/
 categories:
   - Assessment

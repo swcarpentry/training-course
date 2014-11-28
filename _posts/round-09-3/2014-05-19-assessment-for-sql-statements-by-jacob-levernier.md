@@ -1,7 +1,6 @@
 ---
 title: Assessment for SQL Statements by Jacob Levernier
 author: Chandler Wilkerson
-layout: post
 permalink: /2014/05/assessment-for-sql-statements-by-jacob-levernier/
 categories:
   - Assessment

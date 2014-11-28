@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Evan Bianco'
 author: Evan Bianco
-layout: post
 permalink: /2014/01/biography-evan-bianco/
 categories:
   - Biography

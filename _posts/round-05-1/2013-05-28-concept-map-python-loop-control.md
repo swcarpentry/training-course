@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Python Loop Control'
 author: Stuart Charters
-layout: post
 permalink: /2013/05/concept-map-python-loop-control/
 categories:
   - Concept Map

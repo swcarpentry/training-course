@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Groovy Beans'
 author: Markus Binsteiner
-layout: post
 permalink: /2013/05/concept-map-groovy-beans/
 categories:
   - Concept Map

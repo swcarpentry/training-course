@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Commands, executables, and arguments'
 author: Lauren Michael
-layout: post
 permalink: /2014/09/concept-map-commands-executables-and-arguments/
 categories:
   - Concept Map

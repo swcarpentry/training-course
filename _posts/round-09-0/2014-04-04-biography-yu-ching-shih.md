@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Yu-Ching Shih'
 author: Yu-Ching Shih
-layout: post
 permalink: /2014/04/biography-yu-ching-shih/
 categories:
   - Biography

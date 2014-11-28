@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Absolute and Relative paths'
 author: Walter Langelaar
-layout: post
 permalink: /2014/09/concept-map-absolute-and-relative-paths/
 categories:
   - Concept Map

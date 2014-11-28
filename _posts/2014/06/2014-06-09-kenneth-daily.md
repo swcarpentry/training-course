@@ -1,7 +1,6 @@
 ---
 title: Kenneth Daily
 author: Kenny Daily
-layout: post
 permalink: /2014/06/kenneth-daily/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Simple Function Visualization in Dygraphs'
 author: Bill Mills
-layout: post
 permalink: /2013/11/simple-function-visualization-in-dygraphs/
 categories:
   - Round 07/3

@@ -1,7 +1,6 @@
 ---
 title: About Ben Waugh
 author: Ben Waugh
-layout: post
 permalink: /2012/08/about-ben-waugh/
 categories:
   - Biography

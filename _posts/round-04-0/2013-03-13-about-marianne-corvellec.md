@@ -1,7 +1,6 @@
 ---
 title: About Marianne Corvellec
 author: Marianne Corvellec
-layout: post
 permalink: /2013/03/about-marianne-corvellec/
 categories:
   - Biography

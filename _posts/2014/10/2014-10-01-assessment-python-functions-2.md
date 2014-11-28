@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Python Functions'
 author: Matthew Shirley
-layout: post
 permalink: /2014/10/assessment-python-functions-2/
 categories:
   - Uncategorized

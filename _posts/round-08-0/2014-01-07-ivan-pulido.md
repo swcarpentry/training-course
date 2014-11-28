@@ -1,7 +1,6 @@
 ---
 title: Ivan Pulido
 author: Ivan Pulido
-layout: post
 permalink: /2014/01/ivan-pulido/
 categories:
   - Biography

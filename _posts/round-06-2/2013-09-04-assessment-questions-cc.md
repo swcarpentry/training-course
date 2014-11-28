@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: C/C++'
 author: Jinwoo Leem
-layout: post
 permalink: /2013/09/assessment-questions-cc/
 categories:
   - Assessment

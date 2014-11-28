@@ -1,7 +1,6 @@
 ---
 title: Round 1.4 (Carlos Anderson)
 author: Carlos Anderson
-layout: post
 permalink: /2012/10/round-1-4-carlos-anderson/
 categories:
   - Lesson

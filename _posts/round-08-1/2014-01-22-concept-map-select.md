@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: SELECT Statement (SQL)'
 author: Abigail Cabunoc
-layout: post
 permalink: /2014/01/concept-map-select/
 categories:
   - Concept Map

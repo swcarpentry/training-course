@@ -1,7 +1,6 @@
 ---
 title: Assessment for Regular Expressions
 author: Dan Warren
-layout: post
 permalink: /2014/05/assessment-for-regular-expressions/
 categories:
   - Uncategorized

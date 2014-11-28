@@ -1,7 +1,6 @@
 ---
 title: A Motivation to Learn Version Control
 author: Luis Pedro Coelho
-layout: post
 permalink: /2014/01/a-motivation-to-learn-version-control/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Bayes&#8217; Rule'
 author: Jessica Hamrick
-layout: post
 permalink: /2013/06/concept-map-bayes-rule/
 categories:
   - Concept Map

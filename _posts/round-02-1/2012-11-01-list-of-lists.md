@@ -1,7 +1,6 @@
 ---
 title: List of lists
 author: Mostafa Ali
-layout: post
 permalink: /2012/11/list-of-lists/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Motivational Video for Regular Expressions
 author: Simon Michnowicz
-layout: post
 permalink: /2014/05/motivational-video-for-regular-expressions/
 categories:
   - Motivation

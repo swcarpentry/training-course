@@ -1,7 +1,6 @@
 ---
 title: Mark Betnel
 author: Mark Betnel
-layout: post
 permalink: /2014/05/mark-betnel/
 categories:
   - Biography

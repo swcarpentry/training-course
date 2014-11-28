@@ -1,7 +1,6 @@
 ---
 title: Motivational Screencast on Bash
 author: Jacob Levernier
-layout: post
 permalink: /2014/05/motivational-screencast-on-bash/
 categories:
   - Motivation

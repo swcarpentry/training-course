@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Software Testing Overview'
 author: Rachel Slaybaugh
-layout: post
 permalink: /2013/08/concept-map-software-testing-overview/
 categories:
   - Concept Map

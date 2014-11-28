@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: SSH Keys for GitHub'
 author: Heather Gunning
-layout: post
 permalink: /2014/09/concept-map-ssh-keys-for-github/
 categories:
   - Concept Map

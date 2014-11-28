@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: creating a git repository'
 author: Jessica Hamrick
-layout: post
 permalink: /2014/03/screencast-creating-a-git-repository/
 categories:
   - Round 08/4

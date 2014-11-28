@@ -1,7 +1,6 @@
 ---
 title: Say Hello to Our Seventh Cohort
 author: Greg Wilson
-layout: post
 permalink: /2013/10/say-hello-to-our-seventh-cohort/
 categories:
   - Concept Map

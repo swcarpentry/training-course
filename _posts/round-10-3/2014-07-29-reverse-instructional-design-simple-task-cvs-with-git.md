@@ -1,7 +1,6 @@
 ---
 title: 'Reverse instructional design &#8211; simple task CVS with Git'
 author: Klemens Noga
-layout: post
 permalink: /2014/07/reverse-instructional-design-simple-task-cvs-with-git/
 categories:
   - Assessment

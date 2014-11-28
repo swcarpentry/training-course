@@ -1,7 +1,6 @@
 ---
 title: David R. Pugh
 author: David Pugh
-layout: post
 permalink: /2014/09/david-r-pugh/
 categories:
   - Biography

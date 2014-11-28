@@ -1,7 +1,6 @@
 ---
 title: Assessment questions for numpy array creation
 author: Jens von der Linden
-layout: post
 permalink: /2013/04/assessment-questions-for-numpy-array-creation/
 categories:
   - Proficiency

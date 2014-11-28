@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Numpy masked arrays'
 author: Nikolay Koldunov
-layout: post
 permalink: /2014/01/concept-map-numpy-masked-arrays/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment exercise: Python Functions'
 author: Daniel Smith
-layout: post
 permalink: /2014/09/assessment-exercise-python-functions/
 categories:
   - Assessment

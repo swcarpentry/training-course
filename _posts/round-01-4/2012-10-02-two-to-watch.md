@@ -1,7 +1,6 @@
 ---
 title: Two to Watch
 author: Greg Wilson
-layout: post
 permalink: /2012/10/two-to-watch/
 categories:
   - Round 01/4

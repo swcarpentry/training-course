@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Get help in terminal'
 author: Raniere Silva
-layout: post
 permalink: /2013/09/screencast-get-help-in-terminal/
 enclosure:
   - |

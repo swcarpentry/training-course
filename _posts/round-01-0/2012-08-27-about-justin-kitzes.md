@@ -1,7 +1,6 @@
 ---
 title: About Justin Kitzes
 author: Justin Kitzes
-layout: post
 permalink: /2012/08/about-justin-kitzes/
 categories:
   - Biography

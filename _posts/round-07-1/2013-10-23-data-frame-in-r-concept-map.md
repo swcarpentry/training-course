@@ -1,7 +1,6 @@
 ---
 title: data.frame in R (concept map)
 author: Daniel Braithwaite
-layout: post
 permalink: /2013/10/data-frame-in-r-concept-map/
 categories:
   - Concept Map

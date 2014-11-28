@@ -1,7 +1,6 @@
 ---
 title: Nicolas Saunier
 author: Nicolas Saunier
-layout: post
 permalink: /2013/08/nicolas-saunier/
 categories:
   - Biography

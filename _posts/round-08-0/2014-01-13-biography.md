@@ -1,7 +1,6 @@
 ---
 title: Biography
 author: Samantha Ahern
-layout: post
 permalink: /2014/01/biography/
 categories:
   - Biography

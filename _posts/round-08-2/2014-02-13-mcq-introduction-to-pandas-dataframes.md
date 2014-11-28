@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: Introduction to pandas DataFrames'
 author: Andrea Zonca
-layout: post
 permalink: /2014/02/mcq-introduction-to-pandas-dataframes/
 categories:
   - Assessment

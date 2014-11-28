@@ -1,7 +1,6 @@
 ---
 title: Shell assessment
 author: Preston Holmes
-layout: post
 permalink: /2013/06/shell-assessment/
 categories:
   - Proficiency

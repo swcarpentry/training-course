@@ -1,7 +1,6 @@
 ---
 title: Philipp Bayer
 author: Philipp Bayer
-layout: post
 permalink: /2013/05/philipp-bayer/
 categories:
   - Biography

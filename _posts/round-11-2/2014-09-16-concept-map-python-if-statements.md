@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: python if statements'
 author: Greg Caporaso
-layout: post
 permalink: /2014/09/concept-map-python-if-statements/
 categories:
   - Concept Map

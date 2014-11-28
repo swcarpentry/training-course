@@ -1,7 +1,6 @@
 ---
 title: Excited about statistics (really?)
 author: Pauline Barmby
-layout: post
 permalink: /2014/02/excited-about-statistics-really/
 categories:
   - Motivation

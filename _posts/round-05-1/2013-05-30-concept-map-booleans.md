@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Booleans'
 author: David Perez-Suarez
-layout: post
 permalink: /2013/05/concept-map-booleans/
 categories:
   - Concept Map

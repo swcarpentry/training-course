@@ -1,7 +1,6 @@
 ---
 title: About Kwasi Kwakwa
 author: Kwasi Kwakwa
-layout: post
 permalink: /2013/01/about-kwasi-kwakwa/
 categories:
   - Biography

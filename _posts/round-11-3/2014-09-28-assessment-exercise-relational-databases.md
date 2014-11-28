@@ -1,7 +1,6 @@
 ---
 title: 'Assessment exercise: Relational Databases'
 author: Roman Valls
-layout: post
 permalink: /2014/09/assessment-exercise-relational-databases/
 categories:
   - Assessment

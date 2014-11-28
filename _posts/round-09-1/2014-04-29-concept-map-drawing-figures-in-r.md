@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: drawing figures in R'
 author: Genevieve Smith
-layout: post
 permalink: /2014/04/concept-map-drawing-figures-in-r/
 categories:
   - Concept Map

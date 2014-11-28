@@ -1,7 +1,6 @@
 ---
 title: Martin Schilling
 author: Martin Schilling
-layout: post
 permalink: /2013/05/martin-schilling/
 categories:
   - Biography

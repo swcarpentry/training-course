@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions &#8211; Creating and Deleting files'
 author: Sheera Adar
-layout: post
 permalink: /2013/04/assessment-questions-creating-and-deleting-files/
 categories:
   - Proficiency

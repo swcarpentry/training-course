@@ -1,7 +1,6 @@
 ---
 title: 'Round 6.5: Teaching Online'
 author: Greg Wilson
-layout: post
 permalink: /2013/11/round-6-5-teaching-online/
 categories:
   - Round 06/5

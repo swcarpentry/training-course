@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Boolean algebra'
 author: Joshua Ainsley
-layout: post
 permalink: /2013/09/assessment-questions-boolean-algebra/
 categories:
   - Assessment

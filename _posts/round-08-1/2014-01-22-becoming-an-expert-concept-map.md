@@ -1,7 +1,6 @@
 ---
 title: Becoming an expert concept map
 author: David Schryer
-layout: post
 permalink: /2014/01/becoming-an-expert-concept-map/
 categories:
   - Concept Map

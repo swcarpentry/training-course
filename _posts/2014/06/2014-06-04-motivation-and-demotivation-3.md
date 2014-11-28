@@ -1,7 +1,6 @@
 ---
 title: Motivation and demotivation
 author: Padraic Stack
-layout: post
 permalink: /2014/06/motivation-and-demotivation-3/
 categories:
   - Uncategorized

@@ -1,7 +1,6 @@
 ---
 title: Louise Dash
 author: Louise Dash
-layout: post
 permalink: /2013/05/louise-dash/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.1 &#8211; Shell script arguments'
 author: Ross Dickson
-layout: post
 permalink: /2012/10/shell-script-arguments/
 categories:
   - Concept Map

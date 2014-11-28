@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Files and Directories'
 author: Sheera Adar
-layout: post
 permalink: /2013/03/concept-map-files-and-directories/
 categories:
   - Concept Map

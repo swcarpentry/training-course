@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Aur Saraf'
 author: Aur Saraf
-layout: post
 permalink: /2014/03/biography-aur-saraf/
 categories:
   - Biography

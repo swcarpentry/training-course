@@ -1,7 +1,6 @@
 ---
 title: About Sarah Supp
 author: Sarah Supp
-layout: post
 permalink: /2012/08/about-sarah-supp/
 categories:
   - Biography

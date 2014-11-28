@@ -1,7 +1,6 @@
 ---
 title: Walter Langelaar
 author: Walter Langelaar
-layout: post
 permalink: /2014/09/walter-langelaar/
 categories:
   - Biography

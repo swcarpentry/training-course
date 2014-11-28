@@ -1,7 +1,6 @@
 ---
 title: Sarah Richardson
 author: Sarah Richardson
-layout: post
 permalink: /2013/05/sarah-richardson/
 categories:
   - Biography

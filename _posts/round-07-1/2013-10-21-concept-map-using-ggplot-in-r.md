@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Using ggplot in R'
 author: Matt Landis
-layout: post
 permalink: /2013/10/concept-map-using-ggplot-in-r/
 categories:
   - Concept Map

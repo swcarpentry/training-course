@@ -1,7 +1,6 @@
 ---
 title: Choosing Scala
 author: Greg Wilson
-layout: post
 permalink: /2013/11/choosing-scala/
 categories:
   - Noticed

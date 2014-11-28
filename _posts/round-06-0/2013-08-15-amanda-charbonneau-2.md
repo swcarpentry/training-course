@@ -1,7 +1,6 @@
 ---
 title: Amanda Charbonneau
 author: Amanda Charbonneau
-layout: post
 permalink: /2013/08/amanda-charbonneau-2/
 categories:
   - Biography

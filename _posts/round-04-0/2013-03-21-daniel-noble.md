@@ -1,7 +1,6 @@
 ---
 title: Daniel Noble
 author: Daniel Noble
-layout: post
 permalink: /2013/03/daniel-noble/
 categories:
   - Biography

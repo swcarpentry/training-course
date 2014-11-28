@@ -1,7 +1,6 @@
 ---
 title: Chris Holdgraf
 author: Chris Holdgraf
-layout: post
 permalink: /2013/05/3-line-bio-for-chris-holdgraf/
 categories:
   - Biography

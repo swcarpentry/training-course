@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Logging in Python'
 author: David Jones
-layout: post
 permalink: /2013/10/concept-map-logging-in-python/
 categories:
   - Concept Map

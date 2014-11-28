@@ -1,7 +1,6 @@
 ---
 title: About Randy Olson
 author: Randy Olson
-layout: post
 permalink: /2013/03/about-randy-olson/
 categories:
   - Biography

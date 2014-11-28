@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: python virtual environments'
 author: Francisco Palm
-layout: post
 permalink: /2014/06/concept-map-python-virtual-environments/
 categories:
   - Concept Map

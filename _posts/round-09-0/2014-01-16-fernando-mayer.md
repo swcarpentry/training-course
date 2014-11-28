@@ -1,7 +1,6 @@
 ---
 title: Fernando Mayer
 author: Fernando Mayer
-layout: post
 permalink: /2014/01/fernando-mayer/
 categories:
   - Biography

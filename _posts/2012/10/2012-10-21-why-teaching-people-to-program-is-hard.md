@@ -1,7 +1,6 @@
 ---
 title: Why Teaching People to Program Is Hard
 author: Greg Wilson
-layout: post
 permalink: /2012/10/why-teaching-people-to-program-is-hard/
 categories:
   - Design

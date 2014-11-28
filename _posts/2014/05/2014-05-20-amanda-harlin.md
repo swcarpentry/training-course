@@ -1,7 +1,6 @@
 ---
 title: Amanda Harlin
 author: Amanda Harlin
-layout: post
 permalink: /2014/05/amanda-harlin/
 categories:
   - Biography

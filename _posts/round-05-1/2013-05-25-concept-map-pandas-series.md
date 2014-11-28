@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: pandas Series'
 author: Karmel Allison
-layout: post
 permalink: /2013/05/concept-map-pandas-series/
 categories:
   - Concept Map

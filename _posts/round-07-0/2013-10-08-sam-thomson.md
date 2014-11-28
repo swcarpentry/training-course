@@ -1,7 +1,6 @@
 ---
 title: Sam Thomson
 author: Samuel Thomson
-layout: post
 permalink: /2013/10/sam-thomson/
 categories:
   - Biography

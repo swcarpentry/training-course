@@ -1,7 +1,6 @@
 ---
 title: R. David Murray
 author: R. David Murray
-layout: post
 permalink: /2014/09/r-david-murray/
 categories:
   - Biography

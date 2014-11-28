@@ -1,7 +1,6 @@
 ---
 title: Round 2.1 – Dictionaries
 author: Stefan van der Walt
-layout: post
 permalink: /2012/10/round-2-1-claiming-a-topic-dictionaries/
 categories:
   - Concept Map

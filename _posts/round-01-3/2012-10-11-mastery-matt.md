@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Matt'
 author: Matt Davis
-layout: post
 permalink: /2012/10/mastery-matt/
 categories:
   - Proficiency

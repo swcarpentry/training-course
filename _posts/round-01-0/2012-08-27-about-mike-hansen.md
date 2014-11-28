@@ -1,7 +1,6 @@
 ---
 title: About Mike Hansen
 author: Michael Hansen
-layout: post
 permalink: /2012/08/about-mike-hansen/
 categories:
   - Biography

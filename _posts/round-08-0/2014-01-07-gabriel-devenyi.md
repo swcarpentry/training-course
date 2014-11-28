@@ -1,7 +1,6 @@
 ---
 title: Gabriel Devenyi
 author: Gabriel Devenyi
-layout: post
 permalink: /2014/01/gabriel-devenyi/
 categories:
   - Biography

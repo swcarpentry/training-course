@@ -1,7 +1,6 @@
 ---
 title: Maneesha Sane
 author: Maneesha Sane
-layout: post
 permalink: /2014/09/bio-maneesha-sane/
 categories:
   - Biography

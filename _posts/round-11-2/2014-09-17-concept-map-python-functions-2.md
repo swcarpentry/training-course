@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Python functions'
 author: Mariela Perignon
-layout: post
 permalink: /2014/09/concept-map-python-functions-2/
 categories:
   - Concept Map

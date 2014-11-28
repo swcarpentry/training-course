@@ -1,7 +1,6 @@
 ---
 title: 'Screencast &#8211; pandas groupby and apply functions'
 author: Martin Schilling
-layout: post
 permalink: /2013/06/screencast-pandas-groupby-and-apply-functions/
 categories:
   - Python

@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Aron'
 author: Aron Ahmadia
-layout: post
 permalink: /2012/10/mastery-aron/
 categories:
   - Proficiency

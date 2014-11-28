@@ -1,7 +1,6 @@
 ---
 title: 'Azalee Bostroem: Tracebacks'
 author: Azalee Bostroem
-layout: post
 permalink: /2012/12/azalee-bostroem-tracebacks/
 categories:
   - Round 01/5

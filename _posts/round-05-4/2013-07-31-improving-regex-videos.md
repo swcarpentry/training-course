@@ -1,7 +1,6 @@
 ---
 title: Improving RegEx videos
 author: Billy Rowell
-layout: post
 permalink: /2013/07/improving-regex-videos/
 categories:
   - Round 05/4

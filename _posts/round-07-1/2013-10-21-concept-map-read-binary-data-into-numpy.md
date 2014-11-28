@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Read Binary Data into Numpy'
 author: John Corless
-layout: post
 permalink: /2013/10/concept-map-read-binary-data-into-numpy/
 categories:
   - Concept Map

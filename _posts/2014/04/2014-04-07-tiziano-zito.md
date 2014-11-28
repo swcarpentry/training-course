@@ -1,7 +1,6 @@
 ---
 title: Tiziano Zito
 author: Tiziano Zito
-layout: post
 permalink: /2014/04/tiziano-zito/
 categories:
   - Biography

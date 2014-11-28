@@ -1,7 +1,6 @@
 ---
 title: data.table in R
 author: Naupaka Zimmerman
-layout: post
 permalink: /2013/12/data-table-in-r/
 categories:
   - Round 07/4

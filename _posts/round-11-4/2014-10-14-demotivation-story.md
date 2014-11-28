@@ -1,7 +1,6 @@
 ---
 title: Demotivation story
 author: Thomas Guignard
-layout: post
 permalink: /2014/10/demotivation-story/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: Isabel Fenton
 author: Isabel Fenton
-layout: post
 permalink: /2014/01/isabel-fenton/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Motivation &#8211; Azalee'
 author: Azalee Bostroem
-layout: post
 permalink: /2012/09/motivation/
 categories:
   - Motivation

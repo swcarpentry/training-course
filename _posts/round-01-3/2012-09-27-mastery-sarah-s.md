@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Sarah Supp'
 author: Sarah Supp
-layout: post
 permalink: /2012/09/mastery-sarah-s/
 categories:
   - Proficiency

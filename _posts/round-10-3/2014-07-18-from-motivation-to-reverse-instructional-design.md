@@ -1,7 +1,6 @@
 ---
 title: From Motivation to Reverse Instructional Design
 author: Greg Wilson
-layout: post
 permalink: /2014/07/from-motivation-to-reverse-instructional-design/
 categories:
   - Assessment

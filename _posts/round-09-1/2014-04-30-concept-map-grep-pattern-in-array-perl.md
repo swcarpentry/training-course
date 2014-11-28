@@ -1,7 +1,6 @@
 ---
 title: 'Concept map &#8211; Grep pattern in array (Perl)'
 author: Victoria Offord
-layout: post
 permalink: /2014/04/concept-map-grep-pattern-in-array-perl/
 categories:
   - Concept Map

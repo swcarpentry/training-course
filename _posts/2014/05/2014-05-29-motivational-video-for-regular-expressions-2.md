@@ -1,7 +1,6 @@
 ---
 title: Motivational video for regular expressions
 author: Dan MacLean
-layout: post
 permalink: /2014/05/motivational-video-for-regular-expressions-2/
 categories:
   - Motivation

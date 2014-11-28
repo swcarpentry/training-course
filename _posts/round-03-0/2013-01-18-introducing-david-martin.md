@@ -1,7 +1,6 @@
 ---
 title: Introducing David Martin
 author: David Martin
-layout: post
 permalink: /2013/01/introducing-david-martin/
 categories:
   - Biography

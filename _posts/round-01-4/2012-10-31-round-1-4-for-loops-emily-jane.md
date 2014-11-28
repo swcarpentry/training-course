@@ -1,7 +1,6 @@
 ---
 title: 'Round 1.4 For loops &#8211; Emily Jane'
 author: Emily Jane McTavish
-layout: post
 permalink: /2012/10/round-1-4-for-loops-emily-jane/
 categories:
   - Concept Map

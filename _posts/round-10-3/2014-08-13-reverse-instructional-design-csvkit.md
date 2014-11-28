@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design &#8211; csvkit'
 author: David Kua
-layout: post
 permalink: /2014/08/reverse-instructional-design-csvkit/
 categories:
   - Assessment

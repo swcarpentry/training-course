@@ -1,7 +1,6 @@
 ---
 title: Meg Staton
 author: Margaret Staton
-layout: post
 permalink: /2014/04/meg-staton/
 categories:
   - Biography

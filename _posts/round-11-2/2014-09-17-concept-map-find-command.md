@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Find command'
 author: Chris Gates
-layout: post
 permalink: /2014/09/concept-map-find-command/
 categories:
   - Concept Map

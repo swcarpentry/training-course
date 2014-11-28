@@ -1,7 +1,6 @@
 ---
 title: Sung Eun Bae
 author: Sung Bae
-layout: post
 permalink: /2013/05/sung-eun-bae/
 categories:
   - Biography

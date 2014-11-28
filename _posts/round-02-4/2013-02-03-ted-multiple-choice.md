@@ -1,7 +1,6 @@
 ---
 title: Ted Multiple Choice
 author: Ted Hart
-layout: post
 permalink: /2013/02/ted-multiple-choice/
 categories:
   - Proficiency

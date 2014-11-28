@@ -1,7 +1,6 @@
 ---
 title: Infinitesimal demotivations
 author: Radovan Bast
-layout: post
 permalink: /2014/10/infinitesimal-demotivations/
 categories:
   - Motivation

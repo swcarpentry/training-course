@@ -1,7 +1,6 @@
 ---
 title: 'Concept map &#8211; pipes and all that'
 author: Timothee Poisot
-layout: post
 permalink: /2014/09/concept-map-pipes-and-all-that/
 categories:
   - Concept Map

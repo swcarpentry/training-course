@@ -1,7 +1,6 @@
 ---
 title: Lisa Ballard
 author: Lisa Ballard
-layout: post
 permalink: /2014/06/lisa-ballard/
 categories:
   - Biography

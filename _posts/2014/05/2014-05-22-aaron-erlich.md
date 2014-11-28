@@ -1,7 +1,6 @@
 ---
 title: Aaron Erlich
 author: Aaron Erlich
-layout: post
 permalink: /2014/05/aaron-erlich/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: About Chang She
 author: Chang She
-layout: post
 permalink: /2012/10/about-chang-she/
 categories:
   - Biography

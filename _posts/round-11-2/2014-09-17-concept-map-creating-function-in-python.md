@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Creating function in Python'
 author: Sahar Rahmani
-layout: post
 permalink: /2014/09/concept-map-creating-function-in-python/
 categories:
   - Concept Map

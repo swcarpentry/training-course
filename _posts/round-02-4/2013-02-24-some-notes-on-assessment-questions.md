@@ -1,7 +1,6 @@
 ---
 title: Some Notes on Assessment Questions
 author: Greg Wilson
-layout: post
 permalink: /2013/02/some-notes-on-assessment-questions/
 categories:
   - Round 02/4

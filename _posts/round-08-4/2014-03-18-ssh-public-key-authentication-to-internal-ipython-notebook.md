@@ -1,7 +1,6 @@
 ---
 title: SSH Public Key Authentication to Internal IPython Notebook
 author: Chris Friedline
-layout: post
 permalink: /2014/03/ssh-public-key-authentication-to-internal-ipython-notebook/
 enclosure:
   - |

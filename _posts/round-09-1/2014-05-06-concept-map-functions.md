@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Functions'
 author: Tim McNamara
-layout: post
 permalink: /2014/05/concept-map-functions/
 categories:
   - Concept Map

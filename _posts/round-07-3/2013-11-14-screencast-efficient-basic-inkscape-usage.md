@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: efficient basic inkscape usage'
 author: Remi Emonet
-layout: post
 permalink: /2013/11/screencast-efficient-basic-inkscape-usage/
 categories:
   - Round 07/3

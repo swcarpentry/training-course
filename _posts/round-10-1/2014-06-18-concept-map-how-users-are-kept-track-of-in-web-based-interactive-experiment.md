@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: how users are kept track of in web-based interactive experiment'
 author: Erik Sorensen
-layout: post
 permalink: /2014/06/concept-map-how-users-are-kept-track-of-in-web-based-interactive-experiment/
 categories:
   - Concept Map

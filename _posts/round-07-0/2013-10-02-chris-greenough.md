@@ -1,7 +1,6 @@
 ---
 title: Chris Greenough
 author: Chris
-layout: post
 permalink: /2013/10/chris-greenough/
 categories:
   - Biography

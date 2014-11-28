@@ -1,7 +1,6 @@
 ---
 title: Yianni Kolokythas
 author: Yianni Kolokythas
-layout: post
 permalink: /2014/09/yianni-kolokythas/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Assessment question for Padraic Stack&#8217;s &#8220;Setting up git&#8221;'
 author: Bror Fredrik Jonsson
-layout: post
 permalink: /2014/05/assessment-question-for-padraic-stacks-setting-up-git/
 categories:
   - Uncategorized

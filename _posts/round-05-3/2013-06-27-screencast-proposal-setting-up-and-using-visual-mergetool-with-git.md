@@ -1,7 +1,6 @@
 ---
 title: 'Screencast proposal: setting up and using visual mergetool with git'
 author: Preston Holmes
-layout: post
 permalink: /2013/06/screencast-proposal-setting-up-and-using-visual-mergetool-with-git/
 categories:
   - Round 05/3

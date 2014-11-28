@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Git'
 author: Denis Haine
-layout: post
 permalink: /2013/10/concept-map-git/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Screencast vs. Screenshare
 author: Kirsten Fagnan
-layout: post
 permalink: /2013/07/screencast-vs-screenshare/
 categories:
   - Round 05/4

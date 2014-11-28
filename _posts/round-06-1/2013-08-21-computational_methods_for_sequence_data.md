@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Computational Methods For Analyzing Environmental Sequence Data'
 author: Joshua Herr
-layout: post
 permalink: /2013/08/computational_methods_for_sequence_data/
 categories:
   - Concept Map

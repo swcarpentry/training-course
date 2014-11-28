@@ -1,7 +1,6 @@
 ---
 title: Object Oriented videos
 author: David Merand
-layout: post
 permalink: /2013/08/object-oriented-videos/
 categories:
   - Round 05/4

@@ -1,7 +1,6 @@
 ---
 title: Jordan Fish
 author: Jordan Fish
-layout: post
 permalink: /2013/05/jordan-fish/
 categories:
   - Biography

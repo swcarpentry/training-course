@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: for loops'
 author: Tim Bean
-layout: post
 permalink: /2014/06/concept-map-for-loops-3/
 categories:
   - Uncategorized

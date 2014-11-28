@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Scatterplots with ggplot2 in R'
 author: Joshua Ainsley
-layout: post
 permalink: /2013/09/screencast-scatterplots-with-ggplot2-in-r/
 categories:
   - Round 06/3

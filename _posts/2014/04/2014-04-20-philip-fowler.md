@@ -1,7 +1,6 @@
 ---
 title: Philip Fowler
 author: Philip Fowler
-layout: post
 permalink: /2014/04/philip-fowler/
 categories:
   - Biography

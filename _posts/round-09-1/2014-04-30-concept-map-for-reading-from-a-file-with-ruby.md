@@ -1,7 +1,6 @@
 ---
 title: Concept Map for reading from a file with Ruby
 author: Dan MacLean
-layout: post
 permalink: /2014/04/concept-map-for-reading-from-a-file-with-ruby/
 categories:
   - Concept Map

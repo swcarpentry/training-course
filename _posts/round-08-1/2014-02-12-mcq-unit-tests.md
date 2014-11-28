@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: Unit tests'
 author: Neem Serra
-layout: post
 permalink: /2014/02/mcq-unit-tests/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Git &#8211; 3. Collaborating'
 author: Ruth Collings
-layout: post
 permalink: /2014/09/concept-map-git-3-collaborating/
 categories:
   - Concept Map

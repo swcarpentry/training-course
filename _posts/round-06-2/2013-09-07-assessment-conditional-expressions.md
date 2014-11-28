@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Conditional Expressions'
 author: Christina Koch
-layout: post
 permalink: /2013/09/assessment-conditional-expressions/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Benefits and Challenges of VMs
 author: Dav Clark
-layout: post
 permalink: /2014/05/benefits-and-challenges-of-vms/
 categories:
   - Concept Map

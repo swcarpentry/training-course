@@ -1,7 +1,6 @@
 ---
 title: About Karthik Ram
 author: Karthik Ram
-layout: post
 permalink: /2013/01/about-karthik-ram/
 categories:
   - Biography

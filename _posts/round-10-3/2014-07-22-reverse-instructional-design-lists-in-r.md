@@ -1,7 +1,6 @@
 ---
 title: 'Reverse Instructional Design &#8211; Lists in R'
 author: Aaron Erlich
-layout: post
 permalink: /2014/07/reverse-instructional-design-lists-in-r/
 categories:
   - Assessment

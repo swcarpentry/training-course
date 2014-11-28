@@ -1,7 +1,6 @@
 ---
 title: Making Sense of MOOCs
 author: Greg Wilson
-layout: post
 permalink: /2013/05/making-sense-of-moocs/
 categories:
   - Noticed

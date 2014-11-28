@@ -1,7 +1,6 @@
 ---
 title: Three Perspectives
 author: Greg Wilson
-layout: post
 permalink: /2012/09/three-perspectives/
 categories:
   - Noticed

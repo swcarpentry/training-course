@@ -1,7 +1,6 @@
 ---
 title: 'Rev. Inst. Design &#8212; BASH File Management'
 author: Joseph Viviano
-layout: post
 permalink: /2014/07/rev-inst-design-bash-file-management/
 categories:
   - Uncategorized

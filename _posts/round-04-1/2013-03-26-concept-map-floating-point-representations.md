@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map- floating point representations'
 author: Will Trimble
-layout: post
 permalink: /2013/03/concept-map-floating-point-representations/
 categories:
   - Concept Map

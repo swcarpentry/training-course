@@ -1,7 +1,6 @@
 ---
 title: 'demotivating experience: Jennifer Shelton'
 author: Jennifer Shelton
-layout: post
 permalink: /2014/06/demotivating-experience-jennifer-shelton/
 categories:
   - Uncategorized

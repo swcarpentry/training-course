@@ -1,7 +1,6 @@
 ---
 title: 'Final project: Analyzing csv data in Pandas and IPython notebook'
 author: Luke Lee
-layout: post
 permalink: /2013/08/final-project-analyzing-csv-data-in-pandas-and-ipython-notebook/
 categories:
   - Round 05/5

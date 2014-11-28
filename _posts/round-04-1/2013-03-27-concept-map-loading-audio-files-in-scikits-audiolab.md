@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Loading audio files in scikits.audiolab'
 author: Bogdan Vera
-layout: post
 permalink: /2013/03/concept-map-loading-audio-files-in-scikits-audiolab/
 categories:
   - Concept Map

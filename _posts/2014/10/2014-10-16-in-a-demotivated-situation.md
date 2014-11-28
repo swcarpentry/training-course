@@ -1,7 +1,6 @@
 ---
 title: In a demotivated situation
 author: Alif
-layout: post
 permalink: /2014/10/in-a-demotivated-situation/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: Batch processing script'
 author: Bradley Taber-Thomas
-layout: post
 permalink: /2014/02/mcq-batch-processing-script/
 categories:
   - Assessment

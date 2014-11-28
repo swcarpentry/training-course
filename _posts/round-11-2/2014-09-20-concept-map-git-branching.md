@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8212; Git Branching'
 author: François Michonneau
-layout: post
 permalink: /2014/09/concept-map-git-branching/
 categories:
   - Concept Map

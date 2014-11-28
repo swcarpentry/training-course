@@ -1,7 +1,6 @@
 ---
 title: 'screencast idea: manipulating an XML file in php'
 author: Stuart Charters
-layout: post
 permalink: /2013/06/screencast-idea-manipulating-an-xml-file-in-php/
 categories:
   - Round 05/3

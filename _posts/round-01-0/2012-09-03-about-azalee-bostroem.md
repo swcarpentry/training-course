@@ -1,7 +1,6 @@
 ---
 title: About Azalee Bostroem
 author: Azalee Bostroem
-layout: post
 permalink: /2012/09/about-azalee-bostroem/
 categories:
   - Biography

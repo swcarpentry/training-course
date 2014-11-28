@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: I don&#8217;t even know your face'
 author: Franz Navarro
-layout: post
 permalink: /2014/10/demotivation-i-dont-even-know-your-face/
 categories:
   - Motivation

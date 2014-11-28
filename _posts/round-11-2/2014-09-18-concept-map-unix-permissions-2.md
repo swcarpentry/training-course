@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; Unix Permissions'
 author: Erik Kastman
-layout: post
 permalink: /2014/09/concept-map-unix-permissions-2/
 categories:
   - Concept Map

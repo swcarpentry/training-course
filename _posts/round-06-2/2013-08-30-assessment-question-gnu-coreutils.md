@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Question: GNU Coreutils'
 author: Raniere Silva
-layout: post
 permalink: /2013/08/assessment-question-gnu-coreutils/
 categories:
   - Assessment

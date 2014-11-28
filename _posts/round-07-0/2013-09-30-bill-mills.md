@@ -1,7 +1,6 @@
 ---
 title: Bill Mills
 author: Bill Mills
-layout: post
 permalink: /2013/09/bill-mills/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: reading delimited data into R'
 author: Robert Flight
-layout: post
 permalink: /2013/10/concept-map-data-into-r/
 categories:
   - Concept Map

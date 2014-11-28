@@ -1,7 +1,6 @@
 ---
 title: From Concept Maps to Assessment
 author: Greg Wilson
-layout: post
 permalink: /2014/09/from-concept-maps-to-assessment/
 categories:
   - Assessment

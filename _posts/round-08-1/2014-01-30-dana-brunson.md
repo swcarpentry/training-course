@@ -1,7 +1,6 @@
 ---
 title: Dana Brunson
 author: Dana Brunson
-layout: post
 permalink: /2014/01/dana-brunson/
 categories:
   - Biography

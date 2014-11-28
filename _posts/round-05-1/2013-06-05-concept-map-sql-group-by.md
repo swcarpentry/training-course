@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; SQL Group By'
 author: Shoaib Sufi
-layout: post
 permalink: /2013/06/concept-map-sql-group-by/
 categories:
   - Concept Map

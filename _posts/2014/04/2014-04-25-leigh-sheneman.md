@@ -1,7 +1,6 @@
 ---
 title: Leigh Sheneman
 author: Leigh Sheneman
-layout: post
 permalink: /2014/04/leigh-sheneman/
 categories:
   - Biography

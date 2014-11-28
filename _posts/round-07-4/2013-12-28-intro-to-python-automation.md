@@ -1,7 +1,6 @@
 ---
 title: Intro to python automation
 author: Fan
-layout: post
 permalink: /2013/12/intro-to-python-automation/
 categories:
   - Round 07/4

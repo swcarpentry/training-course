@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: using ls'
 author: Naupaka Zimmerman
-layout: post
 permalink: /2013/10/concept-map-using-ls/
 categories:
   - Concept Map

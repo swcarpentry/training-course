@@ -1,7 +1,6 @@
 ---
 title: Daniel T. Braithwaite
 author: Daniel Braithwaite
-layout: post
 permalink: /2013/10/daniel-t-braithwaite/
 categories:
   - Biography

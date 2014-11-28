@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice questions: perl'
 author: Naupaka Zimmerman
-layout: post
 permalink: /2013/10/multiple-choice-questions-perl/
 categories:
   - Assessment

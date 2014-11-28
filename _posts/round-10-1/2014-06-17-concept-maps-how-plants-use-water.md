@@ -1,7 +1,6 @@
 ---
 title: 'Concept maps: how plants use water'
 author: Daisie Huang
-layout: post
 permalink: /2014/06/concept-maps-how-plants-use-water/
 categories:
   - Concept Map

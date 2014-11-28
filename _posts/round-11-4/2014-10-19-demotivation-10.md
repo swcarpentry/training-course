@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation &#8211; Fourier Transforms'
 author: Anthony Harrison
-layout: post
 permalink: /2014/10/demotivation-10/
 categories:
   - Motivation

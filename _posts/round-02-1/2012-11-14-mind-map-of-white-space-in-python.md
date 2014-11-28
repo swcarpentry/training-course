@@ -1,7 +1,6 @@
 ---
 title: Mind Map of White Space in Python
 author: Alex Viana
-layout: post
 permalink: /2012/11/mind-map-of-white-space-in-python/
 categories:
   - Concept Map

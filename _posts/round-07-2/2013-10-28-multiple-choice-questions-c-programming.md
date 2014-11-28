@@ -1,7 +1,6 @@
 ---
 title: 'Multiple Choice Questions &#8211; C Programming'
 author: Don Brown
-layout: post
 permalink: /2013/10/multiple-choice-questions-c-programming/
 categories:
   - Assessment

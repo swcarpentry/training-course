@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: find command'
 author: Chris Gates
-layout: post
 permalink: /2014/10/find_comamnd/
 categories:
   - Assessment

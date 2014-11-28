@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: for loops in the command line'
 author: Jeramia Ory
-layout: post
 permalink: /2013/08/concept-map-for-loops-in-the-command-line/
 categories:
   - Concept Map

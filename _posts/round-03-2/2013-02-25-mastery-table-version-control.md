@@ -1,7 +1,6 @@
 ---
 title: 'Mastery table: Version Control'
 author: Karthik Ram
-layout: post
 permalink: /2013/02/mastery-table-version-control/
 categories:
   - Proficiency

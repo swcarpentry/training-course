@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.1 &#8211; Strings (in Python)'
 author: Jason Pell
-layout: post
 permalink: /2012/10/round-2-1-strings-in-python/
 categories:
   - Concept Map

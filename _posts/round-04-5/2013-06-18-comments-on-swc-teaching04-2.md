@@ -1,7 +1,6 @@
 ---
 title: Comments on SWC Teaching04
 author: Jorden Schossau
-layout: post
 permalink: /2013/06/comments-on-swc-teaching04-2/
 categories:
   - Round 04/5

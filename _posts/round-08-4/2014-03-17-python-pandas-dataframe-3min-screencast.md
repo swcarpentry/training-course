@@ -1,7 +1,6 @@
 ---
 title: 'Python Pandas DataFrame &#8211; 3min Screencast'
 author: Mark Stacy
-layout: post
 permalink: /2014/03/python-pandas-dataframe-3min-screencast/
 categories:
   - Round 08/4

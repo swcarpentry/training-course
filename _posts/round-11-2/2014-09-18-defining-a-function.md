@@ -1,7 +1,6 @@
 ---
 title: Defining a Function
 author: Kit Fuhrman
-layout: post
 permalink: /2014/09/defining-a-function/
 categories:
   - Concept Map

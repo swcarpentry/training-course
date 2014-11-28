@@ -1,7 +1,6 @@
 ---
 title: Motivation for IPython
 author: Jonathan Frederic
-layout: post
 permalink: /2014/05/motivation-for-ipython/
 categories:
   - Motivation

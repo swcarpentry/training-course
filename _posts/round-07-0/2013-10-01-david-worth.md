@@ -1,7 +1,6 @@
 ---
 title: David Worth
 author: David Worth
-layout: post
 permalink: /2013/10/david-worth/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: Jake Vanderplas
 author: Jacob Vanderplas
-layout: post
 permalink: /2013/03/jake-vanderplas/
 categories:
   - Biography

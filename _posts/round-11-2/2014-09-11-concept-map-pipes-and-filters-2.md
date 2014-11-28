@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Pipes and Filters'
 author: Kirill Palamartchouk
-layout: post
 permalink: /2014/09/concept-map-pipes-and-filters-2/
 categories:
   - Concept Map

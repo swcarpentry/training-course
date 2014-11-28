@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Python Dictionaries'
 author: Christian Jacobs
-layout: post
 permalink: /2014/05/assessment-python-dictionaries/
 categories:
   - Assessment

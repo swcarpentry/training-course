@@ -1,7 +1,6 @@
 ---
 title: About John Blischak
 author: John Blischak
-layout: post
 permalink: /2013/03/about-john-blischak/
 categories:
   - Biography

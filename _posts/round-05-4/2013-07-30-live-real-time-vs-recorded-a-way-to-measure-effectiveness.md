@@ -1,7 +1,6 @@
 ---
 title: 'Live real-time vs recorded &#8211; a way to measure effectiveness?'
 author: David Perez-Suarez
-layout: post
 permalink: /2013/07/live-real-time-vs-recorded-a-way-to-measure-effectiveness/
 categories:
   - Round 05/4

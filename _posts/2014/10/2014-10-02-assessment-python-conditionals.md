@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Python Conditionals'
 author: Birgit Bachler
-layout: post
 permalink: /2014/10/assessment-python-conditionals/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: Physical Chemistry'
 author: Lauren Michael
-layout: post
 permalink: /2014/10/demotivation-physical-chemistry/
 categories:
   - Motivation

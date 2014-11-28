@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Mark Stillwell'
 author: Mark Stillwell
-layout: post
 permalink: /2014/03/biography-mark-stillwell/
 categories:
   - Biography

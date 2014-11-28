@@ -1,7 +1,6 @@
 ---
 title: Robert M Flight
 author: Robert Flight
-layout: post
 permalink: /2013/09/robert-m-flight/
 categories:
   - Biography

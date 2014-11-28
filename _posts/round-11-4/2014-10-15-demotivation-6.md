@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Brent Shambaugh
-layout: post
 permalink: /2014/10/demotivation-6/
 categories:
   - Motivation

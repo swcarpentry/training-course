@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Basic Shell Script'
 author: Christina Koch
-layout: post
 permalink: /2013/09/screencast-basic-shell-script/
 categories:
   - Round 06/3

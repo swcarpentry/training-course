@@ -1,7 +1,6 @@
 ---
 title: Jeremiah Lant
 author: Jeremiah Lant
-layout: post
 permalink: /2014/04/jeremiah-lant/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Alex Simperler'
 author: Alexandra Simperler
-layout: post
 permalink: /2014/04/biography-alex-simperler/
 categories:
   - Biography

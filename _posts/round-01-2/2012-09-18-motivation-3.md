@@ -1,7 +1,6 @@
 ---
 title: Motivation
 author: Dhavide Aruliah
-layout: post
 permalink: /2012/09/motivation-3/
 categories:
   - Motivation

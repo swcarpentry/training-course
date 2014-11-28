@@ -1,7 +1,6 @@
 ---
 title: 'Live vs recorded sessions: Shoaib and Ivan'
 author: Ivan Gonzalez
-layout: post
 permalink: /2013/07/live-vs-recorded-sessions-shoaib-and-ivan/
 categories:
   - Round 05/4

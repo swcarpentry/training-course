@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Creating Things (in the shell)'
 author: Brent Shambaugh
-layout: post
 permalink: /2014/10/assessment-creating-things-in-the-shell/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: Setting up a remote kernel for Mathematica
 author: Erik Schnetter
-layout: post
 permalink: /2013/11/setting-up-a-remote-kernel-for-mathematica/
 categories:
   - Round 07/3

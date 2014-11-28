@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: For loops'
 author: Scott Chamberlain
-layout: post
 permalink: /2013/10/concept-map-for-loops-2/
 categories:
   - Concept Map

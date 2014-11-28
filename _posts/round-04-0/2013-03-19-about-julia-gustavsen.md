@@ -1,7 +1,6 @@
 ---
 title: About Julia Gustavsen
 author: Julia Gustavsen
-layout: post
 permalink: /2013/03/about-julia-gustavsen/
 categories:
   - Biography

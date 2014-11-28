@@ -1,7 +1,6 @@
 ---
 title: Itamar Turner-Trauring
 author: Itamar Turner-Trauring
-layout: post
 permalink: /2013/05/itamar-turner-trauring/
 categories:
   - Biography

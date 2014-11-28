@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: TDD'
 author: Olav Vahtras
-layout: post
 permalink: /2014/09/concept-map-tdd/
 categories:
   - Concept Map

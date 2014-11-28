@@ -1,7 +1,6 @@
 ---
 title: John Gosset
 author: John Gosset
-layout: post
 permalink: /2014/04/john-gosset/
 categories:
   - Biography

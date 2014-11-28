@@ -1,7 +1,6 @@
 ---
 title: 'MCQ and exercise, &#8216;find&#8217; command'
 author: Jeramia Ory
-layout: post
 permalink: /2014/02/mcq-and-exercise-find-command/
 categories:
   - Assessment

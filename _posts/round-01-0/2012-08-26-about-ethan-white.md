@@ -1,7 +1,6 @@
 ---
 title: About Ethan White
 author: Ethan White
-layout: post
 permalink: /2012/08/about-ethan-white/
 categories:
   - Biography

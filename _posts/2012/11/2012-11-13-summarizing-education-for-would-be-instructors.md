@@ -1,7 +1,6 @@
 ---
 title: Summarizing Education for Would-Be Instructors
 author: Greg Wilson
-layout: post
 permalink: /2012/11/summarizing-education-for-would-be-instructors/
 categories:
   - Content

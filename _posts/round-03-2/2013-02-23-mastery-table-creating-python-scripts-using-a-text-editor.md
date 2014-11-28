@@ -1,7 +1,6 @@
 ---
 title: 'Mastery Table: creating Python scripts using a text editor'
 author: Ben Morris
-layout: post
 permalink: /2013/02/mastery-table-creating-python-scripts-using-a-text-editor/
 categories:
   - Proficiency

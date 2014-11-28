@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Ahmadou Dicko'
 author: Ahmadou Dicko
-layout: post
 permalink: /2014/03/biography-of-ahmadou-dicko/
 categories:
   - Biography

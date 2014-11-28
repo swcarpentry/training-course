@@ -1,7 +1,6 @@
 ---
 title: 'Assessment questions:  NumPy Arrays'
 author: David Jones
-layout: post
 permalink: /2013/10/assessment-questions-numpy-arrays/
 categories:
   - Assessment

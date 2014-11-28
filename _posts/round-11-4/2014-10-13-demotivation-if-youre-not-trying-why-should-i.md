@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: If you&#8217;re not trying, why should I?'
 author: Kate Hertweck
-layout: post
 permalink: /2014/10/demotivation-if-youre-not-trying-why-should-i/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Reverse instructional design: finding file sizes and copying files on the command line'
 author: Emily Coffey
-layout: post
 permalink: /2014/07/reverse-instructional-design-finding-file-sizes-and-copying-files-on-the-command-line/
 categories:
   - Uncategorized

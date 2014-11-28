@@ -1,7 +1,6 @@
 ---
 title: About Ben Morris
 author: Ben Morris
-layout: post
 permalink: /2013/02/about-ben-morris/
 categories:
   - Biography

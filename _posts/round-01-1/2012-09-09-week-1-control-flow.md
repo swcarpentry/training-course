@@ -1,7 +1,6 @@
 ---
 title: 'Week 1 &#8211; Control Flow'
 author: Katy Huff
-layout: post
 permalink: /2012/09/week-1-control-flow/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Numpy Array'
 author: Daniel Smith
-layout: post
 permalink: /2014/09/concept-map-numpy-array/
 categories:
   - Concept Map

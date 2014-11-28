@@ -1,7 +1,6 @@
 ---
 title: Reflection on my audience feedback
 author: John Blischak
-layout: post
 permalink: /2013/06/reflection-on-my-audience-feedback/
 categories:
   - Round 04/5

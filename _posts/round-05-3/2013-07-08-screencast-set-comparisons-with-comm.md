@@ -1,7 +1,6 @@
 ---
 title: 'Screencast &#8211; Set comparisons at the linux console'
 author: Billy Rowell
-layout: post
 permalink: /2013/07/screencast-set-comparisons-with-comm/
 categories:
   - Round 05/3

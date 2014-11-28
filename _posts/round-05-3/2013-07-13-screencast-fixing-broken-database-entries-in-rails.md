@@ -1,7 +1,6 @@
 ---
 title: 'Screencast &#8211; Fixing broken database entries in Rails'
 author: Philipp Bayer
-layout: post
 permalink: /2013/07/screencast-fixing-broken-database-entries-in-rails/
 categories:
   - Round 05/3

@@ -1,7 +1,6 @@
 ---
 title: My demotivation
 author: Anja Boskovic
-layout: post
 permalink: /2014/10/my-demotivation-2/
 categories:
   - Motivation

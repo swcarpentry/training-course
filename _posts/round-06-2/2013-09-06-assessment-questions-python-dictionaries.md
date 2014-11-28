@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions:  Python Dictionaries'
 author: Matthew Lightman
-layout: post
 permalink: /2013/09/assessment-questions-python-dictionaries/
 categories:
   - Assessment

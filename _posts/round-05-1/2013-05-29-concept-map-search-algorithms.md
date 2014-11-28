@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Search algorithms'
 author: Sung Bae
-layout: post
 permalink: /2013/05/concept-map-search-algorithms/
 categories:
   - Concept Map

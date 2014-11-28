@@ -1,7 +1,6 @@
 ---
 title: R resources for testing and project organization
 author: Tim Cerino
-layout: post
 permalink: /2012/10/r-resources-for-testing-and-project-organization/
 categories:
   - Content

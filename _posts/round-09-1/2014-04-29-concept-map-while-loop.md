@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; While loop'
 author: Graham Etherington
-layout: post
 permalink: /2014/04/concept-map-while-loop/
 categories:
   - Concept Map

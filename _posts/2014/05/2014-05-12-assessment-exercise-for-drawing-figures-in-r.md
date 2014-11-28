@@ -1,7 +1,6 @@
 ---
 title: Assessment Exercise for Drawing Figures in R
 author: Dan MacLean
-layout: post
 permalink: /2014/05/assessment-exercise-for-drawing-figures-in-r/
 categories:
   - Uncategorized

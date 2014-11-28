@@ -1,7 +1,6 @@
 ---
 title: Jordi Blasco
 author: Jordi Blasco
-layout: post
 permalink: /2013/05/jordi-blasco/
 categories:
   - Biography

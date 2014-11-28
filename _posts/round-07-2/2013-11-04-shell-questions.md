@@ -1,7 +1,6 @@
 ---
 title: Shell questions
 author: David Rio
-layout: post
 permalink: /2013/11/shell-questions/
 categories:
   - Assessment

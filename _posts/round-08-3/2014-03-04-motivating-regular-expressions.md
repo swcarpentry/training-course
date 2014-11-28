@@ -1,7 +1,6 @@
 ---
 title: Motivating Regular Expressions
 author: Benjamin Bradshaw
-layout: post
 permalink: /2014/03/motivating-regular-expressions/
 categories:
   - Motivation

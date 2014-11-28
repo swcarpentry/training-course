@@ -1,7 +1,6 @@
 ---
 title: Ashwin Srinath
 author: Ashwin Srinath
-layout: post
 permalink: /2014/09/ashwin-srinath/
 categories:
   - Biography

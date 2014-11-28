@@ -1,7 +1,6 @@
 ---
 title: Assessment question for vim
 author: Yu-Ching Shih
-layout: post
 permalink: /2014/05/assessment-question-for-vim/
 categories:
   - Assessment

@@ -1,7 +1,6 @@
 ---
 title: About Oliver Szymanezyk
 author: Oliver Szymanezyk
-layout: post
 permalink: /2012/10/about-oliver-szymanezyk/
 categories:
   - Biography

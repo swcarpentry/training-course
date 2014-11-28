@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Tiffany Timbers
-layout: post
 permalink: /2014/10/demotivation-5/
 categories:
   - Motivation

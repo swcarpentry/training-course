@@ -1,7 +1,6 @@
 ---
 title: About Fei Han
 author: Kim Han
-layout: post
 permalink: /2013/03/about-fei-han/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Emily Jane'
 author: Emily Jane McTavish
-layout: post
 permalink: /2012/09/mastery-emily-jane/
 categories:
   - Proficiency

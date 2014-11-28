@@ -1,7 +1,6 @@
 ---
 title: 'Screencast Idea &#8211; using the right package version'
 author: Chris Holdgraf
-layout: post
 permalink: /2013/07/screencast-idea-using-the-right-package-version/
 categories:
   - Round 05/3

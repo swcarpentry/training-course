@@ -1,7 +1,6 @@
 ---
 title: Naupaka Zimmerman
 author: Naupaka Zimmerman
-layout: post
 permalink: /2013/10/naupaka-zimmerman/
 categories:
   - Biography

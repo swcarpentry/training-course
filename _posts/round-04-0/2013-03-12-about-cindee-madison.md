@@ -1,7 +1,6 @@
 ---
 title: About Cindee Madison
 author: Cindee Madison
-layout: post
 permalink: /2013/03/about-cindee-madison/
 categories:
   - Biography

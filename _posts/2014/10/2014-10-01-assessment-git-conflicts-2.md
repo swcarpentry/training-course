@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: git conflicts'
 author: Jared Camins-Esakov
-layout: post
 permalink: /2014/10/assessment-git-conflicts-2/
 categories:
   - Assessment

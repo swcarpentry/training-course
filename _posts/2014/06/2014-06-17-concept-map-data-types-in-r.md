@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Data types in R'
 author: Andy Leung
-layout: post
 permalink: /2014/06/concept-map-data-types-in-r/
 categories:
   - Concept Map

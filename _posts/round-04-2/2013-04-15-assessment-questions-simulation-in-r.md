@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Simulation in R'
 author: Diego Barneche
-layout: post
 permalink: /2013/04/assessment-questions-simulation-in-r/
 categories:
   - Proficiency

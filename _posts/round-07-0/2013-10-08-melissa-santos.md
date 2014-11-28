@@ -1,7 +1,6 @@
 ---
 title: Melissa Santos
 author: Melissa Santos
-layout: post
 permalink: /2013/10/melissa-santos/
 categories:
   - Biography

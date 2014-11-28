@@ -1,7 +1,6 @@
 ---
 title: Catherine McGoveran
 author: Catherine McGoveran
-layout: post
 permalink: /2014/05/catherine-mcgoveran/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Conditionals &#038; booleans in Python'
 author: Julia Evans
-layout: post
 permalink: /2013/05/concept-map-conditionals-booleans-in-python/
 categories:
   - Concept Map

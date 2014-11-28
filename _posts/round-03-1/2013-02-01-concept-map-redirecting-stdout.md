@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: redirecting stdout'
 author: David Jones
-layout: post
 permalink: /2013/02/concept-map-redirecting-stdout/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Qingpeng Zhang
 author: Qingpeng Zhang
-layout: post
 permalink: /2014/04/biography-qingpeng-zhang/
 categories:
   - Biography

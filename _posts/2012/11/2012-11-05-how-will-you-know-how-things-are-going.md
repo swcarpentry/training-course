@@ -1,7 +1,6 @@
 ---
 title: How will you know how things are going?
 author: Warren Code
-layout: post
 permalink: /2012/11/how-will-you-know-how-things-are-going/
 categories:
   - Assessment

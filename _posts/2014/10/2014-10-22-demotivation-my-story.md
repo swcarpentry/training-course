@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: my story'
 author: Liberty Foreman
-layout: post
 permalink: /2014/10/demotivation-my-story/
 categories:
   - Motivation

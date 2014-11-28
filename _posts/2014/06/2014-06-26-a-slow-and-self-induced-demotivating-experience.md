@@ -1,7 +1,6 @@
 ---
 title: A slow and self-induced demotivating experience
 author: Emily Coffey
-layout: post
 permalink: /2014/06/a-slow-and-self-induced-demotivating-experience/
 categories:
   - Uncategorized

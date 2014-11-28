@@ -1,7 +1,6 @@
 ---
 title: About Tracy Teal
 author: Tracy Teal
-layout: post
 permalink: /2012/09/about-tracy-teal/
 categories:
   - Biography

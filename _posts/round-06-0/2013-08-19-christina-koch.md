@@ -1,7 +1,6 @@
 ---
 title: Christina Koch
 author: Christina Koch
-layout: post
 permalink: /2013/08/christina-koch/
 categories:
   - Biography

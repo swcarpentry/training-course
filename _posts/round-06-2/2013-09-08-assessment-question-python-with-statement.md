@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Question: Python with-statement'
 author: Philipp Lies
-layout: post
 permalink: /2013/09/assessment-question-python-with-statement/
 categories:
   - Assessment

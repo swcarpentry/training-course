@@ -1,7 +1,6 @@
 ---
 title: Tim McNamara
 author: Tim McNamara
-layout: post
 permalink: /2013/05/tim-mcnamara/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Mark Guzdial: What We Know About Teaching CS  (Answer: Not All That Much)'
 author: Greg Wilson
-layout: post
 permalink: /2012/12/mark-guzdial-what-we-know-about-teaching-cs%e2%80%a8-answer-not-all-that-much/
 categories:
   - Noticed

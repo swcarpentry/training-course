@@ -1,7 +1,6 @@
 ---
 title: Easton White
 author: Easton White
-layout: post
 permalink: /2014/05/easton-white/
 categories:
   - Biography

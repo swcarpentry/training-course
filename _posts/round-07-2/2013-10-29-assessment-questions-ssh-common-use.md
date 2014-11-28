@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: ssh common use'
 author: Remi Emonet
-layout: post
 permalink: /2013/10/assessment-questions-ssh-common-use/
 categories:
   - Assessment

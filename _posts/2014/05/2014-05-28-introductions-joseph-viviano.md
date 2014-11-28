@@ -1,7 +1,6 @@
 ---
 title: 'Bio &#8212; Joseph Viviano'
 author: Joseph Viviano
-layout: post
 permalink: /2014/05/introductions-joseph-viviano/
 categories:
   - Biography

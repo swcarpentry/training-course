@@ -1,7 +1,6 @@
 ---
 title: Timothee Poisot
 author: Timothee Poisot
-layout: post
 permalink: /2014/09/timothee-poisot/
 categories:
   - Biography

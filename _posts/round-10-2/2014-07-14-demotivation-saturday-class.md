@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation &#8211; Saturday Class'
 author: David Kua
-layout: post
 permalink: /2014/07/demotivation-saturday-class/
 categories:
   - Motivation

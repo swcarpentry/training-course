@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice questions: Manipulating Python lists'
 author: Samuel Thomson
-layout: post
 permalink: /2013/10/multiple-choice-questions-manipulating-python-lists/
 categories:
   - Assessment

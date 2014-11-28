@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Pipes and Filters'
 author: Logan Cox
-layout: post
 permalink: /2014/10/assessment-pipes-and-filters-2/
 categories:
   - Assessment

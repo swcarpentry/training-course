@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: Improving the behaviour of the up and down arrows in bash'
 author: Jean-Christophe Leyder
-layout: post
 permalink: /2014/03/screencast-improving-the-behaviour-of-the-up-and-down-arrows-in-bash/
 enclosure:
   - |

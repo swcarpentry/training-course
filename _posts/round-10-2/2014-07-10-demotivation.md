@@ -1,7 +1,6 @@
 ---
 title: Demotivation
 author: Brian Forst
-layout: post
 permalink: /2014/07/demotivation/
 categories:
   - Motivation

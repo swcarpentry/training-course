@@ -1,7 +1,6 @@
 ---
 title: Critique of SWC4.0 SQL Screen Casts
 author: Jordan Fish
-layout: post
 permalink: /2013/07/critique-of-swc4-0-sql-screen-casts/
 categories:
   - Round 05/4

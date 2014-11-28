@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Setting up a git repository (for beginners)'
 author: Kaitlin Thaney
-layout: post
 permalink: /2014/06/concept-map-setting-up-a-git-repository-for-beginners/
 categories:
   - Concept Map

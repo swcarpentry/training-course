@@ -1,7 +1,6 @@
 ---
 title: 'Motivation video &#8211; Perl Grep'
 author: Graham Etherington
-layout: post
 permalink: /2014/06/motivation-video-perl-grep/
 categories:
   - Motivation

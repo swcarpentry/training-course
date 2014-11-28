@@ -1,7 +1,6 @@
 ---
 title: 'Screencast: File redirection in the unix shell'
 author: Sheldon McKay
-layout: post
 permalink: /2014/03/screencast-file-redirection-in-the-unix-shell/
 categories:
   - Round 08/4

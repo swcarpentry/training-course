@@ -1,7 +1,6 @@
 ---
 title: 'Final Project: Basic SQL SELECT query syntax'
 author: Billy Rowell
-layout: post
 permalink: /2013/09/final-project-basic-sql-select-query-syntax/
 categories:
   - Round 05/5

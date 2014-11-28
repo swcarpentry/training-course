@@ -1,7 +1,6 @@
 ---
 title: A Few Short Guides
 author: Greg Wilson
-layout: post
 permalink: /2014/02/a-few-short-guides/
 categories:
   - Teaching

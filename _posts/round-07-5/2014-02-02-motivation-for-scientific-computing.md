@@ -1,7 +1,6 @@
 ---
 title: Motivation for scientific computing
 author: Pauline Barmby
-layout: post
 permalink: /2014/02/motivation-for-scientific-computing/
 categories:
   - Motivation

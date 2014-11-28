@@ -1,7 +1,6 @@
 ---
 title: 'Mastery &#8211; Ben Waugh'
 author: Ben Waugh
-layout: post
 permalink: /2012/09/mastery-ben-waugh/
 categories:
   - Proficiency

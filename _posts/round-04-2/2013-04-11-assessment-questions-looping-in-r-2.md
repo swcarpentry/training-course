@@ -1,7 +1,6 @@
 ---
 title: 'Assessment questions &#8211; looping in R'
 author: John Blischak
-layout: post
 permalink: /2013/04/assessment-questions-looping-in-r-2/
 categories:
   - Proficiency

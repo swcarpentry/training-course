@@ -1,7 +1,6 @@
 ---
 title: Jeff Walton
 author: Jeff Walton
-layout: post
 permalink: /2014/05/jeff-walton/
 categories:
   - Biography

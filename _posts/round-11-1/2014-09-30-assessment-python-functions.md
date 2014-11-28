@@ -1,7 +1,6 @@
 ---
 title: Assessment | python functions
 author: Timothee Poisot
-layout: post
 permalink: /2014/09/assessment-python-functions/
 categories:
   - Assessment

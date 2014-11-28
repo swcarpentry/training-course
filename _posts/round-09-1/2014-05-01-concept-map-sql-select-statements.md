@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: SQL SELECT Statements'
 author: Jacob Levernier
-layout: post
 permalink: /2014/05/concept-map-sql-select-statements/
 categories:
   - Concept Map

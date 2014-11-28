@@ -1,7 +1,6 @@
 ---
 title: David LeBauer
 author: David LeBauer
-layout: post
 permalink: /2014/09/david-lebauer/
 categories:
   - Biography

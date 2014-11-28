@@ -1,7 +1,6 @@
 ---
 title: 'Biography &#8211; Joanna Leng'
 author: Joanna Leng
-layout: post
 permalink: /2014/05/biography-joanna-leng/
 categories:
   - Biography

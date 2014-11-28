@@ -1,7 +1,6 @@
 ---
 title: 'Assessment &#8211; Pipes and Filters'
 author: Orion Buske
-layout: post
 permalink: /2014/10/assessment-pipes-and-filters-3/
 categories:
   - Assessment

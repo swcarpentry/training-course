@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map &#8211; database table'
 author: Huayan Gao
-layout: post
 permalink: /2014/05/concept-map-database-table/
 categories:
   - Concept Map

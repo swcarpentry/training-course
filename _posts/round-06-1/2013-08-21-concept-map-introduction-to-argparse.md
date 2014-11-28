@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Introduction to argparse'
 author: Rachel Anderson
-layout: post
 permalink: /2013/08/concept-map-introduction-to-argparse/
 categories:
   - Concept Map

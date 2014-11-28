@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: How your computer uses DNS'
 author: Dave Lane
-layout: post
 permalink: /2013/09/assessment-questions-how-your-computer-uses-dns/
 categories:
   - Assessment

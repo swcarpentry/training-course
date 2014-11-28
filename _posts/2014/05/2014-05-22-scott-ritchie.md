@@ -1,7 +1,6 @@
 ---
 title: Scott Ritchie
 author: Scott Ritchie
-layout: post
 permalink: /2014/05/scott-ritchie/
 categories:
   - Biography

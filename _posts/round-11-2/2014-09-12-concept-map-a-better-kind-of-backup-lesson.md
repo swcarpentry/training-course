@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: A Better Kind of Backup Lesson'
 author: Isabelle Laforest
-layout: post
 permalink: /2014/09/concept-map-a-better-kind-of-backup-lesson/
 categories:
   - Concept Map

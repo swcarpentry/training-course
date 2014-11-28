@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation- Med School'
 author: Chelsea Chisholm
-layout: post
 permalink: /2014/07/demotivation-med-school/
 categories:
   - Motivation

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: R Data Structures'
 author: Alex Demarsh
-layout: post
 permalink: /2013/10/r-data-structures/
 categories:
   - Concept Map

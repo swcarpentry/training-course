@@ -1,7 +1,6 @@
 ---
 title: 'Screencast &#8211; XML debugging'
 author: Shoaib Sufi
-layout: post
 permalink: /2013/06/screencast-xml-debugging/
 categories:
   - Round 05/3

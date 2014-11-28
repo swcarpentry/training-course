@@ -1,7 +1,6 @@
 ---
 title: 'Short Presentations from &#8220;Facts and Fallacies&#8221;'
 author: Greg Wilson
-layout: post
 permalink: /2013/04/short-presentations-from-facts-and-fallacies/
 categories:
   - Round 04/3

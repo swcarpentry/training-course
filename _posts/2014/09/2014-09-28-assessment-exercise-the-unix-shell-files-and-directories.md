@@ -1,7 +1,6 @@
 ---
 title: 'Assessment exercise: The Unix Shell &#8211; Files and Directories'
 author: Tiffany Timbers
-layout: post
 permalink: /2014/09/assessment-exercise-the-unix-shell-files-and-directories/
 categories:
   - Uncategorized

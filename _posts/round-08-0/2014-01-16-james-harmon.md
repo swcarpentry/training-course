@@ -1,7 +1,6 @@
 ---
 title: James Harmon
 author: James Harmon
-layout: post
 permalink: /2014/01/james-harmon/
 categories:
   - Biography

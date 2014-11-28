@@ -1,7 +1,6 @@
 ---
 title: Erik Sørensen
 author: Erik Sorensen
-layout: post
 permalink: /2014/05/erik-sorensen/
 categories:
   - Biography

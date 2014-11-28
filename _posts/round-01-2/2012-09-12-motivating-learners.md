@@ -1,7 +1,6 @@
 ---
 title: Motivating learners
 author: Sarah Supp
-layout: post
 permalink: /2012/09/motivating-learners/
 categories:
   - Motivation

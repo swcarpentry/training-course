@@ -1,7 +1,6 @@
 ---
 title: 'MCQs: Python text processing'
 author: Likit Preeyanon
-layout: post
 permalink: /2014/02/mcqs-python-text-processing/
 categories:
   - Assessment

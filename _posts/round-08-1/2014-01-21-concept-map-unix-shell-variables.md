@@ -1,7 +1,6 @@
 ---
 title: 'Concept map &#8211; Unix shell variables'
 author: Samantha Ahern
-layout: post
 permalink: /2014/01/concept-map-unix-shell-variables/
 categories:
   - Concept Map

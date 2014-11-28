@@ -1,7 +1,6 @@
 ---
 title: Tutorial critique—the shell
 author: Neal Davis
-layout: post
 permalink: /2013/07/tutorial-critique-the-shell/
 categories:
   - Design

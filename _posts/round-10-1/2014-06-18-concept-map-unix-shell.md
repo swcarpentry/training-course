@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Unix Shell'
 author: Jeff Walton
-layout: post
 permalink: /2014/06/concept-map-unix-shell/
 categories:
   - Concept Map

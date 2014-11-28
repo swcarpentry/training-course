@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Build Systems Workflow'
 author: Amanda Harlin
-layout: post
 permalink: /2014/06/content-map-build-systems-workflow/
 categories:
   - Concept Map

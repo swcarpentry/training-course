@@ -1,7 +1,6 @@
 ---
 title: UBC October 2012 workshop summary notes
 author: Warren Code
-layout: post
 permalink: /2012/11/ubc-october-2012-workshop-summary-notes/
 categories:
   - Reports

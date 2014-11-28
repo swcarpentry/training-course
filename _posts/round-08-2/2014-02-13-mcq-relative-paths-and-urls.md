@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: Relative paths and URLs'
 author: Atul Varma
-layout: post
 permalink: /2014/02/mcq-relative-paths-and-urls/
 categories:
   - Assessment

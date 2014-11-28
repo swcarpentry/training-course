@@ -1,7 +1,6 @@
 ---
 title: 'Assessment Questions: Python List Comprehensions'
 author: Leszek Tarkowski
-layout: post
 permalink: /2013/09/assessment-questions-python-list-comprehensions/
 categories:
   - Assessment

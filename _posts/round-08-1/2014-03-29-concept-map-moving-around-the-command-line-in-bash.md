@@ -1,7 +1,6 @@
 ---
 title: 'Concept map &#8211; moving around the command line in bash'
 author: Dana Miller
-layout: post
 permalink: /2014/03/concept-map-moving-around-the-command-line-in-bash/
 categories:
   - Concept Map

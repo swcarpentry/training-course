@@ -1,7 +1,6 @@
 ---
 title: 'Assessment: Open Science'
 author: David LeBauer
-layout: post
 permalink: /2014/10/assessment-open-science/
 categories:
   - Assessment

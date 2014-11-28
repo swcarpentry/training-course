@@ -1,7 +1,6 @@
 ---
 title: Clare Sloggett
 author: Clare Sloggett
-layout: post
 permalink: /2014/06/clare-sloggett/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Round 2.1 &#8211; explaining &#8216;assert&#8217;'
 author: Ariel Rokem
-layout: post
 permalink: /2012/10/round-2-1-explaining-assert/
 categories:
   - Concept Map

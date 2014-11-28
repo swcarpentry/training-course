@@ -1,7 +1,6 @@
 ---
 title: About Emily Jane McTavish
 author: Emily Jane McTavish
-layout: post
 permalink: /2012/08/about-emily-jane-mctavish/
 categories:
   - Biography

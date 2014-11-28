@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: git remote repositories'
 author: Jon Guyer
-layout: post
 permalink: /2014/09/concept-map-git-remote-repositories-2/
 categories:
   - Concept Map

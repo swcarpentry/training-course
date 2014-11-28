@@ -1,7 +1,6 @@
 ---
 title: What should Greg do?
 author: Ben Waugh
-layout: post
 permalink: /2012/09/what-should-greg-do/
 categories:
   - To Do

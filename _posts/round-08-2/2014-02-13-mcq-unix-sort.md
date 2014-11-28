@@ -1,7 +1,6 @@
 ---
 title: 'MCQ: Unix sort'
 author: Sheldon McKay
-layout: post
 permalink: /2014/02/mcq-unix-sort/
 categories:
   - Assessment

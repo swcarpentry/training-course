@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice assessment: File permissions'
 author: David Perez-Suarez
-layout: post
 permalink: /2013/06/multiple-choice-assessment-file-permissions/
 categories:
   - Proficiency

@@ -1,7 +1,6 @@
 ---
 title: 'Demotivation: M. Sc.'
 author: Olivier Lafleur
-layout: post
 permalink: /2014/10/demotivation-m-sc/
 categories:
   - Uncategorized

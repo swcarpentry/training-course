@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Git Commits'
 author: Cam Macdonell
-layout: post
 permalink: /2013/08/concept-map-git-commits/
 categories:
   - Concept Map

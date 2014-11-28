@@ -1,7 +1,6 @@
 ---
 title: 'Screen Cast: quick multivariate visualizations with R and vegan'
 author: Ryan Williams
-layout: post
 permalink: /2013/11/screen-cast-quick-multivariate-visualizations-with-r-and-vegan/
 categories:
   - Round 07/3

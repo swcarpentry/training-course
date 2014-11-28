@@ -1,7 +1,6 @@
 ---
 title: Luca Cerone
 author: Luca Cerone
-layout: post
 permalink: /2014/05/luca-cerone/
 categories:
   - Biography

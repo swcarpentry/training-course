@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Python Exceptions'
 author: Preston Holmes
-layout: post
 permalink: /2013/05/python-exceptions-concept-map/
 categories:
   - Concept Map

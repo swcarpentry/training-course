@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map | Instructor&#8217;s Guide'
 author: Eric Youngson
-layout: post
 permalink: /2014/09/concept-map-instructors-guide/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Wrapping Up 3.1, Starting 3.2
 author: Greg Wilson
-layout: post
 permalink: /2013/02/wrapping-up-3-1-starting-3-2/
 categories:
   - Round 03/1

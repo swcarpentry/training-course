@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: Python list structure'
 author: Piotr Banaszkiewicz
-layout: post
 permalink: /2014/06/concept-map-python-list-structure/
 categories:
   - Concept Map

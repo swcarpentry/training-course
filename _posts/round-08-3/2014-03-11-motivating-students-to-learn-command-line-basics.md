@@ -1,7 +1,6 @@
 ---
 title: Motivating Students To Learn Command-Line Basics
 author: Atul Varma
-layout: post
 permalink: /2014/03/motivating-students-to-learn-command-line-basics/
 categories:
   - Motivation

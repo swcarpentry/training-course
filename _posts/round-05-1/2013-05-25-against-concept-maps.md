@@ -1,7 +1,6 @@
 ---
 title: Against Concept Maps
 author: Itamar Turner-Trauring
-layout: post
 permalink: /2013/05/against-concept-maps/
 categories:
   - Concept Map

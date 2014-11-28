@@ -1,7 +1,6 @@
 ---
 title: 'MC: Regression (again!)'
 author: Chris Holdgraf
-layout: post
 permalink: /2013/06/mc-regression-again/
 categories:
   - Round 05/2

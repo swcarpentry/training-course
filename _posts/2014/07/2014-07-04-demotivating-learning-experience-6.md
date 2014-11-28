@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Andy Leung
-layout: post
 permalink: /2014/07/demotivating-learning-experience-6/
 categories:
   - Motivation

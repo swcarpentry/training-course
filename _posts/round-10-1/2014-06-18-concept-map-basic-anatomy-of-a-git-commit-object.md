@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Basic anatomy of a git commit object'
 author: Scott Talafuse
-layout: post
 permalink: /2014/06/concept-map-basic-anatomy-of-a-git-commit-object/
 categories:
   - Concept Map

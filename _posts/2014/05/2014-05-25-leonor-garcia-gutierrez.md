@@ -1,7 +1,6 @@
 ---
 title: Leonor Garcia-Gutierrez
 author: Leonor Garcia-Gutierrez
-layout: post
 permalink: /2014/05/leonor-garcia-gutierrez/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Python Dictionaries'
 author: Marcello Barisonzi
-layout: post
 permalink: /2014/06/concept-map-python-dictionaries-2/
 categories:
   - Concept Map

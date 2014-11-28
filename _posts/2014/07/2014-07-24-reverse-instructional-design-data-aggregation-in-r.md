@@ -1,7 +1,6 @@
 ---
 title: 'Reverse instructional design &#8211; summarising data in R'
 author: Andy Leung
-layout: post
 permalink: /2014/07/reverse-instructional-design-data-aggregation-in-r/
 categories:
   - Assessment

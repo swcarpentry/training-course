@@ -1,7 +1,6 @@
 ---
 title: Demotivating learning experience
 author: Kara Woo
-layout: post
 permalink: /2014/07/demotivating-learning-experience-13/
 categories:
   - Motivation

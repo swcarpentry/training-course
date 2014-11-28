@@ -1,7 +1,6 @@
 ---
 title: Motivation for GitHub
 author: Scott Burns
-layout: post
 permalink: /2014/05/motivation-for-github/
 categories:
   - Motivation

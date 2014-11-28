@@ -1,7 +1,6 @@
 ---
 title: 'Concept Map: Boolean Logic'
 author: Joshua Ainsley
-layout: post
 permalink: /2013/08/concept-map-boolean-logic/
 categories:
   - Concept Map

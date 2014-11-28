@@ -1,7 +1,6 @@
 ---
 title: Round 2.1 Initial Meeting
 author: Greg Wilson
-layout: post
 permalink: /2012/10/round-2-1-initial-meeting/
 categories:
   - Concept Map

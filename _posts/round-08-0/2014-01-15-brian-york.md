@@ -1,7 +1,6 @@
 ---
 title: Brian York
 author: Brian York
-layout: post
 permalink: /2014/01/brian-york/
 categories:
   - Biography

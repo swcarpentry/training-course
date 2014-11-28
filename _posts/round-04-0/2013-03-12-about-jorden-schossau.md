@@ -1,7 +1,6 @@
 ---
 title: About Jorden Schossau
 author: Jorden Schossau
-layout: post
 permalink: /2013/03/about-jorden-schossau/
 categories:
   - Biography

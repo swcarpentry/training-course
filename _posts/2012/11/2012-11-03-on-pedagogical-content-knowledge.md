@@ -1,7 +1,6 @@
 ---
 title: On Pedagogical Content Knowledge
 author: Greg Wilson
-layout: post
 permalink: /2012/11/on-pedagogical-content-knowledge/
 categories:
   - Meta

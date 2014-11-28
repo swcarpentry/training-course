@@ -1,7 +1,6 @@
 ---
 title: Vijai Kumar
 author: Vijai Kumar
-layout: post
 permalink: /2013/09/vijai-kumar/
 categories:
   - Biography

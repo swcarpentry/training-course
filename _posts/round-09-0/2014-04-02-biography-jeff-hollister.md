@@ -1,7 +1,6 @@
 ---
 title: 'Biography: Jeff Hollister'
 author: Jeff Hollister
-layout: post
 permalink: /2014/04/biography-jeff-hollister/
 categories:
   - Biography

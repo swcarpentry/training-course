@@ -1,7 +1,6 @@
 ---
 title: Concept Map for unix rsync
 author: Scott Burns
-layout: post
 permalink: /2014/04/concept-map-for-unix-rsync/
 categories:
   - Concept Map

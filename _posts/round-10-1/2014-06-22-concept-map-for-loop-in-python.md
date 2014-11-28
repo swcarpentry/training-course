@@ -1,7 +1,6 @@
 ---
 title: 'Concept map: for-loop in Python'
 author: Rainer Kiko
-layout: post
 permalink: /2014/06/concept-map-for-loop-in-python/
 categories:
   - Concept Map

@@ -1,7 +1,6 @@
 ---
 title: Shirley Sanchez
 author: Shirley Sanchez
-layout: post
 permalink: /2013/10/shirley-sanchez/
 categories:
   - Biography

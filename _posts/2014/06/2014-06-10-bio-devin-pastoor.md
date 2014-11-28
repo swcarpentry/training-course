@@ -1,7 +1,6 @@
 ---
 title: 'Bio: devin pastoor'
 author: Devin Pastoor
-layout: post
 permalink: /2014/06/bio-devin-pastoor/
 categories:
   - Biography

@@ -1,7 +1,6 @@
 ---
 title: 'Multiple choice assessment: List comprehension'
 author: Karmel Allison
-layout: post
 permalink: /2013/06/multiple-choice-assessment-list-comprehension/
 categories:
   - Proficiency
