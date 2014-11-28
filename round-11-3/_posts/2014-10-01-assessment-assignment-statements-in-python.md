@@ -4,7 +4,6 @@ author: Mariela Perignon
 permalink: /2014/10/assessment-assignment-statements-in-python/
 categories:
   - Assessment
-  - Round 11/3
 ---
 1. Consider the following python script:  
 a = 3  

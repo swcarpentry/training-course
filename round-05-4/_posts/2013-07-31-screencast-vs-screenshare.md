@@ -3,7 +3,6 @@ title: Screencast vs. Screenshare
 author: Kirsten Fagnan
 permalink: /2013/07/screencast-vs-screenshare/
 categories:
-  - Round 05/4
 ---
 <p dir="ltr">
   Sarah taught Kirsten how to use an RSS sync application (netnewswire). Kirsten taught Sarah how to mount remote systems over ssh for use with her local OS and how to transfer large or small amounts of data from her local machine to a remote cluster (sshfs, fuse globus online).

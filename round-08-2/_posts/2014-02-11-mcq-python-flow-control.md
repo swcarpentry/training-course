@@ -4,7 +4,6 @@ author: Daniel Chen
 permalink: /2014/02/mcq-python-flow-control/
 categories:
   - Assessment
-  - Round 08/2
 ---
 which of the following will only print &#8220;hello world&#8221; exactly 3 times?
 

@@ -4,7 +4,6 @@ author: Jeff Hollister
 permalink: /2014/05/motivational-screencast-for-data-structures-in-r/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 &nbsp;

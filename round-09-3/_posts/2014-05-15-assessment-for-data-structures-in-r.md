@@ -6,7 +6,6 @@ categories:
   - Assessment
   - R
   - Round 09/2
-  - Round 09/3
 ---
 The following assessment questions are based upon [Ahmadou Dicko&#8217;s concept map ][1]of Data Structures in R (assuming edits made suggested in the comments).
 

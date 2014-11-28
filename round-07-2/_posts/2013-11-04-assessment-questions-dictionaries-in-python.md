@@ -4,7 +4,6 @@ author: Aaron Garoutte
 permalink: /2013/11/assessment-questions-dictionaries-in-python/
 categories:
   - Assessment
-  - Round 07/2
 ---
 Multiple choice questions to assess students abilities in using Python dictionaries:
 

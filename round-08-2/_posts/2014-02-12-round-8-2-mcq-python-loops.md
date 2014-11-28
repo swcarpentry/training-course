@@ -4,7 +4,6 @@ author: ablackpz
 permalink: /2014/02/round-8-2-mcq-python-loops/
 categories:
   - Assessment
-  - Round 08/2
 ---
 For intermediates:
 

@@ -4,7 +4,6 @@ author: Andrea Zonca
 permalink: /2014/02/how-motivate-scientists-to-learn-basic-programming/
 categories:
   - Motivation
-  - Round 08/3
 ---
 I assume here that students are scientists, mainly graduate students and postdocs that might have a basic previous experience in programming, but we want to introduce a new programming language, Python and more advanced strategies like version control and unit testing.  
 I believe the best way to motivate scientists is through data, in this case feedback given by previous students that took the same class before.  

@@ -4,7 +4,6 @@ author: Yu-Ching Shih
 permalink: /2014/05/concept-map-how-awk-works/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 This map shows how the command awk works. It takes records from either file or pipe. If the record match the patterns you specify, it does something such as printing, calculation.
 

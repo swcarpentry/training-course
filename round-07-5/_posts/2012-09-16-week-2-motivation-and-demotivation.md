@@ -5,7 +5,6 @@ permalink: /2012/09/week-2-motivation-and-demotivation/
 categories:
   - Motivation
   - Round 01/2
-  - Round 07/5
 ---
 [originally posted 2012-09-16; re-posted 2014-01-30]
 

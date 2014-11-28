@@ -3,7 +3,6 @@ title: 'Screencast: Installing Windows XP in a VM using Virtualbox'
 author: Daniel Chen
 permalink: /2014/03/screencast-installing-windows-xp-in-a-vm-using-virtualbox/
 categories:
-  - Round 08/4
   - Video
 ---
 Yes i know XP is unsupported now, but I still use it to run my SAS (entirely other discussion there&#8230;) and there&#8217;s a bunch of people I know with Macs that need it.

@@ -4,7 +4,6 @@ author: Roberto Vitillo
 permalink: /2014/10/motivation-story-2/
 categories:
   - Motivation
-  - Round 11/4
 ---
 On the top of my mind I can’t really remember any particular important demotivational experience. That may sound strange but depending on the kind of environment that one grew up experiences may vary. After attending schools in a small and isolated town where many teachers had a second job and were there just to pass the day, I learned very quickly not to expect anything from them.
 

@@ -4,7 +4,6 @@ author: Preston Holmes
 permalink: /2013/05/python-exceptions-concept-map/
 categories:
   - Concept Map
-  - Round 05/1
 ---
 [exception concept map][1]
 

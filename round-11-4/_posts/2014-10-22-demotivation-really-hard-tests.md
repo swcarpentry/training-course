@@ -4,7 +4,6 @@ author: Ramalingam Saravanan
 permalink: /2014/10/demotivation-really-hard-tests/
 categories:
   - Motivation
-  - Round 11/4
 ---
 I was generally a good student in most of my undergraduate classes, typically placing in the upper third of the class. Therefore, it was a big shock to me when I received a zero in a thermodynamics midterm exam. I had received low scores in exams before but never a pure zero. It was a very demoralizing experience and there was a real danger of failing the course. I thought I had understood the subject fairly well, and had attempted all the problems in the test with differing degrees of success. The zero seemed to indicate I had learned absolutely nothing! The professor was notorious for setting extremely difficult exams, and this was one of those cases. The only saving grace was that the class average was also abysmally low, although it was not zero. I decided to study harder and much more carefully for the rest of the course and managed to eke out an A grade at the end of the semester. Nevertheless, I still think about this course now and then.
 

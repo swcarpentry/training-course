@@ -4,7 +4,6 @@ author: Bill Mills
 permalink: /2013/10/concept-map-javascript-prototypes/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 A quick brain dump of prototypes in JS
 

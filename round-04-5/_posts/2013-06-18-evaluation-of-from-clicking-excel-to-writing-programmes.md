@@ -4,7 +4,6 @@ author: "Steven 'Kreuvf' Koenig"
 excerpt: 'In the lecture &lsquo;From Clicking Excel to Writing Programmes&rsquo; I explained the very basics of shells/text-oriented user interfaces to people by employing &lsquo;bridging&rsquo;. By explaining the basic ideas behind what people use everyday&nbsp;&ndash;&nbsp;Microsoft Excel&nbsp;&ndash;&nbsp;I started to introduce the very basic features of shells (Cygwin/bash). The audience consisted exclusively of people from my chair. Language used: English. The idea is to point people into a direction which ultimately leads to writing own scripts.'
 permalink: /2013/06/evaluation-of-from-clicking-excel-to-writing-programmes/
 categories:
-  - Round 04/5
 ---
 On 2013-06-18 I held a 90 min session titled &lsquo;From Clicking Excel to Writing Programmes&rsquo; consisting of a lecture, questions and answers, and feedback.
 

@@ -4,7 +4,6 @@ author: Luiz Irber
 permalink: /2014/07/reverse-instructional-design-list-comprehensions/
 categories:
   - Assessment
-  - Round 10/3
 ---
 These questions assume a lesson on list comprehensions, with previous knowledge about range() and string methods.
 

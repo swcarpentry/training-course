@@ -4,7 +4,6 @@ author: Julian Garcia
 permalink: /2013/09/assessment-questions-python-functions/
 categories:
   - Assessment
-  - Round 06/2
 ---
 **Question 1 (Competence)**
 

@@ -3,7 +3,6 @@ title: 'Screencast proposal:  How to visualize periodic crystals using VMD.'
 author: Neal Davis
 permalink: /2013/06/screencast-proposal-how-to-visualize-periodic-crystals-using-vmd/
 categories:
-  - Round 05/3
 ---
 This is a task that took me a while to figure out that it was possible (the main hurdle) and then how to do it.  [VMD][1] is a molecular visualization software package.
 

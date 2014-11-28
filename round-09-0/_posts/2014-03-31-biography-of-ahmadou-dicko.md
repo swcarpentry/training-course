@@ -4,7 +4,6 @@ author: Ahmadou Dicko
 permalink: /2014/03/biography-of-ahmadou-dicko/
 categories:
   - Biography
-  - Round 09/0
 ---
 I am a trained econometrician doing a PhD in climate change economics in Dakar (Senegal). I believe in reproducible research for which I use a lot R, Emacs (org-mode) and Github.
 

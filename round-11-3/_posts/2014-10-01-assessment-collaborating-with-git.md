@@ -4,7 +4,6 @@ author: Hamid
 permalink: /2014/10/assessment-collaborating-with-git/
 categories:
   - Assessment
-  - Round 11/3
 ---
 I chose the <a href="http://software-carpentry.org/v5/novice/git/02-collab.html" target="_blank">Collaboration with Git</a> lesson.
 

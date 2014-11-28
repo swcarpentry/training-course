@@ -4,7 +4,6 @@ author: Samantha Ahern
 permalink: /2014/01/concept-map-unix-shell-variables/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 This is my concept map about &#8216;ownership&#8217; of unix shell variables. audience is those new to unix, am aware that I have used some symbols that they may not be familiar with.[shell variables concept map][1]
 

@@ -4,7 +4,6 @@ author: David Rio
 permalink: /2014/02/motivation-story-and-thoughts-on-how-to-enable-it-in-the-class/
 categories:
   - Motivation
-  - Round 07/5
 ---
 For my Bachelors&#8217; degree final project we implemented a mp3 player from  
 scratch, the whole thing: hardware, firmware and software. My tasks were to  

@@ -3,7 +3,6 @@ title: 'Round 5.5: Graduation Exercise'
 author: Greg Wilson
 permalink: /2013/08/round-5-5-graduation-exercise/
 categories:
-  - Round 05/5
 ---
 Thank you all once again for your entries for [Round 5.4][1]: we had a lot of good discussion, particularly when the morning group wandered off-track for a few minutes and discussed how to handle learners, helpers, and co-instructors who want to grab the steering wheel.
 

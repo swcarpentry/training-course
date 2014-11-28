@@ -5,7 +5,6 @@ permalink: /2014/02/mcq-matrix-manipulation-in-r/
 categories:
   - Assessment
   - R
-  - Round 08/2
 ---
 <!-- saved from url=(0014)about:internet -->
 

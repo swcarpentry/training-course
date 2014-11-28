@@ -4,7 +4,6 @@ author: Ben Morris
 permalink: /2013/02/mastery-table-creating-python-scripts-using-a-text-editor/
 categories:
   - Proficiency
-  - Round 03/2
 ---
 I&#8217;m still somewhere between intermediate and expert (still using nano for most things), but it&#8217;s something I&#8217;m working on. (I tried not to overlap too much with Geoff; I&#8217;m more focused on using a text editor from the command line, not command line file manipulation.)
 

@@ -4,7 +4,6 @@ author: Daniel Hocking
 permalink: /2013/10/concept-map-getting-data-into-r/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 My concept map is intended for teaching people completely new to R and with no previous programming experience how to get their data into R.<figure id="attachment_4766" style="width: 707px;" class="wp-caption aligncenter">
 

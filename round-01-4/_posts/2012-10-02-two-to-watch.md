@@ -3,7 +3,6 @@ title: Two to Watch
 author: Greg Wilson
 permalink: /2012/10/two-to-watch/
 categories:
-  - Round 01/4
   - Tools
 ---
 When you have half an hour, watch:

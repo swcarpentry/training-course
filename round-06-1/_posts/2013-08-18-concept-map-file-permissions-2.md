@@ -4,7 +4,6 @@ author: Gayathri Swaminathan
 permalink: /2013/08/concept-map-file-permissions-2/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 Concept map for Unix/Linux File permissions &#8211; hack 3 &#8211; Updated 8/26/2013
 

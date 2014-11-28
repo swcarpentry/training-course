@@ -4,7 +4,6 @@ author: Robert Flight
 permalink: /2014/01/learning-calculus-and-why-one-should-learn-git/
 categories:
   - Motivation
-  - Round 07/5
 ---
 # Being Motivated to Learn Calculus
 

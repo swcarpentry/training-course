@@ -4,7 +4,6 @@ author: John Blischak
 permalink: /2013/03/concept-map-conditional-statements-python/
 categories:
   - Concept Map
-  - Round 04/1
 ---
 [<img class="alignnone size-medium wp-image-1965" alt="concept-map-conditional-statements-1" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/03/concept-map-conditional-statements-1-300x225.png" width="300" height="225" />][1]  
 I designed my concept map by trying to answer the following two questions:  

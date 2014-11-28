@@ -4,7 +4,6 @@ author: Hamid
 permalink: /2014/10/demotivation-project-contest-with-misunderstood-rules/
 categories:
   - Motivation
-  - Round 11/4
 ---
 I also had difficulty choosing what to share for this post, however, reading some other posts helped jog my memory and remind me of one experience involving a course project.  As part of a structural design course project the objective was to design a system to meet certain requirements.  We submit our design as a team and the submission with the lowest weight, meeting the specifications, would &#8216;win&#8217; and get extra points.
 

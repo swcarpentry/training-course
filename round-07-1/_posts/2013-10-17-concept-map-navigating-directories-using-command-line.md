@@ -4,7 +4,6 @@ author: Samuel Thomson
 permalink: /2013/10/concept-map-navigating-directories-using-command-line/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 Here&#8217;s my concept map for navigating directories using the command line (in *nix environments).
 

@@ -4,7 +4,6 @@ author: Simon Belluzzo
 permalink: /2014/02/mcq-mutability-in-python/
 categories:
   - Assessment
-  - Round 08/2
 ---
 I missed the meeting, so I may have some bits slightly wrong; if so, please do let me know!
 

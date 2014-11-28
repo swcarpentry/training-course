@@ -4,7 +4,6 @@ author: Kirill Palamartchouk
 permalink: /2014/09/concept-map-pipes-and-filters-2/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 [<img class=" wp-image-8590 alignnone" title="Simple concept map for Unix Pipes" alt="Simple concept map for Unix Pipes" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/cmap_kpal-300x211.png" width="270" height="190" />][1]
 

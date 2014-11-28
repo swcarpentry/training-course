@@ -4,7 +4,6 @@ author: Jonathan Frederic
 permalink: /2014/04/debugging-without-a-debugger/
 categories:
   - Concept Map
-  - Round 09/0
 ---
 Hi all,
 

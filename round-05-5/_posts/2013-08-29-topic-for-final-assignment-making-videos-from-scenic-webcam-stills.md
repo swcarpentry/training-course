@@ -5,7 +5,6 @@ permalink: /2013/08/topic-for-final-assignment-making-videos-from-scenic-webcam-
 categories:
   - Assessment
   - Concept Map
-  - Round 05/5
 ---
 **The idea:**
 

@@ -4,7 +4,6 @@ author: Tim Cerino
 permalink: /2012/11/round-1-4-function-returns-tim-c/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 Attached is a draft concept map for the topic of function returns.
 

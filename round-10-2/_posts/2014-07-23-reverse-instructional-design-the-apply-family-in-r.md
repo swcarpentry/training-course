@@ -7,7 +7,6 @@ categories:
   - Design
   - Proficiency
   - R
-  - Round 10/2
 ---
 ## Question 1:
 

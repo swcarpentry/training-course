@@ -3,7 +3,6 @@ title: Reflection on my audience feedback
 author: John Blischak
 permalink: /2013/06/reflection-on-my-audience-feedback/
 categories:
-  - Round 04/5
 ---
 I taught a ~50 minute session covering the R package [ggplot2][1] at the Software Carpentry [boot camp][2] for the [Data Science for the Social Good][3] program. I passed out note cards, and at the end of the session had the participants write down one thing I did well and one thing that I need to improve. I had a high response rate; 24 of ~30 participants provided feedback.
 

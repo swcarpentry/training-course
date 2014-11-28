@@ -4,7 +4,6 @@ author: Brent Shambaugh
 permalink: /2014/10/assessment-creating-things-in-the-shell/
 categories:
   - Assessment
-  - Round 11/3
 ---
 Quiz based on http://software-carpentry.org/v5/novice/shell/02-create.html
 

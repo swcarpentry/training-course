@@ -4,7 +4,6 @@ author: Chandler Wilkerson
 permalink: /2014/04/editing-with-vi/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 A very rough draft (release early and often, right?)
 

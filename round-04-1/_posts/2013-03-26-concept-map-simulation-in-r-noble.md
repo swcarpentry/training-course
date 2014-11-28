@@ -4,7 +4,6 @@ author: Daniel Noble
 permalink: /2013/03/concept-map-simulation-in-r-noble/
 categories:
   - Concept Map
-  - Round 04/1
 ---
 [<img class="alignnone size-medium wp-image-1898" alt="photo" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/03/photo-300x225.jpg" width="300" height="225" />][1]
 

@@ -3,7 +3,6 @@ title: Critique of SWC 4 video lectures on testing
 author: Ted Kirkpatrick
 permalink: /2013/07/critique-of-testing-lectures/
 categories:
-  - Round 05/4
   - Video
 ---
 **Updated: Further comments on reading code at end.**

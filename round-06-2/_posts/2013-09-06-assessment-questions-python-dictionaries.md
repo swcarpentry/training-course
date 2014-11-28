@@ -4,7 +4,6 @@ author: Matthew Lightman
 permalink: /2013/09/assessment-questions-python-dictionaries/
 categories:
   - Assessment
-  - Round 06/2
 ---
 These are related to my concept map on python dictionaries.
 

@@ -4,7 +4,6 @@ author: Patrick Marsh
 permalink: /2014/02/mcq-thoughts/
 categories:
   - Assessment
-  - Round 08/2
 ---
 I&#8217;ve spent the better part of the last two weeks (and some time prior) trying to come up with a MCQ that is related to the goals of SWC, namely that the question is related to computer science. Unfortunately, I haven&#8217;t been able to do so. This post is a collection of my thoughts from the past two weeks in hopes that someone might have some suggestions/help&#8230;
 

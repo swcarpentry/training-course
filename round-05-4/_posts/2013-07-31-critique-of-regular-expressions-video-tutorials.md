@@ -3,7 +3,6 @@ title: 'Critique of &#8220;Regular Expressions&#8221; video tutorials'
 author: David Perez-Suarez
 permalink: /2013/07/critique-of-regular-expressions-video-tutorials/
 categories:
-  - Round 05/4
 ---
 I&#8217;ve just finished to watch all the series of [Regular Expressions][1].  This series is made of 5 10-minute episodes and it does not teach you just about regular expressions but also in good practices (thing missed in other video tutorials on the market).  As a general overview I would rate it as Excellent and Highly recommended.  But.. yes, there is always a &#8220;but&#8221; in a critique, right?
 

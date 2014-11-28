@@ -4,7 +4,6 @@ author: Scott Chamberlain
 permalink: /2013/10/multiple-choice-questions-r/
 categories:
   - Assessment
-  - Round 07/2
 ---
 **Novice from competent:**
 

@@ -4,7 +4,6 @@ author: James Harmon
 permalink: /2014/02/mcq-topic-combining-changes-from-multiple-streams-of-development/
 categories:
   - Assessment
-  - Round 08/2
 ---
 PreTest
 

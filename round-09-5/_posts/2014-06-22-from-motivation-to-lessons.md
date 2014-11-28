@@ -5,7 +5,6 @@ permalink: /2014/06/from-motivation-to-lessons/
 categories:
   - Lesson
   - Motivation
-  - Round 09/5
   - Round 09/6
 ---
 We had our final regular meeting this past week, during which everyone made a 90-second pitch explaining *why* someone would want to learn a particular topic. They were a lot of fun, and it gave people a chance to get a feel for the differences between teaching live, recorded video, and the in-between model of being live on the web.

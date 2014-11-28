@@ -4,7 +4,6 @@ author: Martin Schilling
 permalink: /2013/05/concept-map-py-for-scientific-computing/
 categories:
   - Concept Map
-  - Round 05/1
 ---
 I did a simple concept map for python novices, explaining a few of the basic py modules and giving examples of operations. It has some directionality, as the lower modules inherit characteristics of the former ones.
 

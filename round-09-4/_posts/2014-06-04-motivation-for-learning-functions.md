@@ -4,7 +4,6 @@ author: Isabel Fenton
 permalink: /2014/06/motivation-for-learning-functions/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 This is aimed to motivate people to learn how to create their own functions. (The background I had in mind was Biology Masters students learning R, but it should be more generally applicable.)

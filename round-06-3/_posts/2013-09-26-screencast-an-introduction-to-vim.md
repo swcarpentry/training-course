@@ -3,7 +3,6 @@ title: 'Screencast: An introduction to Vim'
 author: Dana Miller
 permalink: /2013/09/screencast-an-introduction-to-vim/
 categories:
-  - Round 06/3
   - Video
 ---
 My third take, based on Amanda Charbonneau&#8217;s helpful [concept map][1] from Round 6.1.

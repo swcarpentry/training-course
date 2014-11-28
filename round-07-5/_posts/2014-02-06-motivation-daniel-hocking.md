@@ -4,7 +4,6 @@ author: Daniel Hocking
 permalink: /2014/02/motivation-daniel-hocking/
 categories:
   - Motivation
-  - Round 07/5
 ---
 **A story of demotivation**
 

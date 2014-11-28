@@ -4,7 +4,6 @@ author: Francisco Palm
 permalink: /2014/05/francisco-palm/
 categories:
   - Biography
-  - Round 10/0
 ---
 Hi everybody, I teach (and learn) operations research and simulation at the University of The Andes, Mérida, Venezuela. I&#8217;ve been Python activist for 10 years, and Venezuela Python community founder. I have a Masters Degree in Applied Mathematics for Engineering and a Advanced Studies Diploma in Cartography, GIS and Remote Sensing.
 

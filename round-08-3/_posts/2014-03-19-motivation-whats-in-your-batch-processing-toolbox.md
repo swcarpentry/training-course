@@ -4,7 +4,6 @@ author: Bradley Taber-Thomas
 permalink: /2014/03/motivation-whats-in-your-batch-processing-toolbox/
 categories:
   - Motivation
-  - Round 08/3
 ---
 After collecting your data it comes time to analyze. But, of course, the data never arrive ready for SPSS&#8211;the data may need cleaning, preprocessing, computing a dependent variable for each of many separate files, etc. Consider a simple experiment comparing reaction times to pictures of faces expressing different emotions. It&#8217;s not uncommon to end up with a data file looking like this (with many more trials) for each subject:
 

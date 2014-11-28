@@ -4,7 +4,6 @@ author: Karmel Allison
 permalink: /2013/06/multiple-choice-assessment-list-comprehension/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 1. Which of the following will raise an exception?
 

@@ -4,7 +4,6 @@ author: Ted Kirkpatrick
 permalink: /2013/08/capstone-project-proposal-the-python-with-statement/
 categories:
   - Concept Map
-  - Round 05/5
 ---
 I am about to give a ten-minute lesson on the Python &#8220;with&#8221; statement: why it is valuable, common idioms for its use, and how to know if a given type can be the object of a &#8220;with&#8221;. I will not cover context managers and perhaps never use the term.
 

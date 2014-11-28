@@ -4,7 +4,6 @@ author: Aron Ahmadia
 permalink: /2012/10/motivation-aron/
 categories:
   - Motivation
-  - Round 01/2
 ---
 **Motivation**
 

@@ -3,7 +3,6 @@ title: Concept Map Topics for Round 4.1
 author: Greg Wilson
 permalink: /2013/03/concept-map-topics-for-round-4-1/
 categories:
-  - Round 04/1
 ---
 These are what I&#8217;ve recorded so far: please let me know if any are missing (or choose one if you haven&#8217;t done so already).
 

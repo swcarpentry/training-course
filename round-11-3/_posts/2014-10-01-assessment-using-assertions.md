@@ -4,7 +4,6 @@ author: Anthony Harrison
 permalink: /2014/10/assessment-using-assertions/
 categories:
   - Assessment
-  - Round 11/3
 ---
 As a follow up to my <a href="http://teaching.software-carpentry.org/2014/09/13/concept-map-using-assertions/" target="_blank">concept map</a> on assertions, here are two questions about assertions.
 

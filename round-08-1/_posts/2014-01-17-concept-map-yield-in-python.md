@@ -4,7 +4,6 @@ author: Jean-Christophe Leyder
 permalink: /2014/01/concept-map-yield-in-python/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 Here is my concept map, about using the yield statement in a python function.<figure id="attachment_5508" style="width: 707px;" class="wp-caption aligncenter">
 

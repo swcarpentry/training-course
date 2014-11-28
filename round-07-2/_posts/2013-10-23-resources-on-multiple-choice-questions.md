@@ -4,7 +4,6 @@ author: Pauline Barmby
 permalink: /2013/10/resources-on-multiple-choice-questions/
 categories:
   - Assessment
-  - Round 07/2
 ---
 Here are a couple of short handouts on things to watch out for when writing multiple-choice questions:
 

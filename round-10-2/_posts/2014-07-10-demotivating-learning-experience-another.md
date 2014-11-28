@@ -4,7 +4,6 @@ author: Maciej Czuchry
 permalink: /2014/07/demotivating-learning-experience-another/
 categories:
   - Motivation
-  - Round 10/2
 ---
 It was when I was on my third year of high school. We had a very difficult exam one day and some of us learn hard to pass it (me too). Profesor was odd person &#8211; sometimes grade was dependent of his will and person who write almost nothing can pass. But he wasn&#8217;t cruel &#8211; if you write test properly, you always pass. First part of exam was written, second verbal &#8211; diallogue with professor.
 

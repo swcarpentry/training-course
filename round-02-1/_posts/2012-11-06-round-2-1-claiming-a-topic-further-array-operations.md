@@ -4,7 +4,6 @@ author: Oliver Szymanezyk
 permalink: /2012/11/round-2-1-claiming-a-topic-further-array-operations/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 <p style="text-align: justify;">
   Arrays &#8211; Getting data in the right format for processing.

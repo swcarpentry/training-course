@@ -4,7 +4,6 @@ author: Atul Varma
 permalink: /2014/03/motivating-students-to-learn-command-line-basics/
 categories:
   - Motivation
-  - Round 08/3
 ---
 I am in the position of teaching students who have had experience using scaffolded, user-friendly tools like [Thimble][1] to make user-facing interactive experiences. These students are already motivated to make cool things and understand the value of learning how to code, but they don&#8217;t necessarily realize that, in order to accomplish some of the things they want, they may need to use the command-line&#8211;an inscrutable &#8220;behind-the-scenes&#8221; tool that doesn&#8217;t have an obvious relationship to the end-users my students want to build software for.
 

@@ -4,7 +4,6 @@ author: Adina Chuang Howe
 permalink: /2013/02/multiple-choice-questions/
 categories:
   - Proficiency
-  - Round 02/4
 ---
 Sorry guys, I&#8217;m swamped and have to do this pretty quickly this time around. Here&#8217;s at least something&#8230;(before you all steal my questions)
 

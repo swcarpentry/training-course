@@ -4,7 +4,6 @@ author: David Jones
 permalink: /2013/02/concept-map-redirecting-stdout/
 categories:
   - Concept Map
-  - Round 03/1
 ---
 I had problems in picking an aspect of shell programming to illustrate, and then carving out a nice boundary so that I explained something interesting that was smaller than the whole of the course. I was also wondering&#8230; Where are concept maps most usefully used? On problematic parts of a body of knowledge, presumably. What are they? (I don&#8217;t know).<figure id="attachment_1555" style="width: 707px;" class="wp-caption alignnone">
 

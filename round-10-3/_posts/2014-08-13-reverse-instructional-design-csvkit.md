@@ -4,7 +4,6 @@ author: David Kua
 permalink: /2014/08/reverse-instructional-design-csvkit/
 categories:
   - Assessment
-  - Round 10/3
 ---
 These questions pertain to the CSV toolkit http://csvkit.readthedocs.org/.
 

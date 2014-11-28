@@ -4,7 +4,6 @@ author: Robert Beagrie
 permalink: /2014/03/motivating-students-at-the-beginning-of-a-software-carpentry-course/
 categories:
   - Motivation
-  - Round 08/3
 ---
 I really liked Andrea&#8217;s post about using past software carpentry feedback to motivate new learners ([How to motivate scientist to learn basic programming][1]) and just wanted to build off of it a little. I think this really hits the intrinsic motivation aspect &#8211; helping the students to see the value in learning the content. I think if I was taking the introductory 10 minute session, I would go through the process of analyzing some of the data in front of the class. For example, maybe wget and untar an archive of the feedback answers. Use find and xargs | grep to retrieve the answers to a specific question from the students from a specific workshop. Load it into an ipython notebook and maybe compare to other workshops using a combination of pandas/matplotlib. You could then add the data to an existing database and do some queries in SQL depending on the time. All of this would hopefully emphasise how the specific skills taught in the following two days would actually help in day to day scientific work.
 

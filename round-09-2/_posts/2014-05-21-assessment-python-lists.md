@@ -4,7 +4,6 @@ author: Tim McNamara
 permalink: /2014/05/assessment-python-lists/
 categories:
   - Assessment
-  - Round 09/2
 ---
 Assessment drawn from [Christian Jacobs’ concept map][1].
 

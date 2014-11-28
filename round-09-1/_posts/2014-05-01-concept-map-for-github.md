@@ -4,7 +4,6 @@ author: Jon Duncan
 permalink: /2014/05/concept-map-for-github/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 <dl class="wp-caption alignnone" id="attachment_6924" style="width: 310px;">
   <dt class="wp-caption-dt">

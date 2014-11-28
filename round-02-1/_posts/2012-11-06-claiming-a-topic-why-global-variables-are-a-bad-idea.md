@@ -4,7 +4,6 @@ author: Luis Figueira
 permalink: /2012/11/claiming-a-topic-why-global-variables-are-a-bad-idea/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 I&#8217;d like to try to explain why global variables are (usually) a bad idea.
 

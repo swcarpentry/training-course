@@ -4,7 +4,6 @@ author: Jason Orendorff
 permalink: /2014/02/motivation-writing-tests/
 categories:
   - Motivation
-  - Round 08/3
   - Uncategorized
 ---
 “You know how if you’re hanging wallpaper, you can get a bubble in the wallpaper? And your instinct is to smooth the bubble out with your hands. Just wipe it smooth. Of course the problem is that the bubble tends to mysteriously pop up someplace else.

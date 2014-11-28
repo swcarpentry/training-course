@@ -4,7 +4,6 @@ author: Juan Nunez-Iglesias
 permalink: /2014/09/juan-nunez-iglesias/
 categories:
   - Biography
-  - Round 11/1
 ---
 Hi all,
 

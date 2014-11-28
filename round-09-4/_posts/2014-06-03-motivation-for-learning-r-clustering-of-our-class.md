@@ -5,7 +5,6 @@ permalink: /2014/06/motivation-for-learning-r-clustering-of-our-class/
 categories:
   - Motivation
   - R
-  - Round 09/4
   - Video
 ---
 **Video:**

@@ -4,7 +4,6 @@ author: Abigail Cabunoc
 permalink: /2014/01/concept-map-select/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 While all the hipsters are out muddling with NoSQL data, you can use the tried and true method of extracting data from your good old relational database with the handy SELECT statement! Assumes learners know what a database is (with a brief refresher on tables/rows). Should be teachable in 5min. I used my highlighters for the first time!
 

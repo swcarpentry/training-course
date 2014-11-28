@@ -4,7 +4,6 @@ author: Marianne Corvellec
 permalink: /2013/03/concept-map-shallow-vs-deep-copy/
 categories:
   - Concept Map
-  - Round 04/1
 tags:
   - Deep copy
   - Shallow copy

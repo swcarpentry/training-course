@@ -4,7 +4,6 @@ author: Leonor Garcia-Gutierrez
 permalink: /2014/07/reverse-instructional-design-using-awk/
 categories:
   - Assessment
-  - Round 10/3
 ---
 *Before asking these questions, I would take 10-15 min to teach this about awk: column numbering/accessing, printing columns subject to conditions, and specifying delimiters. If needed, also logical *(&&, ||), *relational* (>,<,>=,<=, ==, !=)* and arithmetic *(+, -, *, /)* operators.*
 

@@ -4,7 +4,6 @@ author: Orion Buske
 permalink: /2014/10/assessment-pipes-and-filters-3/
 categories:
   - Assessment
-  - Round 11/3
 ---
 We want to work on a DNA project and start out in the home directory: &#8220;/home/jane&#8221;. From there, we **cd** into the subdirectory for our project with: &#8220;cd projects/dna&#8221;. Finally, we want to copy all files ending with &#8220;.vcf&#8221; from &#8220;/home/jane/data/genetics/&#8221; into our current directory. Which of the commands below will do the job?
 

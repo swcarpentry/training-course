@@ -4,7 +4,6 @@ author: Jeremy Metz
 permalink: /2014/10/demotivation-biological-science/
 categories:
   - Motivation
-  - Round 11/4
 ---
 # 
 

@@ -4,7 +4,6 @@ author: Liberty Foreman
 permalink: /2014/10/assessment-collaborating-in-github/
 categories:
   - Assessment
-  - Round 11/3
 ---
 <span style="text-decoration: underline;">Multiple choice question</span>
 

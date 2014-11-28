@@ -4,7 +4,6 @@ author: Klemens Noga
 permalink: /2014/07/reverse-instructional-design-simple-task-cvs-with-git/
 categories:
   - Assessment
-  - Round 10/3
 tags:
   - Git
 ---

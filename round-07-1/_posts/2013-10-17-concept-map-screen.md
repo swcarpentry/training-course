@@ -4,7 +4,6 @@ author: Sean Dawson
 permalink: /2013/10/concept-map-screen/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 This concept map is for** screen**, a tool that allows you to manage multiple long-lived sessions within a shell instance.  This is particularly useful for long running processes on remote servers, a situation many university students encounter.  I tried to highlight the concepts of starting a session, detaching, and reattaching.
 

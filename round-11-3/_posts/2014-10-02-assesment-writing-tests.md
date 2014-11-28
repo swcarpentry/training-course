@@ -4,7 +4,6 @@ author: Ashwin Srinath
 permalink: /2014/10/assesment-writing-tests/
 categories:
   - Assessment
-  - Round 11/3
 ---
 1. Consider the following code:  
 `<br />

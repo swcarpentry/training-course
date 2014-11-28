@@ -4,7 +4,6 @@ author: David Kua
 permalink: /2013/11/assessment-questions-git-status-log-and-reflog/
 categories:
   - Assessment
-  - Round 07/2
 ---
 **Part A: Competent from Novice**  
 What&#8217;s the difference between *git log* and *git status*?

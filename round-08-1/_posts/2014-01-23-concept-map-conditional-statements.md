@@ -5,7 +5,6 @@ permalink: /2014/01/concept-map-conditional-statements/
 categories:
   - Concept Map
   - Python
-  - Round 08/1
 ---
 [<img class="alignnone size-medium wp-image-5669" alt="IMAG0065" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/IMAG0065-300x204.jpg" width="300" height="204" />][1]
 

@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2013/06/wrapping-up-round-5-2-starting-round-5-3/
 categories:
   - Round 05/2
-  - Round 05/3
 ---
 **2013-06-20**  
 **Meeting of the Software Carpentry Instructors Study Group**  

@@ -4,7 +4,6 @@ author: Tiffany Timbers
 permalink: /2014/10/demotivation-5/
 categories:
   - Motivation
-  - Round 11/4
 ---
 One of my greatest passions outside of academia is horseback riding. This is a sport/art I have been involved with since my family moved to a farm when I was 5 years old. During the time I lived on that farm, elementary and high-school years, I spent the large majority of my spare time riding our horses, taking riding lessons from neighbors in our small community, and showing at local agricultural fairs. My passion for horses, carried over into my day dreams and other hobbies. For example, I love to draw and from as soon as I could hold a crayon until the end of high school, almost every drawing I did was of horses.
 

@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2012/09/week-1-organizing-knowledge/
 categories:
   - Concept Map
-  - Round 01/1
 ---
 It&#8217;s all very well to know how the brain works, or how society&#8217;s needs and expectations shape our ideas about learning, but eventually we have to decide how to translate those ideas into actual teaching. One of the best guides to doing this that I have found is the book [<cite>How Learning Works: Seven Research-Based Principles for Smart Teaching</cite>][1] (Ambrose et al, Jossey-Bass, 2010). Their advice is based in equal parts on theory, research, and experience, and while some of their recommendations may seem banal when summarized, the full-length explanations in the book itself are not. Over the course of many years, they claim that they have found these principles to be:
 

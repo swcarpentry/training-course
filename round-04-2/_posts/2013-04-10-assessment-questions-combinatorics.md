@@ -4,7 +4,6 @@ author: Will Trimble
 permalink: /2013/04/assessment-questions-combinatorics/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 Distinguish novice from competent practitioner:
 

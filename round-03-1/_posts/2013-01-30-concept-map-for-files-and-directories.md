@@ -4,7 +4,6 @@ author: Amy Brown
 permalink: /2013/01/concept-map-for-files-and-directories/
 categories:
   - Concept Map
-  - Round 03/1
 ---
 I went with the low-hanging fruit option and did a concept map for the very first idea in the Boot Camp. Let me know what I missed.
 

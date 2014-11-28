@@ -4,7 +4,6 @@ author: Rachel Slaybaugh
 permalink: /2013/09/assessment-software-testing/
 categories:
   - Assessment
-  - Round 06/2
 ---
 This is a follow on from my Software Testing Concept Map
 

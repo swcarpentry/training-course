@@ -4,7 +4,6 @@ author: Jeramia Ory
 permalink: /2014/01/concept-map-unix-find-command/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 This is aimed at someone learning the unix environment for the first time. &#8216;find&#8217; is one of those commands I use almost daily. I feel like this is too &#8220;flow diagram-y,&#8221; and had a hard time breaking the command into its concepts.
 

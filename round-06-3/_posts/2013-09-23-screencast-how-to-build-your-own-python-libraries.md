@@ -3,7 +3,6 @@ title: 'Screencast: How to build your own Python libraries.'
 author: Jinwoo Leem
 permalink: /2013/09/screencast-how-to-build-your-own-python-libraries/
 categories:
-  - Round 06/3
   - Video
 ---
 http://www.youtube.com/watch?v=Hw_NzTLi790

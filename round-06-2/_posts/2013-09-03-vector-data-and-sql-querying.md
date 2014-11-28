@@ -4,7 +4,6 @@ author: Jonah Duckles
 permalink: /2013/09/vector-data-and-sql-querying/
 categories:
   - Assessment
-  - Round 06/2
 ---
 Novice question 
 

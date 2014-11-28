@@ -4,7 +4,6 @@ author: Matthew Lightman
 permalink: /2013/08/concept-map-python-dictionaries/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 ![][1]
 

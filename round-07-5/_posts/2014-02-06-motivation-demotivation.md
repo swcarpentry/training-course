@@ -4,7 +4,6 @@ author: Luis Pedro Coelho
 permalink: /2014/02/motivation-demotivation/
 categories:
   - Reflection
-  - Round 07/5
 ---
 When I was in high school, I didn&#8217;t enjoy learning other languages that much. I&#8217;d pick up enough to get decent grades, but it was not something I really liked (I also had the advantage of being bilingual so that I never had to put any effort towards learning English). When I tell this to people who know me in real life they are sometimes surprised because, nowadays, note only do I speak three languages on a regular day, I can go up to five on a good day and I enjoy learning about them.
 

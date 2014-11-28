@@ -4,7 +4,6 @@ author: Evan Bianco
 permalink: /2014/01/concept-map-using-git/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 [<img class="alignnone size-large wp-image-5654" alt="Git_and_version_control" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/20140123_104413-1024x768.jpg" width="707" height="530" />][1]
 

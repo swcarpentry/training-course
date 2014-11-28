@@ -4,7 +4,6 @@ author: Stephen Turner
 permalink: /2014/02/motivating-biologists-who-need-to-do-stats-to-learn-and-use-r/
 categories:
   - Motivation
-  - Round 08/3
 ---
 I&#8217;m picking this topic because it&#8217;s something I&#8217;ll actually be doing for a workshop next month, and this assignment motivated me to get working on it. I&#8217;ve partnered with the Health Sciences Library to teach a ~3-hour workshop on R. The target audience will be mostly molecular biology grad students and postdocs, with a potential resident or nursing student in the mix.
 

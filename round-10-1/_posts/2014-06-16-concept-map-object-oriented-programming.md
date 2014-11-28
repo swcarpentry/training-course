@@ -4,7 +4,6 @@ author: Leonor Garcia-Gutierrez
 permalink: /2014/06/concept-map-object-oriented-programming/
 categories:
   - Concept Map
-  - Round 10/1
 ---
 A concept map showing some key elements in Object-oriented Programming. I am not too pleased with how it grew towards the bottom part, do you think that is distracting? Any feedback and comments are most welcome!
 

@@ -3,7 +3,6 @@ title: 'Live real-time vs recorded &#8211; a way to measure effectiveness?'
 author: David Perez-Suarez
 permalink: /2013/07/live-real-time-vs-recorded-a-way-to-measure-effectiveness/
 categories:
-  - Round 05/4
 ---
 *Sincerely I don&#8217;t think there&#8217;s much difference in effectiveness between both techniques.  One thing is clear, in the live class you feel more special and you may be more focussed in what the other person is teaching at you.  On a recorded video you can get distracted by something else and then rewind (can we still use this word when talking about youtube?) and play it again.*
 

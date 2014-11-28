@@ -4,7 +4,6 @@ author: Dan Warren
 permalink: /2014/04/concept-map-random-number-generation-in-r/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 &nbsp;
 

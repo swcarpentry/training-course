@@ -4,7 +4,6 @@ author: Erik Bray
 permalink: /2012/10/round-1-4-erik-bray/
 categories:
   - Lesson
-  - Round 01/4
 ---
 The topic I want to teach is how variables and variable assignment work in Python.  In particular, I want to try to get across the subtle differences that occur between mutable and immutable types that can catch newbies off guard.
 

@@ -4,7 +4,6 @@ author: Dmitri Novikov
 permalink: /2014/09/concept-map-a-better-kind-of-backup/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 I started drawing my map and realized the lesson is a tad too big, so I modified a bit (the map, not the lesson).
 

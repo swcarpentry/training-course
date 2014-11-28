@@ -4,7 +4,6 @@ author: Carlos Anderson
 permalink: /2012/10/round-1-4-carlos-anderson/
 categories:
   - Lesson
-  - Round 01/4
 ---
 Here&#8217;s the concept map I would use (the topics I didn&#8217;t cover are in pink):
 

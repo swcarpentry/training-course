@@ -4,7 +4,6 @@ author: Aur Saraf
 permalink: /2014/04/concept-map-condition/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 # **Spoiler Alert:** A few of us have decided to do the same topic so we can compare our results. The topic is &#8220;condition&#8221; (note: not &#8220;conditional&#8221;). If you want to join in, don&#8217;t peek at my attempt until you finish yours :&dash;)
 

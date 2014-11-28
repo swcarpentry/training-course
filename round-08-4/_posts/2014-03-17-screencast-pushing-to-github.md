@@ -3,7 +3,6 @@ title: 'Screencast: pushing to GitHub'
 author: Stephen Turner
 permalink: /2014/03/screencast-pushing-to-github/
 categories:
-  - Round 08/4
   - Video
 ---
 This assumes the student has already learned the basics of version control using git (add, commit, checkout, merge, status, log), and shows how to create a new repo on GitHub and how to push and pull changes to and from that repo. It also introduces the student to Markdown, although this isn&#8217;t the focus.

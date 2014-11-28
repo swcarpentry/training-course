@@ -4,7 +4,6 @@ author: Richard Barnes
 permalink: /2013/11/assessment-questions-2/
 categories:
   - Assessment
-  - Round 07/2
 ---
 **Novice from Competent:**
 

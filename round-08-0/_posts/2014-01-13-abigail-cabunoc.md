@@ -4,7 +4,6 @@ author: Abigail Cabunoc
 permalink: /2014/01/abigail-cabunoc/
 categories:
   - Biography
-  - Round 08/0
 ---
 Hi, I&#8217;m Abby.
 

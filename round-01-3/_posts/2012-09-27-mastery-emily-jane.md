@@ -4,7 +4,6 @@ author: Emily Jane McTavish
 permalink: /2012/09/mastery-emily-jane/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 I found this tricky- for two main reasons. 1) I don&#8217;t I know how to do most of these things in an advanced way, definitely trying to figure that out! and 2) While I think better computational knowledge is useful for everything, I don&#8217;t usually think of it in terms of task based goals. So I think the things I wrote will develop as I think about it more! But presenting direct applications will definitely help learners apply skills.
 

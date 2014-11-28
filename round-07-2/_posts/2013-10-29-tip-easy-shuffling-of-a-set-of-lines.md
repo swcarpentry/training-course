@@ -4,7 +4,6 @@ author: Remi Emonet
 permalink: /2013/10/tip-easy-shuffling-of-a-set-of-lines/
 categories:
   - Assessment
-  - Round 07/2
 ---
 I had to shuffle my mcq answers and I want to share how I did it.
 

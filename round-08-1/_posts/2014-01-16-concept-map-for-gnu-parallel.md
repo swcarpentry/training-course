@@ -4,7 +4,6 @@ author: Stephen Turner
 permalink: /2014/01/concept-map-for-gnu-parallel/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 Alright, first shot at this. Circles = problems. Boxes = solutions. Arrows = relationships.
 

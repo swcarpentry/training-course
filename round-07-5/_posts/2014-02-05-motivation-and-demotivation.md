@@ -4,7 +4,6 @@ author: Kwasi Kwakwa
 permalink: /2014/02/motivation-and-demotivation/
 categories:
   - Motivation
-  - Round 07/5
 ---
 <h1 style="text-align: left;">
   Motivation: Open Science Tools

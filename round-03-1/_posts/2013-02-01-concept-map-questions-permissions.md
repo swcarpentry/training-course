@@ -4,7 +4,6 @@ author: Geoff Oxberry
 permalink: /2013/02/concept-map-questions-permissions/
 categories:
   - Concept Map
-  - Round 03/1
 ---
 [Scan Feb 1, 2013, 2_53 AM][1]
 

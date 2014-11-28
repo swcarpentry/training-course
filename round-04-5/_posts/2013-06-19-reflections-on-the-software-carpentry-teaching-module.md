@@ -3,7 +3,6 @@ title: Reflections on the software carpentry teaching module
 author: Daniel Falster
 permalink: /2013/06/reflections-on-the-software-carpentry-teaching-module/
 categories:
-  - Round 04/5
 ---
 # Overview {#overview}
 

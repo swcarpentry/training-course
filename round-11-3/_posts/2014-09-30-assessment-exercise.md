@@ -4,7 +4,6 @@ author: Jeremy Metz
 permalink: /2014/09/assessment-exercise/
 categories:
   - Assessment
-  - Round 11/3
 ---
 ## Question 1:
 

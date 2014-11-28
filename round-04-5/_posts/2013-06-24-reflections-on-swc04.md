@@ -3,7 +3,6 @@ title: Reflections on SWC04
 author: Rich FitzJohn
 permalink: /2013/06/reflections-on-swc04/
 categories:
-  - Round 04/5
 ---
 ## Reflections on SWC {#reflections-on-swc}
 

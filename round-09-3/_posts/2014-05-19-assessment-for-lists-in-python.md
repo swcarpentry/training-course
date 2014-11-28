@@ -5,7 +5,6 @@ permalink: /2014/05/assessment-for-lists-in-python/
 categories:
   - Assessment
   - Concept Map
-  - Round 09/3
 ---
 Q1. You want to add the number 3 to the end of list a=[1,2]  What is the correct syntax.
 

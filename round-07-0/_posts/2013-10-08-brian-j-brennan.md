@@ -4,7 +4,6 @@ author: Brian Brennan
 permalink: /2013/10/brian-j-brennan/
 categories:
   - Biography
-  - Round 07/0
 ---
 I work at the Mozilla Foundation as a software developer/architect on the OpenBadges project.
 

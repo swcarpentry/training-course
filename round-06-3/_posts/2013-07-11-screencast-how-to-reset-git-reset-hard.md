@@ -4,7 +4,6 @@ author: Yuxi Luo
 permalink: /2013/07/screencast-how-to-reset-git-reset-hard/
 categories:
   - Round 05/3
-  - Round 06/3
   - Video
 ---
 <a href="http://teaching.software-carpentry.org/2013/06/26/proposed-screencast-about-git-reset-hard/" title="Proposed screencast - about "git reset --hard"" target="_blank">Proposed screencast  &#8211; about &#8220;`git reset --hard`&#8220;</a>

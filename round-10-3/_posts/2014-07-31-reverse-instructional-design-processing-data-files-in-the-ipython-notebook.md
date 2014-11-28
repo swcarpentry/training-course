@@ -4,7 +4,6 @@ author: Brian Forst
 permalink: /2014/07/reverse-instructional-design-processing-data-files-in-the-ipython-notebook/
 categories:
   - Assessment
-  - Round 10/3
 ---
 Q1  
 You are using the data_processing.ipynb notebook to work with your data (with the file structure below). How would you get a list of the files in the Class directory?

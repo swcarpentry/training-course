@@ -4,7 +4,6 @@ author: Gabriel Devenyi
 permalink: /2014/02/motivation-by-challenge-reference-and-citation-management/
 categories:
   - Motivation
-  - Round 08/3
 ---
 I have tried previously to impart unto the junior graduate students in my research group the value of managing their reference material (articles, proceedings, digital books, web pages, etc) using some form of software tool. They have seen such tools as unneeded and extra work, and have failed to see their value until it is too late to effectively start using them.
 

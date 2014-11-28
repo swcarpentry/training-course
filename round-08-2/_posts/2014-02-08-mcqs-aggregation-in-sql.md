@@ -4,7 +4,6 @@ author: Robert Beagrie
 permalink: /2014/02/mcqs-aggregation-in-sql/
 categories:
   - Assessment
-  - Round 08/2
   - SQL
 ---
 ## MCQ to differentiate novices from competent practitioners:

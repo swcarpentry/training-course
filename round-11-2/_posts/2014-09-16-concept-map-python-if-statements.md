@@ -4,7 +4,6 @@ author: Greg Caporaso
 permalink: /2014/09/concept-map-python-if-statements/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 Here&#8217;s a concept map illustrating python if statements:
 

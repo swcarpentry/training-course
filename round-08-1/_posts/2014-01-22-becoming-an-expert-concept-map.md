@@ -4,7 +4,6 @@ author: David Schryer
 permalink: /2014/01/becoming-an-expert-concept-map/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 This concept map attempts to link some of the problems (bubbles) people encounter on the road to becoming an expert, to potential solutions (rectangles).  Arrows show links with arrow text describing conditional links. Note that people are grouped into one of Beginner, Intermediate, or Expert and all are classified as problems <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /><figure id="attachment_5579" style="width: 300px;" class="wp-caption alignnone">
 

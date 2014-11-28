@@ -4,7 +4,6 @@ author: Scott Chamberlain
 permalink: /2014/02/motivation-and-demotivation-2/
 categories:
   - Motivation
-  - Round 07/5
 ---
 Motivation
 

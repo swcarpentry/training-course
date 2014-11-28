@@ -4,7 +4,6 @@ author: Adina Chuang Howe
 permalink: /2012/10/round-2-1-claiming-a-topic-lists/
 categories:
   - Concept Map
-  - Round 02/1
 tags:
   - round 2.1
 ---

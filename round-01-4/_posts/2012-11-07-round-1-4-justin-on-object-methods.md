@@ -4,7 +4,6 @@ author: Justin Ely
 permalink: /2012/11/round-1-4-justin-on-object-methods/
 categories:
   - Lesson
-  - Round 01/4
 ---
 I am fairly certain my terminology may not be entirely correct in this tutorial, never having learned it myself.  Hopefully it is still accurate enough to follow along for now.
 

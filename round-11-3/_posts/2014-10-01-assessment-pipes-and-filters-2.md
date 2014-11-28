@@ -4,7 +4,6 @@ author: Logan Cox
 permalink: /2014/10/assessment-pipes-and-filters-2/
 categories:
   - Assessment
-  - Round 11/3
 ---
 The following two activities are based on the [Pipes and Filters][1] lesson.
 

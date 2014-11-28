@@ -5,7 +5,6 @@ permalink: /2014/06/motivation-video-perl-grep/
 categories:
   - Motivation
   - perl
-  - Round 09/4
   - Video
 ---
 Here&#8217;s my motivation video for Perl Grep. Sorry it&#8217;s a bit longer than the 3 minutes we were supposed to keep to &#8211; it seems like plenty of time until you come to do it!

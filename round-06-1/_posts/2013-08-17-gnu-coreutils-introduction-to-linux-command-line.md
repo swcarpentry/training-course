@@ -4,7 +4,6 @@ author: Raniere Silva
 permalink: /2013/08/gnu-coreutils-introduction-to-linux-command-line/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 Last semester when I teach a introduction to &#8220;Linux&#8221; command line to some friends I talk a little about each part of the &#8220;Linux&#8221; command line stack and show some parts of the GNU Coreutils. In the concept map below you will find more information about it.
 

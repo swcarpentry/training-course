@@ -4,7 +4,6 @@ author: Carl Boettiger
 permalink: /2014/09/carl-boettiger/
 categories:
   - Biography
-  - Round 11/1
 ---
 I&#8217;m a theoretical ecologist working on the problem of regime shifts and uncertainty in ecological management and conservation. I am currently a post-doc at UC Santa Cruz, where I am developing optimal control approaches to fisheries management that are robust to deep model uncertainty and regime shifts.  I am also interested in how methods from informatics and data science may help us bring more and varied data to bear on these problems.
 

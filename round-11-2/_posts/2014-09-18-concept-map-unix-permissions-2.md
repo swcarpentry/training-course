@@ -4,7 +4,6 @@ author: Erik Kastman
 permalink: /2014/09/concept-map-unix-permissions-2/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 <figure id="attachment_8833" style="width: 707px;" class="wp-caption alignnone">[<img class="size-large wp-image-8833" alt="Erik Kastman - Concept Map - Unix Permissions" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/2014-09-18-01.54.56-1024x768.jpg" width="707" height="530" />][1]<figcaption class="wp-caption-text">Erik Kastman &#8211; Concept Map &#8211; Unix Permissions</figcaption></figure> 
 &nbsp;

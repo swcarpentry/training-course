@@ -4,7 +4,6 @@ author: Olivier Lafleur
 permalink: /2014/09/bio-olivier-lafleur/
 categories:
   - Biography
-  - Round 11/1
 ---
 I am a teacher in the Computer Science Department at Cégep de Lévis-Lauzon. I just finished my M. Sc. in Computer Science at Université Laval, in Québec city.  
 I also did my B. Sc. in Mathematics, which makes me interested in different math-related subjects : AI, computer vision, infographics and functional programming, for example.

@@ -4,7 +4,6 @@ author: Aron Ahmadia
 permalink: /2012/10/mastery-aron/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 My research focii are in optimization and high performance computing.  I also come from a Computer Engineering background, and I have been writing scientific code for the last ten years.  As a graduate student, I frequently mentored the other students in my department in fundamentals in software engineering.  My first position out of graduate school was as a staff scientist in a supercomputing laboratory, and that has involved lots of time spent working with heavily engineered scientific codes, some of them over two decades old.
 

@@ -4,7 +4,6 @@ author: Emily Davenport
 permalink: /2013/08/concept-map-loading-data-into-r/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 [<img class="alignnone size-medium wp-image-3990" alt="photo (10)" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/photo-10-300x225.jpg" width="300" height="225" />][1]
 

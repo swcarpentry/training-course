@@ -4,7 +4,6 @@ author: Pauline Barmby
 permalink: /2013/10/multiple-choice-questions-python/
 categories:
   - Assessment
-  - Round 07/2
 ---
 **Novice from competent:**
 

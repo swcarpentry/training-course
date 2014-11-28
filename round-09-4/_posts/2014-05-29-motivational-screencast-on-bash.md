@@ -4,7 +4,6 @@ author: Jacob Levernier
 permalink: /2014/05/motivational-screencast-on-bash/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 I&#8217;ve recorded a screencast to motivate using the command line.

@@ -4,7 +4,6 @@ author: Leszek Tarkowski
 permalink: /2013/09/assessment-questions-python-list-comprehensions/
 categories:
   - Assessment
-  - Round 06/2
 ---
 **Question 1** competence  
 What is an equivalent list comprehension for code:  

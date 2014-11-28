@@ -3,7 +3,6 @@ title: 'Screencast &#8211; Reading a CSV using pandas &#038; IPython Notebook'
 author: Julia Evans
 permalink: /2013/07/screencast-reading-a-csv-using-pandas-ipython-notebook/
 categories:
-  - Round 05/3
 ---
 I made a screencast about how to read a CSV using pandas. There are always things that go wrong when reading in data (date parsing, missing data, bad encodings&#8230;), so I went through fixing a few of them. 
 

@@ -4,7 +4,6 @@ author: R. David Murray
 permalink: /2014/09/python-assignment-statement/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 &nbsp;
 

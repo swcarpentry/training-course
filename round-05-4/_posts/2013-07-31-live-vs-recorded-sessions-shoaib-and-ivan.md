@@ -3,7 +3,6 @@ title: 'Live vs recorded sessions: Shoaib and Ivan'
 author: Ivan Gonzalez
 permalink: /2013/07/live-vs-recorded-sessions-shoaib-and-ivan/
 categories:
-  - Round 05/4
 ---
 Shoaib did a presentation on a bash script that fetches images at regular  
 intervals from a website and joins them into a video. The images are processed  

@@ -4,7 +4,6 @@ author: Robert Flight
 permalink: /2013/11/r-matrices-multiple-choice/
 categories:
   - Assessment
-  - Round 07/2
 ---
 **Novice vs Competent**
 

@@ -4,7 +4,6 @@ author: Rich FitzJohn
 permalink: /2013/04/assessment-questions-conditional-statements/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 My questions are based on the concept map [about conditional statements in python][1]. Because the original is written in Python, I&#8217;ve kept that here, but I think that these questions would apply equally to R.
 

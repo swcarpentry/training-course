@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2013/03/wrapping-up-round-3-2-starting-round-3-3/
 categories:
   - Round 03/2
-  - Round 03/3
 ---
 **2013-02-12 Meeting of the Software Carpentry Study Group**
 

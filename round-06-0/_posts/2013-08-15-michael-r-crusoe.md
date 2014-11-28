@@ -4,7 +4,6 @@ author: Michael Crusoe
 permalink: /2013/08/michael-r-crusoe/
 categories:
   - Biography
-  - Round 06/0
 ---
 Michael R. Crusoe is a software engineer and bioinformatician in the [Genomics, Evolution, and Development (GED) Lab][1] at Michigan State University. He is the new coordinating developer of the [khmer suite of short read sequencing analysis tools][2]. Previously he worked on Anolis sp. de-novo genome assembly as part of the[ Kusumi Lab][3] at Arizona State University.
 

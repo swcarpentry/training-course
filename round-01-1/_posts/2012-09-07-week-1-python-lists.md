@@ -4,7 +4,6 @@ author: Justin Kitzes
 permalink: /2012/09/week-1-python-lists/
 categories:
   - Concept Map
-  - Round 01/1
 ---
 **Prepared by Justin Kitzes**
 

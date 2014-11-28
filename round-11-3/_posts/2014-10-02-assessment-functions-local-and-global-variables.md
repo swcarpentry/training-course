@@ -4,7 +4,6 @@ author: Ramalingam Saravanan
 permalink: /2014/10/assessment-functions-local-and-global-variables/
 categories:
   - Assessment
-  - Round 11/3
 ---
 Based on the SWC lesson <a title="Creating Functions" href="http://software-carpentry.org/v5/novice/python/02-func.html" target="_blank">Creating Functions</a>
 

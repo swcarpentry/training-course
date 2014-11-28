@@ -4,7 +4,6 @@ author: Bennet Fauber
 permalink: /2014/09/concept-map-git-repository/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 ## Introducing the git repository
 

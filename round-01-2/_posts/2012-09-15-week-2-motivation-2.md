@@ -4,7 +4,6 @@ author: Emily Jane McTavish
 permalink: /2012/09/week-2-motivation-2/
 categories:
   - Motivation
-  - Round 01/2
 ---
 1. Providing real world tasks.  
 In my second year as a graduate student I took a writing course. Not only did we cover useful fundamentals, the instructor made the tasks be directly applicable to what we were working on in our research. We spent time in class doing free-writing on whatever we chose, and our major course assignment was a draft of a grant that we all needed to do that semester anyways. As stressed-out early grad students having our writing assignments be developing work that was a priority anyways was really valuable, and made us all feel motivated.

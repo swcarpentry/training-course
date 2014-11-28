@@ -4,7 +4,6 @@ author: Clare Sloggett
 permalink: /2014/07/demotivating-learning-experience-8/
 categories:
   - Motivation
-  - Round 10/2
 ---
 This might be an unusual one as it&#8217;s from when I was a child. Maybe it&#8217;s a good sign that I can&#8217;t think of demotivating experiences from my university years?
 

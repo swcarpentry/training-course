@@ -4,7 +4,6 @@ author: Bradley Taber-Thomas
 permalink: /2014/02/mcq-batch-processing-script/
 categories:
   - Assessment
-  - Round 08/2
 ---
 **Before teaching MCQ (novices vs. competent practitioners):**  
 What is the order of steps within a batch processing script?

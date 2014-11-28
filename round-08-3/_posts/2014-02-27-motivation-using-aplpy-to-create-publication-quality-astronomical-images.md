@@ -4,7 +4,6 @@ author: Jean-Christophe Leyder
 permalink: /2014/02/motivation-using-aplpy-to-create-publication-quality-astronomical-images/
 categories:
   - Motivation
-  - Round 08/3
 ---
 **Introduction**  
 One of the python packages that I am most impressed with, and that I find most useful, is <a title="APLpy" href="http://aplpy.github.io" target="_blank">APLpy</a>, a.k.a. the Astronomical Plotting Library for python. APLpy builds upon <a title="matplotlib" href="http://matplotlib.org" target="_blank">matplotlib</a> to provide an easy way to plot astronomical images. It therefore offers all of matplotlib&#8217;s advantages, including the ability to save images in several formats (e.g. EPS, PDF, PNG, SVG).

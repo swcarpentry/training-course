@@ -4,7 +4,6 @@ author: Sarah Supp
 permalink: /2012/09/motivating-learners/
 categories:
   - Motivation
-  - Round 01/2
 ---
 ## **Positively motivating learning:**
 

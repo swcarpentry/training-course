@@ -4,7 +4,6 @@ author: Abigail Cabunoc
 permalink: /2014/02/mcq-select-statement-sql/
 categories:
   - Assessment
-  - Round 08/2
 ---
 ### Dataset for all questions:
 

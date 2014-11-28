@@ -4,7 +4,6 @@ author: Jeff Walton
 permalink: /2014/07/assessment-navigating-the-file-system-from-the-command-line/
 categories:
   - Assessment
-  - Round 10/3
 ---
 *This assessment would be given after a short lesson on the basics of the file system.*
 

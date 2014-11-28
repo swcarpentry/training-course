@@ -4,7 +4,6 @@ author: Isabel Fenton
 permalink: /2014/01/concept-map-loops/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 This is aimed at someone with little / no prior programming experience to explain the concept of loops. Square boxes indicate the three types of loops.
 

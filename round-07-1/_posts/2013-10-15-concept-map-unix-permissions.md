@@ -4,7 +4,6 @@ author: Melissa Santos
 permalink: /2013/10/concept-map-unix-permissions/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 [<img class="alignnone size-medium wp-image-4755" alt="map2" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/10/map2-300x132.png" width="300" height="132" />][1]
 

@@ -4,7 +4,6 @@ author: Ruth Collings
 permalink: /2014/10/assessment-using-databases-3-filtering/
 categories:
   - Assessment
-  - Round 11/3
 ---
 This is testing [Section 3][1] using the example data found in [Section 1][2]. Both tests are best if you try them in your head first rather than just typing in each option and seeing if you get a result.
 

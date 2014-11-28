@@ -4,7 +4,6 @@ author: Neal Davis
 permalink: /2013/05/concept-map-functional-progamming/
 categories:
   - Concept Map
-  - Round 05/1
 ---
 **TL;DR***:  I mapped functional programming at the same time I re-emphasized the basic foundations in my own learning.  I think that knowing one is going to create a concept map distracts from learning, both because the learning becomes ends-oriented rather than for the joy of it, and because it encourages premature formation of categories just so you can start writing things down.*
 

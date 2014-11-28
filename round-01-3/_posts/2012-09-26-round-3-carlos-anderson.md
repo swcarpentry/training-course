@@ -4,7 +4,6 @@ author: Carlos Anderson
 permalink: /2012/09/round-3-carlos-anderson/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 1.  **<span style="font-size: medium;">How do I make my code more readable (not spaghetti code)?</span>** 
     1.  <span style="font-size: medium;"><span style="text-decoration: underline;">Novice</span>: Comment code, better variable names</span>

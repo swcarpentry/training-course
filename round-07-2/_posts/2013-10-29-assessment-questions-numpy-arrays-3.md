@@ -4,7 +4,6 @@ author: Joshua Adelman
 permalink: /2013/10/assessment-questions-numpy-arrays-3/
 categories:
   - Assessment
-  - Round 07/2
 ---
 ******Novice from Competent**
 

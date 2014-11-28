@@ -4,7 +4,6 @@ author: Brian Miles
 permalink: /2014/02/mcq-exercise-regular-expressions/
 categories:
   - Assessment
-  - Round 08/2
 ---
 Pre-assessment question:
 

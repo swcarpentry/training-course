@@ -4,7 +4,6 @@ author: Billy Rowell
 permalink: /2013/06/assessing-proficiency-at-classical-genetics/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 1. If an individual has two copies of every chromosome, it is said to be:
 

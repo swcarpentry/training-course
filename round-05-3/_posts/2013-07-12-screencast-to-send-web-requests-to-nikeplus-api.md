@@ -3,7 +3,6 @@ title: Screencast to send web requests to NikePlus API
 author: Luke Lee
 permalink: /2013/07/screencast-to-send-web-requests-to-nikeplus-api/
 categories:
-  - Round 05/3
 ---
 I&#8217;m making a new post for my screencast video.  I posted a lengthy comment on my original post, [http://teaching.software-carpentry.org/2013/06/26/screencast-idea-proposal/][1],  but I wasn&#8217;t sure if anyone would see it since the home page listing is ordered by original post date, not comment date.
 

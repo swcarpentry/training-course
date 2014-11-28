@@ -4,7 +4,6 @@ author: Becky Stewart
 permalink: /2012/09/motivation-becky/
 categories:
   - Motivation
-  - Round 01/2
 ---
 ## (De)Motivation Through (Lack of) Feedback: US vs UK Teaching Styles
 

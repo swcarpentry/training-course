@@ -4,7 +4,6 @@ author: Adam Stark
 permalink: /2012/09/week-2-motivation-adam-stark/
 categories:
   - Motivation
-  - Round 01/2
 ---
 **Things teachers and fellow learners have done that have motivated me to learn**
 

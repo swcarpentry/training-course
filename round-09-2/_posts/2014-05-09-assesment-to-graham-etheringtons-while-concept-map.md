@@ -4,7 +4,6 @@ author: Alexandra Simperler
 permalink: /2014/05/assesment-to-graham-etheringtons-while-concept-map/
 categories:
   - Assessment
-  - Round 09/2
 ---
 Question 1:
 

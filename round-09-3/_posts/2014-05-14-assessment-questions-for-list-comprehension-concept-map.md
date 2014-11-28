@@ -4,7 +4,6 @@ author: Scott Burns
 permalink: /2014/05/assessment-questions-for-list-comprehension-concept-map/
 categories:
   - Assessment
-  - Round 09/3
 ---
 These questions assess a students understanding of the [list comprehension concept map][1].
 

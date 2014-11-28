@@ -4,7 +4,6 @@ author: Roman Valls
 permalink: /2014/09/concept-map-relational-databases/
 categories:
   - Concept Map
-  - Round 11/2
   - SQL
 ---
 This is a small concept map for this lesson: http://software-carpentry.org/v5/novice/sql/index.html

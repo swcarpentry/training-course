@@ -4,7 +4,6 @@ author: Jessica Hamrick
 permalink: /2014/03/motivating-version-control-and-specifically-git/
 categories:
   - Motivation
-  - Round 08/3
 ---
 Apologies for utterly failing to post this earlier. This has actually been a really hard assignment for me to complete, because in thinking about what I wanted to write, I realized that I am usually pretty terrible at motivating students &#8212; either their already pretty motivated, or I somehow manage to motivate them just by being really enthusiastic (&#8220;x is SO AWESOME!! you&#8217;ll see!&#8221;). This works to a certain extent because enthusiasm can be contagious, but is also a crutch that I rely on too much, I think.
 

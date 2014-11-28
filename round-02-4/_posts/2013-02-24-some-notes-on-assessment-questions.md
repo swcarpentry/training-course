@@ -3,7 +3,6 @@ title: Some Notes on Assessment Questions
 author: Greg Wilson
 permalink: /2013/02/some-notes-on-assessment-questions/
 categories:
-  - Round 02/4
 ---
 I asked [Elizabeth Patitsas][1] (a grad student in Computer Science at the University of Toronto with an interest in CS education) to take a look at the questions I&#8217;d written for the Python section of the [Software Carpentry instructors&#8217; guide][2]. Her main comment was, &#8220;You need to have multiple styles of questions, probing multiple levels and types of understanding. Right now you just probe recognition of behavior.&#8221; This relates directly to the multiple-choice questions I asked people to write for [Round 2.4][3], so on the &#8220;better late than never&#8221; principle, here are her suggestions for improvements:
 

@@ -4,7 +4,6 @@ author: Brian Forst
 permalink: /2014/07/demotivation/
 categories:
   - Motivation
-  - Round 10/2
 ---
 I have been exceptionally fortunate in my educational experience. I was strongly supported in my K-12 and university experiences by my parents and had a number of wonderful teachers. My only demotivating experiences have come from some other students. In particular, I have a strong beef with bullies. If someone is bullying someone else, or making them feel small, I will quite actively remove that person from my life.
 

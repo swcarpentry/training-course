@@ -4,7 +4,6 @@ author: Camille Avestruz
 permalink: /2013/08/concept-map-bash-command-line/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 ![][1]
 

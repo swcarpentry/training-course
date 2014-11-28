@@ -3,7 +3,6 @@ title: 'Demotivation: Anxiety'
 author: Ruth Collings
 permalink: /2014/10/demotivation-anxiety/
 categories:
-  - Round 11/4
 ---
 My story is slightly different from that anti-lightbulb moment where you&#8217;re motivated and into it until the teacher says something or does something that makes you turn off. I think we can all recognize that feeling, and I think my difficulty in coming up with an idea for this is that I’ve had it happen *too* often. Disappointment is the norm rather than the exception for me and formal education. Of course, as a person who suffers from depression, finding motivation to do *anything* is pretty hard to begin with, so that’s also part of it.
 

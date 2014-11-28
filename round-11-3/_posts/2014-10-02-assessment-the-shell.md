@@ -4,7 +4,6 @@ author: Andy Teucher
 permalink: /2014/10/assessment-the-shell/
 categories:
   - Assessment
-  - Round 11/3
 ---
 **1. The pipe (|) operator in the shell&#8230;**
 

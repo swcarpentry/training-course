@@ -4,7 +4,6 @@ author: Christina Koch
 permalink: /2013/09/assessment-conditional-expressions/
 categories:
   - Assessment
-  - Round 06/2
 ---
 This was tough, as I&#8217;m not really an expert in anything except mathematics. Ah well. Have some questions on conditional evaluation. 
 

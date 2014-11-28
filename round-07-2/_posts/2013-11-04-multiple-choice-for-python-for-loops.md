@@ -4,7 +4,6 @@ author: Luis Pedro Coelho
 permalink: /2013/11/multiple-choice-for-python-for-loops/
 categories:
   - Assessment
-  - Round 07/2
 ---
 **Novice question**. Consider the following code:
 

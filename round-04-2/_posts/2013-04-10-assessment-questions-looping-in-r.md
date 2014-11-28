@@ -4,7 +4,6 @@ author: Daniel Noble
 permalink: /2013/04/assessment-questions-looping-in-r/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 These questions are based on Alex&#8217;s concept map about [looping in R][1].
 

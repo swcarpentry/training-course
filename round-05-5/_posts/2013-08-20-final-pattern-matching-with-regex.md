@@ -3,7 +3,6 @@ title: 'Final: Pattern matching with regex'
 author: Martin Schilling
 permalink: /2013/08/final-pattern-matching-with-regex/
 categories:
-  - Round 05/5
 ---
 I&#8217;d like to do an intro to regular expressions.  
 I would use some simple examples using the ipy-notebook, where I go into the very basics of regex and then let the students do some pattern matching of wikipedia-entries (like https://en.wikipedia.org/wiki/List\_of\_rodents, where they need to extract a list of species)

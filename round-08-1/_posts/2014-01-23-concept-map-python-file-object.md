@@ -4,7 +4,6 @@ author: Mark Stacy
 permalink: /2014/01/concept-map-python-file-object/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 My concept map was inspired from Likt Preeyanon [Basic text processing concept map][1]. Text processing in most cases are coupled with the retrieval of text from a file. Concept map includes the basic operation of the python file object.
 

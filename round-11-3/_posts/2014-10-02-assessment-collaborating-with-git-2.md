@@ -4,7 +4,6 @@ author: Matthew Aiello-Lammens
 permalink: /2014/10/assessment-collaborating-with-git-2/
 categories:
   - Assessment
-  - Round 11/3
 ---
 This is testing section 3 in [Collaborating][1] with GIT.
 

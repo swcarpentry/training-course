@@ -3,7 +3,6 @@ title: 'Final lesson: Keeping your projects organized and documented'
 author: Ivan Gonzalez
 permalink: /2013/08/final-lesson/
 categories:
-  - Round 05/5
 ---
 Organizing the miriad of files with data, source code, and results that make up a scientific project can be a challenge for many scientists. Good organization and clear documentation are key in order to guarantee the reproducibility of scientific results. In my lesson, I&#8217;m presenting a few strategies to keep scientific projects documented and well-organized in a computer, using simple tools that require no computational background.
 

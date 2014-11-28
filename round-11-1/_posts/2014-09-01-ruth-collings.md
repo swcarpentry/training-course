@@ -4,7 +4,6 @@ author: Ruth Collings
 permalink: /2014/09/ruth-collings/
 categories:
   - Biography
-  - Round 11/1
 ---
 Hi, I&#8217;m an unemployed librarian with my Master in Library and Information Studies from Dalhousie University (Halifax, Canada) and my Bachelor of Arts & Science from McMaster University (Hamilton, Canada).
 

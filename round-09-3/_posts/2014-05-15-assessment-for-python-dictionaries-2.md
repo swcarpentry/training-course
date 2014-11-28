@@ -4,7 +4,6 @@ author: Jacob Levernier
 permalink: /2014/05/assessment-for-python-dictionaries-2/
 categories:
   - Assessment
-  - Round 09/3
 ---
 These questions are for Jeremiah&#8217;s concept [map on Python dictionaries][1].
 

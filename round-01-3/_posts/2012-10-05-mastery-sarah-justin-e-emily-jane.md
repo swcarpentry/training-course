@@ -4,7 +4,6 @@ author: Emily Jane McTavish
 permalink: /2012/10/mastery-sarah-justin-e-emily-jane/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 Wild Watermelon
 

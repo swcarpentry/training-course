@@ -4,7 +4,6 @@ author: Jens von der Linden
 permalink: /2013/04/assessment-questions-for-numpy-array-creation/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 distinguish novice from competent practitioner:
 

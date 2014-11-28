@@ -4,7 +4,6 @@ author: Timothy Warren
 permalink: /2014/05/screencast-on-python-dictionary/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 My <a href="http://youtu.be/vjIfzVPqtmQ" target="_blank">screencast</a> seeks to provide a brief introduction to the python dictionary.  Unfortunately, I didn’t realize until after I had completed the screencast that the primary focus of assignment was on motivating, rather than explaining, topic.

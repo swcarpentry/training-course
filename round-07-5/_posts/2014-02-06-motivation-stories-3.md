@@ -4,7 +4,6 @@ author: David Worth
 permalink: /2014/02/motivation-stories-3/
 categories:
   - Motivation
-  - Round 07/5
 ---
 **Demotivation first**
 

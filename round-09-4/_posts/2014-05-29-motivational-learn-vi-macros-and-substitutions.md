@@ -4,7 +4,6 @@ author: Chandler Wilkerson
 permalink: /2014/05/motivational-learn-vi-macros-and-substitutions/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 I&#8217;ve posted a first attempt at a screencast teaser for a lesson on vi macros and substitutions&#8211;both power features I find save me lots of time at work, but which can be daunting to new users.

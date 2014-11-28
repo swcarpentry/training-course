@@ -4,7 +4,6 @@ author: Anne Moroney
 permalink: /2014/01/biography-anne-moroney-nyc-round-8-1/
 categories:
   - Biography
-  - Round 08/0
 ---
 I&#8217;m an engineer, now in NYC, with a very varied background including work in semiconductors, a political nonprofit, and entertainment/media worlds. Over the years many beloved software tools have performed vital work for me, such as automated jobs for the day or production pre-press or yield analysis. Recently I completed the DevOps Bootcamp in Santa Clara CA. The Software Carpentry course has much overlap and I love teaching so I wanted to get involved.
 

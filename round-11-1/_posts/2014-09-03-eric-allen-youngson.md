@@ -4,7 +4,6 @@ author: Eric Youngson
 permalink: /2014/09/eric-allen-youngson/
 categories:
   - Biography
-  - Round 11/1
 ---
 I have  an working as an energy engineer for the last 7 years with modeling and simulation for green building design and optimization in new and existing buildings. My company, Succession Ecological Services, is an independent contractor with the utility incentive program here in Portland, Oregon. I work with US DOE simulation programs, [DOE2.2][1] & [EnergyPlus][2]. I also work on an open source scripting project for EnergyPlus, called [Eppy][3], written in Python and [hosted on Github][4].
 

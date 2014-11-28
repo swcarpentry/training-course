@@ -4,7 +4,6 @@ author: David Martin
 permalink: /2013/01/introducing-david-martin/
 categories:
   - Biography
-  - Round 03/0
 ---
 I&#8217;m a scientist at the <a title="The University of Dundee" href="http://www.dundee.ac.uk" target="_blank">University of Dundee</a> where I currently work on proteomics, doing the complex things that routine software can&#8217;t handle. Previous projects include the potato genome, phosphoproteomics in sleeping sickness, functional annotation (as part of the ELM project) and forays into protein crystallography and kinetics.<figure style="width: 640px;" class="wp-caption alignnone">
 

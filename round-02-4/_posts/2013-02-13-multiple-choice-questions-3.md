@@ -4,7 +4,6 @@ author: Stephen McGough
 permalink: /2013/02/multiple-choice-questions-3/
 categories:
   - Proficiency
-  - Round 02/4
 ---
 Hi All, Question 1 comes from marking an exam paper last week (these are some of the answers they gave).
 

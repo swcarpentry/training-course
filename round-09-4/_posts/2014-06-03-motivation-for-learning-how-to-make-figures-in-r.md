@@ -4,7 +4,6 @@ author: Genevieve Smith
 permalink: /2014/06/motivation-for-learning-how-to-make-figures-in-r/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 Here&#8217;s my screencast:[ http://www.youtube.com/watch?v=ZxVLGZo7hLE][1]

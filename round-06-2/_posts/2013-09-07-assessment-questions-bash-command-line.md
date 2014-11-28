@@ -4,7 +4,6 @@ author: Camille Avestruz
 permalink: /2013/09/assessment-questions-bash-command-line/
 categories:
   - Assessment
-  - Round 06/2
 ---
 1) Novice vs. competent practitioner
 

@@ -4,7 +4,6 @@ author: Sarah Supp
 permalink: /2013/01/study-group-1-wrap-up-supp/
 categories:
   - Meta
-  - Round 01/5
 ---
 **Overview**:
 

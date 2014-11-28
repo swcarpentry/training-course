@@ -4,7 +4,6 @@ author: Justin Kitzes
 permalink: /2012/10/round-1-4-justin-k/
 categories:
   - Lesson
-  - Round 01/4
 ---
 For the Week 4 assignment, here are links to my [raw iPython notebook][1] and my [rendered iPython notebook][2] (using nbviewer).
 

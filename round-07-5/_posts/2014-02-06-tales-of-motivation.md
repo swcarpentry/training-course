@@ -4,7 +4,6 @@ author: Bill Mills
 permalink: /2014/02/tales-of-motivation/
 categories:
   - Motivation
-  - Round 07/5
 ---
 <p dir="ltr">
   Trying to cram all the subjects needed to cobble together an undergraduate introduction to a scientific discipline into forty-odd courses arranged to flow, a pack at a time, into one another in some sort of meaningful way is no easy task.  As a result, certain little gems of scheduling arise to befuddle students, and one such idiosyncrasy in my physics education was the haphazard insertion of my first linear algebra course into the first semester of my second year.

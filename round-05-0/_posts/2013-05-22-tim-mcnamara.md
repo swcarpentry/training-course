@@ -4,7 +4,6 @@ author: Tim McNamara
 permalink: /2013/05/tim-mcnamara/
 categories:
   - Biography
-  - Round 05/0
 ---
 Tim McNamara is the Communities and Communications Programme Lead at the [New Zealand eScience Infrastructure][1]. His job is to connect researchers with supercomputers and other tools to help them accelerate their research.
 

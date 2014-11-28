@@ -4,7 +4,6 @@ author: Carlos Anderson
 permalink: /2012/09/motivation-carlos-anderson/
 categories:
   - Motivation
-  - Round 01/2
 ---
 **Motivating**
 

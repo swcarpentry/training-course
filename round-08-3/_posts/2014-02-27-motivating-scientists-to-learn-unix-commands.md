@@ -4,7 +4,6 @@ author: ablackpz
 permalink: /2014/02/motivating-scientists-to-learn-unix-commands/
 categories:
   - Motivation
-  - Round 08/3
 ---
 When I was in grad school, the PI wanted me to do an analysis and report the results within 2 days. The analysis was to do Poisson-Boltzmann calculations on 6,000 pieces of data, which were run embarrassing-parallel on a local cluster, then graph the results (wave hands as necessary depending on whether students are at a level where PB calcs, embarrassing-parallelism, and local cluster would make sense to them). Running the P-B calculations was easy because automated scripts were already set up, but would take 1.5 days to finish all of them. This meant that I had only a few hours to open each output file, copy the one number that was relevant to a master results file, and make the graph.
 

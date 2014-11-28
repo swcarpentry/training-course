@@ -4,7 +4,6 @@ author: Promita Bose
 permalink: /2013/05/concept-map-python-objects/
 categories:
   - Concept Map
-  - Round 05/1
 ---
 [PythonObjConceptMapsPromita][1]
 

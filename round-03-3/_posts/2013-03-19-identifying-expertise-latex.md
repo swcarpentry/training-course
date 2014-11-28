@@ -4,7 +4,6 @@ author: Kirsten Robinson
 permalink: /2013/03/identifying-expertise-latex/
 categories:
   - Proficiency
-  - Round 03/3
 ---
 **Distinguising those who are competent from novices**
 

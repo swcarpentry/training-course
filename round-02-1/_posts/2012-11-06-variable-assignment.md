@@ -4,7 +4,6 @@ author: Paul Ivanov
 permalink: /2012/11/variable-assignment/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 [<img src="http://teaching.software-carpentry.org/wp-content/uploads/2012/11/assignment-operator.png" alt="" title="assignment operator" width="600" height="279" class="alignnone size-full wp-image-1131" />][1]
 

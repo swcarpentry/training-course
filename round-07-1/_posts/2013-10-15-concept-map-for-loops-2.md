@@ -4,7 +4,6 @@ author: Scott Chamberlain
 permalink: /2013/10/concept-map-for-loops-2/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 A basic intro to generic for loops.
 

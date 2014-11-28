@@ -5,7 +5,6 @@ permalink: /2014/05/assessment-for-python-dictionaries/
 categories:
   - Assessment
   - Python
-  - Round 09/2
 tags:
   - Assessment
   - dictionary

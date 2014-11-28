@@ -4,7 +4,6 @@ author: Brian Forst
 permalink: /2014/06/concept-map-cleaning-a-climbing-anchor/
 categories:
   - Concept Map
-  - Round 10/1
 ---
 The safety checks that can help keep you alive when cleaning a climbing anchor. Not computer-related, but there was one I saw on how plants use water and decided to go off-topic <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 

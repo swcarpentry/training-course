@@ -3,7 +3,6 @@ title: Thoughts on Readings for Round 3.1
 author: Amy Brown
 permalink: /2013/01/thoughts-on-readings-for-round-3-1/
 categories:
-  - Round 03/1
   - Teaching
 ---
 We were supposed to discuss the readings in Friday&#8217;s meeting, but we got distracted by other things and never got to it. I made a bunch of notes when I was reading, so I will inflict them on you now to get the conversation started. Please join in with a comment or a blog post of your own!

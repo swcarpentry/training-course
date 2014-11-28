@@ -4,7 +4,6 @@ author: Aleksandra Pawlik
 permalink: /2012/10/round-2-1-how-functions-work/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 I will deal with on the concept of functions explaining how they work (with examples in Python).
 

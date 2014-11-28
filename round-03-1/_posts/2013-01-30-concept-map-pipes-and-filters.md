@@ -4,7 +4,6 @@ author: Kirsten Robinson
 permalink: /2013/01/concept-map-pipes-and-filters/
 categories:
   - Concept Map
-  - Round 03/1
 ---
 [<img class="alignnone size-full wp-image-1524" alt="PipesAndFilters" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/01/PipesAndFilters1.png" width="796" height="805" />][1]
 

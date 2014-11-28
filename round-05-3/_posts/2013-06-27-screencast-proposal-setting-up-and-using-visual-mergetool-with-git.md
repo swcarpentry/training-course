@@ -3,7 +3,6 @@ title: 'Screencast proposal: setting up and using visual mergetool with git'
 author: Preston Holmes
 permalink: /2013/06/screencast-proposal-setting-up-and-using-visual-mergetool-with-git/
 categories:
-  - Round 05/3
 ---
 Using git can often go smoothly for a while, change, commit, push, change commit push etc
 

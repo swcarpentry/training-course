@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2013/11/round-7-4-teaching-online/
 categories:
   - Online
-  - Round 07/4
   - Teaching
 ---
 Thanks to everyone who took part in last week&#8217;s meeting to talk about making screencasts. For our next exercise, you&#8217;ll be working in pairs to develop a short lesson, and then each person will teach it live, online.

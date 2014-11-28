@@ -4,7 +4,6 @@ author: Carl Boettiger
 permalink: /2014/09/concept-map-ssh-keys-github/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 Covering only the section &#8220;Generating SSH Keys&#8221; that is part of the Git lesson: http://software-carpentry.org/v5/novice/git/05-sshkeys.html
 

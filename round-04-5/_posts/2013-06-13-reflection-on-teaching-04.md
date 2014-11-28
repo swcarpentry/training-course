@@ -3,7 +3,6 @@ title: Reflection on Teaching 04
 author: John Blischak
 permalink: /2013/06/reflection-on-teaching-04/
 categories:
-  - Round 04/5
 ---
 **Round 4.1**
 

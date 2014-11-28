@@ -4,7 +4,6 @@ author: Shoaib Sufi
 permalink: /2013/06/multiple-choice-sql-group-by-again/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 (novice to competent) In the following SQL statement why is GROUP BY necessary to obtain the count of each type of house
 

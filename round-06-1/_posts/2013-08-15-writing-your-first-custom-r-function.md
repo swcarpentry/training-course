@@ -4,7 +4,6 @@ author: Cliburn Chan
 permalink: /2013/08/writing-your-first-custom-r-function/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 <p style="text-align: center;">
   <a href="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/first_custom_R_function.png"><img class="alignnone size-large wp-image-3902" alt="first_custom_R_function" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/first_custom_R_function-1024x791.png" width="707" height="546" /></a>

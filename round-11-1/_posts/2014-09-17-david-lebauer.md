@@ -4,7 +4,6 @@ author: David LeBauer
 permalink: /2014/09/david-lebauer/
 categories:
   - Biography
-  - Round 11/1
 ---
 **My scientific interests** are focused on biogeochemistry and nutrient cycling. I utilize field observations and experimental results to develop and evaluate ecophysiological models. I then use models to predict how carbon, nitrogen, and water cycles will be affected by global change and agriculture. Ultimately, I plan to apply knowledge of these interactions to the development and management of efficient and sustainable ecosystems.
 

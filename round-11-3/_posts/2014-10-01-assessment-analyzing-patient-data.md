@@ -4,7 +4,6 @@ author: Jon Guyer
 permalink: /2014/10/assessment-analyzing-patient-data/
 categories:
   - Assessment
-  - Round 11/3
 ---
 **Q1:** Given the NumPy array
 

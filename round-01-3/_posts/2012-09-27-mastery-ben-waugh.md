@@ -4,7 +4,6 @@ author: Ben Waugh
 permalink: /2012/09/mastery-ben-waugh/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 There is a difference between questions that are intended to &#8220;sum up what our learners actually want to learn&#8221; and those that sum up what we think our learners *should* want to learn. Some questions, such as &#8220;How can other people find and use [my work]?&#8221; clearly fall into the second category, but even those such as &#8220;How can I manage this data?&#8221; and &#8220;How can I tell if I’ve processed it correctly?&#8221; may not be raised consciously by a novice in the &#8220;unconscious incompetence&#8221; stage. A first-year PhD student, especially one working on a large project such as those in high-energy physics, often inherits a lot of code and working practices without necessarily being forced to stop and examine alternatives. They tend to manage their data in the same way that their predecessor on an ongoing project managed their data, and often assume that if they run their predecessor&#8217;s code and it doesn&#8217;t crash then the results are correct.
 

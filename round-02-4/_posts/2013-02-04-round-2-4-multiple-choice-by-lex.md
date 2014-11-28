@@ -4,7 +4,6 @@ author: Lex Nederbragt
 permalink: /2013/02/round-2-4-multiple-choice-by-lex/
 categories:
   - Proficiency
-  - Round 02/4
 ---
 **1) Sorting  
 **The file &#8216;input.txt&#8217; contains the following lines  

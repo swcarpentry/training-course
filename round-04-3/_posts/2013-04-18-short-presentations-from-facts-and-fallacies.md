@@ -3,7 +3,6 @@ title: 'Short Presentations from &#8220;Facts and Fallacies&#8221;'
 author: Greg Wilson
 permalink: /2013/04/short-presentations-from-facts-and-fallacies/
 categories:
-  - Round 04/3
 ---
 Please add a bullet to the list below with your name and the topic of your short presentation for Round 4.3.  (Greg&#8217;s is much longer than yours should be, but it gets the list started&#8230;)
 

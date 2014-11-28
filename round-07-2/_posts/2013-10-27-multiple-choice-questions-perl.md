@@ -4,7 +4,6 @@ author: Naupaka Zimmerman
 permalink: /2013/10/multiple-choice-questions-perl/
 categories:
   - Assessment
-  - Round 07/2
 ---
 For all you python people out there, remember that there is more than one way to do it <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 

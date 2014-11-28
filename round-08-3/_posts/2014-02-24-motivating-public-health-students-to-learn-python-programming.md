@@ -5,7 +5,6 @@ permalink: /2014/02/motivating-public-health-students-to-learn-python-programmin
 categories:
   - Assessment
   - Motivation
-  - Round 08/3
 ---
 How do you motivate students and get them excited about the topic you’re about to cover, and make them believe that they *can* learn it, and *want* to learn it?
 

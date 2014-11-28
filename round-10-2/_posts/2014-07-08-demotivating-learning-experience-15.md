@@ -4,7 +4,6 @@ author: Paulina Lach
 permalink: /2014/07/demotivating-learning-experience-15/
 categories:
   - Motivation
-  - Round 10/2
 ---
 It was when I just began my high school: new people, new class, new school, new teachers.  
 This situation took place just before the Physics lesson. In my high school there is no bell before and after any of the breakes &#8211; students and teachers just know when the lessons star and end. Also, the classrooms were always opened so pupils could enter it before the end of the break and teacher could start lesson just in time.  

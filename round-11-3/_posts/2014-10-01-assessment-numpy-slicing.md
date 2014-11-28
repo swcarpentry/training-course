@@ -4,7 +4,6 @@ author: Juan Nunez-Iglesias
 permalink: /2014/10/assessment-numpy-slicing/
 categories:
   - Assessment
-  - Round 11/3
 ---
 ## Question 1 {#question1}
 

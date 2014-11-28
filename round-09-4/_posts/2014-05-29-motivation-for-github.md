@@ -4,7 +4,6 @@ author: Scott Burns
 permalink: /2014/05/motivation-for-github/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 [Here][1] is my link to a motivation for using GitHub.

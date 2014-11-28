@@ -3,7 +3,6 @@ title: 'Round 2.2: Lex&#8217;s video on printing a range of lines with sed'
 author: Lex Nederbragt
 permalink: /2012/11/round-2-2-lexs-video-on-printing-a-range-of-lines-with-sed/
 categories:
-  - Round 02/2
   - Video
 ---
 Here I am teaching printing one of more lines from a file using sed. The material is based on this excellent blog post: http://linuxcommando.blogspot.no/2008/03/using-sed-to-extract-lines-in-text-file.html

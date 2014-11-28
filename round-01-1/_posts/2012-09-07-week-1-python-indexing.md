@@ -4,7 +4,6 @@ author: Ben Waugh
 permalink: /2012/09/week-1-python-indexing/
 categories:
   - Concept Map
-  - Round 01/1
 ---
 ## Concept map
 

@@ -4,7 +4,6 @@ author: Likit Preeyanon
 permalink: /2014/02/motivating-scientists-to-learn-how-to-process-text-files-with-python/
 categories:
   - Motivation
-  - Round 08/3
 ---
 **Background**
 

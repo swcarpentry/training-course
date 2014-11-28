@@ -4,7 +4,6 @@ author: Emilia Gan
 permalink: /2014/10/demotivation-12/
 categories:
   - Motivation
-  - Round 11/4
   - Uncategorized
 tags:
   - 11/4

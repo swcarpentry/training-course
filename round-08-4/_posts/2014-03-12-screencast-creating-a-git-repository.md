@@ -3,7 +3,6 @@ title: 'Screencast: creating a git repository'
 author: Jessica Hamrick
 permalink: /2014/03/screencast-creating-a-git-repository/
 categories:
-  - Round 08/4
   - Video
 ---
 This is the result of my third attempt (attempt number one was too long, attempt number two had too many mistakes):

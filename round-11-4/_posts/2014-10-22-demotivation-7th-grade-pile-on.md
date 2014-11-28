@@ -4,7 +4,6 @@ author: Chris Gates
 permalink: /2014/10/demotivation-7th-grade-pile-on/
 categories:
   - Motivation
-  - Round 11/4
 ---
 I have always been an avid learner and in grade school I especially loved science classes. So I was thrilled when, in my senior year of college, I received an invitation from my 7th grade science teacher to visit her class and present on what I was studying. (She was a great teacher and I had great memories of her class.) My interests at that moment of college were in environmental architecture, with an emphasis on ecological approaches to waste-water treatment and reuse. Of course, I wasn’t an expert, but there was a solid scientific angle and I knew I could speak on this with enthusiasm.
 

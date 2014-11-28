@@ -4,7 +4,6 @@ author: Karin Lagesen
 permalink: /2012/10/if-statements/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 [<img class="alignnone  wp-image-997" title="cm" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/10/cm1.png" alt="" width="864" height="624" />][1]
 

@@ -10,7 +10,6 @@ enclosure:
         video/mp4
         
 categories:
-  - Round 07/2
   - Video
 ---
 In my screencast I will be talking about what I consider essential tools to improve your experience when working in UNIX boxes.

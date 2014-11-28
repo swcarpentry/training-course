@@ -4,7 +4,6 @@ author: Luis Pedro Coelho
 permalink: /2013/09/luis-pedro-coelho/
 categories:
   - Biography
-  - Round 07/0
 ---
 I did my PhD on computational biology at Carnegie Mellon University and am currently a postdoctoral researcher at the European Molecular Biology Laboratory (EMBL). I work on [bioimage informatics][1] and metagenomics. My webpage is at [luispedro.org][2], I blog at [metarabbit.wordpress.com][3] and I tweet as [@luispedrocoelho][4].
 

@@ -4,7 +4,6 @@ author: Brent Shambaugh
 permalink: /2014/10/demotivation-6/
 categories:
   - Motivation
-  - Round 11/4
   - Uncategorized
 ---
 A leading professor convinced me that I should do a B.S. Chemical Engineering saying that I could accomplish anything with it. I was more interested in architecture, mechanical engineering, aerospace engineering, and later show business. I did not have a lot of money and I did not think I measured up to the other students so I just chose to go with it.

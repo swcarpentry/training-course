@@ -6,7 +6,6 @@ categories:
   - Assessment
   - Motivation
   - Round 08/2
-  - Round 08/3
 ---
 **Software Carpentry Instructor Training Round 8.3 (Thursday, February 13, 2014)**
 

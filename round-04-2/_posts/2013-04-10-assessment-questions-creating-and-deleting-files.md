@@ -4,7 +4,6 @@ author: Sheera Adar
 permalink: /2013/04/assessment-questions-creating-and-deleting-files/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 This applies to concept maps from this and previous rounds:
 

@@ -4,7 +4,6 @@ author: Neem Serra
 permalink: /2014/02/mcq-unit-tests/
 categories:
   - Assessment
-  - Round 08/1
 ---
 Novices vs competent practitioners:
 

@@ -4,7 +4,6 @@ author: Sarah Richardson
 permalink: /2013/06/autovivification-concept-map/
 categories:
   - Concept Map
-  - Round 05/1
 tags:
   - conceptual map
 ---

@@ -4,7 +4,6 @@ author: Emily Jane McTavish
 permalink: /2012/10/round-1-4-for-loops-emily-jane/
 categories:
   - Concept Map
-  - Round 01/4
 ---
 [<img class="alignnone  wp-image-861" title="Slide1" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/10/Slide13.jpg" alt="" width="504" height="588" />][1]
 

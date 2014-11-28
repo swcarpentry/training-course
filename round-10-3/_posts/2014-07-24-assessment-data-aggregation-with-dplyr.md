@@ -4,7 +4,6 @@ author: Kara Woo
 permalink: /2014/07/assessment-data-aggregation-with-dplyr/
 categories:
   - Assessment
-  - Round 10/3
 ---
 <ol style="list-style-type: decimal;">
   <li>

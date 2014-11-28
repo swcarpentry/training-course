@@ -4,7 +4,6 @@ author: Heather Gunning
 permalink: /2014/10/demotivation-3/
 categories:
   - Motivation
-  - Round 11/4
 ---
 My most memorable demotivation happened quite recently.
 

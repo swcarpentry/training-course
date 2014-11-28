@@ -4,7 +4,6 @@ author: "Brenna O'Brien"
 permalink: /2014/02/motivating-novice-web-developers-to-learn-git-and-github/
 categories:
   - Motivation
-  - Round 08/3
 ---
 In the front-end web development course I&#8217;m teaching right now, teaching Git and GitHub took far longer than we expected. We were trying to teach command line basics, how to initialize a repo etc., but kept getting blocked on &#8220;But why are we doing this?&#8221; type questions every step of the way. For GUI users, something like learning to change directories in the shell seemed completely pointless.
 

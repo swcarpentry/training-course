@@ -3,7 +3,6 @@ title: 'Screencast: The new Heat beta service'
 author: Martin Paulo
 permalink: /2014/03/screencast-the-new-heat-beta-service/
 categories:
-  - Round 08/4
   - Video
 ---
 *In this exercise I thought that I could kill two birds with one stone &#8211; I could create a screencast for this course, and also use it internally at work to show off a new service that we are implementing&#8230;*

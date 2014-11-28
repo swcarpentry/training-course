@@ -4,7 +4,6 @@ author: Julian Garcia
 permalink: /2013/11/introduction-to-pandas-online-teaching/
 categories:
   - Lesson
-  - Round 06/5
   - Teaching
 ---
 I taught a short introduction to pandas for exercise 6.5.  The lesson material I used, including the slides, can be found [here][1]; the IPython notebook on  nbviewer is [here][2].

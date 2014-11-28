@@ -5,7 +5,6 @@ permalink: /2014/09/assessment-python-functions/
 categories:
   - Assessment
   - Python
-  - Round 11/1
 ---
 **1.** What does the following code prints?
 

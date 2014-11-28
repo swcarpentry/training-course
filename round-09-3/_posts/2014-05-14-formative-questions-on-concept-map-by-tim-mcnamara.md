@@ -5,7 +5,6 @@ permalink: /2014/05/formative-questions-on-concept-map-by-tim-mcnamara/
 categories:
   - Assessment
   - Concept Map
-  - Round 09/3
 ---
 <div>
   Question:

@@ -4,7 +4,6 @@ author: Atul Varma
 permalink: /2014/01/atul-varma/
 categories:
   - Biography
-  - Round 08/0
 ---
 Hello! My name is Atul, and I work on the design and engineering of educational experiences on the Webmaker Community Team at the Mozilla Foundation. In recent years, I have worked on projects like [Lightbeam][1], [Web X-Ray Goggles][2], and [Open Badges][3].
 

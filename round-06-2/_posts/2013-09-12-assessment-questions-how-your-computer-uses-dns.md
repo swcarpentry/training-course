@@ -4,7 +4,6 @@ author: Dave Lane
 permalink: /2013/09/assessment-questions-how-your-computer-uses-dns/
 categories:
   - Assessment
-  - Round 06/2
 ---
 The Domain Name System encapsulates a lot of complex interactions and protocols which allow it to provide the functionality described in my Concept Map. Further obfuscating things is the myriad of relevant TLAs (Three Letter Acronyms) which amount to a carpet under which a significant amount of information is hidden. With my differentiating questions, I&#8217;ll attempt to dig a bit deeper into these aspects.
 

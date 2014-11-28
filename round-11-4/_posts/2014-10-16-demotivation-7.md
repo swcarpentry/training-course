@@ -4,7 +4,6 @@ author: Cody Hinchliff
 permalink: /2014/10/demotivation-7/
 categories:
   - Motivation
-  - Round 11/4
 ---
 Demotivation
 

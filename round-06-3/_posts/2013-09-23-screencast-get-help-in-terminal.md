@@ -10,7 +10,6 @@ enclosure:
         video/webm
         
 categories:
-  - Round 06/3
   - Video
 ---
 Hi, sorry to only published the video now. I was traveling last week.

@@ -4,7 +4,6 @@ author: Kara Woo
 permalink: /2014/07/demotivating-learning-experience-13/
 categories:
   - Motivation
-  - Round 10/2
 ---
 I had a demotivating experience in a Russian course in my final year of undergrad. The class comprised three heritage speakers who could speak fluently but struggled with writing, one other non-native speaker, and me. I was by this time used to class discussions being held exclusively in Russian, but with most of the class being able to speak fluently I quickly became demotivated. I was self conscious about speaking in class, aware of how amateurish I sounded compared to the other students. I could follow the discussions but avoided participating because I felt I&#8217;d slow everyone else down.
 

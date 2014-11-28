@@ -4,7 +4,6 @@ author: David Jones
 permalink: /2013/10/assessment-questions-numpy-arrays/
 categories:
   - Assessment
-  - Round 07/2
 ---
 Here is my attempt.
 

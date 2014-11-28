@@ -4,7 +4,6 @@ author: François Michonneau
 permalink: /2014/09/concept-map-git-branching/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 Sorry for the delay I was at a hachathon this past week.
 

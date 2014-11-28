@@ -4,7 +4,6 @@ author: Diego Barneche
 permalink: /2013/04/assessment-questions-simulation-in-r/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 I chose the following concept map: http://teaching.software-carpentry.org/2013/03/26/concept-map-simulation-in-r-noble/
 

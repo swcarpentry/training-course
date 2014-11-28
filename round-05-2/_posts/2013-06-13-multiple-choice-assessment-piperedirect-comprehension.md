@@ -4,7 +4,6 @@ author: Yuxi Luo
 permalink: /2013/06/multiple-choice-assessment-piperedirect-comprehension/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 Novice: Choose the commands that you can understand? (Mark all that apply)
 

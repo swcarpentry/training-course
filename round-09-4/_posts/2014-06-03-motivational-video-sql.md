@@ -4,7 +4,6 @@ author: Tim McNamara
 permalink: /2014/06/motivational-video-sql/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 tags:
   - sql

@@ -4,7 +4,6 @@ author: Fan
 permalink: /2013/10/assessment-questions-ls/
 categories:
   - Assessment
-  - Round 07/2
 ---
 Beneath are my multiple choices questions to assess the students&#8217; abilities in file navigation by using &#8220;ls.&#8221;
 

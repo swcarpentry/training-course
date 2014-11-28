@@ -4,7 +4,6 @@ author: Katy Huff
 permalink: /2012/09/mastery-katy-huff/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 I think the purpose of this endeavor is to covey tools that support the tenets of science, reproducibility, peer review, documentation, data control, etc. I tried not to look at your questions before writing these, but they turned out very similarly anyway. You phrased yours a little more clearly, perhaps. Here are my questions :
 

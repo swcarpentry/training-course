@@ -6,7 +6,6 @@ categories:
   - Assessment
   - Concept Map
   - Round 08/1
-  - Round 08/2
 ---
 **Meeting of the Software Carpentry Instructors Study Group**
 

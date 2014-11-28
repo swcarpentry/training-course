@@ -10,7 +10,6 @@ enclosure:
         video/mp4
         
 categories:
-  - Round 08/4
   - Video
 ---
 Hi everyone,

@@ -4,7 +4,6 @@ author: Daisie Huang
 permalink: /2014/07/demotivating-learning-experience-7/
 categories:
   - Motivation
-  - Round 10/2
   - Uncategorized
 ---
 My graduate program was in Botany at a research botanical garden, so we pretty much only had required coursework in whatever the professors felt like teaching for any given semester, and all of the grad students that were pre-comps generally took everything offered for credit (usually two courses a semester). Usually it was something useful, like Phylogenetics or Plant Molecular Biology, but one semester, a professor who specialized in grass systematics decided he wanted to teach a semester-long course in Agrostology (the study of grasses) even though none of the grad students were particularly interested in grasses. So we started out as a not particularly motivated group in the first place, and were quite vocal about it (granted, this was probably not the most considerate thing to do, but it happened).

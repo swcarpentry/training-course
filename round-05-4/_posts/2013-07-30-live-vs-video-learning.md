@@ -3,7 +3,6 @@ title: live vs video learning
 author: Preston Holmes
 permalink: /2013/07/live-vs-video-learning/
 categories:
-  - Round 05/4
 ---
 &#8220;a 3-paragraph blog post describing how you would tell if live real-time tutoring was better than, worse than, or just as effective as (a) recorded video and (b) live tutoring.&#8221;
 

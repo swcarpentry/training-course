@@ -4,7 +4,6 @@ author: Alex Viana
 permalink: /2013/01/my-experience-with-svn-sqlite-python/
 categories:
   - Connections
-  - Round 02/3
 ---
 We had a project where we where collecting metadata (data about data) for a filesystem of astronomy images. The File system was growing daily and soon we had ~22k images. The metadata (target, observation time, etc) was being recorded in a single monolithic flat comma-separated-value (CSV) text file. As a result the text file had over 22k lines and over 25 &#8220;columns&#8221;. This worked fine for a while, but as the demands on the project grew this solution eventually become unmanageable.
 

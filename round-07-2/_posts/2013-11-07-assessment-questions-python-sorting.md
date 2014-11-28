@@ -4,7 +4,6 @@ author: Chris Waigl
 permalink: /2013/11/assessment-questions-python-sorting/
 categories:
   - Assessment
-  - Round 07/2
 ---
 **Novice vs competent:**
 

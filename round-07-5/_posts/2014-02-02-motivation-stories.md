@@ -4,7 +4,6 @@ author: David Jones
 permalink: /2014/02/motivation-stories/
 categories:
   - Motivation
-  - Round 07/5
 ---
 **Learning red-black trees as a functional data structure.  
 **

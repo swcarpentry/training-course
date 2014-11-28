@@ -4,7 +4,6 @@ author: Mark Stacy
 permalink: /2014/02/mcq-python-file-object/
 categories:
   - Assessment
-  - Round 08/2
 ---
 A multiple-choice question to distinguish novices from competent practitioners
 

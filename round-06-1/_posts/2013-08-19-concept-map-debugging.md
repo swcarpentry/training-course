@@ -4,7 +4,6 @@ author: Damien Irving
 permalink: /2013/08/concept-map-debugging/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 [<img src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/Concept_map.jpg" alt="Concept_map" width="2034" height="1082" class="alignnone size-full wp-image-3960" />][1]
 

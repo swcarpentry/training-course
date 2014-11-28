@@ -4,7 +4,6 @@ author: Luis Figueira
 permalink: /2013/02/multiple-choice-questions-on-lists-and-loops/
 categories:
   - Proficiency
-  - Round 02/4
 ---
 Hi all, 
 

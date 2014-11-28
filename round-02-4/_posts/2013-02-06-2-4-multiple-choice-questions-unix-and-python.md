@@ -4,7 +4,6 @@ author: Karin Lagesen
 permalink: /2013/02/2-4-multiple-choice-questions-unix-and-python/
 categories:
   - Proficiency
-  - Round 02/4
 ---
 Q1 :  
 The file named Samples contains a lot of text lines.  

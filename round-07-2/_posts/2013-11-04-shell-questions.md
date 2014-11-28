@@ -4,7 +4,6 @@ author: David Rio
 permalink: /2013/11/shell-questions/
 categories:
   - Assessment
-  - Round 07/2
 ---
 Question1 (novice/competent):
 

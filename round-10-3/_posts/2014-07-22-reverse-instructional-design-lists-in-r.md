@@ -5,7 +5,6 @@ permalink: /2014/07/reverse-instructional-design-lists-in-r/
 categories:
   - Assessment
   - R
-  - Round 10/3
 ---
 &nbsp;
 

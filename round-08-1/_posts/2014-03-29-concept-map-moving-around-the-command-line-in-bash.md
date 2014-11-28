@@ -4,7 +4,6 @@ author: Dana Miller
 permalink: /2014/03/concept-map-moving-around-the-command-line-in-bash/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 Introductory level material, aimed at learners already introduced to the Unix shell, once they are starting to enter longer commands with more file paths and arguments and are ready to learn a few more keystrokes to save many minutes of waiting for the cursor to move back to the start of the command one letter at a time. Many bash shortcut guides are available online, but was motivated to create a short reference of immediately usable shortcuts because newcomers to command line might not know what to search for to find them or be overwhelmed by the number of options if they do.<figure id="attachment_6446" style="width: 318px;" class="wp-caption alignleft">
 

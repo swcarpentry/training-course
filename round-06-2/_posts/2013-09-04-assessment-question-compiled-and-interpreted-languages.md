@@ -4,7 +4,6 @@ author: ablackpz
 permalink: /2013/09/assessment-question-compiled-and-interpreted-languages/
 categories:
   - Assessment
-  - Round 06/2
 ---
 For competent users:
 

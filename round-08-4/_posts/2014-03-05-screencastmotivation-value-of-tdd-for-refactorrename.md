@@ -5,7 +5,6 @@ permalink: /2014/03/screencastmotivation-value-of-tdd-for-refactorrename/
 categories:
   - Motivation
   - Round 08/3
-  - Round 08/4
   - Video
 ---
 ### Hwk.8-3; Motivation

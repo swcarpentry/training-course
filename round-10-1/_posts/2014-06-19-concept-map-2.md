@@ -4,7 +4,6 @@ author: James Robinson
 permalink: /2014/06/concept-map-2/
 categories:
   - Concept Map
-  - Round 10/1
   - Uncategorized
 ---
 Here&#8217;s a description of the basics in using plyr to aggregate and summarise data in R.

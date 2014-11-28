@@ -4,7 +4,6 @@ author: Denis Haine
 permalink: /2014/02/motivation-stories-2/
 categories:
   - Motivation
-  - Round 07/5
 ---
 **A time when I was motivated to learn**  
 A few years ago, my Windows laptop was getting very slow and, as told, old (though only 3.5 years old). I didn&#8217;t had any money to buy a new one and anyway didn&#8217;t wanted to as I was expecting a longer life from this laptop. I searched on the net what was the problem and what I could do. That&#8217;s when I heard about linux and decided to jump and install it. I had absolutely no background in computing and even, dare I say now, no real understanding on how a computer was working. Trying to make the wi-fi, printer, etc. working was a pain. But it forced me to search how things were working and I got hooked on computing, reading a lot, trying things by myself, learning the command line etc. It&#8217;s a learning I never regret.

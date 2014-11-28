@@ -4,7 +4,6 @@ author: Sarah Edwards
 permalink: /2014/07/demotivating-learning-experience-9/
 categories:
   - Motivation
-  - Round 10/2
 ---
 I went into college wanting to be an engineer because I wanted to build things.  Finally in my sophomore year I had taken enough prerequisites to be able to take introductory engineering courses.  I wasn&#8217;t interested in chemistry or building structures that would fall on people so at my school that left a choice between mechanical engineering and electrical engineering (EE).  I had always assumed I would be a mechanical engineer but I signed up for the EE intro course so as not to put all my eggs into one basket.
 

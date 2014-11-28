@@ -4,7 +4,6 @@ author: Jay Freeman (saurik)
 permalink: /2014/10/image-grids-colors-assessment-jay-freeman-saurik/
 categories:
   - Assessment
-  - Round 11/3
 ---
 The color Yellow in ipythonblocks is represented as:
 

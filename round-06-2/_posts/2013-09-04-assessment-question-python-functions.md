@@ -4,7 +4,6 @@ author: Cliburn Chan
 permalink: /2013/09/assessment-question-python-functions/
 categories:
   - Assessment
-  - Round 06/2
 ---
 Q1 (Competence) What is the final value of the result variable in the program below?
 

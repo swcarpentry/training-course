@@ -5,7 +5,6 @@ permalink: /2014/09/from-basic-principles-to-concept-maps/
 categories:
   - Concept Map
   - Round 11/1
-  - Round 11/2
 ---
 Instructor training group 11 had their first meeting this week. We raced through a lot of foundational material, and had a lot of good questions. The first exercise is described below, followed by the notes participants took during the meeting; I look forward to seeing everyone again in two weeks.
 

@@ -4,7 +4,6 @@ author: Randy Olson
 permalink: /2013/04/assessment-questions-for-sql-databases/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 Made for <a href="http://teaching.software-carpentry.org/2013/02/15/concept-map-intro-to-sql-databases/" target="_blank">http://teaching.software-carpentry.org/2013/02/15/concept-map-intro-to-sql-databases/</a>
 

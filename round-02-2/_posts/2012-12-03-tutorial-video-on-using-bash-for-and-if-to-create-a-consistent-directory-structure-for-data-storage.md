@@ -3,10 +3,8 @@ title: Tutorial video on using Bash for and if to create a consistent directory 
 author: Lynne Williams
 permalink: /2012/12/tutorial-video-on-using-bash-for-and-if-to-create-a-consistent-directory-structure-for-data-storage/
 categories:
-  - Round 02/2
   - Video
 tags:
-  - Round 02/2
 ---
 &nbsp;
 

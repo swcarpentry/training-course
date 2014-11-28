@@ -4,7 +4,6 @@ author: Adam Obeng
 permalink: /2012/10/about-adam-obeng/
 categories:
   - Biography
-  - Round 02/0
 ---
 I&#8217;m a doctoral candidate in Sociology at Columbia University (in the City of New York), working on computational social science broadly. In the past, I&#8217;ve done social network analysis, agent-based modelling, historical-text-XML-munging and a couple of other things, the vast majority of it in Python. I also apparently do digital humanities-type-stuff, which took me by surprise.
 

@@ -4,7 +4,6 @@ author: Matthew Dimmock
 permalink: /2014/05/motivational-screencast-on-medical-imaging/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 **An introduction to how medical imaging works.**

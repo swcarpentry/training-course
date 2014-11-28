@@ -4,7 +4,6 @@ author: Yuxi Luo
 permalink: /2013/05/about-yuxi-luo/
 categories:
   - Biography
-  - Round 05/0
 ---
 <div>
   Currently, I&#8217;m a graduate student at <a title="LanZhou University" href="http://en.wikipedia.org/wiki/Lanzhou_University" target="_blank">LanZhou University</a>, <a title="my major" href="http://havef.github.io/" target="_blank">my major</a> is mainly related with machine learning,

@@ -4,7 +4,6 @@ author: Michael Schliephake
 permalink: /2014/05/motivation-for-shell-and-shellprogramming/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 Here is the link to the video for a <a href="https://www.pdc.kth.se/~michs/github/bash.html" target="_blank">motivation for shells and shell programming</a>.

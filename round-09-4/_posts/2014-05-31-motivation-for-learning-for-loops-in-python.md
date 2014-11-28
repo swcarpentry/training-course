@@ -4,7 +4,6 @@ author: Aur Saraf
 permalink: /2014/05/motivation-for-learning-for-loops-in-python/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 I had another example from the same game that didn&#8217;t make the cut. It involved interpreting directions the game gave you for solving a maze:

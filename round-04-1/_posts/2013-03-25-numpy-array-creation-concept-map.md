@@ -4,7 +4,6 @@ author: Jacob Vanderplas
 permalink: /2013/03/numpy-array-creation-concept-map/
 categories:
   - Concept Map
-  - Round 04/1
 ---
 [<img class="alignnone size-medium wp-image-1885" alt="ArrayFlowChart" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/03/ArrayFlowChart-300x225.jpg" width="300" height="225" />][1]
 

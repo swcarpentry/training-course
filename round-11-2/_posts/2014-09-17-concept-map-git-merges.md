@@ -4,7 +4,6 @@ author: Jared Camins-Esakov
 permalink: /2014/09/concept-map-git-merges/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 [<img class="alignnone size-medium wp-image-8738" alt="git merge conflicts concept map" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/git-merge-conflicts-concept-map-300x231.jpg" width="300" height="231" />][1]
 

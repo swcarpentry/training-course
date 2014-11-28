@@ -3,7 +3,6 @@ title: 'Screencast: File redirection in the unix shell'
 author: Sheldon McKay
 permalink: /2014/03/screencast-file-redirection-in-the-unix-shell/
 categories:
-  - Round 08/4
   - Video
 ---
 Command line programs in unix-like operating systems typically print their standard output (STDOUT) and standard error (STDERR) streams to the terminal screen. This screencast provides a basic introduction on how to capture STDOUT and STDERR and redirect them to files. The intended audience for this screencast is novice-level users who need to know how to open a terminal window and how to enter commands but not much else.

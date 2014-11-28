@@ -4,7 +4,6 @@ author: Amanda Charbonneau
 permalink: /2013/09/assessment-questions/
 categories:
   - Assessment
-  - Round 06/2
 ---
 Hi all, sorry I&#8217;m running behind this week:
 

@@ -4,7 +4,6 @@ author: Ben Morris
 permalink: /2013/02/concept-map-intro-to-sql-databases/
 categories:
   - Concept Map
-  - Round 03/1
 ---
 Better late than never, yeah?
 

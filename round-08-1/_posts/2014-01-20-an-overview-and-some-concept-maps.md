@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2014/01/an-overview-and-some-concept-maps/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 **Meeting of the Software Carpentry Instructors Study Group**  
 **Round 8.1 (2014-01-16)**

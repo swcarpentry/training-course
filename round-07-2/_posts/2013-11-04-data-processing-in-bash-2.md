@@ -4,7 +4,6 @@ author: John Corless
 permalink: /2013/11/data-processing-in-bash-2/
 categories:
   - Assessment
-  - Round 07/2
 ---
 1. For a text based data file named data.txt, which command sequence in bash will allow you to count the number of lines of data and then print out the last twenty lines? (Novice from competent)
 

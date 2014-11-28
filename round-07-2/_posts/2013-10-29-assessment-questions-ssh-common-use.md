@@ -4,7 +4,6 @@ author: Remi Emonet
 permalink: /2013/10/assessment-questions-ssh-common-use/
 categories:
   - Assessment
-  - Round 07/2
 ---
 Hi,
 

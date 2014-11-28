@@ -4,7 +4,6 @@ author: Luis Pedro Coelho
 permalink: /2013/10/concept-map-for-image-loading/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 Teaching loading (biological) image loading from a file on disk. 
 

@@ -4,7 +4,6 @@ author: Alex Bush
 permalink: /2013/04/assessment-questions-data-structures-in-r-diegos-concept-map/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 These questions are based on Diego’s concept map.
 

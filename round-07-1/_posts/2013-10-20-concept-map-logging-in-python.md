@@ -4,7 +4,6 @@ author: David Jones
 permalink: /2013/10/concept-map-logging-in-python/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 <figure id="attachment_4872" style="width: 300px;" class="wp-caption alignnone">[<img class="size-medium wp-image-4872" alt="Concept Map for Python Logging" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/10/hw1-300x220.jpg" width="300" height="220" />][1]<figcaption class="wp-caption-text">Concept Map for Python Logging</figcaption></figure>
 

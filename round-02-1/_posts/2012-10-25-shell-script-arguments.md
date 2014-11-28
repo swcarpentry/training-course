@@ -4,7 +4,6 @@ author: Ross Dickson
 permalink: /2012/10/shell-script-arguments/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 I spent about an hour Wednesday evening thinking and messing about with Cmap (which I picked up from the Round 1 posts, and I highly recommend it:  http://cmap.ihmc.us/).  For a concept I started with &#8220;What&#8217;s a file?&#8221;.  It is **way** too easy to go past 6 nodes on a cmap on some subject you know a lot about!  Reined myself in, trimmed it down to 6 nodes.
 

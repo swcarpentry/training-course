@@ -4,7 +4,6 @@ author: Justin Kitzes
 permalink: /2012/09/mastery-justin/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 As I started drafting my list of questions, I reflected a bit on Greg&#8217;s phrase &#8220;what we’re trying to help our learners do&#8221;. I ended up with a list that was focused around the stages in our learner&#8217;s research (ie, those cartoons of the scientific methods that we learned about in high school), rather than the particular tasks that they may want to perform. Overall, though, I&#8217;d say that the questions aren&#8217;t so different from Greg&#8217;s, although they&#8217;re phrased and organized differently. Note that my descriptions of the &#8220;Expert&#8221; are probably more like &#8220;Advanced Intermediate&#8221;, since that is roughly how I would characterize the limits of my own knowledge :P.
 

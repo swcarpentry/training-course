@@ -4,7 +4,6 @@ author: Devasena Inupakutika
 permalink: /2014/05/concept-map-shell-paths/
 categories:
   - Concept Map
-  - Round 09/1
 tags:
   - Concept Map
 ---

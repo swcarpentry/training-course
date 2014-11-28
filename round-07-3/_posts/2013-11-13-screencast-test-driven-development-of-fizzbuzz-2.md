@@ -10,7 +10,6 @@ enclosure:
         video/mp4
         
 categories:
-  - Round 07/3
   - Video
 ---
 Here&#8217;s a screencast of test-driven development for the FizzBuzz program using Quicktime.

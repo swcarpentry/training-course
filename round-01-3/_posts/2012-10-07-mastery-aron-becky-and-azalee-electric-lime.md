@@ -4,7 +4,6 @@ author: Azalee Bostroem
 permalink: /2012/10/mastery-aron-becky-and-azalee-electric-lime/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 We started with a discussion on who our primary audience was and what length class we were going to teach. This helped us limit the scope of what we thought was important. We then started designing a curriculum rather than ask fundamental questions to be answered by our curriculum. This is reflected in Q5 especially. What you see below is the result of 2.5-3 hours of face to face discussion. With more time we would like to refine some of our questions to reflect skills we want student&#8217;s to learn with rather than specific subject matter. At the end you will find some material that we think should be included but didn&#8217;t find a specific question under which to place it.
 

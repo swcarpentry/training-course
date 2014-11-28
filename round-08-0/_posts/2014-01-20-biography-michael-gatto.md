@@ -4,7 +4,6 @@ author: Michael Gatto
 permalink: /2014/01/biography-michael-gatto/
 categories:
   - Biography
-  - Round 08/0
 ---
 I&#8217;m an expert in Web Micro-frameworks, Object-Relational Mappers (ORM) and templating engines for PHP especially, but also for Perl and less so, for Python.
 

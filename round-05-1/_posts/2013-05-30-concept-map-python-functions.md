@@ -4,7 +4,6 @@ author: Shreyas Cholia
 permalink: /2013/05/concept-map-python-functions/
 categories:
   - Concept Map
-  - Round 05/1
 ---
 Version 2 (update):  
 [<img class="alignnone size-medium wp-image-2974" alt="python-functions-v2" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/05/python-functions-v2-300x270.jpg" width="300" height="270" />][1]

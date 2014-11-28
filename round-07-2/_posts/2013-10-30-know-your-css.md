@@ -4,7 +4,6 @@ author: Bill Mills
 permalink: /2013/10/know-your-css/
 categories:
   - Assessment
-  - Round 07/2
 ---
 Here are a couple of questions to distinguish knowledge levels in CSS.
 

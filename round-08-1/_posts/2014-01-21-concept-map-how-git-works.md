@@ -4,7 +4,6 @@ author: Atul Varma
 permalink: /2014/01/concept-map-how-git-works/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 <figure id="attachment_5533" style="width: 707px;" class="wp-caption alignnone">[<img src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/git-concept-map-1024x836.jpg" alt="git concept map" width="707" height="577" class="size-large wp-image-5533" />][1]<figcaption class="wp-caption-text">A concept map for git.</figcaption></figure> 
 I noticed that Jessica Hamrick also did a concept map on [git commit][2], so it might be useful to compare and contrast these two. (Also see Evan Bianco&#8217;s [Using Git][3] and Anne Moroney&#8217;s concept map for [contributing to github][4].)

@@ -4,7 +4,6 @@ author: Florian Rathgeber
 permalink: /2014/05/motivational-screencast-the-power-of-list-comprehensions/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 tags:
   - lists

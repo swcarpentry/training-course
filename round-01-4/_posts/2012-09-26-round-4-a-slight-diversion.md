@@ -3,7 +3,6 @@ title: 'Round 4: A Slight Diversion'
 author: Greg Wilson
 permalink: /2012/09/round-4-a-slight-diversion/
 categories:
-  - Round 01/4
   - Tools
 ---
 For our fourth round, we&#8217;re going to take a look at some teaching tools. To get started, please go to [Mark Guzdial&#8217;s blog][1] and look at everything he has posted since [January 2, 2012][2]. Half the articles are fairly ephemeral (conference announcements and the like), but I think the rest will give you a very good overview of the state of the computing education landscape. Once you&#8217;ve done that (which I expect will take a couple of hours), please:

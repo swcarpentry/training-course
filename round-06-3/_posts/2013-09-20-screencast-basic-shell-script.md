@@ -3,7 +3,6 @@ title: 'Screencast: Basic Shell Script'
 author: Christina Koch
 permalink: /2013/09/screencast-basic-shell-script/
 categories:
-  - Round 06/3
   - Video
 ---
 How to save + run a basic shell script. 

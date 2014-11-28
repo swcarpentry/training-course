@@ -4,7 +4,6 @@ author: Thomas Guignard
 permalink: /2014/10/assessment-using-databases-combining-data/
 categories:
   - Assessment
-  - Round 11/3
   - SQL
 ---
 This assessment uses the [Pole of Inaccessibility survey database][1] that is being used to illustrate the Software Carpentry SQL version 5 lesson.

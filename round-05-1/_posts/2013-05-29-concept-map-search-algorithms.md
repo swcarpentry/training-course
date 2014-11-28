@@ -4,7 +4,6 @@ author: Sung Bae
 permalink: /2013/05/concept-map-search-algorithms/
 categories:
   - Concept Map
-  - Round 05/1
 ---
 [conceptmap\_search\_algorithm][1]
 

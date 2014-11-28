@@ -4,7 +4,6 @@ author: Chang She
 permalink: /2012/11/round-2-1-array-reductions/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 <p style="text-align: center;">
   <a href="http://teaching.software-carpentry.org/wp-content/uploads/2012/11/concept_map.001.png"><img class="size-full wp-image-986 aligncenter" title="concept_map.001" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/11/concept_map.001.png" alt="" width="635" height="344" /></a>

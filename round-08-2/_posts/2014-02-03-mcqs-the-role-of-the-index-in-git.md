@@ -4,7 +4,6 @@ author: Jean-Christophe Leyder
 permalink: /2014/02/mcqs-the-role-of-the-index-in-git/
 categories:
   - Assessment
-  - Round 08/2
 ---
 **Preamble:**  
 For a long time, I found the index to be a very confusing term/topic in git.

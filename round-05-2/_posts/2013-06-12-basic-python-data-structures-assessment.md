@@ -4,7 +4,6 @@ author: Philipp Bayer
 permalink: /2013/06/basic-python-data-structures-assessment/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 Designed to split into &#8220;novice&#8221; and &#8220;intermediate/expert&#8221;
 

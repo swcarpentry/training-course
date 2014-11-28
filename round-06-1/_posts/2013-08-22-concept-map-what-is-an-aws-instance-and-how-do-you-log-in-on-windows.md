@@ -4,7 +4,6 @@ author: Dana Miller
 permalink: /2013/08/concept-map-what-is-an-aws-instance-and-how-do-you-log-in-on-windows/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 [<img class="aligncenter size-medium wp-image-4064" alt="AWS_setup_1" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/AWSsetup1-223x300.jpg" width="223" height="300" />][1]Despite the tutorial on Amazon&#8217;s website, I still found this pretty confusing the first time around. While drawing this diagram, I realized the order I remembered learning these steps was no longer the order a new user would encounter them. After creating new key pairs and instances to check, my initial blobs needed to be re-ordered (dotted lines)&#8230;
 

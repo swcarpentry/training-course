@@ -4,7 +4,6 @@ author: Karthik Ram
 permalink: /2013/02/mastery-table-version-control/
 categories:
   - Proficiency
-  - Round 03/2
 ---
 # What does a novice know coming in (including misconceptions!)
 

@@ -4,7 +4,6 @@ author: Cody Hinchliff
 permalink: /2014/10/assessment-python-functions-3/
 categories:
   - Assessment
-  - Round 11/3
 ---
 I chose to use the discussion of Python functions for my assessments exercise.
 

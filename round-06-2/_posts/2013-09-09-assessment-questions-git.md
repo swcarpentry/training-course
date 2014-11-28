@@ -4,7 +4,6 @@ author: Cam Macdonell
 permalink: /2013/09/assessment-questions-git/
 categories:
   - Assessment
-  - Round 06/2
 ---
 Ugh, this was harder than I thought it would be.  Distinguishing between experts and novices after just 10 minutes based on the same material is challenging.
 

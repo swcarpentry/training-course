@@ -4,6 +4,5 @@ author: Helen Yezerets
 permalink: /2014/01/helen-yezerets/
 categories:
   - Biography
-  - Round 08/0
 ---
 I am web/database developer for Indiana University IT services with background in Neuropsychology. I develop and support software for collecting, storing and retrieving data for an international consortium with concentration on Fetal Alcohol Spectrum Disorder research. My primary interest is in database development, mostly Oracle and MS Access, and learning how to streamline and promote basic knowledge of database concepts and database programming. I program in PL/SQL, Perl, Java and VBA.

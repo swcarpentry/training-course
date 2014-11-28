@@ -6,7 +6,6 @@ categories:
   - Uncategorized
 tags:
   - Assesment
-  - Round 11/3
 ---
 1. Given that the home directory structure for the user Nikola is shown in the figure, and the output of the command :  
 $ pwd  

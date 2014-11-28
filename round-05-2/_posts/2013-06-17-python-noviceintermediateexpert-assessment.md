@@ -3,7 +3,6 @@ title: Python novice/intermediate/expert assessment
 author: Luke Lee
 permalink: /2013/06/python-noviceintermediateexpert-assessment/
 categories:
-  - Round 05/2
 ---
 Novice question:
 

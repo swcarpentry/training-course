@@ -4,7 +4,6 @@ author: Jonathan Gross
 permalink: /2014/09/concept-map-git-2-a-better-kind-of-backup/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 My topic consists of the points *Tracking Changes to Files *and *Changing a File* from the <a href="http://software-carpentry.org/v5/novice/git/01-backup.html" target="_blank">A Better Kind of Backup</a> lesson for version control.
 

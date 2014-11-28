@@ -4,7 +4,6 @@ author: Jeremy Metz
 permalink: /2014/09/concept-map-analysing-patient-data/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 Map describing concepts in http://software-carpentry.org/v5/novice/python/01-numpy.html
 

@@ -4,7 +4,6 @@ author: Joon Ro
 permalink: /2013/02/concept-map-path/
 categories:
   - Concept Map
-  - Round 03/1
 tags:
   - conceptual map
 ---

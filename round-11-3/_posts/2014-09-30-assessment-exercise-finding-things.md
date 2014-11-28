@@ -4,7 +4,6 @@ author: Kirill Palamartchouk
 permalink: /2014/09/assessment-exercise-finding-things/
 categories:
   - Assessment
-  - Round 11/3
 ---
 **1.**
 

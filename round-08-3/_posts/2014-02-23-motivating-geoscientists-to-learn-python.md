@@ -4,7 +4,6 @@ author: Matt Hall
 permalink: /2014/02/motivating-geoscientists-to-learn-python/
 categories:
   - Motivation
-  - Round 08/3
 ---
 I sat down to write and found I have 2 thoughts about motivation. Yes, two!
 

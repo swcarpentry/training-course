@@ -4,7 +4,6 @@ author: Cindee Madison
 permalink: /2013/04/assessment-questions-command-line-input/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 Assessment Questions based on (but not completely restricted to):
 

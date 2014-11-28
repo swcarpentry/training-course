@@ -4,7 +4,6 @@ author: Raniere Silva
 permalink: /2013/08/assessment-question-gnu-coreutils/
 categories:
   - Assessment
-  - Round 06/2
 ---
 I will keep the topic I choose for my concept map. GNU Coreutils.
 

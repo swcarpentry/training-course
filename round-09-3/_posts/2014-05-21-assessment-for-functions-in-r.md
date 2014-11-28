@@ -4,7 +4,6 @@ author: Catalina Anghel
 permalink: /2014/05/assessment-for-functions-in-r/
 categories:
   - Assessment
-  - Round 09/3
 ---
 * Short answer:
 

@@ -4,7 +4,6 @@ author: Luis Pedro Coelho
 permalink: /2014/01/a-motivation-to-learn-version-control/
 categories:
   - Motivation
-  - Round 07/5
 ---
 This is my motivational story to use version control (I do not have yet a story of when I was not motivated to learn in mind, so I will post that one later).
 

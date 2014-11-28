@@ -4,7 +4,6 @@ author: Simon Michnowicz
 permalink: /2014/05/motivational-video-for-regular-expressions/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 The URL for a Motivational Video for Regular Expressions is:

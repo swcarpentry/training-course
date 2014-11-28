@@ -4,7 +4,6 @@ author: Lauren Michael
 permalink: /2014/10/assessment-2/
 categories:
   - Assessment
-  - Round 11/3
 ---
 Pertaining to the [Files and Directories][1] section of [Unix Shell][2].
 

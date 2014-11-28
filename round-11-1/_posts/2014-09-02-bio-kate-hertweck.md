@@ -4,7 +4,6 @@ author: Kate Hertweck
 permalink: /2014/09/bio-kate-hertweck/
 categories:
   - Biography
-  - Round 11/1
 ---
 I am no stranger to Software Carpentry; rather, I&#8217;d say I&#8217;m quite the fan! While a postdoc at NESCent, I attended Bootcamp at U of North Carolina in fall 2012 and the first Data Carpentry last spring. My research focus is comparative genomics using next-generation sequencing data, but I&#8217;m broadly interested in comparative methods and novel analysis of large-scale datasets.
 

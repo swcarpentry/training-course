@@ -5,7 +5,6 @@ permalink: /2014/03/motivation-and-screencasts/
 categories:
   - Motivation
   - Round 08/3
-  - Round 08/4
   - Video
 ---
 **Notes:**

@@ -4,7 +4,6 @@ author: Ben Waugh
 permalink: /2012/09/motivation-2/
 categories:
   - Motivation
-  - Round 01/2
 ---
 ## Motivation and Software Carpentry {#MotivationandSoftwareCarpentry}
 

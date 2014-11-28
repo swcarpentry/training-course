@@ -3,7 +3,6 @@ title: 'MC: Regression (again!)'
 author: Chris Holdgraf
 permalink: /2013/06/mc-regression-again/
 categories:
-  - Round 05/2
 ---
 <div>
   <b>Novice vs. Intermediate</b>

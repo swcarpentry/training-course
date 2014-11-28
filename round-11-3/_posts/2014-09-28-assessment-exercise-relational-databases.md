@@ -4,7 +4,6 @@ author: Roman Valls
 permalink: /2014/09/assessment-exercise-relational-databases/
 categories:
   - Assessment
-  - Round 11/3
   - SQL
   - Teaching
 ---

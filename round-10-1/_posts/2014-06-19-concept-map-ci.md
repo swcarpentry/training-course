@@ -4,7 +4,6 @@ author: Luiz Irber
 permalink: /2014/06/concept-map-ci/
 categories:
   - Concept Map
-  - Round 10/1
 ---
 What is continuous integration? Just a high level view of the basic workflow.
 

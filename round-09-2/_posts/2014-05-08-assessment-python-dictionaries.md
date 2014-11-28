@@ -4,7 +4,6 @@ author: Christian Jacobs
 permalink: /2014/05/assessment-python-dictionaries/
 categories:
   - Assessment
-  - Round 09/2
 ---
 I have written two multiple choice questions (MCQs) about Python dictionaries. Some of the key concepts associated with Python dictionaries are given in the <a title="Concept map for Python dictionaries" href="http://teaching.software-carpentry.org/2014/04/30/concept-map-for-python-dictionaries/" target="_blank">excellent concept map by Jeremiah Lant</a>.
 

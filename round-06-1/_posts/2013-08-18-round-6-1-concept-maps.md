@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2013/08/round-6-1-concept-maps/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 Our sixth cohort had their first meeting on August 15; more than two dozen people attended the two meetings combined from as far away as Poland, Singapore, Brazil, New Zealand, and Oklahoma. We discussed the goals for the course, and set the stage by exploring the key cognitive distinctions between novices, competent practitioners, and experts (see below the fold for a complete transcript of the Etherpad session).
 

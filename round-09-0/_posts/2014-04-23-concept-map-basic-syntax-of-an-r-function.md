@@ -4,7 +4,6 @@ author: Jeff Hollister
 permalink: /2014/04/concept-map-basic-syntax-of-an-r-function/
 categories:
   - Concept Map
-  - Round 09/0
 ---
 When teaching novice users R, I find that they get hung up with the basic syntax(i.e. causes the most frustration and most interested in learning). Seems that providing a basic understanding of R syntax up front could defuse some of the issues later on. Perhaps more importantly, it will allow them to begin to decipher the R help pages  a bit sooner.
 

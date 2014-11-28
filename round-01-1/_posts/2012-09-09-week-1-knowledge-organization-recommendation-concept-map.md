@@ -4,7 +4,6 @@ author: Lynne Williams
 permalink: /2012/09/week-1-knowledge-organization-recommendation-concept-map/
 categories:
   - Concept Map
-  - Round 01/1
 ---
 <figure id="attachment_256" style="width: 707px;" class="wp-caption alignnone">[<img class="size-large wp-image-256" title="Recommendations_conceptmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/Recommendations_conceptmap-1024x285.png" alt="" width="707" height="196" />][1]<figcaption class="wp-caption-text">Concept Map for Matrices: Recommendations</figcaption></figure> 
 Here is my concept map for making recommendations. I didn&#8217;t include code because (1) I tried to focus on the connections between the elements needed to create recommendations, and (2) the python code for doing this is already well outlined in the Matrix:Recommendations section of the Software Carpentry Tutorials.

@@ -3,7 +3,6 @@ title: Reflections on the course
 author: April Wright
 permalink: /2013/06/reflections-on-the-course/
 categories:
-  - Round 04/5
 ---
 I&#8217;m a big fan of courses overall. And this was a particularly good one. It&#8217;s easy to get into a mode of &#8220;this works well enough&#8221; with teaching. I think being forced to confront the evidence of how to teach is very, very useful. I&#8217;m an academic; I&#8217;ll probably never not teach.
 

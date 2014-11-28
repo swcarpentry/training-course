@@ -4,7 +4,6 @@ author: Stefan Pfenninger
 permalink: /2014/05/concept-map-while-loop-2/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 An attempt at a \`while loop\` concept map. One thing that it probably doesn&#8217;t make clear is the pre-test nature of the condition.
 

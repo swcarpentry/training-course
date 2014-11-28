@@ -4,7 +4,6 @@ author: Patrick Marsh
 permalink: /2013/08/concept-map-readingparsing-a-csv-file-in-python-take-2/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 I&#8217;ll say that this was definitely more difficult than I thought it would be&#8230;especially just trying to decide how to come up with something that wasn&#8217;t a) already taken and b) not going to end up in a winding mess.
 

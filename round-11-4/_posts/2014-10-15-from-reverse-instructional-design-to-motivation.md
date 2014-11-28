@@ -5,7 +5,6 @@ permalink: /2014/10/from-reverse-instructional-design-to-motivation/
 categories:
   - Motivation
   - Round 11/3
-  - Round 11/4
 ---
 My apologies for being so slow to get this out &#8211; a combination of Canadian Thanksgiving and a bad cold. The current assignment has three parts:
 

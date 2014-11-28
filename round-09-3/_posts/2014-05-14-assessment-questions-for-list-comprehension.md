@@ -4,7 +4,6 @@ author: Stefan Pfenninger
 permalink: /2014/05/assessment-questions-for-list-comprehension/
 categories:
   - Assessment
-  - Round 09/3
 ---
 Assessment questions for the [list comprehension concept map][1].
 

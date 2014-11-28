@@ -4,7 +4,6 @@ author: Ethan White
 permalink: /2013/01/extracting-data-using-regular-expressions-the-shell-and-version-control/
 categories:
   - Connections
-  - Round 02/3
   - Teaching
 ---
 Research in my lab often requires acquiring and cleaning up other people&#8217;s data. One of the most difficult forms of data to work with is data stored in PDFs. On a recent project a graduate student was trying to extract a list of species names from a list in a PDF.

@@ -4,7 +4,6 @@ author: Ethan White
 permalink: /2012/11/round-2-1-writing-a-unit-test/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 Concept Map:
 

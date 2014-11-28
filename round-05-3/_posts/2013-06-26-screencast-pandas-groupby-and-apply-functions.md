@@ -4,7 +4,6 @@ author: Martin Schilling
 permalink: /2013/06/screencast-pandas-groupby-and-apply-functions/
 categories:
   - Python
-  - Round 05/3
 ---
 Initially, I was thinking about using a problem that I had been working on recently, where I have a GBS(genotyping-by-sequencing)- pd.DataFrame with 160,000+ SNPs (rows) and 150 individuals from different populations (cols) and their respective genotype (like, for example A/A, A/T or N) in cells. I created a pd.groupby-object, which groups the data according to populations (using re.match on the pop_names).  
 Then, I can calculate all kinds of functions for each population and locus. In this case, I did calculate Hardy-Weinberg-Equilibrium to get a picture about population differentiation (I wasn&#8217;t really interested in HWE-estimates themselves). 

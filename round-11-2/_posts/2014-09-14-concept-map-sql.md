@@ -4,7 +4,6 @@ author: Roberto Vitillo
 permalink: /2014/09/concept-map-sql/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 Once the main concept behind SQL is grasped, that of relational **algebra**, picking up a tutorial and learning to write simple queries should be rather trivial. Depending on the audience, with only 5 minutes time I would probably further reduce the number of operators introduced.
 

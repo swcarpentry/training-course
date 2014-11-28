@@ -4,7 +4,6 @@ author: "Steven 'Kreuvf' Koenig"
 permalink: /2013/04/assessment-questions-permissions/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 ##### Distinguishing Novice From Competent Practitioner
 

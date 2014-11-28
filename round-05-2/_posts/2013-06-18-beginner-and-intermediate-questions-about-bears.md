@@ -3,7 +3,6 @@ title: Beginner and Intermediate questions about bears!
 author: Kirsten Fagnan
 permalink: /2013/06/beginner-and-intermediate-questions-about-bears/
 categories:
-  - Round 05/2
 ---
 I decided to post some fun questions about bears&#8230; since the questions could be on any topic.  Note: I am not an expert on bears, but I do love pandas.
 

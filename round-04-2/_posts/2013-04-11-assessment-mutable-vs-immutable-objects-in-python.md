@@ -4,7 +4,6 @@ author: Matt Terry
 permalink: /2013/04/assessment-mutable-vs-immutable-objects-in-python/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 This is in response to [this][1] concept map on mutable vs immutable object in Python.
 

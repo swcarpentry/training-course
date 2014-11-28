@@ -4,7 +4,6 @@ author: David Kua
 permalink: /2014/07/demotivation-saturday-class/
 categories:
   - Motivation
-  - Round 10/2
 ---
 Being the children of Chinese immigrants, my sisters and I had to attend Saturday morning Cantonese classes. Just having to attend the classes were demotivating to us because we only went because we **must do it**. As children we hated it because it was extra schooling and most importantly we were missing on our favourite Saturday morning cartoons.
 

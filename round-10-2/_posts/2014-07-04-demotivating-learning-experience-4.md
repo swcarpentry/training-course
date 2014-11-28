@@ -4,7 +4,6 @@ author: Tom
 permalink: /2014/07/demotivating-learning-experience-4/
 categories:
   - Motivation
-  - Round 10/2
 ---
 I was going to write about I time I was demotivated myself, there have certainly been enough of those. However, since I am certainly not free of sin, I thought it would be easier to write about a time I failed as a teacher.
 

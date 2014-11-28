@@ -4,7 +4,6 @@ author: Francisco Palm
 permalink: /2014/08/reverse-instructional-design-python-generators/
 categories:
   - Assessment
-  - Round 10/3
 tags:
   - generators
   - Python

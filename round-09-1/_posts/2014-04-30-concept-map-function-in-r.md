@@ -4,7 +4,6 @@ author: Catalina Anghel
 permalink: /2014/04/concept-map-function-in-r/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 ![][1]I think I was thinking more about how I would teach it than the concepts that go into what a function is.  And it&#8217;s really unpolished, as required!!  <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />
 

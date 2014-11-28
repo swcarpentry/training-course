@@ -5,7 +5,6 @@ permalink: /2014/05/assessment-for-python-dictionaries-3/
 categories:
   - Assessment
   - Concept Map
-  - Round 09/3
 ---
 Questions for Jeremiah&#8217;s [concept map][1] on python dictionaries.
 

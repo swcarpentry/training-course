@@ -4,7 +4,6 @@ author: Russell Alleen-Willems
 permalink: /2014/05/assessment-questions-for-basic-loop-structures/
 categories:
   - Assessment
-  - Round 09/3
 ---
 These questions assess understanding of the basic loop structres, as outlined in &#8220;[Concept Map – Loops by Isabel Fenton][1]&#8221;
 

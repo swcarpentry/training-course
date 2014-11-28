@@ -4,7 +4,6 @@ author: Matthew Shirley
 permalink: /2014/09/concept-map-install-unix-programs/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 Second attempt. Thanks for the feedback, Greg.
 

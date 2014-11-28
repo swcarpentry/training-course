@@ -4,7 +4,6 @@ author: Jessica Hamrick
 permalink: /2013/06/python-functions-vs-methods/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 You are working on a project with your labmate, who wrote some modeling code:
 

@@ -4,7 +4,6 @@ author: David Jones
 permalink: /2013/02/mastering-someone-elses-program/
 categories:
   - Proficiency
-  - Round 03/2
 ---
 The date for this one totally passed me be. Sorry.
 

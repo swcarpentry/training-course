@@ -3,7 +3,6 @@ title: 'Screencast &#8211; fixing database entries in Rails using rake'
 author: Philipp Bayer
 permalink: /2013/06/screencast-fixing-database-entries-in-rails-using-rake/
 categories:
-  - Round 05/3
 ---
 at openSNP we&#8217;ve got some old SNPs in the database that have a linebreak in their position, for example: &#8220;42184912n&#8221;. For the screencast, I thought of writing a tiny Rake-task that iterates over all SNPs and fixes their position.
 

@@ -4,7 +4,6 @@ author: Atul Varma
 permalink: /2014/02/mcq-relative-paths-and-urls/
 categories:
   - Assessment
-  - Round 08/2
 ---
 This is assuming a student who has minimal experience with the command-line, and moderate experience writing standalone HTML+CSS webpages that only contain links to absolute URLs. In other words, the learner doesn&#8217;t know how relative paths or URLs work.
 

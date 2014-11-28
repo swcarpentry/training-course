@@ -4,7 +4,6 @@ author: Andy Teucher
 permalink: /2014/09/concept-map-shell/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 I decided to go fairly basic and do the shell. Two things I found tricky: Not making it into a flowchart (not sure if I succeeded), and integrating the pipe. Looking forward to hearing other peoples comments and suggestions.
 

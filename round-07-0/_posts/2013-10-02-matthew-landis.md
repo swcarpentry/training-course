@@ -4,6 +4,5 @@ author: Matt Landis
 permalink: /2013/10/matthew-landis/
 categories:
   - Biography
-  - Round 07/0
 ---
 I have a Ph.D. in Ecology, but now I&#8217;m a geographer with a small consulting company (www.isciences.com) where I work at the interface between environmental issues and society, especially with regard to water and climate change.  I also teach a course on visualizing data at Middlebury College in Vermont, USA.  I am a self-taught programmer and I use R and Python daily.

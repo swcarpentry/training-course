@@ -4,7 +4,6 @@ author: Ted Kirkpatrick
 permalink: /2013/06/passing-by-reference-and-by-value-in-python/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 Consider the variable `a = [1,2,3]` in Python.
 

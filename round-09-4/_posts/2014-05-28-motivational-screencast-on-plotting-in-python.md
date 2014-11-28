@@ -4,7 +4,6 @@ author: Jeremiah Lant
 permalink: /2014/05/motivational-screencast-on-plotting-in-python/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 Here is my [motivational screencast on plotting in Python][1].

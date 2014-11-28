@@ -3,7 +3,6 @@ title: 'Screencast: formatting e-mail addresses using Vim'
 author: Shoaib Sufi
 permalink: /2013/07/screencast-formatting-e-mail-addresses-using-vim/
 categories:
-  - Round 05/3
   - Video
 ---
 I originally said that I would do a video on XML debugging ([teaching.software-carpentry.org/2013/06/28/screencast-xml-debugging][1]), however the motivating example that I was going to use I was not able to find/remember properly, it was something I did some years ago. So I chose something from my day to day work which is not so much scientific as more business oriented but I hope it illustrates how Vim can help with formatting data on the fly; this which can be useful exploratory work (e.g. making outputs of data from one tool work as inputs into another tool).

@@ -4,7 +4,6 @@ author: Benjamin Bradshaw
 permalink: /2014/02/python-equality-vs-identity/
 categories:
   - Assessment
-  - Round 08/2
 ---
 **Assessment:**
 

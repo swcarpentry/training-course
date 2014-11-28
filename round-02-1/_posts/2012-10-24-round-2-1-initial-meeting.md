@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2012/10/round-2-1-initial-meeting/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 Main text is *How Learning Works* <http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/>
 

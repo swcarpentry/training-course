@@ -4,7 +4,6 @@ author: Mark Stillwell
 permalink: /2014/06/motivation-video-for-vagrant/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 This is too long, I know. After some complaints that people were having trouble with the archive.org embedding I decided to try youtube. Hope it works better now.

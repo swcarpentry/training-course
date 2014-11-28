@@ -4,7 +4,6 @@ author: Markus Binsteiner
 permalink: /2013/05/markus-binsteiner/
 categories:
   - Biography
-  - Round 05/0
 ---
 Hi.
 

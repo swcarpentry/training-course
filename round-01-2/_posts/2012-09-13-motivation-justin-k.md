@@ -4,7 +4,6 @@ author: Justin Kitzes
 permalink: /2012/09/motivation-justin-k/
 categories:
   - Motivation
-  - Round 01/2
 ---
 ## Motivating
 

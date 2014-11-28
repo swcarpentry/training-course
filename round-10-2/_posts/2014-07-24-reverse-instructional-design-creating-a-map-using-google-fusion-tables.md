@@ -4,7 +4,6 @@ author: Catherine McGoveran
 permalink: /2014/07/reverse-instructional-design-creating-a-map-using-google-fusion-tables/
 categories:
   - Assessment
-  - Round 10/2
 ---
 **Question 1:**  
 You’re working with an open dataset from the City of Ottawa and you want to map the data to city wards using Google Fusion Tables. To do this, you’ll have to merge the open dataset with the spatial data representing the shape of each ward. Which of the following is *not* a requirement to successfully merge the two files into one fusion table?  

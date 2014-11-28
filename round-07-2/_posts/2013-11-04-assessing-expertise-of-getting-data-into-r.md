@@ -4,7 +4,6 @@ author: Daniel Hocking
 permalink: /2013/11/assessing-expertise-of-getting-data-into-r/
 categories:
   - Assessment
-  - Round 07/2
 ---
 These questions will be designed to assess the ability of people to get data into R from .txt or .csv files and distinguish novice from expert. The second question would give away the answer to the first potentially, so I would use them in-class with clickers sequentially or online without the option to go back to the previous question.
 

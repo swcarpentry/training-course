@@ -4,7 +4,6 @@ author: Mark Wilber
 permalink: /2014/05/motivation-for-python-functions/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 [Here][1] is my attempt at motivating Python functions&#8230;

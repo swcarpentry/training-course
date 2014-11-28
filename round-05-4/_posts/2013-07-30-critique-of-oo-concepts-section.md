@@ -3,7 +3,6 @@ title: critique of OO concepts section
 author: Preston Holmes
 permalink: /2013/07/critique-of-oo-concepts-section/
 categories:
-  - Round 05/4
 ---
 See this post with clipped images [here][1]
 

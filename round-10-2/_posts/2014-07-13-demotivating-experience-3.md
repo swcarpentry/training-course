@@ -5,7 +5,6 @@ permalink: /2014/07/demotivating-experience-3/
 categories:
   - Biography
   - Motivation
-  - Round 10/2
 ---
 I was in elementary. So I liked a lot to sing and I was informed about an audition to join school&#8217;s choir. I was really eager to be part of the choir, and due to that I was very nervous. The test was very quick, without much explanation had to repeat some vocal tones, and the nerves left me almost left me speechless. After two attempts I was rapidly rejected.
 

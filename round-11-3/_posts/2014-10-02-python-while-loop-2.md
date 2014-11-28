@@ -4,7 +4,6 @@ author: Asela Wijeratne
 permalink: /2014/10/python-while-loop-2/
 categories:
   - Assessment
-  - Round 11/3
 ---
 Q1:
 

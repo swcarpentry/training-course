@@ -4,7 +4,6 @@ author: Matt Hall
 permalink: /2014/01/concept-map-find-and-replace-in-python/
 categories:
   - Concept Map
-  - Round 08/1
 tags:
   - Python
   - Regex

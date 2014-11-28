@@ -4,7 +4,6 @@ author: Christian Jacobs
 permalink: /2014/05/motivation-python-dictionaries/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 <span style="text-decoration: underline;">Part 1: Screencast</span>  

@@ -4,7 +4,6 @@ author: Stuart Charters
 permalink: /2013/05/concept-map-python-loop-control/
 categories:
   - Concept Map
-  - Round 05/1
 ---
 [<img class="alignnone size-large wp-image-2887" alt="pythonconceptmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/05/pythonconceptmap-724x1024.jpg" width="707" height="999" />][1]
 

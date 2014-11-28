@@ -4,7 +4,6 @@ author: David Schryer
 permalink: /2014/02/motivating-molecular-biologists-to-develop-computational-skills/
 categories:
   - Motivation
-  - Round 08/3
 ---
 ## Summary:
 

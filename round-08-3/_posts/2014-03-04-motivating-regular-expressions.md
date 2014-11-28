@@ -4,7 +4,6 @@ author: Benjamin Bradshaw
 permalink: /2014/03/motivating-regular-expressions/
 categories:
   - Motivation
-  - Round 08/3
 ---
 Regular expressions are a difficult sell.  Not only does the typical &#8220;elevator pitch&#8221; description of them (&#8220;it&#8217;s like search and replace, but better!&#8221;) fail to capture how profoundly many day to day situations can benefit from regular expression knowledge, but the syntax is &#8212; to be very kind&#8211; unforgiving and baffling to novices.  It is undoubtedly on the level of [Randomo][1].  I suppose my story then is a fairly typical situation for regular expressions.
 

@@ -3,7 +3,6 @@ title: Critique on the lesson on Python
 author: Ivan Gonzalez
 permalink: /2013/07/critique-on-the-lesson-on-python/
 categories:
-  - Round 05/4
 ---
 I’m reviewing the lesson on Python. I’m going to talk first about my opinion on the lesson overall, and then go to each of the chapters.
 

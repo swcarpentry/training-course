@@ -4,7 +4,6 @@ author: Sarah Simpkin
 permalink: /2014/07/reverse-instructional-design-escape-sequences/
 categories:
   - Assessment
-  - Round 10/2
 ---
 *This assessment would be given after introducing the concept of escape sequences.*
 

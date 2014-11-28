@@ -4,7 +4,6 @@ author: Kate Hertweck
 permalink: /2014/09/assessment-pipes-and-filters/
 categories:
   - Assessment
-  - Round 11/3
 ---
 From lesson here: http://software-carpentry.org/v5/novice/shell/03-pipefilter.html
 

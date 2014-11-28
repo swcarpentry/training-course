@@ -3,7 +3,6 @@ title: 'Screencast: ssh-keygen'
 author: Camille Avestruz
 permalink: /2013/10/screencast-ssh-keygen/
 categories:
-  - Round 06/3
   - Video
 ---
 Hi all,

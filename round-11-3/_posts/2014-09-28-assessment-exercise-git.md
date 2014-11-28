@@ -4,7 +4,6 @@ author: Radovan Bast
 permalink: /2014/09/assessment-exercise-git/
 categories:
   - Assessment
-  - Round 11/3
 ---
 **1. What is the correct Git command to undo uncommitted changes to the tracked file sort.py?**
 

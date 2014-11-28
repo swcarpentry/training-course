@@ -6,7 +6,6 @@ categories:
   - Concept Map
   - Motivation
   - Round 10/1
-  - Round 10/2
 ---
 Group 10 had its second meeting yesterday, during which we looked at [lots of interesting concept maps][1] and talked a bit about motivation—or rather, about the importance not demotivating our learners. For our next meeting, I&#8217;ve asked everyone to:
 

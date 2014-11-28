@@ -6,7 +6,6 @@ categories:
   - Assessment
   - Concept Map
   - perl
-  - Round 09/2
 ---
 Given the Perl array:  
 `my @fruits = ('apple', 'pear', 'peach', 'orange', 'pineapple', 'persimmon');`

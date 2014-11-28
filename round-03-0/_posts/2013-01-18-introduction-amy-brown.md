@@ -4,7 +4,6 @@ author: Amy Brown
 permalink: /2013/01/introduction-amy-brown/
 categories:
   - Biography
-  - Round 03/0
 ---
 I&#8217;m definitely the odd one out in this study group, but I suppose it&#8217;s only fair to introduce myself if I&#8217;m going to be participating.
 

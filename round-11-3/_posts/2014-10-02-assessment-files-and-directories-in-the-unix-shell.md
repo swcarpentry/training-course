@@ -6,7 +6,6 @@ categories:
   - Uncategorized
 tags:
   - Assessment
-  - Round 11/3
 ---
 <img class="alignnone" alt="" src="http://software-carpentry.org/v5/novice/shell/img/filesystem-challenge.svg" width="523" height="332" />
 

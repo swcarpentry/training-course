@@ -5,7 +5,6 @@ permalink: /2014/10/demotivation-or-the-story-of-how-i-quit-academia/
 categories:
   - Assessment
   - Motivation
-  - Round 11/4
 ---
 I was finishing my BSc in biology (with a strong bias towards cellular biology and physiology), and I had decided a few months ago that I wanted to switch fields a bit, to do more ecology and evolution. I applied for one particular program somewhere in France, that had all of the elements I wanted: broad overview of the field, good reputation, possibility to pick from a lot of classes.
 

@@ -3,7 +3,6 @@ title: Reflections on the SWC course and teaching a SWC workshop
 author: Randy Olson
 permalink: /2013/06/reflections-on-the-swc-course-and-teaching-a-swc-workshop/
 categories:
-  - Round 04/5
 ---
 ## Reflections on the SWC course
 

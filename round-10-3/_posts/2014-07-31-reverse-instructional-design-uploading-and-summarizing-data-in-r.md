@@ -4,7 +4,6 @@ author: Chelsea Chisholm
 permalink: /2014/07/reverse-instructional-design-uploading-and-summarizing-data-in-r/
 categories:
   - Assessment
-  - Round 10/3
 ---
 These questions follow an introductory lesson to uploading and manipulation of data in R (an intro to using R workshop).
 

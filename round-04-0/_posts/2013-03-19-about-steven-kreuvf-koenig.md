@@ -4,7 +4,6 @@ author: "Steven 'Kreuvf' Koenig"
 permalink: /2013/03/about-steven-kreuvf-koenig/
 categories:
   - Biography
-  - Round 04/0
 ---
 My name is Steven Koenig &ndash; on the internet I am generally known as &#8216;Kreuvf&#8217; &ndash; and I started work on my **PhD** at Technische Universität München in **May 2012**. I am investigating **biopolymer production from renewable resources** and currently I am confronted with analysing **NGS and HTS data**.
 

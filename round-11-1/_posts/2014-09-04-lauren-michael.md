@@ -4,7 +4,6 @@ author: Lauren Michael
 permalink: /2014/09/lauren-michael/
 categories:
   - Biography
-  - Round 11/1
 ---
 I am a research computing facilitator at UW-Madison, which means that my job is to help researchers to navigate the compute and other IT-related services available on our large campus. While I primarily help researchers to make the transition to large-scale computing systems at our campus compute center, I also serve a major role in helping various IT service providers to collaborate on and improve research services related to data management/storage, skills training, networking, etc.
 

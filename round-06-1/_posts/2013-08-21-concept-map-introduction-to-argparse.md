@@ -4,7 +4,6 @@ author: Rachel Anderson
 permalink: /2013/08/concept-map-introduction-to-argparse/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 [<img class="size-medium wp-image-4018 aligncenter" alt="argparse" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/argparse-300x231.png" width="300" height="231" />][1]
 

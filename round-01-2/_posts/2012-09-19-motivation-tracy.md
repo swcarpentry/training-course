@@ -4,7 +4,6 @@ author: Tracy Teal
 permalink: /2012/09/motivation-tracy/
 categories:
   - Motivation
-  - Round 01/2
 ---
 **Motivation:**
 

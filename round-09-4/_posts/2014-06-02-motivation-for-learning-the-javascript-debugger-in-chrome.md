@@ -4,7 +4,6 @@ author: Dav Clark
 permalink: /2014/06/motivation-for-learning-the-javascript-debugger-in-chrome/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 Unfortunately, I missed last week, and while I think the video is OK, it&#8217;s 1) too long and 2) a bit off-mark for motivational. The focus is more on the demo. That said, I think it does a credible job of showing how the Chrome debugger could make your life easier in the face of understanding the complexity of browser-side programming. And, I&#8217;ve spent more time on this than I really have to spend already&#8230;

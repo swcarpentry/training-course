@@ -4,7 +4,6 @@ author: Kwasi Kwakwa
 permalink: /2013/02/concept-map-shell-variables/
 categories:
   - Concept Map
-  - Round 03/1
 ---
 &nbsp;
 

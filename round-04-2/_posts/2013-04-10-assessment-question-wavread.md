@@ -4,7 +4,6 @@ author: Daniel McCloy
 permalink: /2013/04/assessment-question-wavread/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 Based on [the concept map by Bogdan][1] about wavread() in the python module scikits.audiolab.  The concept map clearly specifies what is background knowledge, so I&#8217;m assuming even the novices in this lesson would have a basic grasp of Python modules, functions, and arrays.  Thus I&#8217;m approaching this as a question about novice / competent / expert with respect to the concepts that are specific to digital audio (i.e., sampling rate, bit depth, encoding, etc).
 

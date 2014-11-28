@@ -3,7 +3,6 @@ title: 'Round 2.2: Short teaching video on level and game environments.'
 author: Oliver Szymanezyk
 permalink: /2012/12/short-teaching-video-on-level-and-game-environments/
 categories:
-  - Round 02/2
   - Video
 ---
 I recently recorded myself delivering a short presentation and tutorial session about video game level design. The presentation was given at a session hosted by the ULCS (University of Lincoln Computing Society), who invited me as a guest speaker as part of their sessions on game development.

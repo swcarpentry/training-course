@@ -4,7 +4,6 @@ author: Cam Macdonell
 permalink: /2013/08/concept-map-git-commits/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 &nbsp;
 

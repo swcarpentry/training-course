@@ -4,7 +4,6 @@ author: Neem Serra
 permalink: /2014/02/motivation-teaching-a-basic-intro-level-programming-workshop/
 categories:
   - Motivation
-  - Round 08/3
 ---
 Summary:
 

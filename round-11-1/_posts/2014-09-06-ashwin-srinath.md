@@ -4,7 +4,6 @@ author: Ashwin Srinath
 permalink: /2014/09/ashwin-srinath/
 categories:
   - Biography
-  - Round 11/1
 ---
 I am a Master&#8217;s student at Clemson University, South Carolina, and I&#8217;m a researcher in high performance computational fluid dynamics. I also teach programming to undergraduate and graduate students, typically in short, one-off sessions. Before Software Carpentry, I used *ad hoc* teaching methods&#8212;and materials&#8212;that were somewhat arbitrary, seemingly with some success.
 

@@ -4,7 +4,6 @@ author: Jon Duncan
 permalink: /2014/05/assessment-questions-for-concept-map-on-basic-syntax-of-an-r-function/
 categories:
   - Assessment
-  - Round 09/3
 ---
 1. What does the following function
 

@@ -4,7 +4,6 @@ author: John Corless
 permalink: /2013/10/concept-map-read-binary-data-into-numpy/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 &nbsp;
 

@@ -4,7 +4,6 @@ author: Jeremiah Lant
 permalink: /2014/05/assessment-questions-for-regular-expressions/
 categories:
   - Assessment
-  - Round 09/2
 ---
 The following are assessment questions for the [concept map for regular expressions by Shyam Rallapalli][1]
 

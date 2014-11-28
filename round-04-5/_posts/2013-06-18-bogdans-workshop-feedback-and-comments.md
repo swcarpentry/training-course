@@ -3,7 +3,6 @@ title: 'Bogdan&#8217;s Workshop Feedback and Comments'
 author: Bogdan Vera
 permalink: /2013/06/bogdans-workshop-feedback-and-comments/
 categories:
-  - Round 04/5
 ---
 I&#8217;m going to post feedback here as it arrives (I asked everyone to send by e-mail as many of them had to leave at the end of the seminar).
 

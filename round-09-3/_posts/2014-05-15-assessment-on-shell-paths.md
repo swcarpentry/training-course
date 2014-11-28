@@ -4,7 +4,6 @@ author: Jacob Levernier
 permalink: /2014/05/assessment-on-shell-paths/
 categories:
   - Assessment
-  - Round 09/3
 ---
 These questions are based on Devasena&#8217;s [map on shell paths][1].
 

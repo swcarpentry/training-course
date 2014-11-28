@@ -4,7 +4,6 @@ author: Mark Wilber
 permalink: /2014/05/assessment-for-python-functions/
 categories:
   - Assessment
-  - Round 09/1
 ---
 Based on [this][1] concept map discussing functions.
 

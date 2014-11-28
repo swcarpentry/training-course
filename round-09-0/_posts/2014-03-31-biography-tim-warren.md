@@ -4,7 +4,6 @@ author: Timothy Warren
 permalink: /2014/03/biography-tim-warren/
 categories:
   - Biography
-  - Round 09/0
 ---
 I am a postdoc in biology at University of Washington. I study the neural mechanisms that underlie animal behavior. My current research investigates how flies navigate using celestial cues. In my PhD work, I studied how songbirds maintain and modify their song.
 

@@ -4,7 +4,6 @@ author: Sean Dawson
 permalink: /2013/11/assessment-questions-python-sets/
 categories:
   - Assessment
-  - Round 07/2
 ---
 **What is the value of *mystery* after this statement?**  
 `<br />

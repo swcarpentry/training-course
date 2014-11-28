@@ -4,7 +4,6 @@ author: Ariel Rokem
 permalink: /2012/10/round-2-1-explaining-assert/
 categories:
   - Concept Map
-  - Round 02/1
 ---
 The python &#8216;assert&#8217; statement can be used to verify that something is true. More accurately, that some python expression evaluates to &#8220;True&#8221;.
 

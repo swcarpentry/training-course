@@ -4,7 +4,6 @@ author: Jonathan Frederic
 permalink: /2014/05/assessment-for-list-comprehensions/
 categories:
   - Assessment
-  - Round 09/2
 ---
 \# List comprehension assesment
 

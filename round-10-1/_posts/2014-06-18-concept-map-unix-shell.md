@@ -4,7 +4,6 @@ author: Jeff Walton
 permalink: /2014/06/concept-map-unix-shell/
 categories:
   - Concept Map
-  - Round 10/1
 ---
 &nbsp;
 

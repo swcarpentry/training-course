@@ -4,7 +4,6 @@ author: Ted Hart
 permalink: /2013/02/ted-multiple-choice/
 categories:
   - Proficiency
-  - Round 02/4
 ---
 Here are a couple of multiple choice questions
 

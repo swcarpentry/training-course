@@ -4,7 +4,6 @@ author: Samuel Thomson
 permalink: /2013/10/multiple-choice-questions-manipulating-python-lists/
 categories:
   - Assessment
-  - Round 07/2
 ---
 **A) Competent from Novice:**
 

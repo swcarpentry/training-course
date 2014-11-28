@@ -4,7 +4,6 @@ author: Heather Gunning
 permalink: /2014/09/assessment/
 categories:
   - Assessment
-  - Round 11/3
 ---
 In a directory I have the following files with Messier object (M) data and NGC data. Any data which has been altered is marked with an &#8216;a&#8217;.  
 M01.txt  

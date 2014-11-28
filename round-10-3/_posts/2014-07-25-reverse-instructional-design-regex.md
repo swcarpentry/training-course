@@ -4,7 +4,6 @@ author: Daisie Huang
 permalink: /2014/07/reverse-instructional-design-regex/
 categories:
   - Assessment
-  - Round 10/3
 ---
 This would be following a lesson on regex (using perl syntax)
 

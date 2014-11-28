@@ -4,7 +4,6 @@ author: Matthias Bussonnier
 permalink: /2014/02/mcq-ipython-explicit-display-vs-displayhook-on-output/
 categories:
   - Assessment
-  - Round 08/2
 ---
 Goal : differentiate between displaying an rich object / returning a rich object as the last statement of a cell.  
 Also understand that constructor like `LaTeX(..) , Image(...), Html(...)` are convenience function that return object.

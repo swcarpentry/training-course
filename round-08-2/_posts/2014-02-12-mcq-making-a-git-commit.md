@@ -4,7 +4,6 @@ author: Jessica Hamrick
 permalink: /2014/02/mcq-making-a-git-commit/
 categories:
   - Assessment
-  - Round 08/2
 ---
 **Pre-assessment question:**
 

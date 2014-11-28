@@ -4,7 +4,6 @@ author: Maciej Czuchry
 permalink: /2014/07/assessment-pbs-system/
 categories:
   - Assessment
-  - Round 10/3
   - Uncategorized
 ---
 1. What command will you use to submit your PBS batch script ($SCRIPTNAME) with torque?

@@ -5,7 +5,6 @@ permalink: /2014/07/reverse-instructional-design-python-dictionaries/
 categories:
   - Assessment
   - Python
-  - Round 10/3
 ---
 **Multiple choice question:** Consider the following dictionary `dataset_metadata`:
 

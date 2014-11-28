@@ -4,7 +4,6 @@ author: Philipp Lies
 permalink: /2013/09/assessment-question-python-with-statement/
 categories:
   - Assessment
-  - Round 06/2
 ---
 Entry level:  
 You want to read data from a file. What&#8217;s the recommended way to do it:

@@ -4,7 +4,6 @@ author: Pauline Barmby
 permalink: /2014/02/excited-about-statistics-really/
 categories:
   - Motivation
-  - Round 07/5
 ---
 Yes, really.
 

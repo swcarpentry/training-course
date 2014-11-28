@@ -4,7 +4,6 @@ author: Evan Bianco
 permalink: /2014/02/build-confidence-with-domain-familiarity/
 categories:
   - Motivation
-  - Round 08/3
 ---
 <p dir="ltr">
   Diverging claims about what it means to be a programmer, developer, designer, hacker, and so on pulls uninitiated beginners in contrary directions.

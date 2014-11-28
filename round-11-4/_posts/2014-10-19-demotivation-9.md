@@ -4,7 +4,6 @@ author: Birgit Bachler
 permalink: /2014/10/demotivation-9/
 categories:
   - Motivation
-  - Round 11/4
 ---
 Before starting with art&design I studied 1 semester of telematics. I thought to tell why I was quitting this study, because often when I think back I&#8217;m wondering where I would be now, had I continued pursuing this career path.
 

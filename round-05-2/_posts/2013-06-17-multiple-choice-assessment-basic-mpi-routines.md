@@ -3,7 +3,6 @@ title: 'Multiple choice assessment:  Basic MPI routines.'
 author: Neal Davis
 permalink: /2013/06/multiple-choice-assessment-basic-mpi-routines/
 categories:
-  - Round 05/2
 ---
 **Novice/competent:**  
 Which of the following MPI subroutines can be used to distribute a single value from a specified processor rank to all other processors?  

@@ -4,7 +4,6 @@ author: Sheldon McKay
 permalink: /2014/02/mcq-unix-sort/
 categories:
   - Assessment
-  - Round 08/2
 ---
 Consider a tab delimited text file ***list.txt</b>*, containing the lines below:</p> 
 <pre>100     antelope

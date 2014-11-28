@@ -4,7 +4,6 @@ author: Bogdan Vera
 permalink: /2013/04/assessment-floating-point-representations/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 Interesting exercise, I seemed to have more trouble coming up with the simpler ones.
 

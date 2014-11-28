@@ -4,7 +4,6 @@ author: Ariel Rokem
 permalink: /2013/02/round-2-4-multiple-choice-questions/
 categories:
   - Proficiency
-  - Round 02/4
 ---
 Here are a couple of questions about basic numpy/python programming.
 

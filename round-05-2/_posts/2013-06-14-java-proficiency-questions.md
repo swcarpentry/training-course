@@ -4,7 +4,6 @@ author: Jordan Fish
 permalink: /2013/06/java-proficiency-questions/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 Novice/Intermediate
 

@@ -6,7 +6,6 @@ categories:
   - Assessment
   - Concept Map
   - Python
-  - Round 09/2
 ---
 I made use of Christian Jacobs&#8217; [concept map][1].
 

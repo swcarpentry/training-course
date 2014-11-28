@@ -3,7 +3,6 @@ title: 'Screencast: Test-driven development of FizzBuzz'
 author: Cliburn Chan
 permalink: /2013/11/screencast-test-driven-development-of-fizzbuzz/
 categories:
-  - Round 07/3
   - Video
 ---
 I plan to develop a screencast showing how to write the program below using very low-tech test-driven development.

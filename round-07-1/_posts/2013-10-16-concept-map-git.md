@@ -4,7 +4,6 @@ author: Denis Haine
 permalink: /2013/10/concept-map-git/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 Here&#8217;s my concept map for Git version control.
 

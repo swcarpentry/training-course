@@ -4,7 +4,6 @@ author: Geoff Oxberry
 permalink: /2013/01/geoff-oxberry/
 categories:
   - Biography
-  - Round 03/0
 ---
 Geoff is a postdoctoral researcher at Lawrence Livermore National Laboratory in the Computational Engineering Division, where he does research in numerical methods in combustion. He received his PhD in chemical engineering from MIT in September 2012, and is a moderator at [Computational Science Stack Exchange][1].<tt><br /> </tt>
 

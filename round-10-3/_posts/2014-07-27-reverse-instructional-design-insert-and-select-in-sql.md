@@ -3,7 +3,6 @@ title: Reverse Instructional Design — Insert and Select in SQL
 author: Rainer Kiko
 permalink: /2014/07/reverse-instructional-design-insert-and-select-in-sql/
 categories:
-  - Round 10/3
 ---
 Question1: You have the following two sql_tables A and B:
 

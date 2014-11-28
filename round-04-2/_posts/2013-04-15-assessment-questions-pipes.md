@@ -4,7 +4,6 @@ author: Amanda Whitlock
 permalink: /2013/04/assessment-questions-pipes/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 This is based on a concept map about pipes from a previous round.
 

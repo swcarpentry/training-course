@@ -4,7 +4,6 @@ author: David LeBauer
 permalink: /2014/10/assessment-open-science/
 categories:
   - Assessment
-  - Round 11/3
 ---
 **Question 1:**
 

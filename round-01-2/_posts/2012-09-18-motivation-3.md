@@ -4,7 +4,6 @@ author: Dhavide Aruliah
 permalink: /2012/09/motivation-3/
 categories:
   - Motivation
-  - Round 01/2
 ---
 **Motivating:**
 

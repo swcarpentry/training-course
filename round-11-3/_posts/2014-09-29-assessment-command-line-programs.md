@@ -4,7 +4,6 @@ author: Isabelle Laforest
 permalink: /2014/09/assessment-command-line-programs/
 categories:
   - Assessment
-  - Round 11/3
 ---
 <span style="color: #000000;"><strong>Multiple Choice Question</strong></span>
 

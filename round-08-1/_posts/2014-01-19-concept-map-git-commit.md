@@ -4,7 +4,6 @@ author: Jessica Hamrick
 permalink: /2014/01/concept-map-git-commit/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 [<img class="alignnone size-large wp-image-5524" alt="IMG_1001" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/IMG_1001-1024x768.jpg" width="707" height="530" />][1]
 

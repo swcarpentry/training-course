@@ -4,7 +4,6 @@ author: Neal Davis
 permalink: /2013/07/tutorial-critique-the-shell/
 categories:
   - Design
-  - Round 05/4
 ---
 I review the lessons on the [command line][1]. These introduce the basic concepts of driving the command line, not going as advanced as scripting or if/fi constructs, etc. They are presumably targeted for someone who can get to Terminal or Cygwin, but then who gets rapidly bewildered.
 

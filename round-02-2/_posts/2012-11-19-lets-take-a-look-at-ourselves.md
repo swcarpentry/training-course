@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2012/11/lets-take-a-look-at-ourselves/
 categories:
   - Round 01/5
-  - Round 02/2
 ---
 Our work: [Round 1.4][1], [Round 2.1][2]
 

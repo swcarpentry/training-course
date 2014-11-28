@@ -4,7 +4,6 @@ author: Naupaka Zimmerman
 permalink: /2014/02/motivation-and-inspiration/
 categories:
   - Motivation
-  - Round 07/5
 ---
 **Motivation**:  
 Background: At the moment, I am, very happily, a postdoc in ecology. But it wasn&#8217;t always the case that I knew what I wanted to be when I grew up. My freshman year in college, I was really eager to dive into organic chemistry. I couldn&#8217;t wait to become a chemist, or maybe a chemical engineer. My high school chemistry teacher had talked it up to the point where I couldn&#8217;t wait to start diagramming molecules. Turns out, organic chemistry can be really difficult. I worked harder for that class than I ever had before in my life, and just barely squeaked through. It was a lesson in humility, for sure, and also a bit of &#8216;be careful what you wish for&#8217;. The following semester, I was fortunate to take a field course at the university&#8217;s research forest: we&#8217;d go out one weekend a month and spend two days learning and living in a research forest. We got to meet forest ecologists, do some tree rings studies, and learn to identify species. I was hooked. I should have known I would enjoy being around people who spent their days thinking about how forests worked and living among the trees (and not synthesizing molecules from precursors of 3 carbons or less in a fume hood). Sometimes the thing we think we want obscures what we should have recognized we actually wanted all along. (this applies of course to many things in life)

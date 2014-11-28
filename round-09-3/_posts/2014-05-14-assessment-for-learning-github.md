@@ -4,7 +4,6 @@ author: Mark Stillwell
 permalink: /2014/05/assessment-for-learning-github/
 categories:
   - Assessment
-  - Round 09/3
 ---
 1) Which command should be used to create a local copy of the repository https://github.com/marklee77/vpack.git in the directory &#8220;vectorpack&#8221;  
 a) git copy https://github.com/marklee77/vpack.git vectorpack  

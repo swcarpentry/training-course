@@ -4,7 +4,6 @@ author: Cliburn Chan
 permalink: /2013/08/concept-map-r-functions/
 categories:
   - Concept Map
-  - Round 06/1
 ---
 Used this to teach a small intro R class.
 

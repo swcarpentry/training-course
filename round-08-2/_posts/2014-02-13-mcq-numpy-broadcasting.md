@@ -4,7 +4,6 @@ author: Stefan van der Walt
 permalink: /2014/02/mcq-numpy-broadcasting/
 categories:
   - Assessment
-  - Round 08/2
 ---
 Distinguish novice from expert
 

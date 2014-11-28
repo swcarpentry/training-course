@@ -3,7 +3,6 @@ title: From Concept Maps to Assessment Questions
 author: Greg Wilson
 permalink: /2013/04/from-concept-maps-to-assessment-questions/
 categories:
-  - Round 04/2
 ---
 **Meeting of the Software Carpentry Instructors Study Group**  
 2013-04-03  

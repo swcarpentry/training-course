@@ -4,7 +4,6 @@ author: Emilia Gan
 permalink: /2014/10/assessment-the-unix-shell-files-and-directories/
 categories:
   - Assessment
-  - Round 11/3
 ---
 <span style="color: #000000; font-family: Calibri;">1. Imagine your working directory has the following absolute path:</span>
 

@@ -4,7 +4,6 @@ author: Stefan van der Walt
 permalink: /2013/04/assessment-questions-concept-maps/
 categories:
   - Proficiency
-  - Round 04/2
 ---
 Based on http://teaching.software-carpentry.org/2013/04/01/concept-map-concept-map-2/
 

@@ -4,7 +4,6 @@ author: Anja Boskovic
 permalink: /2014/10/my-demotivation-2/
 categories:
   - Motivation
-  - Round 11/3
 ---
 Operation Systems at my university is a cursed course. I knew that before taking it. There is no professor at the university that does research within the field and so it&#8217;s assigned like a round of Russian Roulette. Every year a new professor. Every year they pull in some poor saps in their lab to help TA. 
 

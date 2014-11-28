@@ -4,7 +4,6 @@ author: Erik Schnetter
 permalink: /2013/10/erik-schnetter/
 categories:
   - Biography
-  - Round 07/0
 ---
 I work at the Perimeter Institute for Theoretical Physics (Waterloo, Ontario, Canada) as Research Technologies Group Lead <<a title="http://www.perimeterinstitute.ca/personal/eschnetter/" href="http://www.perimeterinstitute.ca/personal/eschnetter/" target="_blank">http://www.perimeterinstitute.ca/personal/eschnetter/</a>>. My research interests lie in computational science, in using computers as tools to solve scientific and engineering problems. I am active in several open-source projects (e.g. the <a title="Einstein Toolkit" href="http://einsteintoolkit.org" target="_blank">Einstein Toolkit</a>).
 

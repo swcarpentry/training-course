@@ -4,7 +4,6 @@ author: Itamar Turner-Trauring
 permalink: /2013/06/python-operators-quiz/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 **Question A (novice vs. competent):** Consider the following code snippet:
 

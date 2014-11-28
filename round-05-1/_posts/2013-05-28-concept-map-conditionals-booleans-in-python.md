@@ -4,7 +4,6 @@ author: Julia Evans
 permalink: /2013/05/concept-map-conditionals-booleans-in-python/
 categories:
   - Concept Map
-  - Round 05/1
 ---
 <a href="http://teaching.software-carpentry.org/wp-content/uploads/2013/05/software-carpentry-concept-map-on-if-statements.pdf" target="_blank">PDF of concept map</a>
 

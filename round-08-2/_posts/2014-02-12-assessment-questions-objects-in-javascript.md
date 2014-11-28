@@ -4,7 +4,6 @@ author: "Brenna O'Brien"
 permalink: /2014/02/assessment-questions-objects-in-javascript/
 categories:
   - Assessment
-  - Round 08/2
 ---
 ### Pre-lesson question
 

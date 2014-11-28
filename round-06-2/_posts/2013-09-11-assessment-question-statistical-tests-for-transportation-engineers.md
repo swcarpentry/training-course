@@ -4,7 +4,6 @@ author: Nicolas Saunier
 permalink: /2013/09/assessment-question-statistical-tests-for-transportation-engineers/
 categories:
   - Assessment
-  - Round 06/2
 ---
 Novice: What is the 95 % confidence interval of the mean of a sample of 100 spot speed observations with empirical mean 55 km/h and 8 km/h of standard deviation (given that for a variable *X* following the normal distribution, *P(X<=1.96)=0.975* and *P(X<=1.64)=0.95*)?
 

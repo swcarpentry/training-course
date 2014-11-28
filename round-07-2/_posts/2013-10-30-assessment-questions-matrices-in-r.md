@@ -4,7 +4,6 @@ author: Ryan Williams
 permalink: /2013/10/assessment-questions-matrices-in-r/
 categories:
   - Assessment
-  - Round 07/2
 ---
 These are questions to address understanding of R commands in relation to matrices
 

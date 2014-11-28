@@ -4,7 +4,6 @@ author: Clare Sloggett
 permalink: /2014/06/concept-map-python-dicts/
 categories:
   - Concept Map
-  - Round 10/1
 ---
 [<img class="alignnone size-medium wp-image-7698" alt="concept_map" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/concept_map-300x211.jpg" width="300" height="211" />][1]
 

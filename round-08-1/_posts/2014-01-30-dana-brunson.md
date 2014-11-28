@@ -4,7 +4,6 @@ author: Dana Brunson
 permalink: /2014/01/dana-brunson/
 categories:
   - Biography
-  - Round 08/1
 ---
 I&#8217;m director of the Oklahoma State University High Performance Computing Center.  I am interested in learning better ways to help people learn to use computational resources in their research.   I usually help people one-on-one which focuses on getting their immediate goals met, but that isn&#8217;t very scalable.
 

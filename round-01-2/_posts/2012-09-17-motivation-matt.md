@@ -4,7 +4,6 @@ author: Matt Davis
 permalink: /2012/09/motivation-matt/
 categories:
   - Motivation
-  - Round 01/2
 ---
 # Motivating Factors
 

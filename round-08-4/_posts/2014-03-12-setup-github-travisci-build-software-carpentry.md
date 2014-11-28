@@ -3,7 +3,6 @@ title: Setup Github and Travis-CI to continuously build Software Carpentry
 author: Andrea Zonca
 permalink: /2014/03/setup-github-travisci-build-software-carpentry/
 categories:
-  - Round 08/4
   - Video
 ---
 **DISCLAIMER:**  

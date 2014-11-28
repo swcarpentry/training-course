@@ -5,7 +5,6 @@ permalink: /2014/06/round-10-introductions-and-concept-maps/
 categories:
   - Concept Map
   - Round 10/0
-  - Round 10/1
 ---
 Group 10 had its inaugural online meeting this week &#8211; almost 40 people joined us to take a look at what we&#8217;ll be covering in the next 12-14 weeks. As a rough outline, we will be covering:
 

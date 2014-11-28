@@ -4,7 +4,6 @@ author: Aaron Erlich
 permalink: /2014/07/demotivating-learning-experience-17/
 categories:
   - Motivation
-  - Round 10/2
 ---
 <p dir="ltr">
   I attended a large inner city high school in Seattle, Washington. Not that inner city schools in Seattle are bad by most American inner city standards. But the school’s reputation was based more on the fact that liberal well-educated parents sent their children to the school rather than the rigor of the academic experience. I skated through barely doing any work and garnering one B in my four years. I learned little math and no computer programming.

@@ -4,7 +4,6 @@ author: Erik Bray
 permalink: /2012/09/week-2-motivation-3/
 categories:
   - Motivation
-  - Round 01/2
 ---
 # An Anecdote of Demotivation to Motivation
 

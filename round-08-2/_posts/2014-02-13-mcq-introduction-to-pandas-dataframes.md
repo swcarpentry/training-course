@@ -4,7 +4,6 @@ author: Andrea Zonca
 permalink: /2014/02/mcq-introduction-to-pandas-dataframes/
 categories:
   - Assessment
-  - Round 08/2
 ---
 Sample csv file with student grades for 2 tests, they were allowed to repeat the test if they missed it or got < 6 :
 

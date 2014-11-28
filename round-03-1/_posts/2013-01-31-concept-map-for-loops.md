@@ -4,7 +4,6 @@ author: Karthik Ram
 permalink: /2013/01/concept-map-for-loops/
 categories:
   - Concept Map
-  - Round 03/1
 ---
 Here is my version of a simple concept map explaining when to use a for loop.
 

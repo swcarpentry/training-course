@@ -4,7 +4,6 @@ author: Andrea Zonca
 permalink: /2014/01/concept-map-git-branching-workflow/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 I preferred to use a software tool, instead of paper, it took no time.  
 The target are people that have already a basic understanding of git and want to learn how to use branches to implement a new feature.

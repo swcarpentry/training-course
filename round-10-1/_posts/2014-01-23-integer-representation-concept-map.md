@@ -5,7 +5,6 @@ permalink: /2014/01/integer-representation-concept-map/
 categories:
   - Concept Map
   - Round 08/1
-  - Round 10/1
 ---
 [<img class="alignnone size-medium wp-image-2989" alt="integer representation" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/06/integer-representation-218x300.jpeg" width="218" height="300" />][1]
 

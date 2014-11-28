@@ -4,7 +4,6 @@ author: Rachel Anderson
 permalink: /2013/09/assessment-question-pythons-argparse-module/
 categories:
   - Assessment
-  - Round 06/2
 ---
 Q1: I have a program called mysum.py, which sums input from the user.  I use argparse like so:  
 parser = argparse.ArgumentParser()  

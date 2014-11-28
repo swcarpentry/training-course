@@ -4,7 +4,6 @@ author: Scott Ritchie
 permalink: /2014/07/demotivating-learning-experiences-a-contrast-between-teachers/
 categories:
   - Motivation
-  - Round 10/2
 ---
 Although I have encountered a number of demotivating learning experiences during my education, in this post I want to write about my own experiences teaching, and failing to provide motivation to my students.
 

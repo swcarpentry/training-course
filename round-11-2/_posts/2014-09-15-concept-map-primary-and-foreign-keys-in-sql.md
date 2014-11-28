@@ -4,7 +4,6 @@ author: Thomas Guignard
 permalink: /2014/09/concept-map-primary-and-foreign-keys-in-sql/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 Here&#8217;s my take on the concepts between primary and foreign keys in relational databases, which we talk about during the SQL lesson.
 

@@ -4,7 +4,6 @@ author: Jeremiah Lant
 permalink: /2014/04/concept-map-for-python-dictionaries/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 &nbsp;
 

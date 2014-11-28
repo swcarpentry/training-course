@@ -3,7 +3,6 @@ title: 'Amanda&#8217;s teaching feedback'
 author: Amanda Whitlock
 permalink: /2013/06/amandas-teaching-feedback/
 categories:
-  - Round 04/5
 ---
 ## **Lesson summary:**
 

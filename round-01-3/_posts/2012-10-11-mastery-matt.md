@@ -4,7 +4,6 @@ author: Matt Davis
 permalink: /2012/10/mastery-matt/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 Everyone has added a lot of great ideas! Like Ben I took a different tack and I tried to think of some of the common complaints I remember hearing in grad school:
 

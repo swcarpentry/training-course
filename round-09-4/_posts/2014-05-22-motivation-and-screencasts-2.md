@@ -5,7 +5,6 @@ permalink: /2014/05/motivation-and-screencasts-2/
 categories:
   - Motivation
   - Round 09/3
-  - Round 09/4
   - Video
 ---
 Our next exercise has two parts.

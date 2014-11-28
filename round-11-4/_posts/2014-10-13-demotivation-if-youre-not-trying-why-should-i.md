@@ -4,7 +4,6 @@ author: Kate Hertweck
 permalink: /2014/10/demotivation-if-youre-not-trying-why-should-i/
 categories:
   - Motivation
-  - Round 11/4
 ---
 As an undergraduate, I majored in biology with minors in communication and history. I was ecstatic when I found an interdisciplinary class that combined my interests in science and humanities. I signed up for the elective expecting to work hard. The disappointment started almost immediately. I think he cancelled the first class because he was out of town (and the class only met once a week). The next week, he told us in the first few minutes that we all bought the wrong textbook, even though it had been listed on the syllabus he wrote. He spent a few minutes talking about the main themes of the course, and we were instructed to come up with a topic for our class project.
 

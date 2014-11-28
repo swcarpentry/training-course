@@ -4,7 +4,6 @@ author: Justin Kitzes
 permalink: /2012/10/mastery-atomic-tangerine/
 categories:
   - Proficiency
-  - Round 01/3
 ---
 Here are the six key questions that Atomic Tangerine (Katy, Lynne, Justin) settled on. Our examples of Novice, Intermediate, and Advanced skills under each question are a bit lengthy, and reflect our different (but generally complementary) perspectives on these different levels.
 

@@ -4,7 +4,6 @@ author: Isabel Fenton
 permalink: /2014/02/mcq-python-while-loops/
 categories:
   - Assessment
-  - Round 08/2
 ---
 *Question to distinguish novices from competent practitioners before you start teaching:*
 

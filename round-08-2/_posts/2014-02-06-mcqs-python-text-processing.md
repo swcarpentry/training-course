@@ -4,7 +4,6 @@ author: Likit Preeyanon
 permalink: /2014/02/mcqs-python-text-processing/
 categories:
   - Assessment
-  - Round 08/2
 ---
 **Novices vs Practitioners**
 

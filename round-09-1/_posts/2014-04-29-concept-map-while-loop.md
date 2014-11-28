@@ -4,7 +4,6 @@ author: Graham Etherington
 permalink: /2014/04/concept-map-while-loop/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 &nbsp;
 

@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2013/07/wrapping-up-round-5-3-starting-round-5-4/
 categories:
   - Round 05/3
-  - Round 05/4
 ---
 Yesterday&#8217;s meetings were primarily focused on the effectiveness of video instruction:
 

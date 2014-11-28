@@ -5,7 +5,6 @@ permalink: /2014/09/from-concept-maps-to-assessment/
 categories:
   - Assessment
   - Round 11/2
-  - Round 11/3
 ---
 Despite technical glitches (including an Etherpad failure that cost us many of our notes), we had a good set of meetings this week: there were lots of interesting concept maps, and lots of good discussion about what goes into them and how often the concrete things in the topic being discussed (e.g., servers in a discussion of SSH) are also concepts. Notes are below&#8230;
 

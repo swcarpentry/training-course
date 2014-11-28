@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2014/06/motivation-and-live-teaching/
 categories:
   - Motivation
-  - Round 09/5
   - Teaching
 ---
 We got together to discuss our motivational screencast exercise this past Wednesday, and to be honest, the results weren&#8217;t as strong as they had been for previous exercises. Quite a few videos came in late, many were over time, and most importantly, the majority explained *how* to do something, rather than convincing viewers that the topic was worth learning.

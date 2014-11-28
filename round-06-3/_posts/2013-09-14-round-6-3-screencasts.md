@@ -3,7 +3,6 @@ title: 'Round 6.3: Screencasts'
 author: Greg Wilson
 permalink: /2013/09/round-6-3-screencasts/
 categories:
-  - Round 06/3
   - Video
 ---
 Our task in this next round is to create a three-minute screencast showing novices how to do something. Our goals are:

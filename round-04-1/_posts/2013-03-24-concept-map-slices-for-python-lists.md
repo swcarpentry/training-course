@@ -4,7 +4,6 @@ author: Jens von der Linden
 permalink: /2013/03/concept-map-slices-for-python-lists/
 categories:
   - Concept Map
-  - Round 04/1
 ---
 &nbsp;
 

@@ -4,7 +4,6 @@ author: Luca Cerone
 permalink: /2014/07/reverse-instructional-design-left-join-in-mysqlmariadb/
 categories:
   - Assessment
-  - Round 10/3
 ---
 Imagine in your MySQL database you have a table **A** like this: 
 

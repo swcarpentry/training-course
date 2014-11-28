@@ -4,7 +4,6 @@ author: Diego Barneche
 permalink: /2013/03/diegos-concept-map/
 categories:
   - Concept Map
-  - Round 04/1
 ---
 [<img class="alignnone size-medium wp-image-2049" alt="barneche_concept_map_2013_04_02" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/03/barneche_concept_map_2013_04_02-300x225.jpg" width="300" height="225" />][1]
 

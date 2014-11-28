@@ -4,7 +4,6 @@ author: Jinwoo Leem
 permalink: /2013/09/assessment-questions-cc/
 categories:
   - Assessment
-  - Round 06/2
 ---
 1. What is one major difference between C and C++?
 

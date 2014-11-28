@@ -4,7 +4,6 @@ author: Katy Huff
 permalink: /2012/09/week-1-control-flow/
 categories:
   - Concept Map
-  - Round 01/1
 ---
 [<img class="alignnone size-medium wp-image-247" title="ControlFlow" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/ControlFlow-300x231.png" alt="" width="300" height="231" />][1]
 

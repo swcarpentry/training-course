@@ -4,7 +4,6 @@ author: Jeramia Ory
 permalink: /2014/02/mcq-and-exercise-find-command/
 categories:
   - Assessment
-  - Round 08/2
 ---
 Question for distinguishing novice from expert:
 

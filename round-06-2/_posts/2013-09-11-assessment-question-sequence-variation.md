@@ -4,7 +4,6 @@ author: Joshua Herr
 permalink: /2013/09/assessment-question-sequence-variation/
 categories:
   - Assessment
-  - Round 06/2
 ---
 I apologize for my late post here – mainly a tumultuous couple of weeks for me – but this was also a difficult task.  I’m not sure I’ve done it justice, but perhaps it’s the thought process here that is most important.  I’ve decided to stick with my original thought map topic.
 

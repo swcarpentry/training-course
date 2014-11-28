@@ -4,7 +4,6 @@ author: Martin Paulo
 permalink: /2014/01/concept-map-python-variable-scope/
 categories:
   - Concept Map
-  - Round 08/1
 ---
 [<img class="alignnone size-medium wp-image-5633" alt="scope" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/scope-248x300.jpg" width="248" height="300" />][1]
 

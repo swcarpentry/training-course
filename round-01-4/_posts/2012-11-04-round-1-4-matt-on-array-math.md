@@ -4,7 +4,6 @@ author: Matt Davis
 permalink: /2012/11/round-1-4-matt-on-array-math/
 categories:
   - Lesson
-  - Round 01/4
 ---
 I chose array math as my topic since I&#8217;ll be [teaching NumPy to web programmers][1] this weekend.
 

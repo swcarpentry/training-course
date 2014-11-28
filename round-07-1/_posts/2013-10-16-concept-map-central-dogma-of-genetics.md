@@ -4,7 +4,6 @@ author: Aaron Garoutte
 permalink: /2013/10/concept-map-central-dogma-of-genetics/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 &nbsp;
 

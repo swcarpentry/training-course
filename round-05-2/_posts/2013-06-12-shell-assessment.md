@@ -4,7 +4,6 @@ author: Preston Holmes
 permalink: /2013/06/shell-assessment/
 categories:
   - Proficiency
-  - Round 05/2
 ---
 <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
 

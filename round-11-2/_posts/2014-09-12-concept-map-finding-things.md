@@ -4,7 +4,6 @@ author: Kate Hertweck
 permalink: /2014/09/concept-map-finding-things/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 From here: [Finding things][1]
 

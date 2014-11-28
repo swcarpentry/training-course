@@ -10,7 +10,6 @@ enclosure:
         video/quicktime
         
 categories:
-  - Round 08/4
   - Video
 ---
 A few experice dooing this screencast:

@@ -4,7 +4,6 @@ author: Pauline Barmby
 permalink: /2014/02/motivation-for-scientific-computing/
 categories:
   - Motivation
-  - Round 07/5
 ---
 A recent Master&#8217;s student of mine left the University last spring, having done a piece of research almost ready to be a publishable paper. The work was about 80% done, and I took it over in the fall, starting with a large collection of data files, some Python scripts, and a mostly-completed manuscript.
 

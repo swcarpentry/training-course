@@ -4,7 +4,6 @@ author: Martin Callaghan
 permalink: /2014/02/motivating-linguists-to-learn-python/
 categories:
   - Motivation
-  - Round 08/3
 ---
 Here&#8217;s something thats been exercising me of late. We&#8217;re starting to work with a group of linguists who are keen to explore the use of a more flexible programming tool than the one they currently use (R) to analyse some large textual corpora.
 

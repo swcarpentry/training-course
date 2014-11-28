@@ -3,7 +3,6 @@ title: Testing effectiveness of live tutoring vs. recorded video
 author: Luke Lee
 permalink: /2013/07/testing-effectiveness-of-live-tutoring-vs-recorded-video/
 categories:
-  - Round 05/4
 ---
 Regarding our live-tutoring sessions, Luke chose to teach an introduction to Python&#8217;s virtualenv, and Philipp chose to teach a fast introduction to Go (the programming language).
 

@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2013/04/from-how-to-what/
 categories:
   - Round 04/2
-  - Round 04/3
 ---
 **Meeting of the Software Carpentry Instructors Study Group**  
 Round 4.2/4.3  

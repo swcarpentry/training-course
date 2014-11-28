@@ -4,7 +4,6 @@ author: Emily Davenport
 permalink: /2013/09/assessment-questions-loading-data-into-r/
 categories:
   - Assessment
-  - Round 06/2
 ---
 I&#8217;m sticking with the topic I chose for the concept map, which was how to load data into R.
 

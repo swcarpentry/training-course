@@ -4,7 +4,6 @@ author: Jonathan Frederic
 permalink: /2014/05/motivation-for-ipython/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 I didn&#8217;t introduce myself.  I figured with 3 minutes I would cut straight to the content.

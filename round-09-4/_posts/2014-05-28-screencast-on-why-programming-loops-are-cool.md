@@ -4,7 +4,6 @@ author: Russell Alleen-Willems
 permalink: /2014/05/screencast-on-why-programming-loops-are-cool/
 categories:
   - Motivation
-  - Round 09/4
   - Video
 ---
 **Demotivating Experience**

@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2012/12/round-2-3-making-connections/
 categories:
   - Connections
-  - Round 02/3
 ---
 For our next exercise, we&#8217;re going to skip ahead to Chapter 4 of *How Learning Works* (which is about integrating skills and knowing when to apply them) and Chapter 5 (which discusses goal-directed practice). What I&#8217;d like you to do is work up a small example of how you combine two or more of the things we teach to solve a problem you actually encounter in your own research. For example, you might use regular expressions and a shell script to pull dates out of legacy data files, or get SQLite to dump the SQL needed to reproduce a database and store that in version control as a way to keep track of your data.
 

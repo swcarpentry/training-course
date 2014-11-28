@@ -4,7 +4,6 @@ author: Greg Wilson
 permalink: /2013/10/say-hello-to-our-seventh-cohort/
 categories:
   - Concept Map
-  - Round 07/1
 ---
 Group 7 met for the first time yesterday; 41 people attended, and three sent apologies, so it&#8217;s shaping up to be the largest cohort we&#8217;ve ever had. Notes are below (along with a warning about upcoming disruptions in the time-space continuum); the first exercise is to create some concept maps, and we&#8217;ll meet again in two weeks if Greg&#8217;s teaching schedule permits it.
 

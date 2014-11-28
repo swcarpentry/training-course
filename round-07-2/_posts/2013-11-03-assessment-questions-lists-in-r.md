@@ -4,7 +4,6 @@ author: Matt Landis
 permalink: /2013/11/assessment-questions-lists-in-r/
 categories:
   - Assessment
-  - Round 07/2
 ---
 Novice from Competent
 

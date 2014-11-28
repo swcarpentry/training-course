@@ -4,7 +4,6 @@ author: David Worth
 permalink: /2013/10/multiple-choice-questions-on-vi/
 categories:
   - Assessment
-  - Round 07/2
 ---
 I added this quickly as it&#8217;s the only oportunity I have before the deadline. Appologies of it&#8217;s too easy/hard. David
 

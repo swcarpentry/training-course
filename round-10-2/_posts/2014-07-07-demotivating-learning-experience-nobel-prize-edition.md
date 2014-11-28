@@ -4,7 +4,6 @@ author: Marcello Barisonzi
 permalink: /2014/07/demotivating-learning-experience-nobel-prize-edition/
 categories:
   - Motivation
-  - Round 10/2
   - Uncategorized
 ---
 I was a 3rd year physics student when news broke that <a href="http://en.wikipedia.org/wiki/Carlo_Rubbia" target="_blank">Carlo Rubbia</a>, co-winner of the Nobel Prize in Physics in 1984, had been hired by my university. He was not supposed to teach any course (he was hired mainly to lead the construction of a large neutrino detector) but he&#8217;d give a one-off lecture series on Particle Physics, the subject I liked. It was very exciting!

@@ -4,7 +4,6 @@ author: Alexandra Simperler
 permalink: /2014/04/my-concept-map-for-teaching-batch-submission-scripts/
 categories:
   - Concept Map
-  - Round 09/1
 ---
 [<img class="alignnone size-medium wp-image-6799" alt="ConceptASimp" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/04/ConceptASimp-300x218.jpg" width="300" height="218" />][1]
 

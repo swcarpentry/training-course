@@ -4,7 +4,6 @@ author: Samantha Ahern
 permalink: /2014/01/biography/
 categories:
   - Biography
-  - Round 08/0
 ---
 Hi, my name is Samantha, but most people call me Sam.
 

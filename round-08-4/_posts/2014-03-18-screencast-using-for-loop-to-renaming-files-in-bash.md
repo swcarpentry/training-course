@@ -3,7 +3,6 @@ title: 'Screencast: using for loop to renaming files in bash'
 author: Jeramia Ory
 permalink: /2014/03/screencast-using-for-loop-to-renaming-files-in-bash/
 categories:
-  - Round 08/4
   - Video
 ---
 As usual, it took longer to come up with a topic than to actually record the screencast. This is my 3rd take. On the first take I realized I called it &#8220;simple,&#8221; and having just commented to someone else that it is a demotivator, couldn&#8217;t leave it that way.

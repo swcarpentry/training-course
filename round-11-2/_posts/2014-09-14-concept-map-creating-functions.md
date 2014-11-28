@@ -4,7 +4,6 @@ author: Radovan Bast
 permalink: /2014/09/concept-map-creating-functions/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 this is a (hopefully readable) map related to http://software-carpentry.org/v5/novice/python/02-func.html
 

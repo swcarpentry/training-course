@@ -4,7 +4,6 @@ author: Kirill Palamartchouk
 permalink: /2014/10/how-to-demotivate-a-pupil/
 categories:
   - Motivation
-  - Round 11/4
 ---
 Appearance of Literature lessons is one of the few things that are invariant in  
 almost all school programs in the world.  For a reason. It is one of the main  

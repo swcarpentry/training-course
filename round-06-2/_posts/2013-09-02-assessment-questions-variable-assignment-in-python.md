@@ -4,7 +4,6 @@ author: Damien Irving
 permalink: /2013/09/assessment-questions-variable-assignment-in-python/
 categories:
   - Assessment
-  - Round 06/2
 ---
 &nbsp;  
 **Question 1 (novice vs. competent)**

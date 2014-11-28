@@ -4,7 +4,6 @@ author: Kwasi Kwakwa
 permalink: /2013/01/about-kwasi-kwakwa/
 categories:
   - Biography
-  - Round 03/0
 ---
 I&#8217;m currently in the final stages of a PhD in the physics department at King&#8217;s College London in the UK. For the last 4 years I have been primarily interested in taking pictures of single fluorescent molecules embedded in various media and feeding them to a pattern recognition program can tell me what direction they are pointing in. In the process, I ended up simulating a decent chunk of my hardware in MATLAB to answer some more fundamental questions about how well the technique I&#8217;m using works.
 

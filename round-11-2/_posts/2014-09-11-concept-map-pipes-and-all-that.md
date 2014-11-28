@@ -4,7 +4,6 @@ author: Timothee Poisot
 permalink: /2014/09/concept-map-pipes-and-all-that/
 categories:
   - Concept Map
-  - Round 11/2
 ---
 From here: http://software-carpentry.org/v5/novice/shell/03-pipefilter.html
 

@@ -5,7 +5,6 @@ permalink: /2014/05/assessment-for-python-dicts-aur-saraf/
 categories:
   - Assessment
   - Round 09/2
-  - Round 09/3
 ---
 [<img src="http://teaching.software-carpentry.org/wp-content/uploads/2014/04/concept-map_python-dictionary_jeremiah-lant-300x225.jpg" alt="concept-map_python-dictionary_jeremiah-lant" width="300" height="225" class="alignnone size-medium wp-image-6864" />][1]
 

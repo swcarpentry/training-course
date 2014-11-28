@@ -10,7 +10,6 @@ enclosure:
         video/mp4
         
 categories:
-  - Round 07/3
   - Video
 ---
 <div style="width: 474px; height: 229px; " class="wp-video">

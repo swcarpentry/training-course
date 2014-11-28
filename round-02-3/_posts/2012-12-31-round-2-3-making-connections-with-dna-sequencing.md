@@ -4,7 +4,6 @@ author: Adina Chuang Howe
 permalink: /2012/12/round-2-3-making-connections-with-dna-sequencing/
 categories:
   - Connections
-  - Round 02/3
   - Teaching
 ---
 My research deals with DNA sequencing of environmental communities. A major barrier to working with this type of data is that the current sequencing technology we use outputs numerous short lengths of DNA sequence, or &#8220;reads&#8221; as we call them. We end up have so many of these reads that the size of the datasets are intractable. One approach to getting past this barrier is to identify overlaps or connectivity between reads and build consensus sequences in a process called assembly. Part of my research has found that in addition to natural connectivity of reads belonging to the same organism (i.e., part of the same genome), we see artificial connectivity of sequences which are an artifact of the sequencing instrument. We&#8217;ve characterized this connectivity as being &#8220;highly dense&#8221; and being biased towards one end of a read.

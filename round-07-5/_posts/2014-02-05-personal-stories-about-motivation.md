@@ -4,7 +4,6 @@ author: John Corless
 permalink: /2014/02/personal-stories-about-motivation/
 categories:
   - Motivation
-  - Round 07/5
 ---
 ## Motivation
 

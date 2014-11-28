@@ -4,7 +4,6 @@ author: Philipp Bayer
 permalink: /2013/07/tutorial-critique-matrix-programming/
 categories:
   - Design
-  - Round 05/4
 ---
 In general, I found the talking to be very clear and with correct speed. I found the exercises to be very good (and useful!) and good that exercises on the slides are written in green &#8211; but, it would be good to have a sentence that clearly signals when to press pause (like &#8220;Do this now&#8221;, followed by a small pause) since the viewer isn&#8217;t sure when speaker stops speaking about the task at hand.
 
