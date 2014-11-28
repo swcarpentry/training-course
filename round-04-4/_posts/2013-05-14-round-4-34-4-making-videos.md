@@ -3,7 +3,7 @@ title: 'Round 4.3/4.4: Making Videos'
 author: Greg Wilson
 permalink: /2013/05/round-4-34-4-making-videos/
 categories:
-  - Round 04/3
+  - round-04-3
 ---
 Meeting of the Software Carpentry Instructors Study Group  
 Round 4.3/4.4  

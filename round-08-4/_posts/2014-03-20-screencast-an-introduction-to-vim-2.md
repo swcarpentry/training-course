@@ -3,7 +3,7 @@ title: 'Screencast: An introduction to vim'
 author: Dana Miller
 permalink: /2014/03/screencast-an-introduction-to-vim-2/
 categories:
-  - Round 06/3
+  - round-06-3
   - Video
 ---
 My third take, based on Amanda Charbonneau&#8217;s helpful [concept map][1] from Round 6.1. For more advanced vim buffers, see Likit Preeyanon&#8217;s screencast [here][2].

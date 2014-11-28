@@ -4,7 +4,7 @@ author: Abigail Cabunoc
 permalink: /2014/02/motivating-scientists-to-learn-how-to-use-databases/
 categories:
   - Motivation
-  - Round 08/0
+  - round-08-0
 ---
 Continuing with database examples for my homework: *Motivating scientists to learn how to use databases.*
 

@@ -7,7 +7,7 @@ categories:
 tags:
   - Assessment
   - Concept Map
-  - Round 09/2
+  - round-09-2
 ---
 [<img src="http://teaching.software-carpentry.org/wp-content/uploads/2014/05/concept_map_while-300x212.jpg" alt="concept_map_while" width="300" height="212" class="alignnone size-medium wp-image-6911" />][1]
 

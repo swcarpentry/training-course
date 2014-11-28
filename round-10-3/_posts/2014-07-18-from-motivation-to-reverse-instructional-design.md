@@ -5,7 +5,7 @@ permalink: /2014/07/from-motivation-to-reverse-instructional-design/
 categories:
   - Assessment
   - Motivation
-  - Round 10/2
+  - round-10-2
 ---
 [apologies for the brevity of this post &#8211; it&#8217;s been a rough couple of weeks&#8230;]
 

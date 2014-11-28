@@ -3,7 +3,7 @@ title: Wrapping Up Round 3.2, Starting Round 3.3
 author: Greg Wilson
 permalink: /2013/03/wrapping-up-round-3-2-starting-round-3-3/
 categories:
-  - Round 03/2
+  - round-03-2
 ---
 **2013-02-12 Meeting of the Software Carpentry Study Group**
 

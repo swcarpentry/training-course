@@ -5,7 +5,7 @@ permalink: /2013/08/wrapping-up-concept-maps-starting-on-evaluation-questions/
 categories:
   - Assessment
   - Concept Map
-  - Round 06/1
+  - round-06-1
 ---
 Our sixth cohort had two good meetings online yesterday in which they shared their experiences with concept mapping and started exploring the how and why of assessment. Their next assignment is to:
 

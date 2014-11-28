@@ -3,7 +3,7 @@ title: 'screencast idea: manipulating an XML file in php'
 author: Stuart Charters
 permalink: /2013/06/screencast-idea-manipulating-an-xml-file-in-php/
 categories:
-  - Round 05/3
+  - round-05-3
   - Video
 ---
 A lot of web service calls return an XML document that needs to be manipulated.

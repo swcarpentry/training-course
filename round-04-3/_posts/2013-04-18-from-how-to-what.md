@@ -3,7 +3,7 @@ title: From How to What
 author: Greg Wilson
 permalink: /2013/04/from-how-to-what/
 categories:
-  - Round 04/2
+  - round-04-2
 ---
 **Meeting of the Software Carpentry Instructors Study Group**  
 Round 4.2/4.3  

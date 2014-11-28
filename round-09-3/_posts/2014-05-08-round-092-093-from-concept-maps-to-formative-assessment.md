@@ -4,7 +4,7 @@ author: Greg Wilson
 permalink: /2014/05/round-092-093-from-concept-maps-to-formative-assessment/
 categories:
   - Assessment
-  - Round 09/2
+  - round-09-2
 ---
 Group 9 had its second online meeting yesterday, during which we discussed what people learned from creating concept maps, the differences between formative and summative assessment, the mis-use of testing in large organizations, and reverse instructional design. Notes are below; comments and corrections would be welcome.
 

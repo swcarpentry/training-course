@@ -5,7 +5,7 @@ permalink: /2014/02/wrapping-up-mcqs-starting-on-motivation/
 categories:
   - Assessment
   - Motivation
-  - Round 08/2
+  - round-08-2
 ---
 **Software Carpentry Instructor Training Round 8.3 (Thursday, February 13, 2014)**
 

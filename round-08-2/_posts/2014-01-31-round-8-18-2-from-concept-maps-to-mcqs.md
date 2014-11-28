@@ -5,7 +5,7 @@ permalink: /2014/01/round-8-18-2-from-concept-maps-to-mcqs/
 categories:
   - Assessment
   - Concept Map
-  - Round 08/1
+  - round-08-1
 ---
 **Meeting of the Software Carpentry Instructors Study Group**
 

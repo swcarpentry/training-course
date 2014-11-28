@@ -5,7 +5,7 @@ permalink: /2014/05/assessment-for-data-structures-in-r/
 categories:
   - Assessment
   - R
-  - Round 09/2
+  - round-09-2
 ---
 The following assessment questions are based upon [Ahmadou Dicko&#8217;s concept map ][1]of Data Structures in R (assuming edits made suggested in the comments).
 

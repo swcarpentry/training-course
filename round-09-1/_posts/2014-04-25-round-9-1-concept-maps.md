@@ -4,7 +4,7 @@ author: Greg Wilson
 permalink: /2014/04/round-9-1-concept-maps/
 categories:
   - Concept Map
-  - Round 09/0
+  - round-09-0
 ---
 We held the kick-off meeting for Round 9 of the instructor training course this Wednesday (April 23). More than 40 people attended, and we got through quite a lot of introductory material on teaching as a performance art, the importance of feedback and reflection, the differences between novices, competent practitioners, and experts, and a handful of other topics.
 

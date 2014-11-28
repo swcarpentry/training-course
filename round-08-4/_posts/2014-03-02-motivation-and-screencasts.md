@@ -4,7 +4,7 @@ author: Greg Wilson
 permalink: /2014/03/motivation-and-screencasts/
 categories:
   - Motivation
-  - Round 08/3
+  - round-08-3
   - Video
 ---
 **Notes:**
