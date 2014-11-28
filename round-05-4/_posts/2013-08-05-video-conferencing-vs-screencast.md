@@ -2,7 +2,7 @@
 title: Video conferencing vs screencast
 author: Markus Binsteiner
 permalink: /2013/08/video-conferencing-vs-screencast/
-categories:
+tags:
 ---
 I only did half of the video-tutoring task (I tought Ted about Emacs org-mode), because we were a 3 person group and I was on holiday leave until it was due, so scheduling was a bit difficult. So my perception of both ways of teaching might be a bit skewed. Plus I don&#8217;t have much experience teaching people at all.
 

@@ -2,7 +2,7 @@
 title: 'Concept map: What is a program?'
 author: Robert Beagrie
 permalink: /2014/01/concept-map-what-is-a-program/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-large wp-image-5519" alt="IMG_20140118_124613" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/IMG_20140118_124613-1024x768.jpg" width="707" height="530" />][1]

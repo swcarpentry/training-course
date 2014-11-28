@@ -2,7 +2,7 @@
 title: Concept Map for Files and Directories
 author: Amy Brown
 permalink: /2013/01/concept-map-for-files-and-directories/
-categories:
+tags:
   - Concept Map
 ---
 I went with the low-hanging fruit option and did a concept map for the very first idea in the Boot Camp. Let me know what I missed.

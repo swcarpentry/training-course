@@ -2,7 +2,7 @@
 title: 'Motivation &#8211; Emily Jane'
 author: Emily Jane McTavish
 permalink: /2012/09/week-2-motivation-2/
-categories:
+tags:
   - Motivation
 ---
 1. Providing real world tasks.  

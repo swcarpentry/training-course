@@ -2,7 +2,7 @@
 title: 'Week 1 – Python: Indexing'
 author: Ben Waugh
 permalink: /2012/09/week-1-python-indexing/
-categories:
+tags:
   - Concept Map
 ---
 ## Concept map

@@ -2,7 +2,7 @@
 title: data.frame in R (concept map)
 author: Daniel Braithwaite
 permalink: /2013/10/data-frame-in-r-concept-map/
-categories:
+tags:
   - Concept Map
 ---
 (whoops, I was planning to have this prepared *by our next class (tonight) but now I see it was supposed to be posted a week before &#8211; my mistake.)[  

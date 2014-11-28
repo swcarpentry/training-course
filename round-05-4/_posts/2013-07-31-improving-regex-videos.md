@@ -2,7 +2,7 @@
 title: Improving RegEx videos
 author: Billy Rowell
 permalink: /2013/07/improving-regex-videos/
-categories:
+tags:
 ---
 <span style="font-size: 16px;">Overall, I felt that these videos were a pretty good introduction to the subject, and I liked the practical examples (although, after watching them all in one sitting, I got a little bored with the scenario recaps at the beginning of the videos 2-4).  I have a few notes, though.</span>
 

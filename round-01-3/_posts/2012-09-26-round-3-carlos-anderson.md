@@ -2,7 +2,7 @@
 title: 'Round 3: Carlos Anderson'
 author: Carlos Anderson
 permalink: /2012/09/round-3-carlos-anderson/
-categories:
+tags:
   - Proficiency
 ---
 1.  **<span style="font-size: medium;">How do I make my code more readable (not spaghetti code)?</span>** 

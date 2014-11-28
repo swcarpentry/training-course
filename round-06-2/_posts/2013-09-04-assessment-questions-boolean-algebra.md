@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Boolean algebra'
 author: Joshua Ainsley
 permalink: /2013/09/assessment-questions-boolean-algebra/
-categories:
+tags:
   - Assessment
 ---
 Question 1 (Competence)

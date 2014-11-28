@@ -2,7 +2,7 @@
 title: 'Assessment questions: Loading data into R'
 author: Emily Davenport
 permalink: /2013/09/assessment-questions-loading-data-into-r/
-categories:
+tags:
   - Assessment
 ---
 I&#8217;m sticking with the topic I chose for the concept map, which was how to load data into R.

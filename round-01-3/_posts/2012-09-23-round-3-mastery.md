@@ -2,7 +2,7 @@
 title: 'Round 3: Mastery'
 author: Greg Wilson
 permalink: /2012/09/round-3-mastery/
-categories:
+tags:
   - Proficiency
 ---
 In this round, we&#8217;re going to try to reach consensus on what &#8220;mastery&#8221; of the Software Carpentry material actually means. We&#8217;ll do this by synthesizing a handful of questions that sum up what our learners actually want to learn, then figure out what their answers are as novices, as competent practitioners, and as experts.

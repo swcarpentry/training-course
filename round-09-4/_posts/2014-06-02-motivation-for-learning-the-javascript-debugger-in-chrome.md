@@ -2,7 +2,7 @@
 title: Motivation for learning the JavaScript debugger in Chrome
 author: Dav Clark
 permalink: /2014/06/motivation-for-learning-the-javascript-debugger-in-chrome/
-categories:
+tags:
   - Motivation
   - Video
 ---

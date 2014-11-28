@@ -2,7 +2,7 @@
 title: 'Round 4.1: Concept Maps'
 author: Greg Wilson
 permalink: /2013/03/round-4-1-concept-maps/
-categories:
+tags:
 ---
 Our goal for the next eight to ten weeks is to give you a shallow but useful introduction to the educational psychology, instructional design, and how to apply what we know about them to teach programming to scientists. To start, let&#8217;s define a few terms:
 

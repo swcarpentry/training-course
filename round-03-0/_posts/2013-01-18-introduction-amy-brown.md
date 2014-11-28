@@ -2,7 +2,7 @@
 title: 'Introduction: Amy Brown'
 author: Amy Brown
 permalink: /2013/01/introduction-amy-brown/
-categories:
+tags:
   - Biography
 ---
 I&#8217;m definitely the odd one out in this study group, but I suppose it&#8217;s only fair to introduce myself if I&#8217;m going to be participating.

@@ -2,7 +2,7 @@
 title: 'Week 1 &#8211; Shell: Pipes and Filters'
 author: Matt Davis
 permalink: /2012/09/week-1-shell-pipes-and-filters/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone  wp-image-130" title="Shell- Pipes and Filters" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/Shell-Pipes-and-Filters.png" alt="" width="402" height="178" />][1]

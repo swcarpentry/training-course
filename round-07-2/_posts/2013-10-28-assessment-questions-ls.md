@@ -2,7 +2,7 @@
 title: 'Assessment Questions &#8212; ls'
 author: Fan
 permalink: /2013/10/assessment-questions-ls/
-categories:
+tags:
   - Assessment
 ---
 Beneath are my multiple choices questions to assess the students&#8217; abilities in file navigation by using &#8220;ls.&#8221;

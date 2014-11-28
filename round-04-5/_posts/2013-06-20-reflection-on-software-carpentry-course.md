@@ -2,7 +2,7 @@
 title: Reflection on Software Carpentry Course
 author: Jens von der Linden
 permalink: /2013/06/reflection-on-software-carpentry-course/
-categories:
+tags:
 ---
 The course was a surprising adventure. I expected the course to be focused on practicing teaching. I imagined 10 weeks of exercises like the screencast white board lecture on each topic in the Software Carpentry curriculum. Students going through the course would become robots in teaching the current Software Carpentry.
 

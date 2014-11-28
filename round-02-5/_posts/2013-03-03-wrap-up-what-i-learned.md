@@ -2,7 +2,7 @@
 title: 'Wrap up &#8211; what I learned'
 author: Karin Lagesen
 permalink: /2013/03/wrap-up-what-i-learned/
-categories:
+tags:
 ---
 First of all, I gained a lot from this. First and foremost, I liked that I got a chance to really focus on my teaching. In my environment, people seem to have the attitude that as long as you know the subject, you should automatically be able to teach it. Seeing and talking to others during these weeks have made me aware of how I teach and given me ideas of how I can improve. One of the big things for me was to learn about cognitive load and how that affects learning. I will now try at any given moment to be more aware of what the learner is supposed to gain from what I am teaching them, and also to keep the number of things that they should learn down to avoid confusion. It is very easy to believe that what I am teaching is easier than it really is, and to try to mix in several elements to keep things “interesting”, thus ending up with overloading and confusing people.
 

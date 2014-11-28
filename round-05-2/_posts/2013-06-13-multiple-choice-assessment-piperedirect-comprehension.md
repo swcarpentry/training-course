@@ -2,7 +2,7 @@
 title: 'Multiple choice assessment: Pipe&#038;Redirect comprehension'
 author: Yuxi Luo
 permalink: /2013/06/multiple-choice-assessment-piperedirect-comprehension/
-categories:
+tags:
   - Proficiency
 ---
 Novice: Choose the commands that you can understand? (Mark all that apply)

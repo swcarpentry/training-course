@@ -2,7 +2,7 @@
 title: Basic Python data structures assessment
 author: Philipp Bayer
 permalink: /2013/06/basic-python-data-structures-assessment/
-categories:
+tags:
   - Proficiency
 ---
 Designed to split into &#8220;novice&#8221; and &#8220;intermediate/expert&#8221;

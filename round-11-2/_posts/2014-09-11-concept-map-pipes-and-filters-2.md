@@ -2,7 +2,7 @@
 title: 'Concept Map: Pipes and Filters'
 author: Kirill Palamartchouk
 permalink: /2014/09/concept-map-pipes-and-filters-2/
-categories:
+tags:
   - Concept Map
 ---
 [<img class=" wp-image-8590 alignnone" title="Simple concept map for Unix Pipes" alt="Simple concept map for Unix Pipes" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/cmap_kpal-300x211.png" width="270" height="190" />][1]

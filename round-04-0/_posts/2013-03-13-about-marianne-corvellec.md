@@ -2,7 +2,7 @@
 title: About Marianne Corvellec
 author: Marianne Corvellec
 permalink: /2013/03/about-marianne-corvellec/
-categories:
+tags:
   - Biography
 ---
 I am a postdoc in biophysics at McGill University in Montréal, Canada.  

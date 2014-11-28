@@ -2,7 +2,7 @@
 title: 'Concept map: Python Exceptions'
 author: Preston Holmes
 permalink: /2013/05/python-exceptions-concept-map/
-categories:
+tags:
   - Concept Map
 ---
 [exception concept map][1]

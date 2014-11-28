@@ -2,7 +2,7 @@
 title: 'Concept Map: Redirection'
 author: Nathan S. Watson-Haigh
 permalink: /2013/08/concept-map-redirection/
-categories:
+tags:
   - Concept Map
 ---
 Sorry for the late submission of this assignment. I decided to go for teaching redirection rather than pipes because I felt that to introduce pipes would require the introduction of streams and redirection. To teach all this, effectively, in under 10min would be too much. I went with this sort of topic as I think the knowledge of streams and use of pipes is such an under-utilised and underestimated skill.

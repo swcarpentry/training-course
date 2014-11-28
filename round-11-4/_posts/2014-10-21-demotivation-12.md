@@ -2,7 +2,7 @@
 title: Demotivation
 author: Emilia Gan
 permalink: /2014/10/demotivation-12/
-categories:
+tags:
   - Motivation
   - Uncategorized
 tags:

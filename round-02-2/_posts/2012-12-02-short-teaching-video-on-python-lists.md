@@ -2,7 +2,7 @@
 title: Short Teaching Video on Python Lists
 author: Adina Chuang Howe
 permalink: /2012/12/short-teaching-video-on-python-lists/
-categories:
+tags:
   - Video
 ---
 Here I am teaching Python Lists to the husband, roomate, and dogs. We couldn&#8217;t figure out a good way to do this at home so went with a screen shot with my voice so apologies that you can&#8217;t see me actually teaching. 

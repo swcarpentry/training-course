@@ -2,7 +2,7 @@
 title: 'Motivation: build confidence with domain familiarity'
 author: Evan Bianco
 permalink: /2014/02/build-confidence-with-domain-familiarity/
-categories:
+tags:
   - Motivation
 ---
 <p dir="ltr">

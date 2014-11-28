@@ -2,7 +2,7 @@
 title: 'Demotivation: I don&#8217;t even know your face'
 author: Franz Navarro
 permalink: /2014/10/demotivation-i-dont-even-know-your-face/
-categories:
+tags:
   - Motivation
 ---
 During my studies in Chemical Engineering, one of the most discouraging stories that happened to me had to do with the MATLAB/Octave programming language. One of the most challenging subjects in this field is related to chemical reactors’ design. The use of numerical methods to model and simulate chemical reactors is mandatory to fully understand the nature behind this complex subject. So after a first and successful introduction to this topic and MATLAB/Octave, I had a problem with the professor of the second semester.

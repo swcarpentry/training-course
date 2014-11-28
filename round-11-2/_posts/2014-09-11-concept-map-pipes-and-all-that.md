@@ -2,7 +2,7 @@
 title: 'Concept map &#8211; pipes and all that'
 author: Timothee Poisot
 permalink: /2014/09/concept-map-pipes-and-all-that/
-categories:
+tags:
   - Concept Map
 ---
 From here: http://software-carpentry.org/v5/novice/shell/03-pipefilter.html

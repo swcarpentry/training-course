@@ -2,7 +2,7 @@
 title: Multiple choice questions
 author: Aleksandra Pawlik
 permalink: /2013/02/multiple-choice-questions-2/
-categories:
+tags:
   - Proficiency
 ---
 I got myself quite confused with these&#8230; I tested them so they should be fine (I hope!).

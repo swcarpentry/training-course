@@ -2,7 +2,7 @@
 title: 'Reverse Instructional Design &#8211; csvkit'
 author: David Kua
 permalink: /2014/08/reverse-instructional-design-csvkit/
-categories:
+tags:
   - Assessment
 ---
 These questions pertain to the CSV toolkit http://csvkit.readthedocs.org/.

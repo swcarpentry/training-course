@@ -2,7 +2,7 @@
 title: From Concept Maps to Motivation
 author: Greg Wilson
 permalink: /2014/06/from-concept-maps-to-motivation/
-categories:
+tags:
   - Concept Map
   - Motivation
   - round-10-1

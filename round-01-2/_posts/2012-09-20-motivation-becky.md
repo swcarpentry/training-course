@@ -2,7 +2,7 @@
 title: 'Motivation &#8211; Becky'
 author: Becky Stewart
 permalink: /2012/09/motivation-becky/
-categories:
+tags:
   - Motivation
 ---
 ## (De)Motivation Through (Lack of) Feedback: US vs UK Teaching Styles

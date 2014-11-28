@@ -2,7 +2,7 @@
 title: Assessment questions
 author: Amanda Charbonneau
 permalink: /2013/09/assessment-questions/
-categories:
+tags:
   - Assessment
 ---
 Hi all, sorry I&#8217;m running behind this week:

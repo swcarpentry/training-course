@@ -2,7 +2,7 @@
 title: Data Management videos
 author: Shoaib Sufi
 permalink: /2013/08/data-management-videos/
-categories:
+tags:
 ---
 I watched the Data Management videos at http://software-carpentry.org/v4/data/
 

@@ -2,7 +2,7 @@
 title: 'Demotivating learning experience: math edition!'
 author: Sarah Simpkin
 permalink: /2014/07/demotivating-learning-experience-math-edition/
-categories:
+tags:
   - Motivation
 ---
 I grew up in a science-heavy home. My mother was a high school science and math teacher, my father an engineer and geophysicist. As a kid, I benefited from all kinds of privileges: computers in the house since I was a baby, mid-90s internet access from the university where my dad worked, and parents with a good understanding of the higher ed system. I remember being very curious about the web in junior high, and rushing home after school to work on my personal website in the pre-blog era. It was a fun creative outlet and I didn’t feel any pressure to perform.

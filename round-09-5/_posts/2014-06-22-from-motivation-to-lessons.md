@@ -2,7 +2,7 @@
 title: From Motivation to Lessons
 author: Greg Wilson
 permalink: /2014/06/from-motivation-to-lessons/
-categories:
+tags:
   - Lesson
   - Motivation
   - round-09-6

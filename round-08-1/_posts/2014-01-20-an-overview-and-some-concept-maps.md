@@ -2,7 +2,7 @@
 title: An Overview and Some Concept Maps
 author: Greg Wilson
 permalink: /2014/01/an-overview-and-some-concept-maps/
-categories:
+tags:
   - Concept Map
 ---
 **Meeting of the Software Carpentry Instructors Study Group**  

@@ -2,7 +2,7 @@
 title: Motivation
 author: Dhavide Aruliah
 permalink: /2012/09/motivation-3/
-categories:
+tags:
   - Motivation
 ---
 **Motivating:**

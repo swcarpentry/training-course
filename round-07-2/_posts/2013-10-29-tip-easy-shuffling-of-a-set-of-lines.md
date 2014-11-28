@@ -2,7 +2,7 @@
 title: 'Tip: easy shuffling of a set of lines'
 author: Remi Emonet
 permalink: /2013/10/tip-easy-shuffling-of-a-set-of-lines/
-categories:
+tags:
   - Assessment
 ---
 I had to shuffle my mcq answers and I want to share how I did it.

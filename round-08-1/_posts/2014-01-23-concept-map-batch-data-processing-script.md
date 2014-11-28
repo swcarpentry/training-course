@@ -2,7 +2,7 @@
 title: 'Concept Map: Batch data processing script'
 author: Bradley Taber-Thomas
 permalink: /2014/01/concept-map-batch-data-processing-script/
-categories:
+tags:
   - Concept Map
 ---
 The intended audience is behavioral scientists who have data files that need to be processed (e.g., to crunch the data and extract a dependent variable).

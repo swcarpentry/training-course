@@ -2,7 +2,7 @@
 title: 'Motivation &#8211; Matt'
 author: Matt Davis
 permalink: /2012/09/motivation-matt/
-categories:
+tags:
   - Motivation
 ---
 # Motivating Factors

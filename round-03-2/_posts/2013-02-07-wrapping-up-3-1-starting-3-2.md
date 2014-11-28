@@ -2,7 +2,7 @@
 title: Wrapping Up 3.1, Starting 3.2
 author: Greg Wilson
 permalink: /2013/02/wrapping-up-3-1-starting-3-2/
-categories:
+tags:
   - round-03-1
 ---
 **2013-01-18 Meeting of Group 3**

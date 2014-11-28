@@ -2,7 +2,7 @@
 title: 'Demotivation: College Writing'
 author: Matthew Aiello-Lammens
 permalink: /2014/10/demotivation-college-writing/
-categories:
+tags:
   - Motivation
 ---
 The college I attended for my undergraduate degree had a required writing class that every student took in their first year. The work load for this course included about 40 pages of reading and two 2 &#8211; 3 page essays each week. I was then, and still remain, a rather slow writer. But I thought there was great value in learning new writing techniques, and I had done very well in my honors English classes in high school. Thus, to use the parlance of &#8220;How Learning Works&#8221;, I started this course with relatively high efficacy and a high sense of value for the course material. The instructor for the course was an advanced graduate student, and he was enthusiastic about his teaching, but did not feel very approachable to me.

@@ -2,7 +2,7 @@
 title: 'Screencast Idea &#8211; using the right package version'
 author: Chris Holdgraf
 permalink: /2013/07/screencast-idea-using-the-right-package-version/
-categories:
+tags:
 ---
 One of the most common problems I, and those in my lab, run into is having multiple version of a package installed on your machine, and needing to use a particular one. Perhaps you&#8217;ve got Python Canopy installed, and you also install &#8220;NetworkX&#8221; with it. However, what if you&#8217;ve already installed this package with PIP? Which version will you use if you load up python and &#8220;import networkx&#8221;?
 

@@ -2,7 +2,7 @@
 title: 'Screencast proposal: Editing a table to clearly tell a story'
 author: Ted Kirkpatrick
 permalink: /2013/06/screencast-proposal-editing-a-table-to-clearly-tell-a-story/
-categories:
+tags:
 ---
 This screencast will take a table that is competently-organized and improve it to expert level. I&#8217;ll use an actual table (five rows and five columns) from a draft paper that I&#8217;m revising. The current version presents the bare data but does not tell a story. In fact, the key result is difficult to find. The revised version will organize the same data in a way that emphasizes the key result. I&#8217;ll describe the questions I ask myself, the way those questions drive the reformatting, and highlight how the new organization guides the reader&#8217;s eye through the argument.
 

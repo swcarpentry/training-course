@@ -2,7 +2,7 @@
 title: Assessment Questions for List Comprehension Concept Map
 author: Scott Burns
 permalink: /2014/05/assessment-questions-for-list-comprehension-concept-map/
-categories:
+tags:
   - Assessment
 ---
 These questions assess a students understanding of the [list comprehension concept map][1].

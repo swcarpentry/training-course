@@ -2,7 +2,7 @@
 title: 'Concept Map: Handling Physical Quantities'
 author: Mark Betnel
 permalink: /2014/06/concept-map-handling-physical-quantities/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-large wp-image-7861" alt="pint_conceptmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/pint_conceptmap-1024x576.jpeg" width="707" height="397" />][1]This is my concept map for a lesson on using Pint, a python package that defines physical quantities, to handle calculations on numbers that have units and uncertainties.

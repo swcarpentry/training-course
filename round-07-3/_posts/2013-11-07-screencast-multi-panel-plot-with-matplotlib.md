@@ -2,7 +2,7 @@
 title: 'Revised Screencast  Multi-panel plot with matplotlib'
 author: Pauline Barmby
 permalink: /2013/11/screencast-multi-panel-plot-with-matplotlib/
-categories:
+tags:
   - Video
 ---
 Context: I&#8217;m assuming that students have basic familiarity with Python/numpy arrays. Plan is to show how to plot data in multiple subplots, and how to manipulate some plot properties.

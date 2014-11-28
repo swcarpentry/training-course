@@ -2,7 +2,7 @@
 title: Demotivating Learning Experience (x2)
 author: Leonor Garcia-Gutierrez
 permalink: /2014/07/demotivating-learning-experience-14/
-categories:
+tags:
   - Motivation
 ---
 *I thought I would follow Greg&#8217;s example during the last call and write not only about a case when I was demotivated by a teacher, but also a time when I demotivated a student.*

@@ -2,7 +2,7 @@
 title: Writing your first custom R function
 author: Cliburn Chan
 permalink: /2013/08/writing-your-first-custom-r-function/
-categories:
+tags:
   - Concept Map
 ---
 <p style="text-align: center;">

@@ -2,7 +2,7 @@
 title: 'Multiple choice questions: R'
 author: Scott Chamberlain
 permalink: /2013/10/multiple-choice-questions-r/
-categories:
+tags:
   - Assessment
 ---
 **Novice from competent:**

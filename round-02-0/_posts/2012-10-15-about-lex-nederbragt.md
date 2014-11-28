@@ -2,7 +2,7 @@
 title: About Lex Nederbragt
 author: Lex Nederbragt
 permalink: /2012/10/about-lex-nederbragt/
-categories:
+tags:
   - Biography
 ---
 I am a self-taught bioinformatician working with high-throughput sequencing data at Oslo University, Norway. My main project is the assembly of the Atlantic cod genome from short pieces of sequence information. I mainly use unix (shell, awk, a little sed) and perl &#8211; but due to the software carpentry course I am in the process of switching to python. I also teach these langauges locally, and are interested in setting up a local swcarpentry workshop.

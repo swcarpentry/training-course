@@ -9,7 +9,7 @@ enclosure:
         7652531
         video/mp4
         
-categories:
+tags:
   - Video
 ---
 Hi everyone,

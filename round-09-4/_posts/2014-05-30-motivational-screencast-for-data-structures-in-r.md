@@ -2,7 +2,7 @@
 title: Motivational Screencast for Data Structures in R
 author: Jeff Hollister
 permalink: /2014/05/motivational-screencast-for-data-structures-in-r/
-categories:
+tags:
   - Motivation
   - Video
 ---

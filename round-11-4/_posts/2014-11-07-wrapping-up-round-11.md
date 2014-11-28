@@ -2,7 +2,7 @@
 title: Wrapping Up Round 11
 author: Greg Wilson
 permalink: /2014/11/wrapping-up-round-11/
-categories:
+tags:
   - round-11-5
 ---
 In our penultimate online meeting this week, we discussed the demotivational stories people have been posting, walked through the final assignment, and talked a bit about how to run workshops and ways to get involved with Software Carpentry. The notes are below; long story short, the last exercise is:

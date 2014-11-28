@@ -2,7 +2,7 @@
 title: 'Assessment: Creating Things (in the shell)'
 author: Brent Shambaugh
 permalink: /2014/10/assessment-creating-things-in-the-shell/
-categories:
+tags:
   - Assessment
 ---
 Quiz based on http://software-carpentry.org/v5/novice/shell/02-create.html

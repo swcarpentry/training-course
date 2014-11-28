@@ -2,7 +2,7 @@
 title: Demotivating learning experience
 author: Tom
 permalink: /2014/07/demotivating-learning-experience-4/
-categories:
+tags:
   - Motivation
 ---
 I was going to write about I time I was demotivated myself, there have certainly been enough of those. However, since I am certainly not free of sin, I thought it would be easier to write about a time I failed as a teacher.

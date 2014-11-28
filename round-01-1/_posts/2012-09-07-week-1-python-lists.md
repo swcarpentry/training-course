@@ -2,7 +2,7 @@
 title: 'Week 1 &#8211; Python: Lists'
 author: Justin Kitzes
 permalink: /2012/09/week-1-python-lists/
-categories:
+tags:
   - Concept Map
 ---
 **Prepared by Justin Kitzes**

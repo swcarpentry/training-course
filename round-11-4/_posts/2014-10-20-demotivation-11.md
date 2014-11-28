@@ -2,7 +2,7 @@
 title: Demotivation
 author: Andy Teucher
 permalink: /2014/10/demotivation-11/
-categories:
+tags:
   - Motivation
 ---
 All through middle school and high school I was very strong in maths, and I always really enjoyed it, including the introductory calculus course I took in grade 12. Like most science students, I took a calculus class in my fist year of university. It was a terrible experience for me. The material didn&#8217;t seem to link to any maths I had learned before, and I really struggled. The professor was very disengaged, gave little to no context for what we were learning, and delivered his lectures with no enthusiasm (or even really an acknowledgement that there was a class in front of him). I also had a very hard time understanding the professor due to a strong accent. I certainly don&#8217;t place all the blame on the professor: the material was more difficult than I had encountered in high school, and I didn&#8217;t step up my effort accordingly. Also, it was my first time living away from home, and I have to admit I put at least equal emphasis on socializing and drinking beer as I did on school.

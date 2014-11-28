@@ -2,7 +2,7 @@
 title: 'Class Wrap Up &#8211; Matt Davis'
 author: Matt Davis
 permalink: /2012/12/class-wrap-up-matt-davis/
-categories:
+tags:
 ---
 I liked reading and discussing *How Learning Works*. It was fruitful for me to think about what I liked in my past teachers and how I can bring those qualities to my boot camps. Also to have specifically called out &#8220;expert blind spot&#8221; and to learn about strategies for mitigating that. Different people came up with very different responses so it was valuable to see all those.
 

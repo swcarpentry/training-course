@@ -2,7 +2,7 @@
 title: Motivation and Demotivation
 author: Kwasi Kwakwa
 permalink: /2014/02/motivation-and-demotivation/
-categories:
+tags:
   - Motivation
 ---
 <h1 style="text-align: left;">

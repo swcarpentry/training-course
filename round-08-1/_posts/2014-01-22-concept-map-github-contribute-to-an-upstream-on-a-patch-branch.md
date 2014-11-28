@@ -2,7 +2,7 @@
 title: 'Concept Map: Github: Contribute to an upstream on a patch branch'
 author: Anne Moroney
 permalink: /2014/01/concept-map-github-contribute-to-an-upstream-on-a-patch-branch/
-categories:
+tags:
   - Concept Map
 ---
 I apologize I missed last week&#8217;s talk, and having done this I now think I see I was supposed to have only 6 bubbles since it should be something to communicate to others?! I was asking others about this very issue, and indeed now I may be critiqued as well.

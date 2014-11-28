@@ -2,7 +2,7 @@
 title: Audience feedback
 author: Diego Barneche
 permalink: /2013/06/audience-feedback/
-categories:
+tags:
 ---
 I gave a lecture (~75min class) on delooping functions, tracking their speed, debugging and testing. The lecture was planned for biologists/ecologists using R. Five people showed up and they were all familiar with functions and loops in R. They all provided feedback, which I will paste at the bottom of this post. I was quite happy about it as people seemed to understand and follow the ideas thoroughly. I picked the wrong time, though. We started at 3:30pm &#8211; their brains were already tired from their own work, so they got a bit sleepy. I made them have a 15min coffee break at around 4:10pm. They came back better.
 

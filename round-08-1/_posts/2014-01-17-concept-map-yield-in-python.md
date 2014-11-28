@@ -2,7 +2,7 @@
 title: 'Concept map: yield in python'
 author: Jean-Christophe Leyder
 permalink: /2014/01/concept-map-yield-in-python/
-categories:
+tags:
   - Concept Map
 ---
 Here is my concept map, about using the yield statement in a python function.<figure id="attachment_5508" style="width: 707px;" class="wp-caption aligncenter">

@@ -2,7 +2,7 @@
 title: Round 8.4 Wrap-Up
 author: Greg Wilson
 permalink: /2014/03/round-8-4-wrap-up/
-categories:
+tags:
   - Video
 ---
 **Software Carpentry Instructor Training  

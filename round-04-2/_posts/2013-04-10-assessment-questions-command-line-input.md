@@ -2,7 +2,7 @@
 title: Assessment Questions -Command Line Input
 author: Cindee Madison
 permalink: /2013/04/assessment-questions-command-line-input/
-categories:
+tags:
   - Proficiency
 ---
 Assessment Questions based on (but not completely restricted to):

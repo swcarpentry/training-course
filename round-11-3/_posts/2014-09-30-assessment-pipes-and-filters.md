@@ -2,7 +2,7 @@
 title: 'Assessment: Pipes and Filters'
 author: Kate Hertweck
 permalink: /2014/09/assessment-pipes-and-filters/
-categories:
+tags:
   - Assessment
 ---
 From lesson here: http://software-carpentry.org/v5/novice/shell/03-pipefilter.html

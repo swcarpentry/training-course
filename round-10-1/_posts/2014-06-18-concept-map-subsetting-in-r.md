@@ -2,7 +2,7 @@
 title: 'Concept Map: Subsetting in R'
 author: Chelsea Chisholm
 permalink: /2014/06/concept-map-subsetting-in-r/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-7791" alt="image" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/image-e1403100396113-212x300.jpg" width="212" height="300" />][1]

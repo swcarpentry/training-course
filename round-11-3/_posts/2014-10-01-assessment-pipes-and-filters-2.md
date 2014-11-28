@@ -2,7 +2,7 @@
 title: 'Assessment: Pipes and Filters'
 author: Logan Cox
 permalink: /2014/10/assessment-pipes-and-filters-2/
-categories:
+tags:
   - Assessment
 ---
 The following two activities are based on the [Pipes and Filters][1] lesson.

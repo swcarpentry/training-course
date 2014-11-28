@@ -2,7 +2,7 @@
 title: Wrapping Up Concept Maps, Starting on Evaluation Questions
 author: Greg Wilson
 permalink: /2013/08/wrapping-up-concept-maps-starting-on-evaluation-questions/
-categories:
+tags:
   - Assessment
   - Concept Map
   - round-06-1

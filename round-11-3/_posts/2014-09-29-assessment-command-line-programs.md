@@ -2,7 +2,7 @@
 title: 'Assessment: Command-Line Programs'
 author: Isabelle Laforest
 permalink: /2014/09/assessment-command-line-programs/
-categories:
+tags:
   - Assessment
 ---
 <span style="color: #000000;"><strong>Multiple Choice Question</strong></span>

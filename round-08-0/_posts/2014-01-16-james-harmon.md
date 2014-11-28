@@ -2,7 +2,7 @@
 title: James Harmon
 author: James Harmon
 permalink: /2014/01/james-harmon/
-categories:
+tags:
   - Biography
 ---
 I&#8217;m an Android developer living in the Chicago area. The app I&#8217;m currently working on uses an Android tablet as the front end for some industrial equipment. 

@@ -2,7 +2,7 @@
 title: Assessment for list comprehensions
 author: Jonathan Frederic
 permalink: /2014/05/assessment-for-list-comprehensions/
-categories:
+tags:
   - Assessment
 ---
 \# List comprehension assesment

@@ -2,7 +2,7 @@
 title: 'Round 2.1 &#8211; nested for loops'
 author: Lex Nederbragt
 permalink: /2012/10/round-2-1-nested-for-loops/
-categories:
+tags:
   - Concept Map
 ---
 I picked &#8216;nested for loops&#8217; as my topic (book/python.html#s:nestloop and <http://software-carpentry.org/2012/10/key-points/>). Thanks a lot Ross, for pointing to cmap, it is a great little program. Here is my first throw at a concept map.

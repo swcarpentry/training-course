@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Python Slicing'
 author: Kwasi Kwakwa
 permalink: /2013/11/assessment-questions-python-slicing/
-categories:
+tags:
   - Assessment
 ---
 #### **Novice question:** If *x* = [0, 1, 2, 3, 4, 5, 6, 7] and y = *x*[1:-1], what values does y contain?

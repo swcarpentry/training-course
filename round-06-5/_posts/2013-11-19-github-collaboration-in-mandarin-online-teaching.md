@@ -2,7 +2,7 @@
 title: GitHub Collaboration (in Mandarin) – Online teaching
 author: Yuxi Luo
 permalink: /2013/11/github-collaboration-in-mandarin-online-teaching/
-categories:
+tags:
   - Lesson
   - Teaching
 ---

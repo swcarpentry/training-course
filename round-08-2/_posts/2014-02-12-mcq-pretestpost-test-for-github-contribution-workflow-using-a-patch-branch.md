@@ -2,7 +2,7 @@
 title: 'MCQ: Pretest/Post-test for Github Contribution Workflow using a Patch Branch.'
 author: Anne Moroney
 permalink: /2014/02/mcq-pretestpost-test-for-github-contribution-workflow-using-a-patch-branch/
-categories:
+tags:
   - Assessment
 ---
 Context; Learning goal is to be able to work locally, using a special patch branch, to contribute fixing of an issue to an open source project. An example of a repo with tichets is our own [https://github.com/swcarpentry/bc/issues][1] .  For the concept map of the course syllabus, see [http://teaching.software-carpentry.org/2014/01/22/concept-map-github-contribute-to-an-upstream-on-a-patch-branch/][2]

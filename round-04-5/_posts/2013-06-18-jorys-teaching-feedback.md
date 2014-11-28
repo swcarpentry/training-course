@@ -2,7 +2,7 @@
 title: 'Jory&#8217;s Teaching Feedback'
 author: Jorden Schossau
 permalink: /2013/06/jorys-teaching-feedback/
-categories:
+tags:
 ---
 **Topic & Goal**  
 I chose the Command Line and wanted to both get novices comfortable, able to solve their own problems, and provide moderate users with new powerful techniques. I chose to take some ideas from SW Carpentry and add my own with some rearrangement to emphasize basic commands along with detailed explanation and liberal use of man pages for learning and problem solving.

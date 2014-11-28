@@ -2,7 +2,7 @@
 title: Dictionaries vs Lists in Python
 author: Alex Viana
 permalink: /2012/11/dictionaries-vs-lists-in-python/
-categories:
+tags:
   - Video
 ---
 Hi, here is my short teaching video. I chose to discuss the differences between dictionaries and lists in Python. Sorry that Photobooth mirrors the image so the text is backwards.

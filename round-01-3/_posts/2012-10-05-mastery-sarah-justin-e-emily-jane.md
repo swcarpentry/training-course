@@ -2,7 +2,7 @@
 title: 'Mastery- Sarah, Justin E., Emily Jane (Wild Watermelon)'
 author: Emily Jane McTavish
 permalink: /2012/10/mastery-sarah-justin-e-emily-jane/
-categories:
+tags:
   - Proficiency
 ---
 Wild Watermelon

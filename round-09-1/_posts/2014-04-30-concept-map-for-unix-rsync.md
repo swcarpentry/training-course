@@ -2,7 +2,7 @@
 title: Concept Map for unix rsync
 author: Scott Burns
 permalink: /2014/04/concept-map-for-unix-rsync/
-categories:
+tags:
   - Concept Map
 ---
 `rsync` is a conceptually simple command. Both the source (what we want to move) and the destination (where we want it) have specific locations. Locations are defined by a host and path on that host.

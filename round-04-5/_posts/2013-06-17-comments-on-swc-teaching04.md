@@ -2,7 +2,7 @@
 title: Comments on SWC Teaching04
 author: Diego Barneche
 permalink: /2013/06/comments-on-swc-teaching04/
-categories:
+tags:
 ---
 I have to say that I really learned a lot of things from this training. Surely some things will be more useful in the future than others, but the overall picture is quite positive in my opinion.
 

@@ -2,7 +2,7 @@
 title: 'Round 2.1: Filters and pipes'
 author: Henry Chong
 permalink: /2012/11/round-2-1-filters-and-pipes/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="aligncenter size-full wp-image-966" title="concept map for Filters and pipes" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/11/conceptMap2-1small1.png" alt="" width="756" height="446" />][1]

@@ -2,7 +2,7 @@
 title: Assessment Questions for List Comprehension
 author: Stefan Pfenninger
 permalink: /2014/05/assessment-questions-for-list-comprehension/
-categories:
+tags:
   - Assessment
 ---
 Assessment questions for the [list comprehension concept map][1].

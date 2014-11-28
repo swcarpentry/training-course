@@ -2,7 +2,7 @@
 title: python while-loop
 author: Asela Wijeratne
 permalink: /2014/10/python-while-loop-2/
-categories:
+tags:
   - Assessment
 ---
 Q1:

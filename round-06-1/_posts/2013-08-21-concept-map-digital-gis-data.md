@@ -2,7 +2,7 @@
 title: 'Concept Map: Digital GIS Data'
 author: Jonah Duckles
 permalink: /2013/08/concept-map-digital-gis-data/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-4010" alt="jduckles_ConceptMapSC" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/jduckles_ConceptMapSC.png" />][1]

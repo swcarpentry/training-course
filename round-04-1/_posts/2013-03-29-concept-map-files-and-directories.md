@@ -2,7 +2,7 @@
 title: 'Concept Map &#8211; Files and Directories'
 author: Sheera Adar
 permalink: /2013/03/concept-map-files-and-directories/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-2000" alt="CM-FilesAndDirectories" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/03/CM-FilesAndDirectories-300x231.jpg" width="300" height="231" />][1]

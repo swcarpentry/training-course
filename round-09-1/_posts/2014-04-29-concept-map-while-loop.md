@@ -2,7 +2,7 @@
 title: 'Concept Map &#8211; While loop'
 author: Graham Etherington
 permalink: /2014/04/concept-map-while-loop/
-categories:
+tags:
   - Concept Map
 ---
 &nbsp;

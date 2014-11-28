@@ -2,7 +2,7 @@
 title: 'MCQ: Unix sort'
 author: Sheldon McKay
 permalink: /2014/02/mcq-unix-sort/
-categories:
+tags:
   - Assessment
 ---
 Consider a tab delimited text file ***list.txt</b>*, containing the lines below:</p> 

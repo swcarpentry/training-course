@@ -2,7 +2,7 @@
 title: 'Concept Map &#8212; Git Branching'
 author: François Michonneau
 permalink: /2014/09/concept-map-git-branching/
-categories:
+tags:
   - Concept Map
 ---
 Sorry for the delay I was at a hachathon this past week.

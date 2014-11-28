@@ -2,7 +2,7 @@
 title: 'Round 2.1 &#8211; Strings (in Python)'
 author: Jason Pell
 permalink: /2012/10/round-2-1-strings-in-python/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-810" title="String Concept Map" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/10/stringconceptmap-300x260.png" alt="" width="300" height="260" />][1]

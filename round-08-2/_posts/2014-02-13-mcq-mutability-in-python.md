@@ -2,7 +2,7 @@
 title: 'MCQ: Mutability in Python'
 author: Simon Belluzzo
 permalink: /2014/02/mcq-mutability-in-python/
-categories:
+tags:
   - Assessment
 ---
 I missed the meeting, so I may have some bits slightly wrong; if so, please do let me know!

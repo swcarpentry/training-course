@@ -2,7 +2,7 @@
 title: 'Demotivation: You don&#8217;t belong here'
 author: Jonathan Gross
 permalink: /2014/10/demotivation-you-dont-belong-here/
-categories:
+tags:
   - Motivation
 ---
 The most blatantly demotivating experience I&#8217;ve had occurred while I was visiting colleges for undergrad. I was looking to stay in state, so I had applied to the three in state schools. When I went to visit each school, I had to visit the colleges of engineering and fine arts, since I wanted to pursue dual degrees in piano performance and computer engineering. Upon hearing this, the representatives at two of the schools showed enthusiasm for my plan and willingness to help me overcome hurdles like conflicting times for required classes.

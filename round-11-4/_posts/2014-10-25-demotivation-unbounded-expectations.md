@@ -2,7 +2,7 @@
 title: 'Demotivation: Unbounded Expectations'
 author: James Hiebert
 permalink: /2014/10/demotivation-unbounded-expectations/
-categories:
+tags:
   - Motivation
 ---
 I came into grad school straight out of undergrad having had much academic success, but no undergraduate research experience of which to speak. During my first year of grad school, I was searching for a single research topic and advisor amongst my many interests. Much of this exploration was meetings with professors to discuss their core research areas. However, I thought that one could gain a much deeper understanding of their areas of expertise by taking course offerings taught by the professors in their core research area.

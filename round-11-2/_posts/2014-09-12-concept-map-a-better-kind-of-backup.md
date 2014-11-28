@@ -2,7 +2,7 @@
 title: 'Concept Map: A Better Kind of Backup'
 author: Dmitri Novikov
 permalink: /2014/09/concept-map-a-better-kind-of-backup/
-categories:
+tags:
   - Concept Map
 ---
 I started drawing my map and realized the lesson is a tad too big, so I modified a bit (the map, not the lesson).

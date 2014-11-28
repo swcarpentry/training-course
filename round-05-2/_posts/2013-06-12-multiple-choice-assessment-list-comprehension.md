@@ -2,7 +2,7 @@
 title: 'Multiple choice assessment: List comprehension'
 author: Karmel Allison
 permalink: /2013/06/multiple-choice-assessment-list-comprehension/
-categories:
+tags:
   - Proficiency
 ---
 1. Which of the following will raise an exception?

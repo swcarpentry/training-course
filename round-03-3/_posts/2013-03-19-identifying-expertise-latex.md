@@ -2,7 +2,7 @@
 title: 'Identifying Expertise: LaTeX'
 author: Kirsten Robinson
 permalink: /2013/03/identifying-expertise-latex/
-categories:
+tags:
   - Proficiency
 ---
 **Distinguising those who are competent from novices**

@@ -2,7 +2,7 @@
 title: 'Concept Map &#8211; creation and deletion'
 author: April Wright
 permalink: /2013/03/concept-map-creation-and-deletion/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-1993" alt="conceptmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/03/conceptmap-300x225.png" width="300" height="225" />][1]

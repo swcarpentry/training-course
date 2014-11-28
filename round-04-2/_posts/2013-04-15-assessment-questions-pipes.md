@@ -2,7 +2,7 @@
 title: 'Assessment questions: pipes'
 author: Amanda Whitlock
 permalink: /2013/04/assessment-questions-pipes/
-categories:
+tags:
   - Proficiency
 ---
 This is based on a concept map about pipes from a previous round.

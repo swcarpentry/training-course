@@ -2,7 +2,7 @@
 title: 'Multiple choice questions: Manipulating Python lists'
 author: Samuel Thomson
 permalink: /2013/10/multiple-choice-questions-manipulating-python-lists/
-categories:
+tags:
   - Assessment
 ---
 **A) Competent from Novice:**

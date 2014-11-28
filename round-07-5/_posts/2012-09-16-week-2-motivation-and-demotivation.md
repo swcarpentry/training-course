@@ -2,7 +2,7 @@
 title: Motivation and Demotivation
 author: Greg Wilson
 permalink: /2012/09/week-2-motivation-and-demotivation/
-categories:
+tags:
   - Motivation
   - round-01-2
 ---

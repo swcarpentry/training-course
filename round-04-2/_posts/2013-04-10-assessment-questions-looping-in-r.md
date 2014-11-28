@@ -2,7 +2,7 @@
 title: 'Assessment questions &#8211; Looping in R'
 author: Daniel Noble
 permalink: /2013/04/assessment-questions-looping-in-r/
-categories:
+tags:
   - Proficiency
 ---
 These questions are based on Alex&#8217;s concept map about [looping in R][1].

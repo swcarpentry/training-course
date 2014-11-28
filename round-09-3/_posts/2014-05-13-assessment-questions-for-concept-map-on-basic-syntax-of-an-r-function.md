@@ -2,7 +2,7 @@
 title: Assessment Questions for Concept Map on Basic Syntax of an R Function
 author: Jon Duncan
 permalink: /2014/05/assessment-questions-for-concept-map-on-basic-syntax-of-an-r-function/
-categories:
+tags:
   - Assessment
 ---
 1. What does the following function

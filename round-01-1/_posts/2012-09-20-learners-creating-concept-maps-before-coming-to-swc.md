@@ -2,7 +2,7 @@
 title: Learners creating concept maps before coming to SWC
 author: Tracy Teal
 permalink: /2012/09/learners-creating-concept-maps-before-coming-to-swc/
-categories:
+tags:
   - Concept Map
 ---
 Last week in the discussion, we brought up the idea of learners creating a concept map of their own research and bringing that to the first day of class.  Then the learners can see where, in their concept map of their research, SWC principles can fit in.  The idea would be to be able to integrate SWC concepts into a learner&#8217;s existing framework.  Additionally, teachers could start the class by looking at people&#8217;s concept maps.  Then we would have an idea of where people were coming from.  We also might be able to create groups based on people having similar concept maps, or similar types of situations where SWC concepts could apply.

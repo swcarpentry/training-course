@@ -2,7 +2,7 @@
 title: 'Concept map &#038; questions: Permissions'
 author: Geoff Oxberry
 permalink: /2013/02/concept-map-questions-permissions/
-categories:
+tags:
   - Concept Map
 ---
 [Scan Feb 1, 2013, 2_53 AM][1]

@@ -2,7 +2,7 @@
 title: 'Round 2.1 &#8211; How Functions Work'
 author: Aleksandra Pawlik
 permalink: /2012/10/round-2-1-how-functions-work/
-categories:
+tags:
   - Concept Map
 ---
 I will deal with on the concept of functions explaining how they work (with examples in Python).

@@ -2,7 +2,7 @@
 title: Demotivating learning experience
 author: Johnny Lin
 permalink: /2014/07/demotivating-learning-experience-12/
-categories:
+tags:
   - Motivation
 ---
 Every instance in my educational history I could think of where I was demotivated had something to do with a class or task that I did not succeed or do well in.  In some cases I received criticism from the instructor while in others the instructor was not a participant in my working through my failing at a task (in the latter cases, sometimes I wished they had helped me somehow).  When the instructor did provide criticism, it was always justified and accurate (i.e., I really did mess up).

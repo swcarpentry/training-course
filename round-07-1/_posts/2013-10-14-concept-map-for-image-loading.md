@@ -2,7 +2,7 @@
 title: Concept Map for Image Loading
 author: Luis Pedro Coelho
 permalink: /2013/10/concept-map-for-image-loading/
-categories:
+tags:
   - Concept Map
 ---
 Teaching loading (biological) image loading from a file on disk. 

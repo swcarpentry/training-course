@@ -2,7 +2,7 @@
 title: Tales of Motivation
 author: Bill Mills
 permalink: /2014/02/tales-of-motivation/
-categories:
+tags:
   - Motivation
 ---
 <p dir="ltr">

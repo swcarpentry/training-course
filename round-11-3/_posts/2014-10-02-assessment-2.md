@@ -2,7 +2,7 @@
 title: 'Assessment: Relative paths, absolute paths, and the home directory'
 author: Lauren Michael
 permalink: /2014/10/assessment-2/
-categories:
+tags:
   - Assessment
 ---
 Pertaining to the [Files and Directories][1] section of [Unix Shell][2].

@@ -2,7 +2,7 @@
 title: 'Motivation: Collaborative writing using version control'
 author: Joshua Adelman
 permalink: /2014/02/motivation-collaborative-writing-using-version-control/
-categories:
+tags:
   - Motivation
 ---
 While we usually advocate the use of version control in the context of best software development practices, it is a powerful tool whose utility has transformed the way that I write papers. As a graduate student, the latest version of a draft was transmitted between collaborators via email, with ever lengthening file names that attempted to distinguish one set of revisions from the last. Later services like Dropbox provided an easy way to collect these documents in one location, but the shared folder still filled up with dozens of versions since editing the same file generated conflict copies. Alternatively, we&#8217;d exchange hurried emails that would say something like &#8220;I&#8217;m working on v12. I&#8217;ll email again when I close it so you can make changes&#8221;. Tracking down what changes had been made required logging onto a website and downloading a saved copy that Dropbox deleted after some period of time. In many ways, this only felt like a marginal improvement over the old way of conducting business over email. It was frustrating and ugly.

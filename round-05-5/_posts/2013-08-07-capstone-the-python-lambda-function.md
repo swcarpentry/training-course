@@ -2,7 +2,7 @@
 title: 'Capstone—The Python &#8220;lambda&#8221; function.'
 author: Neal Davis
 permalink: /2013/08/capstone-the-python-lambda-function/
-categories:
+tags:
 ---
 I propose covering the basic theory and uses of the Python `lambda` keyword, used to create anonymous functions. This one will stretch me a little and force me to clarify my own inchoate understanding of anonymous functions. I won&#8217;t focus on `lambda`-specific uses (i.e., I may include things that you could in principle do in other Pythonic ways like list comprehensions), but will focus on the notion of passing a function and how this can be clearer and easier to follow in the end even if it&#8217;s a little wonky to think about too hard in the beginning.<figure id="attachment_3979" style="width: 636px;" class="wp-caption alignnone">
 

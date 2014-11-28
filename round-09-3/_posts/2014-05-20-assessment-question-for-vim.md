@@ -2,7 +2,7 @@
 title: Assessment question for vim
 author: Yu-Ching Shih
 permalink: /2014/05/assessment-question-for-vim/
-categories:
+tags:
   - Assessment
 ---
 These questions are based on Chandler Wilkerson&#8217;s [concept map ][1]of &#8220;Editing with vi&#8221;

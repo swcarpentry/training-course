@@ -2,7 +2,7 @@
 title: gitignore
 author: Pauline Barmby
 permalink: /2013/12/gitignore/
-categories:
+tags:
   - Online
   - Teaching
 ---

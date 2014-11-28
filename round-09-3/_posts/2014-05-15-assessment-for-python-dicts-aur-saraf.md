@@ -2,7 +2,7 @@
 title: Assessment for python dicts (Aur Saraf)
 author: Aur Saraf
 permalink: /2014/05/assessment-for-python-dicts-aur-saraf/
-categories:
+tags:
   - Assessment
   - round-09-2
 ---

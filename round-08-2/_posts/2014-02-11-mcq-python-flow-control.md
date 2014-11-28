@@ -2,7 +2,7 @@
 title: 'MCQ: Python Flow-Control'
 author: Daniel Chen
 permalink: /2014/02/mcq-python-flow-control/
-categories:
+tags:
   - Assessment
 ---
 which of the following will only print &#8220;hello world&#8221; exactly 3 times?

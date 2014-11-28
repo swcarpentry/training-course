@@ -2,7 +2,7 @@
 title: 'Week 1- Input/Output in Python'
 author: Emily Jane McTavish
 permalink: /2012/09/week-1-inputoutput-in-python/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-large wp-image-231" title="IOconceptmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/IOconceptmap-1024x768.png" alt="" width="707" height="530" />][1]

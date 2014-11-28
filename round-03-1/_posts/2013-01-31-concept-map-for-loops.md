@@ -2,7 +2,7 @@
 title: 'Concept map: For loops'
 author: Karthik Ram
 permalink: /2013/01/concept-map-for-loops/
-categories:
+tags:
   - Concept Map
 ---
 Here is my version of a simple concept map explaining when to use a for loop.

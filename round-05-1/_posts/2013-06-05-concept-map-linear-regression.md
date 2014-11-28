@@ -2,7 +2,7 @@
 title: 'Concept Map &#8211; Linear Regression'
 author: Chris Holdgraf
 permalink: /2013/06/concept-map-linear-regression/
-categories:
+tags:
   - Concept Map
 ---
 Hey folks &#8211; here is a quick concept map that I put together on linear regression.  Building an explicit map out of my memory for this technique made me realize that it was much more complicated that I had initially assumed.  I could have filled up an entire wall with stuff related to linear regression!  I tried to focus on the basics for how to do regression as well as what it might be used for &#8211; obviously there&#8217;s a ton of stuff left out!

@@ -2,7 +2,7 @@
 title: Motivation
 author: Ben Waugh
 permalink: /2012/09/motivation-2/
-categories:
+tags:
   - Motivation
 ---
 ## Motivation and Software Carpentry {#MotivationandSoftwareCarpentry}

@@ -9,7 +9,7 @@ enclosure:
         21728500
         video/quicktime
         
-categories:
+tags:
   - Video
 ---
 A few experice dooing this screencast:

@@ -2,7 +2,7 @@
 title: Against Concept Maps
 author: Itamar Turner-Trauring
 permalink: /2013/05/against-concept-maps/
-categories:
+tags:
   - Concept Map
 ---
 My first reaction to concept maps was strong dislike, and further thought has not improved my opinion. I suspect my dislike is due to concept maps&#8217; lack of structure, with the edges and vertices having no consistent meaning. I hypothesize that:

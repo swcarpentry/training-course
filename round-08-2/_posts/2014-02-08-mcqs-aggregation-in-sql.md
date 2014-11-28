@@ -2,7 +2,7 @@
 title: 'MCQs: Aggregation in SQL'
 author: Robert Beagrie
 permalink: /2014/02/mcqs-aggregation-in-sql/
-categories:
+tags:
   - Assessment
   - SQL
 ---

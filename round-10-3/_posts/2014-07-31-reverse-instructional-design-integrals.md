@@ -2,7 +2,7 @@
 title: 'Reverse Instructional Design &#8211; Integrals'
 author: Paulina Lach
 permalink: /2014/07/reverse-instructional-design-integrals/
-categories:
+tags:
   - Assessment
 ---
 1. Which of the following functions is an antiderivative of the function f(x) = x ?  

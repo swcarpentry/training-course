@@ -2,7 +2,7 @@
 title: 'Round 10: Introductions and Concept Maps'
 author: Greg Wilson
 permalink: /2014/06/round-10-introductions-and-concept-maps/
-categories:
+tags:
   - Concept Map
   - round-10-0
 ---

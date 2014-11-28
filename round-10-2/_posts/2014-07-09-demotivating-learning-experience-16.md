@@ -2,7 +2,7 @@
 title: Demotivating learning experience
 author: Luiz Irber
 permalink: /2014/07/demotivating-learning-experience-16/
-categories:
+tags:
   - Motivation
 ---
 I had a friend during college who wanted to learn German. I thought it would be an interesting experience, and so we started searching for a language school. We choose one after talking with the teacher. He was an engineer who went to Germany for a year during his PhD and decided to give German lessons while he was looking for a job.

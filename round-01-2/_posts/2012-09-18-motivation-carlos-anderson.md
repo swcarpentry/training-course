@@ -2,7 +2,7 @@
 title: Motivation – Carlos Anderson
 author: Carlos Anderson
 permalink: /2012/09/motivation-carlos-anderson/
-categories:
+tags:
   - Motivation
 ---
 **Motivating**

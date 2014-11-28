@@ -2,7 +2,7 @@
 title: Simple creation of namedtuple containers
 author: David Schryer
 permalink: /2014/03/simple-creation-of-namedtuple-containers/
-categories:
+tags:
   - Python
   - Video
 ---

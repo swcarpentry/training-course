@@ -2,7 +2,7 @@
 title: Leszek Tarkowski
 author: Leszek Tarkowski
 permalink: /2013/08/leszek-tarkowski/
-categories:
+tags:
   - Biography
 ---
 I&#8217;m running a small company [czterybity.pl][1] (in polish: four bits) focused on teaching C, C++ and Python. I&#8217;m cooperating with another small company &#8211; [infotraining.pl][2], but I&#8217;m afraid both web pages are currently polish-only.

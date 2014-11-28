@@ -2,7 +2,7 @@
 title: Motivating scientists to learn how to use databases
 author: Abigail Cabunoc
 permalink: /2014/02/motivating-scientists-to-learn-how-to-use-databases/
-categories:
+tags:
   - Motivation
   - round-08-0
 ---

@@ -2,7 +2,7 @@
 title: 'MCQ and exercise, &#8216;find&#8217; command'
 author: Jeramia Ory
 permalink: /2014/02/mcq-and-exercise-find-command/
-categories:
+tags:
   - Assessment
 ---
 Question for distinguishing novice from expert:

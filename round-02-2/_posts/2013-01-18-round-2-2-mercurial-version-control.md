@@ -2,7 +2,7 @@
 title: 'Round 2.2 &#8211; Mercurial Version Control'
 author: Aleksandra Pawlik
 permalink: /2013/01/round-2-2-mercurial-version-control/
-categories:
+tags:
   - Video
 ---
 [This is posted way, way too late and there aren&#8217;t really any good excuses for me. But as some say, better late than never.]

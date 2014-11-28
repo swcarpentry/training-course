@@ -2,7 +2,7 @@
 title: Motivation stories
 author: David Worth
 permalink: /2014/02/motivation-stories-3/
-categories:
+tags:
   - Motivation
 ---
 **Demotivation first**

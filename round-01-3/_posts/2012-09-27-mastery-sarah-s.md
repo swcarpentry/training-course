@@ -2,7 +2,7 @@
 title: 'Mastery &#8211; Sarah Supp'
 author: Sarah Supp
 permalink: /2012/09/mastery-sarah-s/
-categories:
+tags:
   - Proficiency
 ---
 I found this exercise was helpful for me to think about what I need to learn, what I know how to do, but don&#8217;t actually do, and what I&#8217;m actually OK at, in addition to the stated goal &#8212; to think about what new Software Carpentry learners want to learn. I know continue to learn a lot, so it&#8217;s been interesting to see what each person thinks someone at each level should know! I think the questions I came up with agree well with what others have had to say so far, with maybe a few small additions. The answers are pretty general and lack detail, so feel free to chip in with comments!

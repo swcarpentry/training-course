@@ -2,7 +2,7 @@
 title: Assessment on Shell Paths
 author: Jacob Levernier
 permalink: /2014/05/assessment-on-shell-paths/
-categories:
+tags:
   - Assessment
 ---
 These questions are based on Devasena&#8217;s [map on shell paths][1].

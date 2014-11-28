@@ -2,7 +2,7 @@
 title: 'Concept Map: For loops'
 author: Scott Chamberlain
 permalink: /2013/10/concept-map-for-loops-2/
-categories:
+tags:
   - Concept Map
 ---
 A basic intro to generic for loops.

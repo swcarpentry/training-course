@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Loading functions from file'
 author: Marianne Corvellec
 permalink: /2013/04/assessment-questions-loading-functions-from-file/
-categories:
+tags:
   - Proficiency
 ---
 I chose the following concept map: http://teaching.software-carpentry.org/2013/03/29/concept-map-loading-functions-from-file/

@@ -2,7 +2,7 @@
 title: Assessment Questions
 author: Richard Barnes
 permalink: /2013/11/assessment-questions-2/
-categories:
+tags:
   - Assessment
 ---
 **Novice from Competent:**

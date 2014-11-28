@@ -2,7 +2,7 @@
 title: 'Reverse Instructional Design &#8211; Python Generators'
 author: Francisco Palm
 permalink: /2014/08/reverse-instructional-design-python-generators/
-categories:
+tags:
   - Assessment
 tags:
   - generators

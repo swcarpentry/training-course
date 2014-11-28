@@ -2,7 +2,7 @@
 title: 'Round 1.4: Actions of + (Azalee)'
 author: Azalee Bostroem
 permalink: /2012/11/round-1-4-actions-of-azalee/
-categories:
+tags:
   - Lesson
 ---
 1.  I&#8217;m actually very torn about the idea of using the notebook in front of the class unless they are also using the notebook. I think that it can be important for what you do in front of them to look exactly like what they do. If the whole class were using the ipython notebook, then I would start them with a paired down version of the markdown text (maybe the comments and questions but not all of the explanation). I would however, type all of the examples. I find it important for me to actually type things rather than just watching someone else type. I also find that having to type things out slows me down a bit which can be important to really allow students to follow what is going on. I&#8217;ve also done this as an exercise which we then come together and talk about.

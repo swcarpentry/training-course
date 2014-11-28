@@ -2,7 +2,7 @@
 title: 'Screencast: How to manage .bib files in a central location for TeXLive with Mendeley'
 author: Joon Ro
 permalink: /2014/03/screencast-how-to-manage-bib-files-in-a-central-location-for-texlive-with-mendeley/
-categories:
+tags:
   - Video
 ---
 In this screencast, I show how to use Mendeley reference manager to automatically generate bib files into a centralized folder where latex can find so you don&#8217;t have to manage them manually.

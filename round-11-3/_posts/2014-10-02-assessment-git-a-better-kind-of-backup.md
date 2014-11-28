@@ -2,7 +2,7 @@
 title: 'Assessment – Git: A Better Kind of Backup'
 author: Jonathan Gross
 permalink: /2014/10/assessment-git-a-better-kind-of-backup/
-categories:
+tags:
   - Assessment
 ---
 You just finished editing the file main.py (already tracked by git) and created a new file functions.py that you want git to track. What command(s) will save all these changes to the repository?

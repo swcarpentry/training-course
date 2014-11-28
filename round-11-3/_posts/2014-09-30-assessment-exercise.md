@@ -2,7 +2,7 @@
 title: 'Assessment Exercise: Analyzing Patient Data'
 author: Jeremy Metz
 permalink: /2014/09/assessment-exercise/
-categories:
+tags:
   - Assessment
 ---
 ## Question 1:

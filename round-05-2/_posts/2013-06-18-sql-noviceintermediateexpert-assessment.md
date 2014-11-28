@@ -2,7 +2,7 @@
 title: SQL novice/intermediate/expert assessment
 author: David Merand
 permalink: /2013/06/sql-noviceintermediateexpert-assessment/
-categories:
+tags:
 ---
 Which one of the following database objects is used to store information about entities:
 

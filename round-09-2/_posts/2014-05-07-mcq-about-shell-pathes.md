@@ -2,7 +2,7 @@
 title: MCQ about shell pathes
 author: Michael Schliephake
 permalink: /2014/05/mcq-about-shell-pathes/
-categories:
+tags:
   - Assessment
 ---
 **A path describes the location of an object in a file system. What is an &#8220;absolute path&#8221; to the file &#8220;chapter1.html&#8221;?**  

@@ -2,7 +2,7 @@
 title: 'Assessment exercise: Git'
 author: Radovan Bast
 permalink: /2014/09/assessment-exercise-git/
-categories:
+tags:
   - Assessment
 ---
 **1. What is the correct Git command to undo uncommitted changes to the tracked file sort.py?**

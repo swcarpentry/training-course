@@ -2,7 +2,7 @@
 title: 'Concept Map: Automating Data Processing'
 author: Nicolas Saunier
 permalink: /2013/08/concept-map-automating-data-processing/
-categories:
+tags:
   - Concept Map
 ---
 <p style="text-align: center;">

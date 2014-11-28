@@ -2,7 +2,7 @@
 title: Screencast idea proposal
 author: Luke Lee
 permalink: /2013/06/screencast-idea-proposal/
-categories:
+tags:
 ---
 My short 3 minute screencast is going to show students how to:
 

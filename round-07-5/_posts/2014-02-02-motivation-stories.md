@@ -2,7 +2,7 @@
 title: Motivation stories
 author: David Jones
 permalink: /2014/02/motivation-stories/
-categories:
+tags:
   - Motivation
 ---
 **Learning red-black trees as a functional data structure.  

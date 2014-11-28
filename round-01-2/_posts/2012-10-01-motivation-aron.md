@@ -2,7 +2,7 @@
 title: 'Motivation &#8211; Aron'
 author: Aron Ahmadia
 permalink: /2012/10/motivation-aron/
-categories:
+tags:
   - Motivation
 ---
 **Motivation**

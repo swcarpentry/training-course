@@ -2,7 +2,7 @@
 title: 'Assessment: Floating Point Representations'
 author: Bogdan Vera
 permalink: /2013/04/assessment-floating-point-representations/
-categories:
+tags:
   - Proficiency
 ---
 Interesting exercise, I seemed to have more trouble coming up with the simpler ones.

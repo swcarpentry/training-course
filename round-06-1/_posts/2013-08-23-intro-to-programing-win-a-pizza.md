@@ -2,7 +2,7 @@
 title: 'Concept Map: Win a pizza'
 author: Mark Laufersweiler
 permalink: /2013/08/intro-to-programing-win-a-pizza/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-4093" alt="AcrobatScreenSnapz001" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/AcrobatScreenSnapz001-300x206.png" width="300" height="206" />][1]

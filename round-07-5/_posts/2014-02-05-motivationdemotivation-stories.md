@@ -2,7 +2,7 @@
 title: Motivation/demotivation stories
 author: Remi Emonet
 permalink: /2014/02/motivationdemotivation-stories/
-categories:
+tags:
   - Motivation
 ---
 When I was a student, I used to try to program some games. Once, learning how to program 3D games, I discovered an amazing domain (or a part of it) called “projective geometry”. At the time, I was struck by it and an idea started to grow: I had to “teach” it by creating some practical exercises introducing the concept. This became my motivation and it triggered a whole lot of learning. I learned a lot on the subject (as we always do when teaching) but I also learned a lot of tools, including LaTeX. Analyzing the motivation factor, it is probably that I felt I just discovered the existence of something so important that sharing it with other people became a mission <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> (actually, my document was never widely distributed ;)). Analyzing the learning, what I needed to learn was complicated enough but still within reach, so it created perfect learning conditions.

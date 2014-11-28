@@ -2,7 +2,7 @@
 title: 'Screencast: Grabbing data from Wikipedia using Python'
 author: Matt Hall
 permalink: /2014/03/screencast-grabbing-data-from-wikipedia-using-python/
-categories:
+tags:
   - Video
 ---
 Continuing on from [my multiple choice questions][1], I show how to grab some data from a Wikipedia article using Python&#8217;s built-in [urllib2 library][2], then process it using the built-in [re library][3]. Seven lines of code, easily convertible to a function — which could make a nice exercise.

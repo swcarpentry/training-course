@@ -2,7 +2,7 @@
 title: About Zdenek Masin
 author: Zdenek Masin
 permalink: /2012/10/about-zdenek-masin/
-categories:
+tags:
   - Biography
 ---
 I am a postdoctoral researcher at The Open University in Milton Keynes, UK, where I also did my graduate studies (Ph.D. thesis submitted). I obtained degrees in General Physics (B.S.) and Theoretical Physics (M.S.) from The Charles University, Prague, Czech Republic. I work in the field of atomic and molecular physics. In particular I am performing calculations of low-energy electron collisions with molecules, using the UKRmol suite of codes:

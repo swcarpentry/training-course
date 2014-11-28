@@ -2,7 +2,7 @@
 title: 'Round 1.4 &#8211; Justin K'
 author: Justin Kitzes
 permalink: /2012/10/round-1-4-justin-k/
-categories:
+tags:
   - Lesson
 ---
 For the Week 4 assignment, here are links to my [raw iPython notebook][1] and my [rendered iPython notebook][2] (using nbviewer).

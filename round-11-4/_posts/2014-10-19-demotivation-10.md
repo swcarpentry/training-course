@@ -2,7 +2,7 @@
 title: 'Demotivation &#8211; Fourier Transforms'
 author: Anthony Harrison
 permalink: /2014/10/demotivation-10/
-categories:
+tags:
   - Motivation
 ---
 I have found this exercise hard, not because I haven&#8217;t been demotivated by events in the past, but by the fact that I have always had the philosophy of &#8216;You can&#8217;t change the past, you can only use the present to influence the future&#8217;. I am a great believer of &#8216;it happened for a reason&#8217; although at the time it is often unclear to me why it has happened.

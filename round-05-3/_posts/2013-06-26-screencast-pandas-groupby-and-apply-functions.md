@@ -2,7 +2,7 @@
 title: 'Screencast &#8211; pandas groupby and apply functions'
 author: Martin Schilling
 permalink: /2013/06/screencast-pandas-groupby-and-apply-functions/
-categories:
+tags:
   - Python
 ---
 Initially, I was thinking about using a problem that I had been working on recently, where I have a GBS(genotyping-by-sequencing)- pd.DataFrame with 160,000+ SNPs (rows) and 150 individuals from different populations (cols) and their respective genotype (like, for example A/A, A/T or N) in cells. I created a pd.groupby-object, which groups the data according to populations (using re.match on the pop_names).  

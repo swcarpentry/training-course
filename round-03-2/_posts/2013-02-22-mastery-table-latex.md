@@ -2,7 +2,7 @@
 title: 'Mastery Table: LaTeX'
 author: Amy Brown
 permalink: /2013/02/mastery-table-latex/
-categories:
+tags:
   - Proficiency
 ---
 I am not really an expert in any of the SWC topics (except maybe subversion&#8230; maybe not) so I chose LaTeX. Hopefully someone else knows enough about LaTeX to comment. Here&#8217;s my table:

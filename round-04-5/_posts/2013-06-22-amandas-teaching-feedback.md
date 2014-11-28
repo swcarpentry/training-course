@@ -2,7 +2,7 @@
 title: 'Amanda&#8217;s teaching feedback'
 author: Amanda Whitlock
 permalink: /2013/06/amandas-teaching-feedback/
-categories:
+tags:
 ---
 ## **Lesson summary:**
 

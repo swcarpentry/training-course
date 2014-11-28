@@ -2,7 +2,7 @@
 title: 'Screencast: Installing Perl modules'
 author: Gayathri Swaminathan
 permalink: /2013/09/screencast-installing-perl-modules/
-categories:
+tags:
   - Video
 ---
 I quickly covered two methods to install Perl modules on a Red Hat/CentOS/Fedora host:

@@ -2,7 +2,7 @@
 title: 'Concept Map &#8211; Functions'
 author: Tim McNamara
 permalink: /2014/05/concept-map-functions/
-categories:
+tags:
   - Concept Map
 ---
 Hi all, here&#8217;s a go at a concept map for &#8220;functions&#8221;. My motivation was something I read a few times in the Julia documentation, &#8220;write functions, not scripts!&#8221;. The authors clearly had the impression that scientists and researchers don&#8217;t rate function decomposition very highly!

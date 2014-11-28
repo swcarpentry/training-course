@@ -2,7 +2,7 @@
 title: Neem Serra
 author: Neem Serra
 permalink: /2014/01/neem-serra/
-categories:
+tags:
   - Biography
   - Live 01
 ---

@@ -2,7 +2,7 @@
 title: Wrapping Up Round 7
 author: Greg Wilson
 permalink: /2014/02/wrapping-up-round-7/
-categories:
+tags:
   - Reflection
 ---
 We had the wrap-up meetings for Round 7 of instructor training yesterday.  A few people weren&#8217;t able to make it—we hope to catch up with them soon—but those who could attend gave us some good feedback. The full summary is below, but what I learned was:

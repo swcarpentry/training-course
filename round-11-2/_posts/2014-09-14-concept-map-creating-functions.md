@@ -2,7 +2,7 @@
 title: 'Concept Map: Creating Functions'
 author: Radovan Bast
 permalink: /2014/09/concept-map-creating-functions/
-categories:
+tags:
   - Concept Map
 ---
 this is a (hopefully readable) map related to http://software-carpentry.org/v5/novice/python/02-func.html

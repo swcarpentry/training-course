@@ -2,7 +2,7 @@
 title: 'Concept Map: Video Manipulation with Matlab'
 author: Tom
 permalink: /2014/06/concept-map-video-manipulation-with-matlab/
-categories:
+tags:
   - Concept Map
 ---
 <figure id="attachment_7665" style="width: 300px;" class="wp-caption alignnone">[<img class="size-medium wp-image-7665" alt="Video manipulation with matlab" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/pdf1-300x231.png" width="300" height="231" />][1]<figcaption class="wp-caption-text">Concept Map &#8211; Video Manipulation with Matlab</figcaption></figure> 

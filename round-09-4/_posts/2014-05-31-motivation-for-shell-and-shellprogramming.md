@@ -2,7 +2,7 @@
 title: Motivation for Shell and Shell Programming
 author: Michael Schliephake
 permalink: /2014/05/motivation-for-shell-and-shellprogramming/
-categories:
+tags:
   - Motivation
   - Video
 ---

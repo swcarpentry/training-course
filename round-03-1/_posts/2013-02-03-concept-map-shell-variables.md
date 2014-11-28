@@ -2,7 +2,7 @@
 title: 'Concept Map: Shell Variables'
 author: Kwasi Kwakwa
 permalink: /2013/02/concept-map-shell-variables/
-categories:
+tags:
   - Concept Map
 ---
 &nbsp;

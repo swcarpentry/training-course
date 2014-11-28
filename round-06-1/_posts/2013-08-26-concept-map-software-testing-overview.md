@@ -2,7 +2,7 @@
 title: 'Concept Map: Software Testing Overview'
 author: Rachel Slaybaugh
 permalink: /2013/08/concept-map-software-testing-overview/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-4130" alt="Software Testing Concept Map" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/TestingConceptMap-300x179.jpg" width="300" height="179" />][1]

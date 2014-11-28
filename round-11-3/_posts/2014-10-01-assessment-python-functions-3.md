@@ -2,7 +2,7 @@
 title: 'Assessment &#8211; Python functions'
 author: Cody Hinchliff
 permalink: /2014/10/assessment-python-functions-3/
-categories:
+tags:
   - Assessment
 ---
 I chose to use the discussion of Python functions for my assessments exercise.

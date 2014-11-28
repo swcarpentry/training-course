@@ -2,7 +2,7 @@
 title: 'Screencast: efficient basic inkscape usage'
 author: Remi Emonet
 permalink: /2013/11/screencast-efficient-basic-inkscape-usage/
-categories:
+tags:
   - Video
 ---
 Inkscape is a great, crossplatform, open source tool to draw vector graphics (schemas, etc).

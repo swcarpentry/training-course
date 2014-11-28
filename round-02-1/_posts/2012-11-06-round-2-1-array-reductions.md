@@ -2,7 +2,7 @@
 title: 'Round 2.1: Array Reductions'
 author: Chang She
 permalink: /2012/11/round-2-1-array-reductions/
-categories:
+tags:
   - Concept Map
 ---
 <p style="text-align: center;">

@@ -2,7 +2,7 @@
 title: 'screencast: exploratory plots in R ggplot2'
 author: Robert Flight
 permalink: /2013/11/screencast-ggplot2-r/
-categories:
+tags:
   - Video
 ---
 I plan to show how to use R and ggplot2 to explore data graphically to detect structure, relationships and possible errors

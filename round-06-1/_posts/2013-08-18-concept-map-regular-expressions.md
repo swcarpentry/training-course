@@ -2,7 +2,7 @@
 title: 'Concept Map: Regular Expressions'
 author: Molly Gibson
 permalink: /2013/08/concept-map-regular-expressions/
-categories:
+tags:
   - Concept Map
 ---
 Regular expressions are extremely useful for manipulating and parsing text, which is something I find I need to do quite often when working with large data files in biology. This got a little out of hand as I was putting it together, but hopefully it is still simple enough to be useful. [  

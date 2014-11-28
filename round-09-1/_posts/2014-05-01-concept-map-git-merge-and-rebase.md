@@ -2,7 +2,7 @@
 title: 'Concept Map: git merge and rebase'
 author: Florian Rathgeber
 permalink: /2014/05/concept-map-git-merge-and-rebase/
-categories:
+tags:
   - Concept Map
 ---
 <img alt="" src="https://lh3.googleusercontent.com/-Ut5dyFI2hsM/U2LVf7Lzj9I/AAAAAAAAfkc/j0jkkcnJoS8/w2048/IMG_20140502_001454.jpg" width="2048" height="1536" /> 

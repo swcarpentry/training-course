@@ -2,7 +2,7 @@
 title: 'Concept map: git merges'
 author: Jared Camins-Esakov
 permalink: /2014/09/concept-map-git-merges/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-8738" alt="git merge conflicts concept map" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/git-merge-conflicts-concept-map-300x231.jpg" width="300" height="231" />][1]

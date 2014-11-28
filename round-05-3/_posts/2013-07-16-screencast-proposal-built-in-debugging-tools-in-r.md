@@ -2,7 +2,7 @@
 title: 'Screencast Proposal: Built-In Debugging Tools in R'
 author: Nichole Bennett
 permalink: /2013/07/screencast-proposal-built-in-debugging-tools-in-r/
-categories:
+tags:
 ---
 Sorry I&#8217;m a bit late on this&#8211;I&#8217;ve been traveling lately. I&#8217;ll have the screencast posted in the next few days.
 

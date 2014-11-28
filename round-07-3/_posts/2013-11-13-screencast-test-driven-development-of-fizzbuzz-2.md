@@ -9,7 +9,7 @@ enclosure:
         6491766
         video/mp4
         
-categories:
+tags:
   - Video
 ---
 Here&#8217;s a screencast of test-driven development for the FizzBuzz program using Quicktime.

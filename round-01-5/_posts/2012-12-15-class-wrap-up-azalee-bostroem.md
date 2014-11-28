@@ -2,7 +2,7 @@
 title: 'Class wrap up &#8211; Azalee Bostroem'
 author: Azalee Bostroem
 permalink: /2012/12/class-wrap-up-azalee-bostroem/
-categories:
+tags:
 ---
 The most interesting and productive assignment which made me think the most was discussing what content should be part of SWC and at what levels. I think this could be a much larger discussion and I was sorry that when we came together as a group we didn&#8217;t have more time. This discussion is done best in person (rather than over email). Working with my group with all of us coming from very different backgrounds and therefore perspectives really made me think about assumptions I brought to the class based on my programming experience.
 

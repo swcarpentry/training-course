@@ -2,7 +2,7 @@
 title: 'Assessment exercise: The unix shell &#8211; pipes and filters'
 author: Heather Gunning
 permalink: /2014/09/assessment/
-categories:
+tags:
   - Assessment
 ---
 In a directory I have the following files with Messier object (M) data and NGC data. Any data which has been altered is marked with an &#8216;a&#8217;.  

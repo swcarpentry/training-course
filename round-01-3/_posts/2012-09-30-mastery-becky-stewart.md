@@ -2,7 +2,7 @@
 title: 'Mastery &#8211; Becky Stewart'
 author: Becky Stewart
 permalink: /2012/09/mastery-becky-stewart/
-categories:
+tags:
   - Proficiency
 ---
 I&#8217;m certainly feeling more motivation to stay more on top of these rounds &#8211; writing mine up so late makes it difficult to come up with questions that haven&#8217;t already been covered. I&#8217;m finally caught up on the reading after joining late, so that should help.

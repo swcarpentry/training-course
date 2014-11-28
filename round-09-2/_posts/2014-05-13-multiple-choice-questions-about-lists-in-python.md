@@ -2,7 +2,7 @@
 title: Multiple choice questions about Lists in Python
 author: Genevieve Smith
 permalink: /2014/05/multiple-choice-questions-about-lists-in-python/
-categories:
+tags:
   - Assessment
   - Concept Map
   - Python

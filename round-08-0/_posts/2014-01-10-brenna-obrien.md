@@ -2,7 +2,7 @@
 title: 'Brenna O&#8217;Brien'
 author: "Brenna O'Brien"
 permalink: /2014/01/brenna-obrien/
-categories:
+tags:
   - Biography
 ---
 I am a front-end web developer with a background in math and physics.  I&#8217;ve taught several day long workshops on HTML/CSS and JavaScript through [Ladies Learning Code][1], and I&#8217;m gearing up to teach a full-time front-end bootcamp with [HackerYou][2] in the spring. After learning from an outdated curriculum at a traditional college and a lot of self-teaching, I&#8217;m passionate about changing the way programming is taught and making it more accessible to a wider audience.

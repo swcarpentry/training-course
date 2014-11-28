@@ -2,7 +2,7 @@
 title: 'Assessment to Graham Etherington&#8217;s While Concept Map'
 author: Alexandra Simperler
 permalink: /2014/05/assesment-to-graham-etheringtons-while-concept-map/
-categories:
+tags:
   - Assessment
 ---
 Question 1:

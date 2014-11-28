@@ -2,7 +2,7 @@
 title: 'Concept map: IPython notebook for documented and reproducible computing'
 author: Chris Friedline
 permalink: /2014/01/concept-map-ipython-notebook-for-documented-and-reproducible-computing/
-categories:
+tags:
   - Concept Map
 ---
 A concept map for using the IPython Notebook infrastructure for documenting, versioning, and distributing scientific code. Intended audience has familiarity with Python and version control, but not necessarily with the IPython ecosystem and how it can be leveraged in scientific computing, especially in conjunction with publication.

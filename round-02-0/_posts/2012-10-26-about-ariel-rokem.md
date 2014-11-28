@@ -2,7 +2,7 @@
 title: About Ariel Rokem
 author: Ariel Rokem
 permalink: /2012/10/about-ariel-rokem/
-categories:
+tags:
   - Biography
 ---
 I am a postdoctoral fellow at Stanford University, using MRI to study the human visual system. I received my PhD in neuroscience from UC Berkeley in 2010.

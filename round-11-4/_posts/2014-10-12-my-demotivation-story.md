@@ -2,7 +2,7 @@
 title: My demotivation story
 author: Isabelle Laforest
 permalink: /2014/10/my-demotivation-story/
-categories:
+tags:
   - Motivation
 ---
 In 2008, I was completing my undergrad degree in Biology. One of my classes was Molecular Biology, known as one of the hardest and most feared class of the curriculum. It was notorious for the countless hours of studying that it needed to memorize names and names of proteins, functions and structures.

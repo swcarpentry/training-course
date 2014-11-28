@@ -2,7 +2,7 @@
 title: Demotivation
 author: François Michonneau
 permalink: /2014/10/demotivation-13/
-categories:
+tags:
   - Motivation
 ---
 I never had a problem with math. Not all my teachers were fantastic, but it always seemed logical and intuitive to me. I haven&#8217;t always had perfect grades but I was always closer to the top of the class rather than at the bottom. All of that changed after high school.

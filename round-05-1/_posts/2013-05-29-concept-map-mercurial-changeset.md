@@ -2,7 +2,7 @@
 title: 'Concept map: Mercurial changeset'
 author: Greg Ward
 permalink: /2013/05/concept-map-mercurial-changeset/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-2916" alt="concept-map-mercurial" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/05/concept-map-mercurial-300x204.jpg" width="300" height="204" />][1]

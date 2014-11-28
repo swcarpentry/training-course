@@ -2,7 +2,7 @@
 title: Benefits and Challenges of VMs
 author: Dav Clark
 permalink: /2014/05/benefits-and-challenges-of-vms/
-categories:
+tags:
   - Concept Map
 ---
 I&#8217;m actually working on educating folks about this and building campus-wide policy. So, I very much appreciate any feedback on ideas or the diagram itself.<figure id="attachment_6939" style="width: 707px;" class="wp-caption alignnone">

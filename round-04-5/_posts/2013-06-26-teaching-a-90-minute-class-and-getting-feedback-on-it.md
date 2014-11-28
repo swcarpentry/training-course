@@ -2,7 +2,7 @@
 title: Teaching a 90 minute class and getting feedback on it
 author: Julia Gustavsen
 permalink: /2013/06/teaching-a-90-minute-class-and-getting-feedback-on-it/
-categories:
+tags:
 ---
 I taught the introduction to python as part of a 2 day [SWC bootcamp ][1] held at SFU on June 6th and 7th. I introduced some very basic concepts about types, variables and basic arithmetic. (I taught a few other little sections, but will focus my blog post on this longest section). I taught this section in Ipython notebook and after we got the requisite install bugs out of the way this was a good way to go. 
 

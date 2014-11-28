@@ -2,7 +2,7 @@
 title: 'Concept Map: Python Variables (and syntax)'
 author: Daniel Chen
 permalink: /2014/01/concept-map-python-variables-and-syntax/
-categories:
+tags:
   - Concept Map
   - Python
 ---

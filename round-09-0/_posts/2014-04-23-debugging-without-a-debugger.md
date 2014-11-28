@@ -2,7 +2,7 @@
 title: Debugging without a debugger
 author: Jonathan Frederic
 permalink: /2014/04/debugging-without-a-debugger/
-categories:
+tags:
   - Concept Map
 ---
 Hi all,

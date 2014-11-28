@@ -2,7 +2,7 @@
 title: 'Concept map: intro to SQL databases'
 author: Ben Morris
 permalink: /2013/02/concept-map-intro-to-sql-databases/
-categories:
+tags:
   - Concept Map
 ---
 Better late than never, yeah?

@@ -2,7 +2,7 @@
 title: 'Ted&#8217;s video about VCS'
 author: Ted Hart
 permalink: /2012/11/teds-video-about-vcs/
-categories:
+tags:
   - Teaching
   - Video
 ---

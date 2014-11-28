@@ -2,7 +2,7 @@
 title: Daniel Chen
 author: Daniel Chen
 permalink: /2014/01/daniel-chen/
-categories:
+tags:
   - Biography
 ---
 Hi everyone.  My name is Daniel Chen.  I am currently a second year MPH student in the department of Epidemiology at the Mailman School of Public Health.

@@ -2,7 +2,7 @@
 title: Demotivation
 author: Cody Hinchliff
 permalink: /2014/10/demotivation-7/
-categories:
+tags:
   - Motivation
 ---
 Demotivation

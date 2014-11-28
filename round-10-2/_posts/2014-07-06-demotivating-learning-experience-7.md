@@ -2,7 +2,7 @@
 title: Demotivating learning experience
 author: Daisie Huang
 permalink: /2014/07/demotivating-learning-experience-7/
-categories:
+tags:
   - Motivation
   - Uncategorized
 ---

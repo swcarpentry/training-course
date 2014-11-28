@@ -2,7 +2,7 @@
 title: About Yuxi Luo
 author: Yuxi Luo
 permalink: /2013/05/about-yuxi-luo/
-categories:
+tags:
   - Biography
 ---
 <div>

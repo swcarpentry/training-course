@@ -2,7 +2,7 @@
 title: 'Motivating Students &#8211; Soft Touch and Hard Touch'
 author: James Harmon
 permalink: /2014/02/motivating-students-soft-touch-and-hard-touch/
-categories:
+tags:
   - Motivation
 ---
 I&#8217;ve got two techniques to motivate students during class.  One is a bit touch-feely and the other is a little more &#8220;hard touch&#8221;.

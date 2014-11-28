@@ -2,7 +2,7 @@
 title: 'Reverse instructional design &#8211; using ggplot2 in R'
 author: James Robinson
 permalink: /2014/07/reverse-instructional-design-using-ggplot2-in-r/
-categories:
+tags:
   - Assessment
   - R
 ---

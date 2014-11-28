@@ -2,7 +2,7 @@
 title: 'Week 2: Motivation'
 author: Lynne Williams
 permalink: /2012/09/week-2-motivation-4/
-categories:
+tags:
   - Motivation
 tags:
 ---

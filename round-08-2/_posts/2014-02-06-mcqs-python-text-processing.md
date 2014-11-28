@@ -2,7 +2,7 @@
 title: 'MCQs: Python text processing'
 author: Likit Preeyanon
 permalink: /2014/02/mcqs-python-text-processing/
-categories:
+tags:
   - Assessment
 ---
 **Novices vs Practitioners**

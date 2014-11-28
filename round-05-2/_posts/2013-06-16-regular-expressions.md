@@ -2,7 +2,7 @@
 title: 'Multiple choice assessment: Regular expressions'
 author: Julia Evans
 permalink: /2013/06/regular-expressions/
-categories:
+tags:
   - Proficiency
 ---
 1) Which of the following regular expressions will match only the string &#8220;42&#8221; from the string

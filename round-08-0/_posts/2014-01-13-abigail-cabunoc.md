@@ -2,7 +2,7 @@
 title: Abigail Cabunoc
 author: Abigail Cabunoc
 permalink: /2014/01/abigail-cabunoc/
-categories:
+tags:
   - Biography
 ---
 Hi, I&#8217;m Abby.

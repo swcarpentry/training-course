@@ -2,7 +2,7 @@
 title: 'Screencast/Motivation: Value of Tdd for Refactor/Rename.'
 author: Anne Moroney
 permalink: /2014/03/screencastmotivation-value-of-tdd-for-refactorrename/
-categories:
+tags:
   - Motivation
   - round-08-3
   - Video

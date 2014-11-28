@@ -2,7 +2,7 @@
 title: 'R Matrices: Multiple Choice'
 author: Robert Flight
 permalink: /2013/11/r-matrices-multiple-choice/
-categories:
+tags:
   - Assessment
 ---
 **Novice vs Competent**

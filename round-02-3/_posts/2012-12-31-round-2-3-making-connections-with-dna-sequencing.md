@@ -2,7 +2,7 @@
 title: Round 2.3 Making Connections with DNA sequencing
 author: Adina Chuang Howe
 permalink: /2012/12/round-2-3-making-connections-with-dna-sequencing/
-categories:
+tags:
   - Connections
   - Teaching
 ---

@@ -2,7 +2,7 @@
 title: Motivating students to learn how to process timeseries data programatically
 author: Brian Miles
 permalink: /2014/02/motivating-students-to-learn-how-to-process-timeseries-data-programatically/
-categories:
+tags:
   - Motivation
 ---
 The goal of the lesson would be to show students the value of using a programming language to processes timeseries data, rather than doing it by hand using a spreadsheet.  As an example, I would use rainfall data recorded as an irregular timeseries from a tipping bucket rain gage. The goal is to produce hourly and daily rainfall accumulation timeseries.

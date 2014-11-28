@@ -2,7 +2,7 @@
 title: 'Concept Map: Why brush your teeth'
 author: Erik Schnetter
 permalink: /2013/10/concept-map-why-brush-your-teeth/
-categories:
+tags:
   - Concept Map
 ---
 &nbsp;

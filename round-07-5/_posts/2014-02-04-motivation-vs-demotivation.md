@@ -2,7 +2,7 @@
 title: Motivation VS. Demotivation
 author: Fan
 permalink: /2014/02/motivation-vs-demotivation/
-categories:
+tags:
   - Motivation
 ---
 I took two MATLAB courses while I was in college. Same program taught by two very different professors. Both of them changed my life in their own way.

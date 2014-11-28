@@ -2,7 +2,7 @@
 title: Motivating (Public Health) Students to Learn (Python) Programming
 author: Daniel Chen
 permalink: /2014/02/motivating-public-health-students-to-learn-python-programming/
-categories:
+tags:
   - Assessment
   - Motivation
 ---

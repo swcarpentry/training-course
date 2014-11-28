@@ -2,7 +2,7 @@
 title: Biography
 author: Samantha Ahern
 permalink: /2014/01/biography/
-categories:
+tags:
   - Biography
 ---
 Hi, my name is Samantha, but most people call me Sam.

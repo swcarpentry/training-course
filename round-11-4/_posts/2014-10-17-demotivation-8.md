@@ -2,7 +2,7 @@
 title: 'Demotivation: Academic Presentations'
 author: Daniel Smith
 permalink: /2014/10/demotivation-8/
-categories:
+tags:
   - Motivation
 ---
 I have been thinking about this topic quite a bit this week and have been unable to come up with a story. Events that personally involve me do not seem to have much of an impact on my overall outlook. I guess, in this respect, I am simply stubborn; however, I have had many experiences that have demotivated me in academia and it took both thinking about this topic and a very recent event to contextualize it.

@@ -15,7 +15,7 @@ enclosure:
         5817745
         video/mp4
         
-categories:
+tags:
   - Video
 ---
 Below is the screencast I created about improving the behaviour of the up/down arrows when recalling commands from the history in the bash shell.

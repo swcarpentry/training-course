@@ -2,7 +2,7 @@
 title: Demotivating experience
 author: Dominic Barraclough
 permalink: /2014/07/demotivating-experience-2/
-categories:
+tags:
   - Motivation
 ---
 It is not hard to demotivate somebody with dyslexia &#8211; just teach them a foreign language and watch them flounder. Dictation tests were the ultimate torment &#8211; a teacher would read some incomprehensible French and you where meant to write it down &#8211; your mark was calculated by subtracting the count of your errors from 30 &#8211; I often reach minus 30 or less &#8211; now I suspect that my real mark was probably worse and that my teacher at some point gave up deducting points either out of pity or frustration. If I remember correctly my highest ever mark was 0. Not exactly thrilling way to motivate a 14 year old.

@@ -2,7 +2,7 @@
 title: 'Concept Map: Text Processing in Bash'
 author: Gabriel Devenyi
 permalink: /2014/01/concept-map-text-processing-in-bash/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-5596" alt="2014-01-22 11.53.11" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/2014-01-22-11.53.11-300x253.jpg" width="300" height="253" />][1]

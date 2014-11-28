@@ -2,7 +2,7 @@
 title: 'Concept Map: Python Functions'
 author: Shreyas Cholia
 permalink: /2013/05/concept-map-python-functions/
-categories:
+tags:
   - Concept Map
 ---
 Version 2 (update):  

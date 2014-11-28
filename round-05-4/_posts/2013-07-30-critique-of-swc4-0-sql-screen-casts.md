@@ -2,7 +2,7 @@
 title: Critique of SWC4.0 SQL Screen Casts
 author: Jordan Fish
 permalink: /2013/07/critique-of-swc4-0-sql-screen-casts/
-categories:
+tags:
 ---
 Over all the SQL screen casts covered a lot of ground but there were some gaps that I think would be very useful to cover in an introduction to SQL.  One thing I use semi-frequently with SQL queries is AS, granting the ability to name result columns, particularly useful with aggregate functions (ex: select sum(Hours) as total_hours from Experiment).  Talking about the &#8216;;&#8217; to delineate queries, they show up occassionally in the queries demoed but are never talked about explicitly.
 

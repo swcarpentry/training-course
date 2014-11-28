@@ -2,7 +2,7 @@
 title: 'Topic for Final: Creating an object in Python'
 author: David Merand
 permalink: /2013/08/topic-for-final-creating-an-object-in-python/
-categories:
+tags:
 ---
 I propose to prepare a lesson showing how Python instantiates an instance of a class.
 

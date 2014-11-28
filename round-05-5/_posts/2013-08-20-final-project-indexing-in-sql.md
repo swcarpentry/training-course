@@ -2,7 +2,7 @@
 title: 'Final project: Indexing in SQL'
 author: Philipp Bayer
 permalink: /2013/08/final-project-indexing-in-sql/
-categories:
+tags:
 ---
 Hi,
 

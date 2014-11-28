@@ -2,7 +2,7 @@
 title: Motivation and Inspiration
 author: Naupaka Zimmerman
 permalink: /2014/02/motivation-and-inspiration/
-categories:
+tags:
   - Motivation
 ---
 **Motivation**:  

@@ -2,7 +2,7 @@
 title: 'Assessment exercise: Finding Things'
 author: Kirill Palamartchouk
 permalink: /2014/09/assessment-exercise-finding-things/
-categories:
+tags:
   - Assessment
 ---
 **1.**

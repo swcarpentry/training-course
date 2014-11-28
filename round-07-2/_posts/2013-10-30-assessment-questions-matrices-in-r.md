@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Matrices in R'
 author: Ryan Williams
 permalink: /2013/10/assessment-questions-matrices-in-r/
-categories:
+tags:
   - Assessment
 ---
 These are questions to address understanding of R commands in relation to matrices

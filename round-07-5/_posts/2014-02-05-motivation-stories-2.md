@@ -2,7 +2,7 @@
 title: Motivation stories
 author: Denis Haine
 permalink: /2014/02/motivation-stories-2/
-categories:
+tags:
   - Motivation
 ---
 **A time when I was motivated to learn**  

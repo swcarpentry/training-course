@@ -2,7 +2,7 @@
 title: Assessment for Victoria Offord’s Grep pattern in array (Perl)
 author: Graham Etherington
 permalink: /2014/05/assessment-for-victoria-offords-grep-pattern-in-array-perl/
-categories:
+tags:
   - Assessment
   - Concept Map
   - perl

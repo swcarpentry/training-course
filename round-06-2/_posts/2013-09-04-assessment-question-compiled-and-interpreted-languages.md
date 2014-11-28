@@ -2,7 +2,7 @@
 title: 'Assessment Question: Compiled and Interpreted Languages'
 author: ablackpz
 permalink: /2013/09/assessment-question-compiled-and-interpreted-languages/
-categories:
+tags:
   - Assessment
 ---
 For competent users:

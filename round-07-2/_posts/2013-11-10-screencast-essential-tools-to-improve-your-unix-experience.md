@@ -9,7 +9,7 @@ enclosure:
         10672649
         video/mp4
         
-categories:
+tags:
   - Video
 ---
 In my screencast I will be talking about what I consider essential tools to improve your experience when working in UNIX boxes.

@@ -2,7 +2,7 @@
 title: Shell questions
 author: David Rio
 permalink: /2013/11/shell-questions/
-categories:
+tags:
   - Assessment
 ---
 Question1 (novice/competent):

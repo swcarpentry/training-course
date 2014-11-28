@@ -2,7 +2,7 @@
 title: 'Assessment Question: Python with-statement'
 author: Philipp Lies
 permalink: /2013/09/assessment-question-python-with-statement/
-categories:
+tags:
   - Assessment
 ---
 Entry level:  

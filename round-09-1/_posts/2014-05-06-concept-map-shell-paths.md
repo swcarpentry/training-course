@@ -2,7 +2,7 @@
 title: 'Concept Map &#8211; Shell Paths'
 author: Devasena Inupakutika
 permalink: /2014/05/concept-map-shell-paths/
-categories:
+tags:
   - Concept Map
 tags:
   - Concept Map

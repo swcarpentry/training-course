@@ -2,7 +2,7 @@
 title: Motivating learners
 author: Sarah Supp
 permalink: /2012/09/motivating-learners/
-categories:
+tags:
   - Motivation
 ---
 ## **Positively motivating learning:**

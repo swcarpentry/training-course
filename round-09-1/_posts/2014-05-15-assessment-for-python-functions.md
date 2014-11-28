@@ -2,7 +2,7 @@
 title: Assessment for Python Functions
 author: Mark Wilber
 permalink: /2014/05/assessment-for-python-functions/
-categories:
+tags:
   - Assessment
 ---
 Based on [this][1] concept map discussing functions.

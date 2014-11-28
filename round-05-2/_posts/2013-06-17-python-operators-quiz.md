@@ -2,7 +2,7 @@
 title: Python Operators Quiz
 author: Itamar Turner-Trauring
 permalink: /2013/06/python-operators-quiz/
-categories:
+tags:
   - Proficiency
 ---
 **Question A (novice vs. competent):** Consider the following code snippet:

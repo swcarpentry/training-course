@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Python functions'
 author: Julian Garcia
 permalink: /2013/09/assessment-questions-python-functions/
-categories:
+tags:
   - Assessment
 ---
 **Question 1 (Competence)**

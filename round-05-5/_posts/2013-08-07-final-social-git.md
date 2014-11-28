@@ -2,7 +2,7 @@
 title: 'Final: social git'
 author: David Perez-Suarez
 permalink: /2013/08/final-social-git/
-categories:
+tags:
   - Concept Map
 ---
 More and more I see how much useful platforms as github and bitbucket help us do our work.  I would like to make a 10&#8242; course on how to use github while introducing the basic of git.  It&#8217;s not a very advanced topic, but I think it helps a lot.  I&#8217;ll give such tutorial to a few colleagues at work, but I&#8217;m open to do it with others in the course through hangout too.

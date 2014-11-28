@@ -2,7 +2,7 @@
 title: 'Concept Map &#8212; Relational Databases'
 author: Roman Valls
 permalink: /2014/09/concept-map-relational-databases/
-categories:
+tags:
   - Concept Map
   - SQL
 ---

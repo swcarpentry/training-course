@@ -2,7 +2,7 @@
 title: Object Oriented videos
 author: David Merand
 permalink: /2013/08/object-oriented-videos/
-categories:
+tags:
 ---
 I felt the set of videos provide a succinct and, for the most part, clear introduction to object oriented program design.
 

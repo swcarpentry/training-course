@@ -2,7 +2,7 @@
 title: 'Screencast: Simple Function Visualization in Dygraphs'
 author: Bill Mills
 permalink: /2013/11/simple-function-visualization-in-dygraphs/
-categories:
+tags:
   - Video
 ---
 I&#8217;m going to make a short screencast on how to make a simple web app built on a dygraphs chart.  Content will be deploying the dygraphs chart, and making it interact with another page element to do something simple.

@@ -2,7 +2,7 @@
 title: Concept map for GNU parallel
 author: Stephen Turner
 permalink: /2014/01/concept-map-for-gnu-parallel/
-categories:
+tags:
   - Concept Map
 ---
 Alright, first shot at this. Circles = problems. Boxes = solutions. Arrows = relationships.

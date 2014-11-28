@@ -2,7 +2,7 @@
 title: 'Concept Map: Using ggplot in R'
 author: Matt Landis
 permalink: /2013/10/concept-map-using-ggplot-in-r/
-categories:
+tags:
   - Concept Map
 ---
 Although I&#8217;ve used base and lattice graphics in R for years, I&#8217;ve struggled to conceptualize ggplot graphics enough for me to remember the syntax.  Using this concept map is the best way I&#8217;ve found so far to organize the info, but there are some relationships I haven&#8217;t quite worked out yet.

@@ -2,7 +2,7 @@
 title: About Karin Lagesen
 author: Karin Lagesen
 permalink: /2012/10/about-karin-lagesen/
-categories:
+tags:
   - Biography
 ---
 I am a post doc working at the Centre for Ecological and Evolutionary Synthesis at the University of Oslo, Norway. My background is in both computer science and molecular biology &#8211; I could never decide which one was the more interesting. I am now working as a bioinformatician at the Centre, and I have thus been involved in a lot of interesting projects. The work that I am doing is focused on high throughput sequencing data, and has until recently commonly revolved around amplicon data. I am currently working on a project focused on evaluation of transcriptomics reconstruction methods.

@@ -2,7 +2,7 @@
 title: 'Mastery Table: Data Management'
 author: Kwasi Kwakwa
 permalink: /2013/02/mastery-table-data-management/
-categories:
+tags:
   - Proficiency
 ---
 I&#8217;m probably about intermediate level here, but it is something I&#8217;ve had to deal with a lot over the last couple of years. Plus I&#8217;m guessing data management is one of those topics that most people have to learn about at one point in time or another. Usually after they need to retrieve something and have forgotten where it is or how they created it.

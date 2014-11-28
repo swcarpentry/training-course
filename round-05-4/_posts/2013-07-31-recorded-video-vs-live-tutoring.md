@@ -2,7 +2,7 @@
 title: recorded video vs live tutoring
 author: Martin Schilling
 permalink: /2013/07/recorded-video-vs-live-tutoring/
-categories:
+tags:
 ---
 To us (Chris Holdgraf & Martin Schilling), it seems the main things you gain with real-time screensharing as opposed to an online video are A. you can ensure that the other person is engaged in the activity, and B. you can actively observe the way that they’re interacting with the material by noting their questions, comments etc.  To that extent, you could expect a &#8220;higher amount&#8221; of learning from a screencast than in most other teaching methods.
 

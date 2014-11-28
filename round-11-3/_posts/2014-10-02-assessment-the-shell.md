@@ -2,7 +2,7 @@
 title: 'Assessment: The Shell.'
 author: Andy Teucher
 permalink: /2014/10/assessment-the-shell/
-categories:
+tags:
   - Assessment
 ---
 **1. The pipe (|) operator in the shell&#8230;**

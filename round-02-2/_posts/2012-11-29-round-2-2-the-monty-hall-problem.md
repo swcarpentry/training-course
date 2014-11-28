@@ -2,7 +2,7 @@
 title: 'Round 2.2: The Monty Hall problem'
 author: Stefan van der Walt
 permalink: /2012/11/round-2-2-the-monty-hall-problem/
-categories:
+tags:
   - Video
 ---
 In this short clip I describe the Monty Hall problem, and suggest a way of understanding its somewhat counter-intuitive solution.  The Monty Hall problem can be described [described elegantly][1] using Bayes&#8217;s theorem.

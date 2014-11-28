@@ -2,7 +2,7 @@
 title: How to demotivate a pupil
 author: Kirill Palamartchouk
 permalink: /2014/10/how-to-demotivate-a-pupil/
-categories:
+tags:
   - Motivation
 ---
 Appearance of Literature lessons is one of the few things that are invariant in  

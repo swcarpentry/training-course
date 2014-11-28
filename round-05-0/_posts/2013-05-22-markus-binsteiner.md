@@ -2,7 +2,7 @@
 title: Markus Binsteiner
 author: Markus Binsteiner
 permalink: /2013/05/markus-binsteiner/
-categories:
+tags:
   - Biography
 ---
 Hi.

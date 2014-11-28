@@ -2,7 +2,7 @@
 title: 'Concept map: Unicode &#038; Normalization'
 author: Daniel McCloy
 permalink: /2013/03/concept-map-unicode-normalization/
-categories:
+tags:
   - Concept Map
 ---
 Revised (simplified) version.  I kept hearing Greg&#8217;s voice saying &#8220;nobody will give you good feedback if it looks like you spent more than 5 minutes on it.&#8221;  Hopefully this looks more like a 4-minute version.

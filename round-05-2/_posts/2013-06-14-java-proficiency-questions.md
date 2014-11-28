@@ -2,7 +2,7 @@
 title: Java Proficiency Questions
 author: Jordan Fish
 permalink: /2013/06/java-proficiency-questions/
-categories:
+tags:
   - Proficiency
 ---
 Novice/Intermediate

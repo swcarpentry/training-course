@@ -2,7 +2,7 @@
 title: Multiple Choice Questions
 author: Stephen McGough
 permalink: /2013/02/multiple-choice-questions-3/
-categories:
+tags:
   - Proficiency
 ---
 Hi All, Question 1 comes from marking an exam paper last week (these are some of the answers they gave).

@@ -2,7 +2,7 @@
 title: Screencast on Why Programming Loops Are Cool
 author: Russell Alleen-Willems
 permalink: /2014/05/screencast-on-why-programming-loops-are-cool/
-categories:
+tags:
   - Motivation
   - Video
 ---

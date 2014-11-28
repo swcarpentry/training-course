@@ -2,7 +2,7 @@
 title: 'Multiple choice &#8211; SQL GROUP BY &#8230; again ; )'
 author: Shoaib Sufi
 permalink: /2013/06/multiple-choice-sql-group-by-again/
-categories:
+tags:
   - Proficiency
 ---
 (novice to competent) In the following SQL statement why is GROUP BY necessary to obtain the count of each type of house

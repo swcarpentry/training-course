@@ -2,7 +2,7 @@
 title: VNC Through SSH
 author: Melanie Segado
 permalink: /2014/02/vnc-through-ssh/
-categories:
+tags:
   - Assessment
 ---
 <span style="font-size: 12px;">Competancy Question: Under what circumstances is VNC preferable to X11-Forwarding</span>

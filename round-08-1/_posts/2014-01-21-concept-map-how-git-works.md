@@ -2,7 +2,7 @@
 title: 'Concept map: how git works'
 author: Atul Varma
 permalink: /2014/01/concept-map-how-git-works/
-categories:
+tags:
   - Concept Map
 ---
 <figure id="attachment_5533" style="width: 707px;" class="wp-caption alignnone">[<img src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/git-concept-map-1024x836.jpg" alt="git concept map" width="707" height="577" class="size-large wp-image-5533" />][1]<figcaption class="wp-caption-text">A concept map for git.</figcaption></figure> 

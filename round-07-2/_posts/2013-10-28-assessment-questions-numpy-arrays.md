@@ -2,7 +2,7 @@
 title: 'Assessment questions:  NumPy Arrays'
 author: David Jones
 permalink: /2013/10/assessment-questions-numpy-arrays/
-categories:
+tags:
   - Assessment
 ---
 Here is my attempt.

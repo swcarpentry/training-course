@@ -2,7 +2,7 @@
 title: 'Concept Map: Java object, class, variables and methods'
 author: Helen Yezerets
 permalink: /2014/01/concept-map-java-object-class-variables-and-methods/
-categories:
+tags:
   - Concept Map
 ---
 This concept map of objects, classes, types of variables and methods is intended for novice Java programmers. Even though it is obviously not a comprehensive map, I hope, it covers the most important points.

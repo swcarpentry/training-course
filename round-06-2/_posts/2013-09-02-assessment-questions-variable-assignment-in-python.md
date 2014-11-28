@@ -2,7 +2,7 @@
 title: 'Assessment questions: Variable assignment in Python'
 author: Damien Irving
 permalink: /2013/09/assessment-questions-variable-assignment-in-python/
-categories:
+tags:
   - Assessment
 ---
 &nbsp;  

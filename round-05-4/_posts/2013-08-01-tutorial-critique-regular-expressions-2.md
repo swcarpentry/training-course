@@ -2,7 +2,7 @@
 title: 'Tutorial Critique: Regular Expressions'
 author: Nichole Bennett
 permalink: /2013/08/tutorial-critique-regular-expressions-2/
-categories:
+tags:
 ---
 ** Likes:**
 

@@ -2,7 +2,7 @@
 title: 'Concept map: Conditionals &#038; booleans in Python'
 author: Julia Evans
 permalink: /2013/05/concept-map-conditionals-booleans-in-python/
-categories:
+tags:
   - Concept Map
 ---
 <a href="http://teaching.software-carpentry.org/wp-content/uploads/2013/05/software-carpentry-concept-map-on-if-statements.pdf" target="_blank">PDF of concept map</a>

@@ -2,7 +2,7 @@
 title: critique of OO concepts section
 author: Preston Holmes
 permalink: /2013/07/critique-of-oo-concepts-section/
-categories:
+tags:
 ---
 See this post with clipped images [here][1]
 

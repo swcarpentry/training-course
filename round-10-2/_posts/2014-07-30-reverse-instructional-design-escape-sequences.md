@@ -2,7 +2,7 @@
 title: 'Reverse instructional design: Escape sequences'
 author: Sarah Simpkin
 permalink: /2014/07/reverse-instructional-design-escape-sequences/
-categories:
+tags:
   - Assessment
 ---
 *This assessment would be given after introducing the concept of escape sequences.*

@@ -2,7 +2,7 @@
 title: Demotivation story
 author: Thomas Guignard
 permalink: /2014/10/demotivation-story/
-categories:
+tags:
   - Motivation
 ---
 I had a hard time coming up with a demotivation story for this week&#8217;s assignment and I&#8217;ve tried to figure out why. Partly, I think it&#8217;s because my usual approach to life is never to expect much so as to avoid being disappointed but rather be pleasantly surprised every time something turns out better than I had expected (which wasn&#8217;t much). Call it pessimism, but so far it worked <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> The other reason is that I probably unconsciously tend to forget negative memories and concentrate on positive experiences instead. Which must be some sort of ostrich syndrome for which I will doubtlessly pay dearly at some point in my life, but there it is (see the pessimistic bend here again?).

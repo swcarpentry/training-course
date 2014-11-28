@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Simulation in R'
 author: Diego Barneche
 permalink: /2013/04/assessment-questions-simulation-in-r/
-categories:
+tags:
   - Proficiency
 ---
 I chose the following concept map: http://teaching.software-carpentry.org/2013/03/26/concept-map-simulation-in-r-noble/

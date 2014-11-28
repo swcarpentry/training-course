@@ -2,7 +2,7 @@
 title: Demotivation in Undergraduate Algorithms
 author: Greg Caporaso
 permalink: /2014/10/demotivation-in-undergraduate-algorithms/
-categories:
+tags:
   - Motivation
 ---
 There is not a single &#8220;most demotivating&#8221; story that I can think of from my time as a student. In hashing out ideas for this post I listed features of classes that I thought generally demotivated me, and then the classes that I took where I felt demotivated by each of those features. The two common themes in terms of demotivating features were (1) having seemingly unmotived or uninterested instructors, and (2) having uninspiring/busy work assessments. One class showed up in my list for both of those features, so I&#8217;ll describe my experience with that one. 

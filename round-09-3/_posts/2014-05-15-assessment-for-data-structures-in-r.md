@@ -2,7 +2,7 @@
 title: Assessment for Data Structures in R
 author: Jeff Hollister
 permalink: /2014/05/assessment-for-data-structures-in-r/
-categories:
+tags:
   - Assessment
   - R
   - round-09-2

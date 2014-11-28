@@ -2,7 +2,7 @@
 title: Multiple Choice Questions on vi
 author: David Worth
 permalink: /2013/10/multiple-choice-questions-on-vi/
-categories:
+tags:
   - Assessment
 ---
 I added this quickly as it&#8217;s the only oportunity I have before the deadline. Appologies of it&#8217;s too easy/hard. David

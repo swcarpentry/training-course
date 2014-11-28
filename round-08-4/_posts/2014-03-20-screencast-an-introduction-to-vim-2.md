@@ -2,7 +2,7 @@
 title: 'Screencast: An introduction to vim'
 author: Dana Miller
 permalink: /2014/03/screencast-an-introduction-to-vim-2/
-categories:
+tags:
   - round-06-3
   - Video
 ---

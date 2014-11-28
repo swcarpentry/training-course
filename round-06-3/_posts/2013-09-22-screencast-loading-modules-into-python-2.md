@@ -2,7 +2,7 @@
 title: 'Screencast: Loading modules into python'
 author: Emily Davenport
 permalink: /2013/09/screencast-loading-modules-into-python-2/
-categories:
+tags:
   - Video
 ---
 Sorry the end of the screen is cut off! It was that or be too small and blurry to read&#8230;

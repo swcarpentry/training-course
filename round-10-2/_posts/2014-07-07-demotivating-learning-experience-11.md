@@ -2,7 +2,7 @@
 title: Demotivating learning experience
 author: Catherine McGoveran
 permalink: /2014/07/demotivating-learning-experience-11/
-categories:
+tags:
   - Motivation
 ---
 One of my most demotivational learning experiences happened during my academic studies. While working on a year-long project, my supervisor at the time unfortunately had a significant impact on my motivation to complete the project and even my ongoing interest in the topic. Perhaps it was because I was early in my academic studies and the professor preferred to focus their attention on graduate research (not an excuse in my opinion), but our meetings were short / didn&#8217;t leave room for discussion, and the environment was one in which I didn&#8217;t feel comfortable asking questions or seeking clarification. I sent my drafts, the prof made written comments, I went to the office to pick them up at which point he a short commentary on the comments, then I left to continue writing. This experience had a negative impact on my interest in taking on independent research projects and in working one-on-one with professors. Since this experience, I have thankfully had many positive learning opportunities to do independent research and have received valuable, positive support from professors.

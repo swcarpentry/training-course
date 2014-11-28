@@ -2,7 +2,7 @@
 title: 'Round 2.1: Use = to assign a value to a variable'
 author: Paul Ivanov
 permalink: /2012/11/variable-assignment/
-categories:
+tags:
   - Concept Map
 ---
 [<img src="http://teaching.software-carpentry.org/wp-content/uploads/2012/11/assignment-operator.png" alt="" title="assignment operator" width="600" height="279" class="alignnone size-full wp-image-1131" />][1]

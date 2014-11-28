@@ -2,7 +2,7 @@
 title: 'Round 2.1 &#8211; Concept Map and Examples of Lists (in Python)'
 author: Adina Chuang Howe
 permalink: /2012/10/round-2-1-concept-map-and-examples-of-lists-in-python/
-categories:
+tags:
   - Concept Map
 ---
 <figure id="attachment_844" style="width: 608px;" class="wp-caption aligncenter">[<img class=" wp-image-844 " title="List-cm" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/10/Screen-Shot-2012-10-31-at-9.22.21-AM.png" alt="" width="608" height="432" />][1]<figcaption class="wp-caption-text">A concept map for lists (in Python).</figcaption></figure> 

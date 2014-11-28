@@ -2,7 +2,7 @@
 title: 'Multiple choice for &#8220;Python for Loops&#8221;'
 author: Luis Pedro Coelho
 permalink: /2013/11/multiple-choice-for-python-for-loops/
-categories:
+tags:
   - Assessment
 ---
 **Novice question**. Consider the following code:

@@ -2,7 +2,7 @@
 title: 'MCQ: Introduction to pandas DataFrames'
 author: Andrea Zonca
 permalink: /2014/02/mcq-introduction-to-pandas-dataframes/
-categories:
+tags:
   - Assessment
 ---
 Sample csv file with student grades for 2 tests, they were allowed to repeat the test if they missed it or got < 6 :

@@ -2,7 +2,7 @@
 title: 'Assessment &#8211; Scoping in Python'
 author: Anja Boskovic
 permalink: /2014/10/assessment-scoping-in-python/
-categories:
+tags:
   - Assessment
 ---
 This is both my favourite type of Python question and a multiple choice. I will add another favourite type later:

@@ -2,7 +2,7 @@
 title: 'Concept Map: Slices for Python lists'
 author: Jens von der Linden
 permalink: /2013/03/concept-map-slices-for-python-lists/
-categories:
+tags:
   - Concept Map
 ---
 &nbsp;

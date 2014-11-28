@@ -2,7 +2,7 @@
 title: 'Proposed screencast  &#8211; about &#8220;git reset &#8211;hard&#8221;'
 author: Yuxi Luo
 permalink: /2013/06/proposed-screencast-about-git-reset-hard/
-categories:
+tags:
 ---
 I was thinking of doing a short (< 3 mins) explanation of how to rescue your code(not always possible) when you do &#8220;`git reset --hard`&#8221; with mistake.  
 [<img src="http://teaching.software-carpentry.org/wp-content/uploads/2013/06/header.jpg" alt="header" width="600" height="100" class="alignnone size-full wp-image-3435" />][1]  

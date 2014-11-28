@@ -2,7 +2,7 @@
 title: Classes and methods in R
 author: Fernando Mayer
 permalink: /2014/05/classes-and-methods-in-r/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-6929" alt="2014-04-30 21.30.45" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/05/2014-04-30-21.30.45-300x168.jpg" width="300" height="168" />][1]

@@ -2,7 +2,7 @@
 title: 'Concept map: python if statements'
 author: Greg Caporaso
 permalink: /2014/09/concept-map-python-if-statements/
-categories:
+tags:
   - Concept Map
 ---
 Here&#8217;s a concept map illustrating python if statements:

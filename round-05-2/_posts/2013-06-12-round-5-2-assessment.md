@@ -2,7 +2,7 @@
 title: 'Round 5.2: Assessment'
 author: Greg Wilson
 permalink: /2013/06/round-5-2-assessment/
-categories:
+tags:
   - Proficiency
 ---
 For this round, we would like people to design two multiple-choice questions. The first will distinguish novices from competent and expert practitioners; the second will distinguish the experts from the &#8220;merely competent&#8221;. The distinction between these three groups is:

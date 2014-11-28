@@ -2,7 +2,7 @@
 title: 'Assessment: SQL/Selecting Data'
 author: James Hiebert
 permalink: /2014/09/assessment-sqlselecting-data/
-categories:
+tags:
   - Assessment
 ---
 1) Choose the *best* SQL query to list all of the survey readings in the Survey table from [this lesson][1]:

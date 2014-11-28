@@ -2,7 +2,7 @@
 title: Sharing excitement about pandas
 author: Jeramia Ory
 permalink: /2014/03/sharing-excitement-about-pandas/
-categories:
+tags:
   - Motivation
 ---
 I&#8217;ve written on my thoughts regarding student motivation a few months ago on my blog <a href="http://drlabratory.com/student-motivation/" title="Student Motivation" target="_blank">here</a> if anyone is interested. I&#8217;m curious if any of my approaches in sophomore bio would apply to a Software Carpentry boot camp.

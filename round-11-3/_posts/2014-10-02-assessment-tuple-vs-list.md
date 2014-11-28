@@ -2,7 +2,7 @@
 title: 'Assessment: Tuple vs List'
 author: Franz Navarro
 permalink: /2014/10/assessment-tuple-vs-list/
-categories:
+tags:
   - Assessment
 ---
 The following exercises are based on the concept map previously developed: <a href="http://teaching.software-carpentry.org/2014/09/17/concept-map-immutable-vs-mutable-python/" target="_blank">difference between mutable (lists) and immutable (tuple)</a>.

@@ -2,7 +2,7 @@
 title: 'Screencast: git branch basics'
 author: Trevor Bekolay
 permalink: /2013/11/screencast-git-branch-basics/
-categories:
+tags:
   - Video
 ---
 I plan to do a screencast to teach the basics of git branches: what they are, why you might want to do work in a branch, and how to make a branch. I&#8217;ll assume that users know the very basics of git, or at least version control in general.

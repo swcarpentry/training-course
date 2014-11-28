@@ -2,7 +2,7 @@
 title: Motivation and Screencasts
 author: Greg Wilson
 permalink: /2014/05/motivation-and-screencasts-2/
-categories:
+tags:
   - Motivation
   - round-09-3
   - Video

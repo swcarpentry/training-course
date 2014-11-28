@@ -2,7 +2,7 @@
 title: 'Round 2.2: Python strings'
 author: Jason Pell
 permalink: /2012/12/round-2-2-python-strings/
-categories:
+tags:
   - Video
 ---
 Here is my contribution:

@@ -2,7 +2,7 @@
 title: 'MCQ: stdout stderr and redirects'
 author: Gabriel Devenyi
 permalink: /2014/02/mcq-stdout-stderr-and-redirects/
-categories:
+tags:
   - Assessment
 ---
 MCQ: To redirect all text output from a command to a file named filename:

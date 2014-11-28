@@ -2,7 +2,7 @@
 title: 'Concept map: Find and replace in Python'
 author: Matt Hall
 permalink: /2014/01/concept-map-find-and-replace-in-python/
-categories:
+tags:
   - Concept Map
 tags:
   - Python

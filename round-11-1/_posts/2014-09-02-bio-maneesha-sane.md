@@ -2,7 +2,7 @@
 title: Maneesha Sane
 author: Maneesha Sane
 permalink: /2014/09/bio-maneesha-sane/
-categories:
+tags:
   - Biography
 ---
 My undergraduate & graduate background is in education, psychology, and linguistics.  I&#8217;ve been working in the fields of education & nonprofit management for the past 15 years or so, and have taught myself software programming and data management/analysis.

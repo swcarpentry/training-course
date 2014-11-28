@@ -2,7 +2,7 @@
 title: 'Tutorial critique: Regular expressions'
 author: Luke Lee
 permalink: /2013/07/tutorial-critique-regular-expressions/
-categories:
+tags:
 ---
 I watched all of the regular expressions videos and overall I thought they were well narrated and packed full of useful information. The pacing was nicely done. Also, the incremental approach of improving previous solutions was particularly useful and mirrored the real-world approach to developing regular expressions.
 

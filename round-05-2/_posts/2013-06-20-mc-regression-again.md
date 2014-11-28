@@ -2,7 +2,7 @@
 title: 'MC: Regression (again!)'
 author: Chris Holdgraf
 permalink: /2013/06/mc-regression-again/
-categories:
+tags:
 ---
 <div>
   <b>Novice vs. Intermediate</b>

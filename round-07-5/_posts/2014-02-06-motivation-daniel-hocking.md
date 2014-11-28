@@ -2,7 +2,7 @@
 title: 'Motivation: Daniel Hocking'
 author: Daniel Hocking
 permalink: /2014/02/motivation-daniel-hocking/
-categories:
+tags:
   - Motivation
 ---
 **A story of demotivation**

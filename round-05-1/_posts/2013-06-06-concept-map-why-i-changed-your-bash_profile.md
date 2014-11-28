@@ -2,7 +2,7 @@
 title: 'Concept map: Why I changed your .bash_profile'
 author: Katie Cunningham
 permalink: /2013/06/concept-map-why-i-changed-your-bash_profile/
-categories:
+tags:
   - Concept Map
 ---
 I was inspired by my experience changing the .bash_profiles of many mac users at a SWC bootcamp as we worked through installation issues. I tried to explain what I was doing, but the process was very strange to many students, and I felt like I was giving the impression that you had to know deep internals of the operating system to do any scientific computing.

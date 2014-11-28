@@ -2,7 +2,7 @@
 title: Demotivation
 author: Heather Gunning
 permalink: /2014/10/demotivation-3/
-categories:
+tags:
   - Motivation
 ---
 My most memorable demotivation happened quite recently.

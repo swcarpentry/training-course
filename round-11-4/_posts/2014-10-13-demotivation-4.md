@@ -2,7 +2,7 @@
 title: Demotivation
 author: Jon Guyer
 permalink: /2014/10/demotivation-4/
-categories:
+tags:
   - Motivation
 ---
 After graduating from college, I was commissioned an officer in the US Navy and selected for the submarine service. Before being sent to a boat, we had over a year of training, starting with six months of 60+ hours per week of classroom lectures and mandatory study in nuclear engineering, followed by six months of practical training at a land-based “prototype” reactor. Most people seemed to struggle with one phase or the other and I was no exception (you couldn’t struggle too much with either phase or you got booted out of the program). I found the classroom work challenging, but tractable; much of the coursework covered material I’d seen in college and I could puzzle out most of the rest. Prototype, on the other hand, required huge amounts of memorization, which has never been my strong suit. At the beginning of prototype, we were each handed a thick book with hundreds of pages and probably thousands of signatures that had to be obtained for demonstrating some bit of knowledge or skill, e.g. “draw the wiring diagram for …”, “locate all of …”, “demonstrate how to operate …”, “demonstrate how to recover from …”, on and on and on. Every system in the reactor had to be learned and ultimately we had to demonstrate we could supervise the crew in all normal and emergency conditions; at each step of the way an instructor had to be convinced to sign off on another bit of knowledge.

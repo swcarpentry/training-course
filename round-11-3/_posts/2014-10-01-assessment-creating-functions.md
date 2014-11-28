@@ -2,7 +2,7 @@
 title: 'Assessment: Creating functions'
 author: Olivier Lafleur
 permalink: /2014/10/assessment-creating-functions/
-categories:
+tags:
   - Assessment
 ---
 1. Please tell which of these function definitions will compile without error in Python 2.7 :  

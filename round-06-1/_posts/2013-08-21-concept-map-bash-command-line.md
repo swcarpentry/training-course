@@ -2,7 +2,7 @@
 title: 'Concept Map:  Bash Command Line'
 author: Camille Avestruz
 permalink: /2013/08/concept-map-bash-command-line/
-categories:
+tags:
   - Concept Map
 ---
 ![][1]

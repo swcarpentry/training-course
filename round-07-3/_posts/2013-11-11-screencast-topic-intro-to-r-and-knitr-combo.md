@@ -9,7 +9,7 @@ enclosure:
         7332970
         video/mp4
         
-categories:
+tags:
   - Video
 ---
 <div style="width: 474px; height: 229px; " class="wp-video">

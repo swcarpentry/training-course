@@ -2,7 +2,7 @@
 title: 'Multiple choice assessment: File permissions'
 author: David Perez-Suarez
 permalink: /2013/06/multiple-choice-assessment-file-permissions/
-categories:
+tags:
   - Proficiency
 ---
 **1.-** You(evil) have created a malicious script called plan.sh with the strategy to dominate the world.  You want that the other people of your team (team-a) can see it and edit it. But you don&#8217;t want the other teams could see your plans! When you list the properties of that file you see the following:

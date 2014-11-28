@@ -2,7 +2,7 @@
 title: Mariela Perignon
 author: Mariela Perignon
 permalink: /2014/09/mariela-perignon/
-categories:
+tags:
   - Biography
 ---
 I am PhD student in geology at the University of Colorado, working on landscape connectivity and sediment transport during floods. My research relies heavily on numerical modeling and very large topographic and climatic dataset to explore the feedbacks between small-scale processes that result in measurable changes to the landscape. I primarily work with Python and Matlab (and a bit with C/C++) to write small data processing tools for myself, as well as develop components for a couple of large, collaborative models. 

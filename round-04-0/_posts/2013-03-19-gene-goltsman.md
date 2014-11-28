@@ -2,7 +2,7 @@
 title: Gene Goltsman
 author: Eugene Goltsman
 permalink: /2013/03/gene-goltsman/
-categories:
+tags:
   - Biography
 ---
 Hi all,  

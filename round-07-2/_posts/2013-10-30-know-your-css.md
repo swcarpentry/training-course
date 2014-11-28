@@ -2,7 +2,7 @@
 title: Know Your CSS
 author: Bill Mills
 permalink: /2013/10/know-your-css/
-categories:
+tags:
   - Assessment
 ---
 Here are a couple of questions to distinguish knowledge levels in CSS.

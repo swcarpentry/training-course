@@ -2,7 +2,7 @@
 title: 'Assessment Questions: C/C++'
 author: Jinwoo Leem
 permalink: /2013/09/assessment-questions-cc/
-categories:
+tags:
   - Assessment
 ---
 1. What is one major difference between C and C++?

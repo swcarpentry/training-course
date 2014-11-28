@@ -2,7 +2,7 @@
 title: Demotivation
 author: Brent Shambaugh
 permalink: /2014/10/demotivation-6/
-categories:
+tags:
   - Motivation
   - Uncategorized
 ---

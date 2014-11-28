@@ -2,7 +2,7 @@
 title: 'Assessment Questions:  Python Dictionaries'
 author: Matthew Lightman
 permalink: /2013/09/assessment-questions-python-dictionaries/
-categories:
+tags:
   - Assessment
 ---
 These are related to my concept map on python dictionaries.

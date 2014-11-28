@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Python Sorting'
 author: Chris Waigl
 permalink: /2013/11/assessment-questions-python-sorting/
-categories:
+tags:
   - Assessment
 ---
 **Novice vs competent:**

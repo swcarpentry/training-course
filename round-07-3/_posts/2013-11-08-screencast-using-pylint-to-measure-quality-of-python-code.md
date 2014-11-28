@@ -2,7 +2,7 @@
 title: 'Screencast: Using pylint to measure quality of python code'
 author: David Worth
 permalink: /2013/11/screencast-using-pylint-to-measure-quality-of-python-code/
-categories:
+tags:
   - Video
 ---
 I plan to made a screencast introducing pylint &#8211; <a title="pylint home page" href="http://www.pylint.org" target="_blank">http://www.pylint.org</a> &#8211; a code analysis tool for python.

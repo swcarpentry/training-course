@@ -2,7 +2,7 @@
 title: 'Mastery &#8211; Katy, Justin K &#038; Lynne (Atomic Tangerine)'
 author: Justin Kitzes
 permalink: /2012/10/mastery-atomic-tangerine/
-categories:
+tags:
   - Proficiency
 ---
 Here are the six key questions that Atomic Tangerine (Katy, Lynne, Justin) settled on. Our examples of Novice, Intermediate, and Advanced skills under each question are a bit lengthy, and reflect our different (but generally complementary) perspectives on these different levels.

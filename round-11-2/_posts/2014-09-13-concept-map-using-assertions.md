@@ -2,7 +2,7 @@
 title: 'Concept Map: Using Assertions'
 author: Anthony Harrison
 permalink: /2014/09/concept-map-using-assertions/
-categories:
+tags:
   - Concept Map
 ---
 This is from Programming in Python, section 5 (Defensive Programming) although the material could apply to many other languages.

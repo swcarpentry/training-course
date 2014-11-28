@@ -2,7 +2,7 @@
 title: 'Concept map: git branching workflow'
 author: Andrea Zonca
 permalink: /2014/01/concept-map-git-branching-workflow/
-categories:
+tags:
   - Concept Map
 ---
 I preferred to use a software tool, instead of paper, it took no time.  

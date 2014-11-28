@@ -2,7 +2,7 @@
 title: Demotivating learning experience
 author: Aaron Erlich
 permalink: /2014/07/demotivating-learning-experience-17/
-categories:
+tags:
   - Motivation
 ---
 <p dir="ltr">

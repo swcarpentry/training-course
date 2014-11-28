@@ -2,7 +2,7 @@
 title: 'Round 09/1: Concept Maps'
 author: Greg Wilson
 permalink: /2014/04/round-9-1-concept-maps/
-categories:
+tags:
   - Concept Map
   - round-09-0
 ---

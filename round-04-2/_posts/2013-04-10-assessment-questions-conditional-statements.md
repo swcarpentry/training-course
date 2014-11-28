@@ -2,7 +2,7 @@
 title: 'Assessment questions: Conditional statements'
 author: Rich FitzJohn
 permalink: /2013/04/assessment-questions-conditional-statements/
-categories:
+tags:
   - Proficiency
 ---
 My questions are based on the concept map [about conditional statements in python][1]. Because the original is written in Python, I&#8217;ve kept that here, but I think that these questions would apply equally to R.

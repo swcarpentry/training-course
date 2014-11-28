@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Full versus relative paths'
 author: Daniel Falster
 permalink: /2013/04/assessment-questions-full-versus-relative-paths/
-categories:
+tags:
   - Proficiency
 ---
 These questions are based on Julia Gustavsen&#8217;s concept map about &#8220;Full versus relative paths&#8221; http://teaching.software-carpentry.org/2013/03/27/concept-map-full-vs-absolute-paths/

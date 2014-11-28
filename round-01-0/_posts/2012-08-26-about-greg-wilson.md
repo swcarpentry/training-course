@@ -2,7 +2,7 @@
 title: About Greg Wilson
 author: Greg Wilson
 permalink: /2012/08/about-greg-wilson/
-categories:
+tags:
   - Biography
 ---
 Greg Wilson is the creator of Software Carpentry, a crash course in computing skills for scientists and engineers.  He has worked for 25 years in high-performance computing, data visualization, computer security, and academia, has been on the editorial board of [*Doctor Dobb&#8217;s Journal*][1] and [*Computing in Science and Engineering*][2], and is the author or editor of several books on computing (including the 2008 Jolt Award winner [*Beautiful Code*][3]) and two for children. Greg received a Ph.D. in Computer Science from the University of Edinburgh in 1993.

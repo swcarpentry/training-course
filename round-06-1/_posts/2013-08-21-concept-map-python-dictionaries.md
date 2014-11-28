@@ -2,7 +2,7 @@
 title: 'Concept Map:  Python Dictionaries'
 author: Matthew Lightman
 permalink: /2013/08/concept-map-python-dictionaries/
-categories:
+tags:
   - Concept Map
 ---
 ![][1]

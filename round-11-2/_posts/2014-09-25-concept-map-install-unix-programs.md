@@ -2,7 +2,7 @@
 title: 'Concept map (update): Python functions'
 author: Matthew Shirley
 permalink: /2014/09/concept-map-install-unix-programs/
-categories:
+tags:
   - Concept Map
 ---
 Second attempt. Thanks for the feedback, Greg.

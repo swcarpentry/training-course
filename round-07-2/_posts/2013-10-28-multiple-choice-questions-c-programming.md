@@ -2,7 +2,7 @@
 title: 'Multiple Choice Questions &#8211; C Programming'
 author: Don Brown
 permalink: /2013/10/multiple-choice-questions-c-programming/
-categories:
+tags:
   - Assessment
 ---
 **Distinguishing Novice from Competent:**

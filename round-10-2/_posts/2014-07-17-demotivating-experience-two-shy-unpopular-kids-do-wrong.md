@@ -2,7 +2,7 @@
 title: 'Demotivating Experience: Shy, Unpopular Kid Does Wrong'
 author: Scott Talafuse
 permalink: /2014/07/demotivating-experience-two-shy-unpopular-kids-do-wrong/
-categories:
+tags:
   - Motivation
 ---
 In 1984, I was a 4th grader at a new school.  I was shy, uncomfortable in my own skin, and had only one friend, another odd boy who I had met in the course of avoiding everyone else at outdoor playtime.

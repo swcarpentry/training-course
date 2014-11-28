@@ -2,7 +2,7 @@
 title: Roman Valls Guimera
 author: Roman Valls
 permalink: /2014/09/roman-valls-guimera/
-categories:
+tags:
   - Biography
 ---
 I am a [research software engineer][1] working at [INCF][2], investigating and building infrastructure for better (neuro)scientific data sharing. Previously I taught good python practices at [Science for Life Laboratory][3] by using [python koans (git, unit tests and Travis-CI)][4].

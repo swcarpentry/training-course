@@ -2,7 +2,7 @@
 title: 'MCQ: numpy broadcasting'
 author: Stefan van der Walt
 permalink: /2014/02/mcq-numpy-broadcasting/
-categories:
+tags:
   - Assessment
 ---
 Distinguish novice from expert

@@ -2,7 +2,7 @@
 title: 'Concept Map &#8211; Image Processing'
 author: Matthew Dimmock
 permalink: /2014/04/concept-map-image-processing/
-categories:
+tags:
   - Concept Map
 ---
 Here is the concept map that I would use to describe the image processing chain to Radiography Undergrads (specifically using NumPy and SciPy for problem solving) .

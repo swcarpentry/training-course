@@ -2,7 +2,7 @@
 title: 'Week 2 &#8211; Motivation'
 author: Erik Bray
 permalink: /2012/09/week-2-motivation-3/
-categories:
+tags:
   - Motivation
 ---
 # An Anecdote of Demotivation to Motivation

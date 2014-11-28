@@ -2,7 +2,7 @@
 title: Comments on SWC Teaching04
 author: Jorden Schossau
 permalink: /2013/06/comments-on-swc-teaching04-2/
-categories:
+tags:
 ---
 **Executive Summary**  
 This course was rewarding, educational, and fun. The suggested readings were all useful in different ways, and the discussions were most useful of all. I left the course with a better understand of how to teach, why each method is useful, and how to improve and help others improve. Of all the exercises we performed, I enjoyed the final &#8220;give a 2 hour seminar&#8221; the most because it allowed me to try everything we&#8217;ve been discussing in a cohesive singular effort, as well as helped me curb my perfectionist tendencies.

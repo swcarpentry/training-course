@@ -2,7 +2,7 @@
 title: SWC teaching module wrap-up
 author: Amanda Whitlock
 permalink: /2013/06/swc-teaching-module-wrap-up/
-categories:
+tags:
 ---
 This teaching module has been a great opportunity and I&#8217;ve really enjoyed it. I immediately began incorporating some of what we discussed in this module into the class I was TAing and it seemed to help the students. Too bad for the students I had in the semesters prior! As other participants have said, I was surprised at how little of the module was spent on actual SWC. boot camp materials or preparation and how much was spent on a more fundamental approach. In a way, this made it more valuable than I expected. However, I don’t feel prepared to jump into a boot camp myself. Maybe getting ahold of the manual will change my mind.
 

@@ -2,7 +2,7 @@
 title: 'Concept Map: Conditional Statements'
 author: Sheldon McKay
 permalink: /2014/01/concept-map-conditional-statements/
-categories:
+tags:
   - Concept Map
   - Python
 ---

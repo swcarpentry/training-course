@@ -2,7 +2,7 @@
 title: Round 1.4 Justin on object methods
 author: Justin Ely
 permalink: /2012/11/round-1-4-justin-on-object-methods/
-categories:
+tags:
   - Lesson
 ---
 I am fairly certain my terminology may not be entirely correct in this tutorial, never having learned it myself.  Hopefully it is still accurate enough to follow along for now.

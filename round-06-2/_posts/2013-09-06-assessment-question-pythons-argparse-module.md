@@ -2,7 +2,7 @@
 title: 'Assessment Question: Python&#8217;s argparse module'
 author: Rachel Anderson
 permalink: /2013/09/assessment-question-pythons-argparse-module/
-categories:
+tags:
   - Assessment
 ---
 Q1: I have a program called mysum.py, which sums input from the user.  I use argparse like so:  

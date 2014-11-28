@@ -2,7 +2,7 @@
 title: Cody Hinchliff
 author: Cody Hinchliff
 permalink: /2014/09/cody-hinchliff/
-categories:
+tags:
   - Biography
 ---
 I&#8217;m a plant systematist and evolutionary biologist currently doing postdoctoral work in software development and infrastructure for biology. As a researcher I operate at the interface of computational methodology and large scale phylogenetics. I&#8217;m interested in addressing broad evolutionary questions related to the origin and maintenance of all kind of organismal diversity. I often make use of public resources like GenBank and GBIF to provide broadly-scoped data, and I program in Python, Java, and R (and dabble in C/C++) to develop analysis pipelines and tools for use by myself and other biologists.

@@ -2,7 +2,7 @@
 title: 'Concept Map: Git &#8211; 3. Collaborating'
 author: Ruth Collings
 permalink: /2014/09/concept-map-git-3-collaborating/
-categories:
+tags:
   - Concept Map
 ---
 This chart is based on [the Collaborating][1] section of the Git lesson, which covers push, pull, clone, and github.

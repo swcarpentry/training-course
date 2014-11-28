@@ -2,7 +2,7 @@
 title: 'Screen Cast: quick multivariate visualizations with R and vegan'
 author: Ryan Williams
 permalink: /2013/11/screen-cast-quick-multivariate-visualizations-with-r-and-vegan/
-categories:
+tags:
   - Video
 ---
 I will do a quick 3 minute presentation on how to visualize data using principal coordinates analysis (PCoA) and multidimensional scaling (MDS) using the vegan package in R.

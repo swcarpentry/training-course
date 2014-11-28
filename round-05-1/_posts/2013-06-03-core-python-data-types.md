@@ -2,7 +2,7 @@
 title: Core Python data types
 author: Luke Lee
 permalink: /2013/06/core-python-data-types/
-categories:
+tags:
   - Concept Map
 ---
 This is my attempt at trying to give a high-level organization to the core built-in Python data types and their uses.  I avoided including other &#8216;types&#8217; like object, type, etc. to simplify the map as well as gear it towards beginners.  I think including things like the base &#8216;object&#8217; and other more infrastructure data types would have made the overall concept harder to grasp.

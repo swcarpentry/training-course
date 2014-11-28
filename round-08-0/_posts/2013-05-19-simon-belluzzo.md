@@ -2,7 +2,7 @@
 title: Simon Belluzzo
 author: Simon Belluzzo
 permalink: /2013/05/simon-belluzzo/
-categories:
+tags:
   - Biography
   - round-05-0
 ---

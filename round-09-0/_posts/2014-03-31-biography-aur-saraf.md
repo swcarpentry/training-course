@@ -2,7 +2,7 @@
 title: 'Biography: Aur Saraf'
 author: Aur Saraf
 permalink: /2014/03/biography-aur-saraf/
-categories:
+tags:
   - Biography
 ---
 [<img class=" wp-image-6517 alignleft" alt="portrait_brighter" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/03/portrait_brighter-262x300.png" width="157" height="180" />][1]

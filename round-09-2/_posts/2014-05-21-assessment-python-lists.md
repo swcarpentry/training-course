@@ -2,7 +2,7 @@
 title: 'Assessment &#8211; Python lists'
 author: Tim McNamara
 permalink: /2014/05/assessment-python-lists/
-categories:
+tags:
   - Assessment
 ---
 Assessment drawn from [Christian Jacobs’ concept map][1].

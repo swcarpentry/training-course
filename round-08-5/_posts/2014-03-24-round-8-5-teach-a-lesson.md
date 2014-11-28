@@ -2,7 +2,7 @@
 title: 'Round 8.5: Teach a Lesson'
 author: Greg Wilson
 permalink: /2014/03/round-8-5-teach-a-lesson/
-categories:
+tags:
   - Teaching
 ---
 For our final exercise, everyone is going to:

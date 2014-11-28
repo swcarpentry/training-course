@@ -2,7 +2,7 @@
 title: 'Assessment: Using Databases &#8211; Combining Data'
 author: Thomas Guignard
 permalink: /2014/10/assessment-using-databases-combining-data/
-categories:
+tags:
   - Assessment
   - SQL
 ---

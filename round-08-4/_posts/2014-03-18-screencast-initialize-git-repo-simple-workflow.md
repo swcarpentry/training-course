@@ -2,7 +2,7 @@
 title: 'Screencast: Initialize Git Repo + Simple Workflow'
 author: Abigail Cabunoc
 permalink: /2014/03/screencast-initialize-git-repo-simple-workflow/
-categories:
+tags:
   - Video
 ---
 Here&#8217;s a tutorial on initializing a git repo and walking through a simple development workflow using version control. Assumptions I made:

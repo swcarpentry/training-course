@@ -2,7 +2,7 @@
 title: 'Concept Map: File Permissions'
 author: Tim McNamara
 permalink: /2013/06/concept-map-file-permissions/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-large wp-image-2968" alt="File Permissions Concept Map" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/06/FilePermissions-1024x853.jpg" width="707" height="588" />][1]

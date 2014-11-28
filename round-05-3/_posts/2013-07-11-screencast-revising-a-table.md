@@ -2,7 +2,7 @@
 title: Screencast—revising a table
 author: Ted Kirkpatrick
 permalink: /2013/07/screencast-revising-a-table/
-categories:
+tags:
   - Video
 ---
 This screencast walks through revising a table to emphasize its main result. I think this task matches our focus on competent versus expert performance. I wanted to use this screencast outside this course, so it&#8217;s longer than the requested time (5:45 instead of 3:30). 

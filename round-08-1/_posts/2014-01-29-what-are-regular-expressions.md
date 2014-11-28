@@ -2,7 +2,7 @@
 title: What are regular expressions?
 author: Brian Miles
 permalink: /2014/01/what-are-regular-expressions/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-large wp-image-5726" alt="Miles-ConceptMap-regex" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/IMG_1544-1024x820.png" width="707" height="566" />][1]

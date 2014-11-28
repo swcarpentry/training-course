@@ -2,7 +2,7 @@
 title: 'Assessment: Software Testing'
 author: Rachel Slaybaugh
 permalink: /2013/09/assessment-software-testing/
-categories:
+tags:
   - Assessment
 ---
 This is a follow on from my Software Testing Concept Map

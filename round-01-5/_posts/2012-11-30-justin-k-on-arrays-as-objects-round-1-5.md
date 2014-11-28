@@ -2,7 +2,7 @@
 title: 'Justin K on Arrays as Objects &#8211; Round 1.5'
 author: Justin Kitzes
 permalink: /2012/11/justin-k-on-arrays-as-objects-round-1-5/
-categories:
+tags:
   - Video
 ---
 Here&#8217;s a short clip (from the UCB workshop) where I discussed the idea of a numpy array being an object and showed some important attributes.

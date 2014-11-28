@@ -2,7 +2,7 @@
 title: 'Screencast Proposal: SSH tunnelling and ssh-keygen'
 author: David Perez-Suarez
 permalink: /2013/06/screencast-proposal-ssh-tunnelling-and-ssh-keygen/
-categories:
+tags:
 ---
 One of the most asked stuff I get is how to access to the office computer from the outside world when there&#8217;s just one point of access.  This involves ssh-ing one machine (main server of the university/institute) and then ssh-ing your machine (behind the wall).
 

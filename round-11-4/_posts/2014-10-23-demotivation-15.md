@@ -2,7 +2,7 @@
 title: Demotivation
 author: David Pugh
 permalink: /2014/10/demotivation-15/
-categories:
+tags:
   - Motivation
 ---
 I really struggled with this assignment for two reasons. First, I think that I have been genuinely blessed with (at least what I perceived to be good teachers) through out my primary, secondary, and for the most part university education. Second, while I have had several teachers make &#8220;de-motivational&#8221; statements (i.e., their class is &#8220;extremely hard&#8221;, that &#8220;very few, if any, students will get stellar grades&#8221;, etc) either to me individually or my class as a group, these kinds of statements tend to be very effective at motivating me to work hard. That said the following is my de-motivational story.

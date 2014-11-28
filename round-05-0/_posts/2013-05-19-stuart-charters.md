@@ -2,7 +2,7 @@
 title: Stuart Charters
 author: Stuart Charters
 permalink: /2013/05/stuart-charters/
-categories:
+tags:
   - Biography
 ---
 I&#8217;m a Senior Lecturer at Lincoln University, New Zealand in the Department of Applied Compuing.  Originally from the UK, I did my Bsc(Hons) and PhD at Durham University in Computer Science. During my PhD I got involved in eScience projects in the UK and looked at developing Service Oriented Visualisation Pipelines for Scientific Visualisation.  

@@ -2,7 +2,7 @@
 title: Motivating to learn complex query operators
 author: Helen Yezerets
 permalink: /2014/03/motivating-to-learn-complex-query-operators/
-categories:
+tags:
   - Motivation
   - SQL
 ---

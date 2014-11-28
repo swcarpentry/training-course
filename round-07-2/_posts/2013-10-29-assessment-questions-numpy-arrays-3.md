@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Numpy Arrays'
 author: Joshua Adelman
 permalink: /2013/10/assessment-questions-numpy-arrays-3/
-categories:
+tags:
   - Assessment
 ---
 ******Novice from Competent**

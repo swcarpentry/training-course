@@ -2,7 +2,7 @@
 title: 'Assessment Question: GNU Coreutils'
 author: Raniere Silva
 permalink: /2013/08/assessment-question-gnu-coreutils/
-categories:
+tags:
   - Assessment
 ---
 I will keep the topic I choose for my concept map. GNU Coreutils.

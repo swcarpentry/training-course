@@ -2,7 +2,7 @@
 title: 'Concept Map: Continuous Integration'
 author: Luiz Irber
 permalink: /2014/06/concept-map-ci/
-categories:
+tags:
   - Concept Map
 ---
 What is continuous integration? Just a high level view of the basic workflow.

@@ -2,7 +2,7 @@
 title: 'Concept map: issue tracking system'
 author: Klemens Noga
 permalink: /2014/06/concept-map-issue-tracking-system/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone  wp-image-7748" alt="Concept.map.of.issue.tracking.system" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/Concept.map_.of_.issue_.tracking.system-716x1024.jpg" width="424" height="607" />][1]

@@ -2,7 +2,7 @@
 title: 'Reverse instructional design: questions about &#8220;design&#8221;'
 author: Piotr Banaszkiewicz
 permalink: /2014/07/reverse-instructional-design-questions-about-design/
-categories:
+tags:
   - Assessment
 ---
 My pitch, while not the best one, and definitely not the clearest one, was about motivating for learning design.

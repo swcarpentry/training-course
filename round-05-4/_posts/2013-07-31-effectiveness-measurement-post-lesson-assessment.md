@@ -2,7 +2,7 @@
 title: Effectiveness measurement—post-lesson assessment.
 author: Neal Davis
 permalink: /2013/07/effectiveness-measurement-post-lesson-assessment/
-categories:
+tags:
 ---
 David Merand and I discussed the following post-lesson. (I didn&#8217;t condense it into three paragraphs since I wasn&#8217;t certain how much of a consensus we reached—feel free to edit this further if you like, David.)
 

@@ -2,7 +2,7 @@
 title: 'Assessment &#8211; Navigating the file system from the command line'
 author: Jeff Walton
 permalink: /2014/07/assessment-navigating-the-file-system-from-the-command-line/
-categories:
+tags:
   - Assessment
 ---
 *This assessment would be given after a short lesson on the basics of the file system.*

@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Python Sets'
 author: Sean Dawson
 permalink: /2013/11/assessment-questions-python-sets/
-categories:
+tags:
   - Assessment
 ---
 **What is the value of *mystery* after this statement?**  

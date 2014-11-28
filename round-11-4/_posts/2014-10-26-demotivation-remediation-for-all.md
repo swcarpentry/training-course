@@ -2,7 +2,7 @@
 title: 'Demotivation: remediation for all!'
 author: Orion Buske
 permalink: /2014/10/demotivation-remediation-for-all/
-categories:
+tags:
   - Motivation
 ---
 I found it quite challenging to think of an appropriate story for this post. I&#8217;ve been incredibly lucky to have wonderful, supportive teachers at almost every turn. I&#8217;m sure I&#8217;ve had demotivating educational experiences, but there aren&#8217;t any that have really stuck with me.

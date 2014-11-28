@@ -2,7 +2,7 @@
 title: 'Reverse Instructional Design &#8212; The Apply family in R'
 author: Scott Ritchie
 permalink: /2014/07/reverse-instructional-design-the-apply-family-in-r/
-categories:
+tags:
   - Assessment
   - Design
   - Proficiency

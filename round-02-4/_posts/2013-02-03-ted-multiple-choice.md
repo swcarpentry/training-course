@@ -2,7 +2,7 @@
 title: Ted Multiple Choice
 author: Ted Hart
 permalink: /2013/02/ted-multiple-choice/
-categories:
+tags:
   - Proficiency
 ---
 Here are a couple of multiple choice questions

@@ -2,7 +2,7 @@
 title: 'MCQ: python file object'
 author: Mark Stacy
 permalink: /2014/02/mcq-python-file-object/
-categories:
+tags:
   - Assessment
 ---
 A multiple-choice question to distinguish novices from competent practitioners

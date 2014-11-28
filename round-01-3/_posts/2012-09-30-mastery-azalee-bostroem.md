@@ -2,7 +2,7 @@
 title: 'Mastery- Azalee Bostroem'
 author: Azalee Bostroem
 permalink: /2012/09/mastery-azalee-bostroem/
-categories:
+tags:
   - Proficiency
 ---
 I based my questions on what I find most important in my work. I think this can generalize to most science. I would love to know the expert answer to these.

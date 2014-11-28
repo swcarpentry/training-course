@@ -2,7 +2,7 @@
 title: Week 1 Wrap-Up
 author: Greg Wilson
 permalink: /2012/09/week-1-wrap-up/
-categories:
+tags:
 ---
 We had our first online video meeting this afternoon.  13 people took part (three of them voice-only, one text-only) as we walked through [Week 1&#8217;s concept maps][1].
 

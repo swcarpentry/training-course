@@ -2,7 +2,7 @@
 title: About Nathan S. Watson-Haigh
 author: Nathan S. Watson-Haigh
 permalink: /2013/08/about-nathan-s-watson-haigh/
-categories:
+tags:
   - Biography
 ---
 Nathan Watson-Haigh is a Research Fellow in Bioinformatics at the Australian Centre for Plant Functional Genomics ([ACPFG][1]) in Adelaide, Australia. He has undergraduate beginnings in biology but has worked in the field of bioinformatics for the past 12yrs with experiences in phylogenetic and molecular sequence analysis, integrating &#8216;omic data sets, systems biology and co-expression network analysis, de novo genome and transcriptome assembly. Over the past 12-18 months he has become increasingly involved in developing and delivering hands-on bioinformatics workshops as well as developing the cloud-based Virtual Machines used to deliver them.

@@ -2,7 +2,7 @@
 title: 'Assessing Skills in Python Syntax &#038; For-Loops'
 author: Sharon Benjamin
 permalink: /2013/11/assessing-skills-in-python-syntax-for-loops/
-categories:
+tags:
   - Assessment
 ---
 Multiple Choice on Python concepts including basic syntax, for-loop, if-statements, correctly concatenate strings and integers for print statements.

@@ -2,7 +2,7 @@
 title: Roberto Vitillo
 author: Roberto Vitillo
 permalink: /2014/09/roberto-vitillo/
-categories:
+tags:
   - Biography
 ---
 I am software engineer at Mozilla involved into investigating and fixing performance and power bottlenecks of Firefox by exploiting the data collected from our Telemetry system. I work mainly with C++, Python, Javascript and Clojure(script).

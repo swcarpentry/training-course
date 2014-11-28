@@ -2,7 +2,7 @@
 title: 'Assessment: Files and directories in the Unix shell'
 author: David Pugh
 permalink: /2014/10/assessment-files-and-directories-in-the-unix-shell/
-categories:
+tags:
   - Uncategorized
 tags:
   - Assessment

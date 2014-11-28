@@ -2,7 +2,7 @@
 title: 'Screencast: How to Fork A GitHub Repo'
 author: "Brenna O'Brien"
 permalink: /2014/03/screencast-how-to-fork-a-github-repo/
-categories:
+tags:
   - Video
 ---
 My screencast goes over the process of forking a GitHub repo and setting up that fork on your local machine.

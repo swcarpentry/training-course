@@ -2,7 +2,7 @@
 title: 'Concept Map: Path'
 author: Joon Ro
 permalink: /2013/02/concept-map-path/
-categories:
+tags:
   - Concept Map
 tags:
   - conceptual map

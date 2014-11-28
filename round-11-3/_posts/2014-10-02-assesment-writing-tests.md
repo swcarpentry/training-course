@@ -2,7 +2,7 @@
 title: 'Assessment &#8211; Writing Tests'
 author: Ashwin Srinath
 permalink: /2014/10/assesment-writing-tests/
-categories:
+tags:
   - Assessment
 ---
 1. Consider the following code:  

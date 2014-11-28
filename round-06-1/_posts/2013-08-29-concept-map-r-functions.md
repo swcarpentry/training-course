@@ -2,7 +2,7 @@
 title: 'Concept map: R functions'
 author: Cliburn Chan
 permalink: /2013/08/concept-map-r-functions/
-categories:
+tags:
   - Concept Map
 ---
 Used this to teach a small intro R class.

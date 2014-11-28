@@ -2,7 +2,7 @@
 title: conditional statement assessment
 author: Greg Caporaso
 permalink: /2014/10/conditional-statement-assessment/
-categories:
+tags:
   - Assessment
 ---
 Here are a couple of assessments that I put together for conditional statements. This is related to [my concept map on this topic][1].

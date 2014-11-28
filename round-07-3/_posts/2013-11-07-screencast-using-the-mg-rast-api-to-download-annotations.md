@@ -2,7 +2,7 @@
 title: 'Screencast: Using the MG-RAST API to download annotations'
 author: Aaron Garoutte
 permalink: /2013/11/screencast-using-the-mg-rast-api-to-download-annotations/
-categories:
+tags:
   - Video
 ---
 I&#8217;ll be demonstrating how to use the MG-RAST API to download different types of metagenome information.

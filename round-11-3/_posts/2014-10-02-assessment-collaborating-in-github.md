@@ -2,7 +2,7 @@
 title: 'Assessment: Collaborating in GitHub'
 author: Liberty Foreman
 permalink: /2014/10/assessment-collaborating-in-github/
-categories:
+tags:
   - Assessment
 ---
 <span style="text-decoration: underline;">Multiple choice question</span>

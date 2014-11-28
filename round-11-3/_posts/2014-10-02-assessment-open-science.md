@@ -2,7 +2,7 @@
 title: 'Assessment: Open Science'
 author: David LeBauer
 permalink: /2014/10/assessment-open-science/
-categories:
+tags:
   - Assessment
 ---
 **Question 1:**

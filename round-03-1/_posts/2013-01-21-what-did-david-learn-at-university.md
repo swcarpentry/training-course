@@ -2,7 +2,7 @@
 title: What did David learn at university
 author: David Jones
 permalink: /2013/01/what-did-david-learn-at-university/
-categories:
+tags:
 ---
 Reading [Mark Guzdial&#8217;s &#8220;MOOC are a fundamental misperception&#8230;&#8221;][1] got me thinking about what happens at a university. I&#8217;m not a researcher of computing education, so I only have my own experience to go on. I learnt 3 things at university: the theory of finite automata; graph theory; and what a co-routine is. Technically, 6 things if you also count punting, juggling, and typography.
 

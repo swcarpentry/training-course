@@ -2,7 +2,7 @@
 title: 'Screencast: Writing Custom R Functions'
 author: Daniel Hocking
 permalink: /2013/11/screencast-writing-r-functions/
-categories:
+tags:
   - Video
 ---
 I going to do a screencast teaching relatively new R users to write their own basic functions. The lesson will assume they&#8217;ve already learned how to write for loops and use built-in functions within R. I am currently thinking that I will write a function just to take a mean of a vector.

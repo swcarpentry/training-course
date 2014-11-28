@@ -2,7 +2,7 @@
 title: Motivation Story
 author: Ryan Williams
 permalink: /2014/02/motivation-story/
-categories:
+tags:
   - Motivation
 ---
 **Motivation to Learn**

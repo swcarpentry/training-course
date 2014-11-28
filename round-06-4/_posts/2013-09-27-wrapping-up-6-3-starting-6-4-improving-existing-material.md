@@ -2,7 +2,7 @@
 title: 'Wrapping Up 6.3, Starting 6.4: Improving Existing Material'
 author: Greg Wilson
 permalink: /2013/09/wrapping-up-6-3-starting-6-4-improving-existing-material/
-categories:
+tags:
   - Content
 ---
 Eighteen people submitted screencasts for the latest round of instructor training, and there were lots of good comments both on the posts themselves and in our meetings. This puts us in a good position to tackle our next, and largest, assignment:

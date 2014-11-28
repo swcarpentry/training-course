@@ -2,7 +2,7 @@
 title: Olivier Lafleur
 author: Olivier Lafleur
 permalink: /2014/09/bio-olivier-lafleur/
-categories:
+tags:
   - Biography
 ---
 I am a teacher in the Computer Science Department at Cégep de Lévis-Lauzon. I just finished my M. Sc. in Computer Science at Université Laval, in Québec city.  

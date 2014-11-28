@@ -2,7 +2,7 @@
 title: Assessment for SQL Statements by Jacob Levernier
 author: Chandler Wilkerson
 permalink: /2014/05/assessment-for-sql-statements-by-jacob-levernier/
-categories:
+tags:
   - Assessment
 ---
 This assessment is related to the [SQL Statements][1] concept map by Jacob Levernier

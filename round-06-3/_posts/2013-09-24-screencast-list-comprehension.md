@@ -2,7 +2,7 @@
 title: 'Screencast: List Comprehension'
 author: Leszek Tarkowski
 permalink: /2013/09/screencast-list-comprehension/
-categories:
+tags:
   - Video
 ---
 Short video about list comprehension in Python. Little bit late &#8211; sorry. Three minutes is definitely not enough, and this time pressure is responsible for jamming <img src="http://localhost:8080/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />

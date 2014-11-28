@@ -2,7 +2,7 @@
 title: 'Round 3: Mastery'
 author: Lynne Williams
 permalink: /2012/09/round-3-mastery-2/
-categories:
+tags:
   - Proficiency
 ---
 In thinking about what I think student&#8217;s should learn from Software Carpentry, I came up with a different kind of list of questions than Greg.  One of the issues in Software Carpentry has been transferring or generalizing the skills taught in the workshop and online classes to participants&#8217; real-world problems.  Although these questions aren&#8217;t as straightforward to answer as Greg&#8217;s, maybe if we can find answers to the following questions, we might get closer to people applying the skills learned.

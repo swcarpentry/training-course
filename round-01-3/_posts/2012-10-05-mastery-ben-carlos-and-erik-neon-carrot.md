@@ -2,7 +2,7 @@
 title: 'Mastery &#8211; Ben, Carlos and Erik (Neon Carrot)'
 author: Ben Waugh
 permalink: /2012/10/mastery-ben-carlos-and-erik-neon-carrot/
-categories:
+tags:
   - Proficiency
 ---
 Rather than trying to merge similar questions in this summary, I have instead put them into groups with related themes. Novices tend to ask a wide variety of rather specific questions, and it can take some guidance from someone more expert to guide them towards the &#8220;real&#8221; question that they &#8220;should&#8221; be asking to help them address the underlying problem. Sarah put it well in a comment on my earlier post: &#8220;&#8230;teaching should be about answering these “emergency” type questions and then bridging over to the bigger picture.&#8221;

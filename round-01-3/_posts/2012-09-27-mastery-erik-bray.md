@@ -2,7 +2,7 @@
 title: Mastery – Erik Bray
 author: Erik Bray
 permalink: /2012/09/mastery-erik-bray/
-categories:
+tags:
   - Proficiency
 ---
 Most of these questions fall into the category of what I think more people need to learn. Or to be more specific, these are the kinds of issues I run into on a daily basis when working with relative novices (by which I mean novices in the limited domains these questions apply to&#8211;some of them are very experienced developers but still don&#8217;t think much about things like version control, for example):

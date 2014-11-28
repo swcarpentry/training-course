@@ -2,7 +2,7 @@
 title: 'Assessment: Analyzing Patient Data'
 author: Jon Guyer
 permalink: /2014/10/assessment-analyzing-patient-data/
-categories:
+tags:
   - Assessment
 ---
 **Q1:** Given the NumPy array

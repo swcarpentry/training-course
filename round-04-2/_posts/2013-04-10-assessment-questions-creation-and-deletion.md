@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Creation and Deletion'
 author: Jorden Schossau
 permalink: /2013/04/assessment-questions-creation-and-deletion/
-categories:
+tags:
   - Proficiency
 ---
 **Basic 1)** Assume the file structure is: /Documents/projectA/notes.txt Which command(s) would complete without error?

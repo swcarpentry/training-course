@@ -2,7 +2,7 @@
 title: 'MCQ &#8211; IPython, explicit display vs displayHook on output.'
 author: Matthias Bussonnier
 permalink: /2014/02/mcq-ipython-explicit-display-vs-displayhook-on-output/
-categories:
+tags:
   - Assessment
 ---
 Goal : differentiate between displaying an rich object / returning a rich object as the last statement of a cell.  

@@ -2,7 +2,7 @@
 title: 'Mastery &#8211; Matt'
 author: Matt Davis
 permalink: /2012/10/mastery-matt/
-categories:
+tags:
   - Proficiency
 ---
 Everyone has added a lot of great ideas! Like Ben I took a different tack and I tried to think of some of the common complaints I remember hearing in grad school:

@@ -2,7 +2,7 @@
 title: Autovivification Concept Map
 author: Sarah Richardson
 permalink: /2013/06/autovivification-concept-map/
-categories:
+tags:
   - Concept Map
 tags:
   - conceptual map

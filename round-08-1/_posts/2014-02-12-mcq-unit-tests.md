@@ -2,7 +2,7 @@
 title: 'MCQ: Unit tests'
 author: Neem Serra
 permalink: /2014/02/mcq-unit-tests/
-categories:
+tags:
   - Assessment
 ---
 Novices vs competent practitioners:

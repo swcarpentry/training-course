@@ -2,7 +2,7 @@
 title: 'Concept Map: latexdiff to review changes'
 author: Remi Emonet
 permalink: /2013/10/concept-map-latexdiff-to-review-changes/
-categories:
+tags:
   - Concept Map
 ---
 [<img alt="latexdiff concept map (b&w)" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/10/export-2-small.png" width="800" height="605" />][1]<figure id="attachment_4840" style="width: 150px;" class="wp-caption alignnone">

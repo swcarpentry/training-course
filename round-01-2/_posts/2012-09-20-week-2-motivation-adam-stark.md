@@ -2,7 +2,7 @@
 title: 'Week 2: Motivation &#8211; Adam Stark'
 author: Adam Stark
 permalink: /2012/09/week-2-motivation-adam-stark/
-categories:
+tags:
   - Motivation
 ---
 **Things teachers and fellow learners have done that have motivated me to learn**

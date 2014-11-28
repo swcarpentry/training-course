@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Bash command line'
 author: Camille Avestruz
 permalink: /2013/09/assessment-questions-bash-command-line/
-categories:
+tags:
   - Assessment
 ---
 1) Novice vs. competent practitioner

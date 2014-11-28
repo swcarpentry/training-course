@@ -2,7 +2,7 @@
 title: 'Concept Map: Command Line Parameters'
 author: "Steven 'Kreuvf' Koenig"
 permalink: /2013/03/concept-map-command-line-parameters/
-categories:
+tags:
   - Concept Map
 ---
 <a href="http://teaching.software-carpentry.org/wp-content/uploads/2013/03/20130326_Concept_map_Command_Line_Parameters_Steven_Koenig_revised.jpg" lang="en">Concept Map on the topic &#8216;Command Line Parameters&#8217; by Steven Koenig</a>

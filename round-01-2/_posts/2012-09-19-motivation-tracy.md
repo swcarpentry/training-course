@@ -2,7 +2,7 @@
 title: 'Motivation &#8211; Tracy'
 author: Tracy Teal
 permalink: /2012/09/motivation-tracy/
-categories:
+tags:
   - Motivation
 ---
 **Motivation:**

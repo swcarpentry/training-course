@@ -2,7 +2,7 @@
 title: Mind Map of White Space in Python
 author: Alex Viana
 permalink: /2012/11/mind-map-of-white-space-in-python/
-categories:
+tags:
   - Concept Map
 ---
 White space is a trivial but powerful concept in Python. It fits nicely into &#8220;a half-dozen boxes and arrows&#8221;, but can be a useful tool to getting scientist to thinking about the readability of their code.

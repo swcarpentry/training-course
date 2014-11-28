@@ -2,7 +2,7 @@
 title: 'Assessment Question: Python functions'
 author: Cliburn Chan
 permalink: /2013/09/assessment-question-python-functions/
-categories:
+tags:
   - Assessment
 ---
 Q1 (Competence) What is the final value of the result variable in the program below?

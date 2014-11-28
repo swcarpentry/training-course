@@ -2,7 +2,7 @@
 title: Motivation for Python Functions
 author: Mark Wilber
 permalink: /2014/05/motivation-for-python-functions/
-categories:
+tags:
   - Motivation
   - Video
 ---

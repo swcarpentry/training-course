@@ -2,7 +2,7 @@
 title: Jonathan Gross
 author: Jonathan Gross
 permalink: /2014/09/bio-jonathan-gross/
-categories:
+tags:
   - Biography
 ---
 I am a third year Ph.D. student at the University of New Mexico studying quantum information theory. I also have a bachelors in computer engineering from the University of Arizona, where I developed much of my interest in software engineering. I have worked in the past optimizing cryptographic and linear algebra routines using CUDA, but currently Python 3 fills all of my computational needs.

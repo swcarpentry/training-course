@@ -2,7 +2,7 @@
 title: Personal stories about motivation
 author: John Corless
 permalink: /2014/02/personal-stories-about-motivation/
-categories:
+tags:
   - Motivation
 ---
 ## Motivation

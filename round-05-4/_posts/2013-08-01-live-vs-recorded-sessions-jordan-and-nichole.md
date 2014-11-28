@@ -2,7 +2,7 @@
 title: 'Live vs Recorded Sessions: Jordan and Nichole'
 author: Nichole Bennett
 permalink: /2013/08/live-vs-recorded-sessions-jordan-and-nichole/
-categories:
+tags:
 ---
 <p dir="ltr">
   Neither of us huge fans of either technique as a stand-alone teaching tool, but we brainstormed a few ideas for testing which method is more effective.

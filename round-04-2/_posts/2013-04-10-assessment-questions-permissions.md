@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Permissions'
 author: "Steven 'Kreuvf' Koenig"
 permalink: /2013/04/assessment-questions-permissions/
-categories:
+tags:
   - Proficiency
 ---
 ##### Distinguishing Novice From Competent Practitioner

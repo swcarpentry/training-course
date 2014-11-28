@@ -2,7 +2,7 @@
 title: 'Concept map: Creating and Deleting'
 author: Nancy Giang
 permalink: /2013/02/concept-map-creating-and-deleting/
-categories:
+tags:
   - Concept Map
 ---
 <a href="http://teaching.software-carpentry.org/wp-content/uploads/2013/02/CreatingandDeletingConceptMap1.png" target="_blank"><img class="alignnone  wp-image-1548" alt="CreatingandDeletingConceptMap" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/02/CreatingandDeletingConceptMap1-1024x366.png" width="707" height="252" /></a>

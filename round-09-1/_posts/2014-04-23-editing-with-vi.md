@@ -2,7 +2,7 @@
 title: Editing with vi
 author: Chandler Wilkerson
 permalink: /2014/04/editing-with-vi/
-categories:
+tags:
   - Concept Map
 ---
 A very rough draft (release early and often, right?)

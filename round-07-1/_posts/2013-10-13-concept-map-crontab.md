@@ -2,7 +2,7 @@
 title: 'Concept map: crontab'
 author: Ofer Bartal
 permalink: /2013/10/concept-map-crontab/
-categories:
+tags:
   - Concept Map
 ---
 This concept map teaches about crobtab &#8211; a unix uility. Comments are welcome!

@@ -2,7 +2,7 @@
 title: 'Week 1 &#8211; The Shell: Finding Things'
 author: Michael Hansen
 permalink: /2012/09/week-1-the-shell-finding-things/
-categories:
+tags:
   - Concept Map
 ---
 # [<img class="alignnone size-large wp-image-223" title="shell_finding_concept_map" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/shell_finding_concept_map-1024x679.jpg" alt="" width="707" height="468" />][1]

@@ -2,7 +2,7 @@
 title: 'Week 2: Motivation'
 author: Greg Wilson
 permalink: /2012/09/week-2-motivation/
-categories:
+tags:
 ---
 You can&#8217;t go three minutes at a university these days without someone telling you that computers and the web are about to revolutionize the way we teach. On the other hand, we have tried several times, and several ways, to move Software Carpentry&#8217;s classes online, but the results have always been disappointing: most learners don&#8217;t seem to find webcasts or bulletin board discussions rewarding enough, or engaging enough, to stick with them. We&#8217;ll explore why not, and what we can do about it, in the coming weeks; as background, please read Chapter 3 (&#8220;What Factors Motivate Students to Learn?&#8221;) of *[How Learning Works][1]*, which makes the following recommendations:
 

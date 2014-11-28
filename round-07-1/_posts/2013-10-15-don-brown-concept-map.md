@@ -2,7 +2,7 @@
 title: 'Don Brown: Concept Map'
 author: Don Brown
 permalink: /2013/10/don-brown-concept-map/
-categories:
+tags:
   - Concept Map
 ---
 &nbsp;

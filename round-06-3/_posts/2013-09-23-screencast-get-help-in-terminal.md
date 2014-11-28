@@ -9,7 +9,7 @@ enclosure:
         5288459
         video/webm
         
-categories:
+tags:
   - Video
 ---
 Hi, sorry to only published the video now. I was traveling last week.

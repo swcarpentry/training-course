@@ -2,7 +2,7 @@
 title: 'Mastery Table: The Shell: Files and Directories'
 author: Geoff Oxberry
 permalink: /2013/02/mastery-table-the-shell-files-and-directories/
-categories:
+tags:
   - Proficiency
 ---
 I don&#8217;t know that I&#8217;m an expert on the file system, but I figured since I&#8217;m pretty weak on shell scripting (I avoid it in favor of Python), I&#8217;d work on that.

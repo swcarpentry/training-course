@@ -2,7 +2,7 @@
 title: Motivation and Live Teaching
 author: Greg Wilson
 permalink: /2014/06/motivation-and-live-teaching/
-categories:
+tags:
   - Motivation
   - Teaching
 ---

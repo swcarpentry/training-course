@@ -2,7 +2,7 @@
 title: Concept Map for teaching Doxygen
 author: David Worth
 permalink: /2013/10/concept-map-for-teaching-doxygen/
-categories:
+tags:
   - Concept Map
 ---
 Here&#8217;s my concept map for a 5 minute session to teach the basics of Doxygen.<figure id="attachment_4734" style="width: 300px;" class="wp-caption alignnone">

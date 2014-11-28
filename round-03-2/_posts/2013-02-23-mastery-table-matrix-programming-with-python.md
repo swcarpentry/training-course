@@ -2,7 +2,7 @@
 title: 'Mastery Table: Matrix Programming with Python'
 author: Joon Ro
 permalink: /2013/02/mastery-table-matrix-programming-with-python/
-categories:
+tags:
   - Proficiency
 ---
 I don&#8217;t think I am at the expert level on matrix programming, but I tried my best. I am not familiar with the tables in WordPress so I just formatted them as follows. I nominate **Karthik** to make a longer response.

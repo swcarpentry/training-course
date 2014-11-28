@@ -2,7 +2,7 @@
 title: 'Concept map: using plyr to summarise data in R'
 author: James Robinson
 permalink: /2014/06/concept-map-2/
-categories:
+tags:
   - Concept Map
   - Uncategorized
 ---

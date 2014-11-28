@@ -2,7 +2,7 @@
 title: 'Assessment Questions: Concept Maps'
 author: Stefan van der Walt
 permalink: /2013/04/assessment-questions-concept-maps/
-categories:
+tags:
   - Proficiency
 ---
 Based on http://teaching.software-carpentry.org/2013/04/01/concept-map-concept-map-2/

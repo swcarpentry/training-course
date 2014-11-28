@@ -2,7 +2,7 @@
 title: 'MCQ: Batch processing script'
 author: Bradley Taber-Thomas
 permalink: /2014/02/mcq-batch-processing-script/
-categories:
+tags:
   - Assessment
 ---
 **Before teaching MCQ (novices vs. competent practitioners):**  

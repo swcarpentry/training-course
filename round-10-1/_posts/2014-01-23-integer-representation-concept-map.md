@@ -2,7 +2,7 @@
 title: Integer Representation Concept Map
 author: David Merand
 permalink: /2014/01/integer-representation-concept-map/
-categories:
+tags:
   - Concept Map
   - round-08-1
 ---

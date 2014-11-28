@@ -2,7 +2,7 @@
 title: 'Assessment &#8212; loops and multiple file processing in R'
 author: François Michonneau
 permalink: /2014/09/assessment-loops-and-multiple-file-processing-in-r/
-categories:
+tags:
   - Assessment
 ---
 This is based on this lesson: <https://github.com/swcarpentry/bc/blob/master/novice/r/03-loops-R.Rmd>

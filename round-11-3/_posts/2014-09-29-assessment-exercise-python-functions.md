@@ -2,7 +2,7 @@
 title: 'Assessment exercise: Python Functions'
 author: Daniel Smith
 permalink: /2014/09/assessment-exercise-python-functions/
-categories:
+tags:
   - Assessment
 ---
 1) From the following python definition what is the result of &#8220;foo(5)&#8221;?

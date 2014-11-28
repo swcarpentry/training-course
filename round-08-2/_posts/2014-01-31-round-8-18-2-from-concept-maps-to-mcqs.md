@@ -2,7 +2,7 @@
 title: 'Round 8.1/8.2: From Concept Maps to MCQs'
 author: Greg Wilson
 permalink: /2014/01/round-8-18-2-from-concept-maps-to-mcqs/
-categories:
+tags:
   - Assessment
   - Concept Map
   - round-08-1

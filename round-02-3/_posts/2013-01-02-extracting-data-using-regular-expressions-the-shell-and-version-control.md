@@ -2,7 +2,7 @@
 title: Extracting data using regular expressions, the shell, and version control
 author: Ethan White
 permalink: /2013/01/extracting-data-using-regular-expressions-the-shell-and-version-control/
-categories:
+tags:
   - Connections
   - Teaching
 ---

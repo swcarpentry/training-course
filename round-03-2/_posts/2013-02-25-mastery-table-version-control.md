@@ -2,7 +2,7 @@
 title: 'Mastery table: Version Control'
 author: Karthik Ram
 permalink: /2013/02/mastery-table-version-control/
-categories:
+tags:
   - Proficiency
 ---
 # What does a novice know coming in (including misconceptions!)

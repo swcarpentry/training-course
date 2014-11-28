@@ -2,7 +2,7 @@
 title: 'Reverse Instructional Design &#8211; List comprehensions'
 author: Luiz Irber
 permalink: /2014/07/reverse-instructional-design-list-comprehensions/
-categories:
+tags:
   - Assessment
 ---
 These questions assume a lesson on list comprehensions, with previous knowledge about range() and string methods.

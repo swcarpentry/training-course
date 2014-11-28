@@ -2,7 +2,7 @@
 title: 'Concept Map: System Calls'
 author: Benjamin Bradshaw
 permalink: /2014/01/concept-map-system-calls/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="alignnone size-medium wp-image-5568" alt="syscalls" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/syscalls-e1390367365561-285x300.jpg" width="285" height="300" />][1]

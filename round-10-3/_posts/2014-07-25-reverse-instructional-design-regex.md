@@ -2,7 +2,7 @@
 title: 'Reverse Instructional Design: regex'
 author: Daisie Huang
 permalink: /2014/07/reverse-instructional-design-regex/
-categories:
+tags:
   - Assessment
 ---
 This would be following a lesson on regex (using perl syntax)

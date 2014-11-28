@@ -2,7 +2,7 @@
 title: 'Demotivation &#8211; sport'
 author: Jane Lewis
 permalink: /2014/07/demotivation-sport/
-categories:
+tags:
   - Motivation
 ---
 Sports at school were just the most terrifying experience for me. I was always argued over as the last person for the team and which team had to include me &#8216;cos the other one had had me the week before. Netball &#8211; I was pushed over; hockey &#8211; I still have the scars of sticks bashed into my legs; running &#8211; the rest of the class was onto the next thing before I&#8217;d even made it around the warmup track; and so it went on, week in, week out from age 5 to 17.

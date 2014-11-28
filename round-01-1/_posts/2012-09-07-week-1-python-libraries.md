@@ -2,7 +2,7 @@
 title: 'Week 1 &#8211; Python: Libraries'
 author: Sarah Supp
 permalink: /2012/09/week-1-python-libraries/
-categories:
+tags:
   - Concept Map
 ---
 [<img class="aligncenter size-large wp-image-148" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/PythonLibrariesCmap-1024x785.jpg" alt="" width="707" height="541" />][1]

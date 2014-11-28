@@ -2,7 +2,7 @@
 title: From Reverse Instructional Design to Motivation
 author: Greg Wilson
 permalink: /2014/10/from-reverse-instructional-design-to-motivation/
-categories:
+tags:
   - Motivation
   - round-11-3
 ---

@@ -2,7 +2,7 @@
 title: 'Concept Map: Optimising and porting Matlab/Octave code in parallel'
 author: Celine Cattoen-Gilbert
 permalink: /2013/06/concept-map-optimising-and-porting-matlaboctave-code-in-parallel/
-categories:
+tags:
   - Concept Map
 ---
 Concepts and steps for optimising and/or parallelising some Matlab/Octave code. The steps and ideas are for general code, but some tools specific to Matlab/Octave are included in the concept map.

@@ -2,7 +2,7 @@
 title: Demotivation
 author: Roman Valls
 permalink: /2014/10/demotivation-2/
-categories:
+tags:
   - Motivation
 ---
 Since this week&#8217;s assignment is quite personal, I went and wrote a blog post on my personal site, hope you don&#8217;t mind:
