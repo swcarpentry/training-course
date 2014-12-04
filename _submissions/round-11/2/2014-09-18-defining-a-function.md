@@ -1,4 +1,6 @@
 ---
+date: 2014-09-18
+round: round-11
 title: Defining a Function
 author: Kit Fuhrman
 permalink: /2014/09/defining-a-function/

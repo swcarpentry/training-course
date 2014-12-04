@@ -1,4 +1,6 @@
 ---
+date: 2013-07-30
+round: round-05
 title: 'Critique: Matrix Programming'
 author: Shreyas Cholia
 permalink: /2013/07/critique-matrix-programming/

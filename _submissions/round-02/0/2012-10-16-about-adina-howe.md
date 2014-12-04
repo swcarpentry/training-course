@@ -1,4 +1,6 @@
 ---
+date: 2012-10-16
+round: round-02
 title: About Adina Howe
 author: Adina Chuang Howe
 permalink: /2012/10/about-adina-howe/

@@ -1,4 +1,6 @@
 ---
+date: 2013-03-27
+round: round-04
 title: 'Concept Map: Command Line Parameters'
 author: "Steven 'Kreuvf' Koenig"
 permalink: /2013/03/concept-map-command-line-parameters/

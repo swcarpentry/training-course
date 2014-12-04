@@ -1,4 +1,6 @@
 ---
+date: 2014-04-05
+round: round-09
 title: 'Biography: Florian Rathgeber'
 author: Florian Rathgeber
 permalink: /2014/04/biography-florian-rathgeber/

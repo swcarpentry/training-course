@@ -1,4 +1,6 @@
 ---
+date: 2012-08-31
+round: round-01
 title: About Sarah Supp
 author: Sarah Supp
 permalink: /2012/08/about-sarah-supp/

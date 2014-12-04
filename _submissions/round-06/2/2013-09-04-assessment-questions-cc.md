@@ -1,4 +1,6 @@
 ---
+date: 2013-09-04
+round: round-06
 title: 'Assessment Questions: C/C++'
 author: Jinwoo Leem
 permalink: /2013/09/assessment-questions-cc/

@@ -1,4 +1,6 @@
 ---
+date: 2014-05-31
+round: round-09
 title: Motivation for IPython
 author: Jonathan Frederic
 permalink: /2014/05/motivation-for-ipython/

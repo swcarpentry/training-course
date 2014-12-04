@@ -1,4 +1,6 @@
 ---
+date: 2013-05-20
+round: round-05
 title: Jordi Blasco
 author: Jordi Blasco
 permalink: /2013/05/jordi-blasco/

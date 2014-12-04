@@ -1,4 +1,6 @@
 ---
+date: 2014-06-03
+round: round-09
 title: motivation for learning how to make figures in R
 author: Genevieve Smith
 permalink: /2014/06/motivation-for-learning-how-to-make-figures-in-r/

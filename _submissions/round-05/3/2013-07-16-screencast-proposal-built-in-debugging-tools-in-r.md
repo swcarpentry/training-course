@@ -1,4 +1,6 @@
 ---
+date: 2013-07-16
+round: round-05
 title: 'Screencast Proposal: Built-In Debugging Tools in R'
 author: Nichole Bennett
 permalink: /2013/07/screencast-proposal-built-in-debugging-tools-in-r/

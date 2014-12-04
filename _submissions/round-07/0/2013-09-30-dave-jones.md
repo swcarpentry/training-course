@@ -1,4 +1,6 @@
 ---
+date: 2013-09-30
+round: round-07
 title: Dave Jones
 author: David Jones
 permalink: /2013/09/dave-jones/

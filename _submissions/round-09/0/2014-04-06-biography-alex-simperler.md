@@ -1,4 +1,6 @@
 ---
+date: 2014-04-06
+round: round-09
 title: 'Biography: Alex Simperler'
 author: Alexandra Simperler
 permalink: /2014/04/biography-alex-simperler/

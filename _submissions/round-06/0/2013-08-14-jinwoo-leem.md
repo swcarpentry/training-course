@@ -1,4 +1,6 @@
 ---
+date: 2013-08-14
+round: round-06
 title: Jinwoo Leem
 author: Jinwoo Leem
 permalink: /2013/08/jinwoo-leem/

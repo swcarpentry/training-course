@@ -1,4 +1,6 @@
 ---
+date: 2013-03-12
+round: round-04
 title: About Will Trimble
 author: Will Trimble
 permalink: /2013/03/about-will-trimble/

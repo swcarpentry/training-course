@@ -1,4 +1,6 @@
 ---
+date: 2013-01-31
+round: round-03
 title: 'Concept map: For loops'
 author: Karthik Ram
 permalink: /2013/01/concept-map-for-loops/

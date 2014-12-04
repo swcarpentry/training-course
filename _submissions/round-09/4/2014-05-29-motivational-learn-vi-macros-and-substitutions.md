@@ -1,4 +1,6 @@
 ---
+date: 2014-05-29
+round: round-09
 title: 'Motivational: Learn Vi Macros and Substitutions'
 author: Chandler Wilkerson
 permalink: /2014/05/motivational-learn-vi-macros-and-substitutions/

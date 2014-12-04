@@ -1,4 +1,6 @@
 ---
+date: 2014-10-02
+round: round-11
 title: 'Assessment: Relative paths, absolute paths, and the home directory'
 author: Lauren Michael
 permalink: /2014/10/assessment-2/

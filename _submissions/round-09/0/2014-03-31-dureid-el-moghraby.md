@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Dureid El-Moghraby'
 author: Dureid El-Moghraby
 permalink: /2014/03/dureid-el-moghraby/

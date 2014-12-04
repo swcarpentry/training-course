@@ -1,4 +1,6 @@
 ---
+date: 2013-09-11
+round: round-06
 title: 'Assessment Question: Statistical Tests for Transportation Engineers'
 author: Nicolas Saunier
 permalink: /2013/09/assessment-question-statistical-tests-for-transportation-engineers/

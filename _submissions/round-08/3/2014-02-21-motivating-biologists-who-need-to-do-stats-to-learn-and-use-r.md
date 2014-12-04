@@ -1,4 +1,6 @@
 ---
+date: 2014-02-21
+round: round-08
 title: Motivating biologists who need to do stats to learn and use R
 author: Stephen Turner
 permalink: /2014/02/motivating-biologists-who-need-to-do-stats-to-learn-and-use-r/

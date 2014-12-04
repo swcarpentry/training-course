@@ -1,4 +1,6 @@
 ---
+date: 2012-09-30
+round: round-01
 title: 'Mastery &#8211; Becky Stewart'
 author: Becky Stewart
 permalink: /2012/09/mastery-becky-stewart/

@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Padraic Stack'
 author: Padraic Stack
 permalink: /2014/03/biography-padraic-stack/

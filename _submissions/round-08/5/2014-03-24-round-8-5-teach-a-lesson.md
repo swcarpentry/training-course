@@ -1,4 +1,6 @@
 ---
+date: 2014-03-24
+round: round-08
 title: 'Round 8.5: Teach a Lesson'
 author: Greg Wilson
 permalink: /2014/03/round-8-5-teach-a-lesson/

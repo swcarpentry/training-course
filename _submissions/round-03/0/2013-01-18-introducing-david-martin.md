@@ -1,4 +1,6 @@
 ---
+date: 2013-01-18
+round: round-03
 title: Introducing David Martin
 author: David Martin
 permalink: /2013/01/introducing-david-martin/

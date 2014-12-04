@@ -1,4 +1,6 @@
 ---
+date: 2013-03-14
+round: round-04
 title: About April Wright
 author: April Wright
 permalink: /2013/03/about-april-wright/

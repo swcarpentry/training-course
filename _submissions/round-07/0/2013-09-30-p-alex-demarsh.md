@@ -1,4 +1,6 @@
 ---
+date: 2013-09-30
+round: round-07
 title: P Alex Demarsh
 author: Alex Demarsh
 permalink: /2013/09/p-alex-demarsh/

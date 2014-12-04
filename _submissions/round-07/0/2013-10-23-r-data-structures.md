@@ -1,4 +1,6 @@
 ---
+date: 2013-10-23
+round: round-07
 title: 'Concept Map: R Data Structures'
 author: Alex Demarsh
 permalink: /2013/10/r-data-structures/

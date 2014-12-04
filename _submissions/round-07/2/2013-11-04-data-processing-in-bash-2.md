@@ -1,4 +1,6 @@
 ---
+date: 2013-11-04
+round: round-07
 title: Data Processing in bash
 author: John Corless
 permalink: /2013/11/data-processing-in-bash-2/

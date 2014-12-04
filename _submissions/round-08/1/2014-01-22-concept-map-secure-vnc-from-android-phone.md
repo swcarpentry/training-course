@@ -1,4 +1,6 @@
 ---
+date: 2014-01-22
+round: round-08
 title: 'Concept Map: Secure VNC from android phone'
 author: Melanie Segado
 permalink: /2014/01/concept-map-secure-vnc-from-android-phone/

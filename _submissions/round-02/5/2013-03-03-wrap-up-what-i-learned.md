@@ -1,4 +1,6 @@
 ---
+date: 2013-03-03
+round: round-02
 title: 'Wrap up &#8211; what I learned'
 author: Karin Lagesen
 permalink: /2013/03/wrap-up-what-i-learned/

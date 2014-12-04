@@ -1,4 +1,6 @@
 ---
+date: 2014-09-17
+round: round-11
 title: 'Concept map: Introducing the Shell'
 author: Tiffany Timbers
 permalink: /2014/09/concept-map-introducing-the-shell/

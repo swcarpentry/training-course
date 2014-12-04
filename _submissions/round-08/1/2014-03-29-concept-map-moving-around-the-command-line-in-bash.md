@@ -1,4 +1,6 @@
 ---
+date: 2014-03-29
+round: round-08
 title: 'Concept map &#8211; moving around the command line in bash'
 author: Dana Miller
 permalink: /2014/03/concept-map-moving-around-the-command-line-in-bash/

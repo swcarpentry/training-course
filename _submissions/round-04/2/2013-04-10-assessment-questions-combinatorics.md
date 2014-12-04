@@ -1,4 +1,6 @@
 ---
+date: 2013-04-10
+round: round-04
 title: Assessment Questions – Combinatorics
 author: Will Trimble
 permalink: /2013/04/assessment-questions-combinatorics/

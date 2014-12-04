@@ -1,4 +1,6 @@
 ---
+date: 2013-04-10
+round: round-04
 title: 'Assessment: Floating Point Representations'
 author: Bogdan Vera
 permalink: /2013/04/assessment-floating-point-representations/

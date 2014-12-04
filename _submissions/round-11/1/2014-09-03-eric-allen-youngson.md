@@ -1,4 +1,6 @@
 ---
+date: 2014-09-03
+round: round-11
 title: Eric Allen Youngson
 author: Eric Youngson
 permalink: /2014/09/eric-allen-youngson/

@@ -1,4 +1,6 @@
 ---
+date: 2013-06-30
+round: round-07
 title: 'screencast idea: manipulating an XML file in php'
 author: Stuart Charters
 permalink: /2013/06/screencast-idea-manipulating-an-xml-file-in-php/

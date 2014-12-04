@@ -1,4 +1,6 @@
 ---
+date: 2013-09-30
+round: round-07
 title: Samuel Bosch
 author: Samuel Bosch
 permalink: /2013/09/samuel-bosch/

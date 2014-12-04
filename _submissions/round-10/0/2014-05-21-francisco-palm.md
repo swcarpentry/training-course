@@ -1,4 +1,6 @@
 ---
+date: 2014-05-21
+round: round-10
 title: Francisco Palm
 author: Francisco Palm
 permalink: /2014/05/francisco-palm/

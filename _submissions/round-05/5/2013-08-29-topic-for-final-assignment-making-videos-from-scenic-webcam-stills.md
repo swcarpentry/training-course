@@ -1,4 +1,6 @@
 ---
+date: 2013-08-29
+round: round-05
 title: 'Topic for final assignment: Making videos from scenic webcam stills'
 author: Shoaib Sufi
 permalink: /2013/08/topic-for-final-assignment-making-videos-from-scenic-webcam-stills/

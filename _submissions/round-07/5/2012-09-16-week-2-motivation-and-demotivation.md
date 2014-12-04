@@ -1,4 +1,6 @@
 ---
+date: 2012-09-16
+round: round-07
 title: Motivation and Demotivation
 author: Greg Wilson
 permalink: /2012/09/week-2-motivation-and-demotivation/

@@ -1,4 +1,6 @@
 ---
+date: 2012-10-01
+round: round-01
 title: 'Motivation &#8211; Aron'
 author: Aron Ahmadia
 permalink: /2012/10/motivation-aron/

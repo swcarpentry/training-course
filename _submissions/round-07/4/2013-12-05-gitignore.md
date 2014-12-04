@@ -1,4 +1,6 @@
 ---
+date: 2013-12-05
+round: round-07
 title: gitignore
 author: Pauline Barmby
 permalink: /2013/12/gitignore/

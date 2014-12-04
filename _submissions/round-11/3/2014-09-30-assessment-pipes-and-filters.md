@@ -1,4 +1,6 @@
 ---
+date: 2014-09-30
+round: round-11
 title: 'Assessment: Pipes and Filters'
 author: Kate Hertweck
 permalink: /2014/09/assessment-pipes-and-filters/

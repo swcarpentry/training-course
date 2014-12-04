@@ -1,4 +1,6 @@
 ---
+date: 2013-03-26
+round: round-04
 title: 'Concept Map &#8211; Simulation in R &#8211; Noble'
 author: Daniel Noble
 permalink: /2013/03/concept-map-simulation-in-r-noble/

@@ -1,4 +1,6 @@
 ---
+date: 2013-06-18
+round: round-05
 title: SQL novice/intermediate/expert assessment
 author: David Merand
 permalink: /2013/06/sql-noviceintermediateexpert-assessment/

@@ -1,4 +1,6 @@
 ---
+date: 2013-07-30
+round: round-05
 title: Critique of SWC 4 video lectures on testing
 author: Ted Kirkpatrick
 permalink: /2013/07/critique-of-testing-lectures/

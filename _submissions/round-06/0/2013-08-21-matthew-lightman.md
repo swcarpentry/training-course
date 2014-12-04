@@ -1,4 +1,6 @@
 ---
+date: 2013-08-21
+round: round-06
 title: Matthew Lightman
 author: Matthew Lightman
 permalink: /2013/08/matthew-lightman/

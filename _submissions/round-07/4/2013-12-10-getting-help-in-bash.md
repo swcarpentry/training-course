@@ -1,4 +1,6 @@
 ---
+date: 2013-12-10
+round: round-07
 title: Getting help in bash
 author: David Worth
 permalink: /2013/12/getting-help-in-bash/

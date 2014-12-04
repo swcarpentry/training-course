@@ -1,4 +1,6 @@
 ---
+date: 2013-09-06
+round: round-06
 title: 'Assessment: Software Testing'
 author: Rachel Slaybaugh
 permalink: /2013/09/assessment-software-testing/

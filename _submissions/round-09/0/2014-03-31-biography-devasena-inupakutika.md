@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Devasena Inupakutika'
 author: Devasena Inupakutika
 permalink: /2014/03/biography-devasena-inupakutika/

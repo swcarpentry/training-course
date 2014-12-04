@@ -1,4 +1,6 @@
 ---
+date: 2014-01-22
+round: round-08
 title: 'Concept Map: Python variable scope'
 author: Martin Paulo
 permalink: /2014/01/concept-map-python-variable-scope/

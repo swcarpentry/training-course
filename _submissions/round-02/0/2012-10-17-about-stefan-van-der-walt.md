@@ -1,4 +1,6 @@
 ---
+date: 2012-10-17
+round: round-02
 title: About Stéfan van der Walt
 author: Stefan van der Walt
 permalink: /2012/10/about-stefan-van-der-walt/

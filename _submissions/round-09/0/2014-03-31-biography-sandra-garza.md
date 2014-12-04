@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Sandra Garza'
 author: Sandra Garza
 permalink: /2014/03/biography-sandra-garza/

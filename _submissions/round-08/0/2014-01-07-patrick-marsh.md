@@ -1,4 +1,6 @@
 ---
+date: 2014-01-07
+round: round-08
 title: Patrick Marsh
 author: Patrick Marsh
 permalink: /2014/01/patrick-marsh/

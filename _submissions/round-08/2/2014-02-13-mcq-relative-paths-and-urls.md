@@ -1,4 +1,6 @@
 ---
+date: 2014-02-13
+round: round-08
 title: 'MCQ: Relative paths and URLs'
 author: Atul Varma
 permalink: /2014/02/mcq-relative-paths-and-urls/

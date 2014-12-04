@@ -1,4 +1,6 @@
 ---
+date: 2014-01-14
+round: round-08
 title: Atul Varma
 author: Atul Varma
 permalink: /2014/01/atul-varma/

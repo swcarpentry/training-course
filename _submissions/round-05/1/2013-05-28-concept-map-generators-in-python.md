@@ -1,4 +1,6 @@
 ---
+date: 2013-05-28
+round: round-05
 title: 'Concept map: generators in Python'
 author: Ivan Gonzalez
 permalink: /2013/05/concept-map-generators-in-python/

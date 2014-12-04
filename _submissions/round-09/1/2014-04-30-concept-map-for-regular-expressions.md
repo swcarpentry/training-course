@@ -1,4 +1,6 @@
 ---
+date: 2014-04-30
+round: round-09
 title: Concept Map for Regular Expressions
 author: Shyam Rallapalli
 permalink: /2014/04/concept-map-for-regular-expressions/

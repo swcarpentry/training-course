@@ -1,4 +1,6 @@
 ---
+date: 2013-10-09
+round: round-07
 title: Asela Wijeratne
 author: Asela Wijeratne
 permalink: /2013/10/asela-wijeratne/

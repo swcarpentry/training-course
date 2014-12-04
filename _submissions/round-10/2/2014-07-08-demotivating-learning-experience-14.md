@@ -1,4 +1,6 @@
 ---
+date: 2014-07-08
+round: round-10
 title: Demotivating Learning Experience (x2)
 author: Leonor Garcia-Gutierrez
 permalink: /2014/07/demotivating-learning-experience-14/

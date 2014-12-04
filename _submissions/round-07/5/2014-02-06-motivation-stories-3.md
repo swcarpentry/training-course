@@ -1,4 +1,6 @@
 ---
+date: 2014-02-06
+round: round-07
 title: Motivation stories
 author: David Worth
 permalink: /2014/02/motivation-stories-3/

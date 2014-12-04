@@ -1,4 +1,6 @@
 ---
+date: 2012-11-30
+round: round-02
 title: Dictionaries vs Lists in Python
 author: Alex Viana
 permalink: /2012/11/dictionaries-vs-lists-in-python/

@@ -1,4 +1,6 @@
 ---
+date: 2013-11-07
+round: round-07
 title: Plan for ScreenCast
 author: Sharon Benjamin
 permalink: /2013/11/plan-for-screencast/

@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Mark Wilber'
 author: Mark Wilber
 permalink: /2014/03/mark-wilber/

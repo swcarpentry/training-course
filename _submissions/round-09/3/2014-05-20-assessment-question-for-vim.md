@@ -1,4 +1,6 @@
 ---
+date: 2014-05-20
+round: round-09
 title: Assessment question for vim
 author: Yu-Ching Shih
 permalink: /2014/05/assessment-question-for-vim/

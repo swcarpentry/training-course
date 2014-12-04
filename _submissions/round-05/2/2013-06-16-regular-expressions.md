@@ -1,4 +1,6 @@
 ---
+date: 2013-06-16
+round: round-05
 title: 'Multiple choice assessment: Regular expressions'
 author: Julia Evans
 permalink: /2013/06/regular-expressions/

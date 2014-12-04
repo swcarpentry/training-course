@@ -1,4 +1,6 @@
 ---
+date: 2014-03-30
+round: round-09
 title: 'Biography: Matthew Dimmock'
 author: Matthew Dimmock
 permalink: /2014/03/biography-matthew-dimmock/

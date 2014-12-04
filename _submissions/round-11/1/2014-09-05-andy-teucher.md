@@ -1,4 +1,6 @@
 ---
+date: 2014-09-05
+round: round-11
 title: Andy Teucher
 author: Andy Teucher
 permalink: /2014/09/andy-teucher/

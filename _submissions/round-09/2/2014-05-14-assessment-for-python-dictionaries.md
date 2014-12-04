@@ -1,4 +1,6 @@
 ---
+date: 2014-05-14
+round: round-09
 title: Assessment for Python dictionaries
 author: Florian Rathgeber
 permalink: /2014/05/assessment-for-python-dictionaries/

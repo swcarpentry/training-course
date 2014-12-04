@@ -1,4 +1,6 @@
 ---
+date: 2012-10-12
+round: round-02
 title: About Tim Cerino
 author: Tim Cerino
 permalink: /2012/10/about-tim-cerino/

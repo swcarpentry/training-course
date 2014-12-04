@@ -1,4 +1,6 @@
 ---
+date: 2014-09-02
+round: round-11
 title: Greg Caporaso
 author: Greg Caporaso
 permalink: /2014/09/bio-greg-caporaso/

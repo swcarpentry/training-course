@@ -1,4 +1,6 @@
 ---
+date: 2013-02-02
+round: round-02
 title: 'Round 2.4 &#8211; multiple choice questions'
 author: Ariel Rokem
 permalink: /2013/02/round-2-4-multiple-choice-questions/

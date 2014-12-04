@@ -1,4 +1,6 @@
 ---
+date: 2012-10-13
+round: round-02
 title: About Adam Obeng
 author: Adam Obeng
 permalink: /2012/10/about-adam-obeng/

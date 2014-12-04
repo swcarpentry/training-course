@@ -1,4 +1,6 @@
 ---
+date: 2013-07-30
+round: round-05
 title: live vs video learning
 author: Preston Holmes
 permalink: /2013/07/live-vs-video-learning/

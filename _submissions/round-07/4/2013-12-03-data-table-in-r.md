@@ -1,4 +1,6 @@
 ---
+date: 2013-12-03
+round: round-07
 title: data.table in R
 author: Naupaka Zimmerman
 permalink: /2013/12/data-table-in-r/

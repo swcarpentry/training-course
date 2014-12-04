@@ -1,4 +1,6 @@
 ---
+date: 2014-10-01
+round: round-11
 title: 'Assessment &#8211; Python functions'
 author: Cody Hinchliff
 permalink: /2014/10/assessment-python-functions-3/

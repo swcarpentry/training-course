@@ -1,4 +1,6 @@
 ---
+date: 2014-09-01
+round: round-11
 title: Carl Boettiger
 author: Carl Boettiger
 permalink: /2014/09/carl-boettiger/

@@ -1,4 +1,6 @@
 ---
+date: 2013-05-25
+round: round-05
 title: 'Concept Map: pandas Series'
 author: Karmel Allison
 permalink: /2013/05/concept-map-pandas-series/

@@ -1,4 +1,6 @@
 ---
+date: 2014-02-13
+round: round-08
 title: 'MCQ: python file object'
 author: Mark Stacy
 permalink: /2014/02/mcq-python-file-object/

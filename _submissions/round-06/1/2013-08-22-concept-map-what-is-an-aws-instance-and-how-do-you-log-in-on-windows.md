@@ -1,4 +1,6 @@
 ---
+date: 2013-08-22
+round: round-06
 title: 'Concept Map: Creating and logging in to an AWS instance (on Windows)'
 author: Dana Miller
 permalink: /2013/08/concept-map-what-is-an-aws-instance-and-how-do-you-log-in-on-windows/

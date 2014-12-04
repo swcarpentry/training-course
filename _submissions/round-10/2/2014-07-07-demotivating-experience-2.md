@@ -1,4 +1,6 @@
 ---
+date: 2014-07-07
+round: round-10
 title: Demotivating experience
 author: Dominic Barraclough
 permalink: /2014/07/demotivating-experience-2/

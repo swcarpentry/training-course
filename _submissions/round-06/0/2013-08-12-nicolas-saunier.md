@@ -1,4 +1,6 @@
 ---
+date: 2013-08-12
+round: round-06
 title: Nicolas Saunier
 author: Nicolas Saunier
 permalink: /2013/08/nicolas-saunier/

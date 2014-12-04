@@ -1,4 +1,6 @@
 ---
+date: 2014-03-20
+round: round-08
 title: 'Screencast: An introduction to vim'
 author: Dana Miller
 permalink: /2014/03/screencast-an-introduction-to-vim-2/

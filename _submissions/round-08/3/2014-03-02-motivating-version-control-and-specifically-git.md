@@ -1,4 +1,6 @@
 ---
+date: 2014-03-02
+round: round-08
 title: Motivating version control (and specifically git)
 author: Jessica Hamrick
 permalink: /2014/03/motivating-version-control-and-specifically-git/

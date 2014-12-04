@@ -1,4 +1,6 @@
 ---
+date: 2014-01-14
+round: round-08
 title: Mark Stacy
 author: Mark Stacy
 permalink: /2014/01/mark-stacy/

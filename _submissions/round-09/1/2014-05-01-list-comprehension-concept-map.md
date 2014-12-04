@@ -1,4 +1,6 @@
 ---
+date: 2014-05-01
+round: round-09
 title: list comprehension concept map
 author: Timothy Warren
 permalink: /2014/05/list-comprehension-concept-map/

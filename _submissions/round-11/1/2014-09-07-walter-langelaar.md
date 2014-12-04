@@ -1,4 +1,6 @@
 ---
+date: 2014-09-07
+round: round-11
 title: Walter Langelaar
 author: Walter Langelaar
 permalink: /2014/09/walter-langelaar/

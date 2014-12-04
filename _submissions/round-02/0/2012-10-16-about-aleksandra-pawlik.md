@@ -1,4 +1,6 @@
 ---
+date: 2012-10-16
+round: round-02
 title: About Aleksandra Pawlik
 author: Aleksandra Pawlik
 permalink: /2012/10/about-aleksandra-pawlik/

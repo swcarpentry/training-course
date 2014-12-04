@@ -1,4 +1,6 @@
 ---
+date: 2014-02-12
+round: round-08
 title: VNC Through SSH
 author: Melanie Segado
 permalink: /2014/02/vnc-through-ssh/

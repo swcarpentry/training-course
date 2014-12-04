@@ -1,4 +1,6 @@
 ---
+date: 2012-11-01
+round: round-02
 title: 'Round 2.1: Writing a Unit Test'
 author: Ethan White
 permalink: /2012/11/round-2-1-writing-a-unit-test/

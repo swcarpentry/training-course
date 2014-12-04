@@ -1,4 +1,6 @@
 ---
+date: 2013-06-12
+round: round-05
 title: Basic Python data structures assessment
 author: Philipp Bayer
 permalink: /2013/06/basic-python-data-structures-assessment/

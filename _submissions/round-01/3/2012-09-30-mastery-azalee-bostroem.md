@@ -1,4 +1,6 @@
 ---
+date: 2012-09-30
+round: round-01
 title: 'Mastery- Azalee Bostroem'
 author: Azalee Bostroem
 permalink: /2012/09/mastery-azalee-bostroem/

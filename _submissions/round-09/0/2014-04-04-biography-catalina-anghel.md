@@ -1,4 +1,6 @@
 ---
+date: 2014-04-04
+round: round-09
 title: 'Biography: Catalina Anghel'
 author: Catalina Anghel
 permalink: /2014/04/biography-catalina-anghel/

@@ -1,4 +1,6 @@
 ---
+date: 2012-08-27
+round: round-01
 title: About Lynne Williams
 author: Lynne Williams
 permalink: /2012/08/about-lynne-williams/

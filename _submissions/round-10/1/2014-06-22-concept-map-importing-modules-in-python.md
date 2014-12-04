@@ -1,4 +1,6 @@
 ---
+date: 2014-06-22
+round: round-10
 title: 'Concept Map: Importing Modules in Python'
 author: David Kua
 permalink: /2014/06/concept-map-importing-modules-in-python/

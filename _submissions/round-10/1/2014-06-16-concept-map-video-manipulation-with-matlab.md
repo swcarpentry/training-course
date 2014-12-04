@@ -1,4 +1,6 @@
 ---
+date: 2014-06-16
+round: round-10
 title: 'Concept Map: Video Manipulation with Matlab'
 author: Tom
 permalink: /2014/06/concept-map-video-manipulation-with-matlab/

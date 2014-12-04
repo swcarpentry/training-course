@@ -1,4 +1,6 @@
 ---
+date: 2014-03-11
+round: round-08
 title: 'Screencast: The new Heat beta service'
 author: Martin Paulo
 permalink: /2014/03/screencast-the-new-heat-beta-service/

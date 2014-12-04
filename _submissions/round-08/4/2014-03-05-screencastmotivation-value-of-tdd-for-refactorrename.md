@@ -1,4 +1,6 @@
 ---
+date: 2014-03-05
+round: round-08
 title: 'Screencast/Motivation: Value of Tdd for Refactor/Rename.'
 author: Anne Moroney
 permalink: /2014/03/screencastmotivation-value-of-tdd-for-refactorrename/

@@ -1,4 +1,6 @@
 ---
+date: 2013-10-03
+round: round-07
 title: Claudia Octaviano
 author: Claudia Octaviano
 permalink: /2013/10/claudia-octaviano/

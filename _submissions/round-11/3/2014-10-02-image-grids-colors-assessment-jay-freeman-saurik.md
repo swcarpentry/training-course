@@ -1,4 +1,6 @@
 ---
+date: 2014-10-02
+round: round-11
 title: 'Image Grids Colors Assessment &#8211; Jay Freeman (saurik)'
 author: Jay Freeman (saurik)
 permalink: /2014/10/image-grids-colors-assessment-jay-freeman-saurik/

@@ -1,4 +1,6 @@
 ---
+date: 2014-05-28
+round: round-09
 title: Screencast on Why Programming Loops Are Cool
 author: Russell Alleen-Willems
 permalink: /2014/05/screencast-on-why-programming-loops-are-cool/

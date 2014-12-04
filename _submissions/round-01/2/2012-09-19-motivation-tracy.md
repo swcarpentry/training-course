@@ -1,4 +1,6 @@
 ---
+date: 2012-09-19
+round: round-01
 title: 'Motivation &#8211; Tracy'
 author: Tracy Teal
 permalink: /2012/09/motivation-tracy/

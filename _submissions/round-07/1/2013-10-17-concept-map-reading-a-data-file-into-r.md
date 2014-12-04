@@ -1,4 +1,6 @@
 ---
+date: 2013-10-17
+round: round-07
 title: 'Concept Map: Reading a data file into R'
 author: Ryan Williams
 permalink: /2013/10/concept-map-reading-a-data-file-into-r/

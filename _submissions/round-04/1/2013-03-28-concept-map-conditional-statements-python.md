@@ -1,4 +1,6 @@
 ---
+date: 2013-03-28
+round: round-04
 title: 'Concept map: Conditional statements (Python)'
 author: John Blischak
 permalink: /2013/03/concept-map-conditional-statements-python/

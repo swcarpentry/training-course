@@ -1,4 +1,6 @@
 ---
+date: 2013-03-13
+round: round-04
 title: About Marianne Corvellec
 author: Marianne Corvellec
 permalink: /2013/03/about-marianne-corvellec/

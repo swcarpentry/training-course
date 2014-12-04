@@ -1,4 +1,6 @@
 ---
+date: 2014-09-03
+round: round-11
 title: Jeremy Metz
 author: Jeremy Metz
 permalink: /2014/09/jeremy-metz/

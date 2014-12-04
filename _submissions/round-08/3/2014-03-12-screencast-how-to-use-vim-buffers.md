@@ -1,4 +1,6 @@
 ---
+date: 2014-03-12
+round: round-08
 title: 'Screencast: How to use Vim buffers'
 author: Likit Preeyanon
 permalink: /2014/03/screencast-how-to-use-vim-buffers/

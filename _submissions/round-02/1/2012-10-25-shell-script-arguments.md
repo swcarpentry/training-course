@@ -1,4 +1,6 @@
 ---
+date: 2012-10-25
+round: round-02
 title: 'Round 2.1 &#8211; Shell script arguments'
 author: Ross Dickson
 permalink: /2012/10/shell-script-arguments/

@@ -1,4 +1,6 @@
 ---
+date: 2012-09-09
+round: round-01
 title: 'Week 1: Knowledge Organization &#8212; Recommendation Concept Map'
 author: Lynne Williams
 permalink: /2012/09/week-1-knowledge-organization-recommendation-concept-map/

@@ -1,4 +1,6 @@
 ---
+date: 2014-01-16
+round: round-08
 title: James Harmon
 author: James Harmon
 permalink: /2014/01/james-harmon/

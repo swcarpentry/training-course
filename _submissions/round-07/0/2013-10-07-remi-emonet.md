@@ -1,4 +1,6 @@
 ---
+date: 2013-10-07
+round: round-07
 title: Rémi Emonet
 author: Remi Emonet
 permalink: /2013/10/remi-emonet/

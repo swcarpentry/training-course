@@ -1,4 +1,6 @@
 ---
+date: 2014-04-23
+round: round-09
 title: 'Concept Map: Lists in Python'
 author: Christian Jacobs
 permalink: /2014/04/concept-map-lists-in-python/

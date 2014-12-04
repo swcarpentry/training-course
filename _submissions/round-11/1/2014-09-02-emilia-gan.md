@@ -1,4 +1,6 @@
 ---
+date: 2014-09-02
+round: round-11
 title: Emilia Gan
 author: Emilia Gan
 permalink: /2014/09/emilia-gan/

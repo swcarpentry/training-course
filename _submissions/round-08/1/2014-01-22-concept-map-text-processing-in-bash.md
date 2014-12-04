@@ -1,4 +1,6 @@
 ---
+date: 2014-01-22
+round: round-08
 title: 'Concept Map: Text Processing in Bash'
 author: Gabriel Devenyi
 permalink: /2014/01/concept-map-text-processing-in-bash/

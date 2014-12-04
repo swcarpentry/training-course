@@ -1,4 +1,6 @@
 ---
+date: 2013-11-12
+round: round-07
 title: 'Screencast: R Markdown in RStudio'
 author: Matt Landis
 permalink: /2013/11/screencast-r-markdown-in-rstudio/

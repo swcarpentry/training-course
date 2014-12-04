@@ -1,4 +1,6 @@
 ---
+date: 2013-06-17
+round: round-05
 title: Python Operators Quiz
 author: Itamar Turner-Trauring
 permalink: /2013/06/python-operators-quiz/

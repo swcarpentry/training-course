@@ -1,4 +1,6 @@
 ---
+date: 2012-12-03
+round: round-01
 title: 'Katy Huff &#8211; Round 1.5'
 author: Katy Huff
 permalink: /2012/12/katy-huff-round-1-5/

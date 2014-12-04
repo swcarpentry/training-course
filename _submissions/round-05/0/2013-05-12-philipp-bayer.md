@@ -1,4 +1,6 @@
 ---
+date: 2013-05-12
+round: round-05
 title: Philipp Bayer
 author: Philipp Bayer
 permalink: /2013/05/philipp-bayer/

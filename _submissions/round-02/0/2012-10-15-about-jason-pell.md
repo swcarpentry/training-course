@@ -1,4 +1,6 @@
 ---
+date: 2012-10-15
+round: round-02
 title: About Jason Pell
 author: Jason Pell
 permalink: /2012/10/about-jason-pell/

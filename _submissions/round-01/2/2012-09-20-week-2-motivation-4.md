@@ -1,4 +1,6 @@
 ---
+date: 2012-09-20
+round: round-01
 title: 'Week 2: Motivation'
 author: Lynne Williams
 permalink: /2012/09/week-2-motivation-4/

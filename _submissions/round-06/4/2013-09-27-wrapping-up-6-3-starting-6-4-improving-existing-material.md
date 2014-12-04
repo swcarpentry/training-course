@@ -1,4 +1,6 @@
 ---
+date: 2013-09-27
+round: round-06
 title: 'Wrapping Up 6.3, Starting 6.4: Improving Existing Material'
 author: Greg Wilson
 permalink: /2013/09/wrapping-up-6-3-starting-6-4-improving-existing-material/

@@ -1,4 +1,6 @@
 ---
+date: 2014-01-21
+round: round-08
 title: 'Concept maps: &#8220;Software best practices&#8221; and &#8220;Using Python modules&#8221;'
 author: Jason Orendorff
 permalink: /2014/01/concept-maps-software-best-practices-and-using-python-modules/

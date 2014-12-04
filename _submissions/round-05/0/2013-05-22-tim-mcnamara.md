@@ -1,4 +1,6 @@
 ---
+date: 2013-05-22
+round: round-05
 title: Tim McNamara
 author: Tim McNamara
 permalink: /2013/05/tim-mcnamara/

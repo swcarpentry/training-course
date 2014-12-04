@@ -1,4 +1,6 @@
 ---
+date: 2013-03-20
+round: round-04
 title: About Randy Olson
 author: Randy Olson
 permalink: /2013/03/about-randy-olson/

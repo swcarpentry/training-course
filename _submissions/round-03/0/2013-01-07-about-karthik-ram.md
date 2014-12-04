@@ -1,4 +1,6 @@
 ---
+date: 2013-01-07
+round: round-03
 title: About Karthik Ram
 author: Karthik Ram
 permalink: /2013/01/about-karthik-ram/

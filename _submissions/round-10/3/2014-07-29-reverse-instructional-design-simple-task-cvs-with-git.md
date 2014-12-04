@@ -1,4 +1,6 @@
 ---
+date: 2014-07-29
+round: round-10
 title: 'Reverse instructional design &#8211; simple task CVS with Git'
 author: Klemens Noga
 permalink: /2014/07/reverse-instructional-design-simple-task-cvs-with-git/

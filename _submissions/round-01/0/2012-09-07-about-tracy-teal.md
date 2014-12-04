@@ -1,4 +1,6 @@
 ---
+date: 2012-09-07
+round: round-01
 title: About Tracy Teal
 author: Tracy Teal
 permalink: /2012/09/about-tracy-teal/

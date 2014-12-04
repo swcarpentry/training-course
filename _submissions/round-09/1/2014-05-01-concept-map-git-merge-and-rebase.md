@@ -1,4 +1,6 @@
 ---
+date: 2014-05-01
+round: round-09
 title: 'Concept Map: git merge and rebase'
 author: Florian Rathgeber
 permalink: /2014/05/concept-map-git-merge-and-rebase/

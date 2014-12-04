@@ -1,4 +1,6 @@
 ---
+date: 2014-02-13
+round: round-08
 title: 'MCQ: Batch processing script'
 author: Bradley Taber-Thomas
 permalink: /2014/02/mcq-batch-processing-script/

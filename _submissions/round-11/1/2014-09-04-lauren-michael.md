@@ -1,4 +1,6 @@
 ---
+date: 2014-09-04
+round: round-11
 title: Lauren Michael
 author: Lauren Michael
 permalink: /2014/09/lauren-michael/

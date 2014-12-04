@@ -1,4 +1,6 @@
 ---
+date: 2012-11-01
+round: round-02
 title: List of lists
 author: Mostafa Ali
 permalink: /2012/11/list-of-lists/

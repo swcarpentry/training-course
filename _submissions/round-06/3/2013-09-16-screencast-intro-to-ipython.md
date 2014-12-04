@@ -1,4 +1,6 @@
 ---
+date: 2013-09-16
+round: round-06
 title: 'Screencast: Intro to ipython'
 author: Damien Irving
 permalink: /2013/09/screencast-intro-to-ipython/

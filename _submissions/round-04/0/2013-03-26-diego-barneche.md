@@ -1,4 +1,6 @@
 ---
+date: 2013-03-26
+round: round-04
 title: Diego Barneche
 author: Diego Barneche
 permalink: /2013/03/diego-barneche/

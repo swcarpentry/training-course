@@ -1,4 +1,6 @@
 ---
+date: 2013-03-24
+round: round-04
 title: 'Concept Map: Slices for Python lists'
 author: Jens von der Linden
 permalink: /2013/03/concept-map-slices-for-python-lists/

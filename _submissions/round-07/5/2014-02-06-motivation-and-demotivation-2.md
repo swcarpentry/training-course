@@ -1,4 +1,6 @@
 ---
+date: 2014-02-06
+round: round-07
 title: Motivation and Demotivation
 author: Scott Chamberlain
 permalink: /2014/02/motivation-and-demotivation-2/

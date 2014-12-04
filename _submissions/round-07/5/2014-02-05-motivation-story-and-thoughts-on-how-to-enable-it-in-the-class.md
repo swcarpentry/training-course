@@ -1,4 +1,6 @@
 ---
+date: 2014-02-05
+round: round-07
 title: Motivation story and thoughts on how to enable it in the class
 author: David Rio
 permalink: /2014/02/motivation-story-and-thoughts-on-how-to-enable-it-in-the-class/

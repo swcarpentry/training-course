@@ -1,4 +1,6 @@
 ---
+date: 2012-10-29
+round: round-01
 title: 'Round 1.4 &#8211; Erik Bray'
 author: Erik Bray
 permalink: /2012/10/round-1-4-erik-bray/

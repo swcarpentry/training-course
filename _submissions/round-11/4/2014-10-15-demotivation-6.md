@@ -1,4 +1,6 @@
 ---
+date: 2014-10-15
+round: round-11
 title: Demotivation
 author: Brent Shambaugh
 permalink: /2014/10/demotivation-6/

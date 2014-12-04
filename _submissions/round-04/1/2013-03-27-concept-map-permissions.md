@@ -1,4 +1,6 @@
 ---
+date: 2013-03-27
+round: round-04
 title: 'Concept map: Permissions'
 author: Amanda Whitlock
 permalink: /2013/03/concept-map-permissions/

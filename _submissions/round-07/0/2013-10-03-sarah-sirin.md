@@ -1,4 +1,6 @@
 ---
+date: 2013-10-03
+round: round-07
 title: Sarah Sirin
 author: Sarah Sirin
 permalink: /2013/10/sarah-sirin/

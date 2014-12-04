@@ -1,4 +1,6 @@
 ---
+date: 2014-02-13
+round: round-08
 title: 'MCQ: stdout stderr and redirects'
 author: Gabriel Devenyi
 permalink: /2014/02/mcq-stdout-stderr-and-redirects/

@@ -1,4 +1,6 @@
 ---
+date: 2013-08-21
+round: round-06
 title: 'Concept Map: Basics of VI'
 author: Amanda Charbonneau
 permalink: /2013/08/concept-map-basics-of-vi/

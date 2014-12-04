@@ -1,4 +1,6 @@
 ---
+date: 2014-02-15
+round: round-08
 title: Wrapping Up MCQs, Starting on Motivation
 author: Greg Wilson
 permalink: /2014/02/wrapping-up-mcqs-starting-on-motivation/

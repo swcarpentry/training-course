@@ -1,4 +1,6 @@
 ---
+date: 2013-07-11
+round: round-05
 title: Screencast—revising a table
 author: Ted Kirkpatrick
 permalink: /2013/07/screencast-revising-a-table/

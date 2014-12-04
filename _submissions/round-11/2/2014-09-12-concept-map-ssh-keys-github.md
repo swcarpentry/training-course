@@ -1,4 +1,6 @@
 ---
+date: 2014-09-12
+round: round-11
 title: 'Concept Map: SSH Keys &#038; Github'
 author: Carl Boettiger
 permalink: /2014/09/concept-map-ssh-keys-github/

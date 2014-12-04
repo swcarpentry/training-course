@@ -1,4 +1,6 @@
 ---
+date: 2014-07-13
+round: round-10
 title: Demotivating Experience
 author: Francisco Palm
 permalink: /2014/07/demotivating-experience-3/

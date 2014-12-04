@@ -1,4 +1,6 @@
 ---
+date: 2013-05-17
+round: round-05
 title: Chris Holdgraf
 author: Chris Holdgraf
 permalink: /2013/05/3-line-bio-for-chris-holdgraf/

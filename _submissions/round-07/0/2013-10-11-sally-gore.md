@@ -1,4 +1,6 @@
 ---
+date: 2013-10-11
+round: round-07
 title: Sally Gore
 author: Sally Gore
 permalink: /2013/10/sally-gore/

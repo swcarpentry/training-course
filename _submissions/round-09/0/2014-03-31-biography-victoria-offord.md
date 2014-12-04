@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Victoria Offord'
 author: Victoria Offord
 permalink: /2014/03/biography-victoria-offord/

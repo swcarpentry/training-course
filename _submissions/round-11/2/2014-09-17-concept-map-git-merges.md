@@ -1,4 +1,6 @@
 ---
+date: 2014-09-17
+round: round-11
 title: 'Concept map: git merges'
 author: Jared Camins-Esakov
 permalink: /2014/09/concept-map-git-merges/

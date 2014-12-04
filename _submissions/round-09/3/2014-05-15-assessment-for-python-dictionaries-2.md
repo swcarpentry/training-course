@@ -1,4 +1,6 @@
 ---
+date: 2014-05-15
+round: round-09
 title: Assessment for Python Dictionaries
 author: Jacob Levernier
 permalink: /2014/05/assessment-for-python-dictionaries-2/

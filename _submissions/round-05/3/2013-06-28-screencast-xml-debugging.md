@@ -1,4 +1,6 @@
 ---
+date: 2013-06-28
+round: round-05
 title: 'Screencast &#8211; XML debugging'
 author: Shoaib Sufi
 permalink: /2013/06/screencast-xml-debugging/

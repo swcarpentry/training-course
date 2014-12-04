@@ -1,4 +1,6 @@
 ---
+date: 2014-07-07
+round: round-10
 title: Demotivating learning experience
 author: Johnny Lin
 permalink: /2014/07/demotivating-learning-experience-12/

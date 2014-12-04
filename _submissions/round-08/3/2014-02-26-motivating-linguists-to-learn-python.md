@@ -1,4 +1,6 @@
 ---
+date: 2014-02-26
+round: round-08
 title: Motivating linguists to learn Python
 author: Martin Callaghan
 permalink: /2014/02/motivating-linguists-to-learn-python/

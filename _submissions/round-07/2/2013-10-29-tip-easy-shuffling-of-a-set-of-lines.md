@@ -1,4 +1,6 @@
 ---
+date: 2013-10-29
+round: round-07
 title: 'Tip: easy shuffling of a set of lines'
 author: Remi Emonet
 permalink: /2013/10/tip-easy-shuffling-of-a-set-of-lines/

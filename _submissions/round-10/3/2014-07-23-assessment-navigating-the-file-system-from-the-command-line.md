@@ -1,4 +1,6 @@
 ---
+date: 2014-07-23
+round: round-10
 title: 'Assessment &#8211; Navigating the file system from the command line'
 author: Jeff Walton
 permalink: /2014/07/assessment-navigating-the-file-system-from-the-command-line/

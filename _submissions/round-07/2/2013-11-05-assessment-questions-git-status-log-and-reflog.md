@@ -1,4 +1,6 @@
 ---
+date: 2013-11-05
+round: round-07
 title: 'Assessment Questions: git status, log, and reflog'
 author: David Kua
 permalink: /2013/11/assessment-questions-git-status-log-and-reflog/

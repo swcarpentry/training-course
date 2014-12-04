@@ -1,4 +1,6 @@
 ---
+date: 2013-03-27
+round: round-04
 title: 'Concept map: Unicode &#038; Normalization'
 author: Daniel McCloy
 permalink: /2013/03/concept-map-unicode-normalization/

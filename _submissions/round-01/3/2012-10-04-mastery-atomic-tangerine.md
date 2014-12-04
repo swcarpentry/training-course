@@ -1,4 +1,6 @@
 ---
+date: 2012-10-04
+round: round-01
 title: 'Mastery &#8211; Katy, Justin K &#038; Lynne (Atomic Tangerine)'
 author: Justin Kitzes
 permalink: /2012/10/mastery-atomic-tangerine/

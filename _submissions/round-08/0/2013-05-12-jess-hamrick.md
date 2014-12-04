@@ -1,4 +1,6 @@
 ---
+date: 2013-05-12
+round: round-08
 title: Jess Hamrick
 author: Jessica Hamrick
 permalink: /2013/05/jess-hamrick/

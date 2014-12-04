@@ -1,4 +1,6 @@
 ---
+date: 2014-01-22
+round: round-08
 title: 'Concept map: git branching workflow'
 author: Andrea Zonca
 permalink: /2014/01/concept-map-git-branching-workflow/

@@ -1,4 +1,6 @@
 ---
+date: 2013-06-03
+round: round-05
 title: 'Concept Map: File Permissions'
 author: Tim McNamara
 permalink: /2013/06/concept-map-file-permissions/

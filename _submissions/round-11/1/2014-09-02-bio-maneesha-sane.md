@@ -1,4 +1,6 @@
 ---
+date: 2014-09-02
+round: round-11
 title: Maneesha Sane
 author: Maneesha Sane
 permalink: /2014/09/bio-maneesha-sane/

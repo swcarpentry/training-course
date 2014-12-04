@@ -1,4 +1,6 @@
 ---
+date: 2013-08-03
+round: round-05
 title: 'Round 5.5: Graduation Exercise'
 author: Greg Wilson
 permalink: /2013/08/round-5-5-graduation-exercise/

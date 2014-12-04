@@ -1,4 +1,6 @@
 ---
+date: 2013-08-21
+round: round-06
 title: 'Concept Map:  Python Dictionaries'
 author: Matthew Lightman
 permalink: /2013/08/concept-map-python-dictionaries/

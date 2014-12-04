@@ -1,4 +1,6 @@
 ---
+date: 2012-10-30
+round: round-02
 title: 'Round 2.1 &#8211; Claiming a topic:  Lists'
 author: Adina Chuang Howe
 permalink: /2012/10/round-2-1-claiming-a-topic-lists/

@@ -1,4 +1,6 @@
 ---
+date: 2012-10-16
+round: round-02
 title: About Paul Ivanov
 author: Paul Ivanov
 permalink: /2012/10/about-paul-ivanov/

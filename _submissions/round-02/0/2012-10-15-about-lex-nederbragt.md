@@ -1,4 +1,6 @@
 ---
+date: 2012-10-15
+round: round-02
 title: About Lex Nederbragt
 author: Lex Nederbragt
 permalink: /2012/10/about-lex-nederbragt/

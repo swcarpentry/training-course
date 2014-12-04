@@ -1,4 +1,6 @@
 ---
+date: 2012-10-23
+round: round-01
 title: 'Round 1.4 &#8211; Justin K'
 author: Justin Kitzes
 permalink: /2012/10/round-1-4-justin-k/

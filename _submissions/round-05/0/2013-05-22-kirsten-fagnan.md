@@ -1,4 +1,6 @@
 ---
+date: 2013-05-22
+round: round-05
 title: Kirsten Fagnan
 author: Kirsten Fagnan
 permalink: /2013/05/kirsten-fagnan/

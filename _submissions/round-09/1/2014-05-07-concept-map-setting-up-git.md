@@ -1,4 +1,6 @@
 ---
+date: 2014-05-07
+round: round-09
 title: 'Concept Map &#8211; Setting up git'
 author: Padraic Stack
 permalink: /2014/05/concept-map-setting-up-git/

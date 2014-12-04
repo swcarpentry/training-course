@@ -1,4 +1,6 @@
 ---
+date: 2012-11-05
+round: round-02
 title: 'Round 2.1:  Using WHERE and SELECT SQL statements'
 author: Ian Langmore
 permalink: /2012/11/round-2-1-using-where-and-select-sql-statements/

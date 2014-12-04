@@ -1,4 +1,6 @@
 ---
+date: 2014-05-17
+round: round-09
 title: Assessment for Python Dictionaries
 author: Timothy Warren
 permalink: /2014/05/assessment-for-python-dictionaries-3/

@@ -1,4 +1,6 @@
 ---
+date: 2013-06-17
+round: round-05
 title: Python novice/intermediate/expert assessment
 author: Luke Lee
 permalink: /2013/06/python-noviceintermediateexpert-assessment/

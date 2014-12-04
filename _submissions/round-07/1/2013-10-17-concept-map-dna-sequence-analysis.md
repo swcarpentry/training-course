@@ -1,4 +1,6 @@
 ---
+date: 2013-10-17
+round: round-07
 title: 'Concept map: DNA sequence analysis'
 author: Asela Wijeratne
 permalink: /2013/10/concept-map-dna-sequence-analysis/

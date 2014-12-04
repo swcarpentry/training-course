@@ -1,4 +1,6 @@
 ---
+date: 2013-03-19
+round: round-04
 title: About Julia Gustavsen
 author: Julia Gustavsen
 permalink: /2013/03/about-julia-gustavsen/

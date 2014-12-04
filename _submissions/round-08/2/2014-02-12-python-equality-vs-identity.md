@@ -1,4 +1,6 @@
 ---
+date: 2014-02-12
+round: round-08
 title: Python Equality Vs. Identity
 author: Benjamin Bradshaw
 permalink: /2014/02/python-equality-vs-identity/

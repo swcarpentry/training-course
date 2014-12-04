@@ -1,4 +1,6 @@
 ---
+date: 2014-09-17
+round: round-11
 title: 'Concept Map &#8211; Parts of a Function'
 author: Ashwin Srinath
 permalink: /2014/09/parts-of-a-function/

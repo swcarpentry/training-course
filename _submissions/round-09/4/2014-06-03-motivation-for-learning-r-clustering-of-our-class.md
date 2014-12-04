@@ -1,4 +1,6 @@
 ---
+date: 2014-06-03
+round: round-09
 title: 'Motivation for learning R: clustering of our class'
 author: Catalina Anghel
 permalink: /2014/06/motivation-for-learning-r-clustering-of-our-class/

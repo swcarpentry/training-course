@@ -1,4 +1,6 @@
 ---
+date: 2012-09-26
+round: round-01
 title: 'Round 3: Mastery'
 author: Lynne Williams
 permalink: /2012/09/round-3-mastery-2/

@@ -1,4 +1,6 @@
 ---
+date: 2013-10-28
+round: round-07
 title: 'Multiple Choice Questions &#8211; C Programming'
 author: Don Brown
 permalink: /2013/10/multiple-choice-questions-c-programming/

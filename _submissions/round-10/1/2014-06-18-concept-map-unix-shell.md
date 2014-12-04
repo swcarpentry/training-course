@@ -1,4 +1,6 @@
 ---
+date: 2014-06-18
+round: round-10
 title: 'Concept Map: Unix Shell'
 author: Jeff Walton
 permalink: /2014/06/concept-map-unix-shell/

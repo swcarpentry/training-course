@@ -1,4 +1,6 @@
 ---
+date: 2014-09-13
+round: round-11
 title: 'Concept Map: Using Assertions'
 author: Anthony Harrison
 permalink: /2014/09/concept-map-using-assertions/

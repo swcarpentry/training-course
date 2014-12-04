@@ -1,4 +1,6 @@
 ---
+date: 2012-12-02
+round: round-02
 title: Short Teaching Video on Python Lists
 author: Adina Chuang Howe
 permalink: /2012/12/short-teaching-video-on-python-lists/

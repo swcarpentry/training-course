@@ -1,4 +1,6 @@
 ---
+date: 2013-06-14
+round: round-05
 title: Java Proficiency Questions
 author: Jordan Fish
 permalink: /2013/06/java-proficiency-questions/

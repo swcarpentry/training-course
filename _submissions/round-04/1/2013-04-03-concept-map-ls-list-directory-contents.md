@@ -1,4 +1,6 @@
 ---
+date: 2013-04-03
+round: round-04
 title: 'Concept map: ls &#8212; list directory contents'
 author: Daniel Falster
 permalink: /2013/04/concept-map-ls-list-directory-contents/

@@ -1,4 +1,6 @@
 ---
+date: 2013-10-21
+round: round-07
 title: 'Concept Map: Horizon Charts'
 author: David Rio
 permalink: /2013/10/concept-map-horizon-charts/

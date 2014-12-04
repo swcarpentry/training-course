@@ -1,4 +1,6 @@
 ---
+date: 2013-05-27
+round: round-05
 title: 'Concept map: Python&#8217;s while loop'
 author: Philipp Bayer
 permalink: /2013/05/concept-map-pythons-while-loop/

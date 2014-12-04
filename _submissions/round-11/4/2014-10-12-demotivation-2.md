@@ -1,4 +1,6 @@
 ---
+date: 2014-10-12
+round: round-11
 title: Demotivation
 author: Roman Valls
 permalink: /2014/10/demotivation-2/

@@ -1,4 +1,6 @@
 ---
+date: 2014-01-22
+round: round-08
 title: 'Concept map: IPython notebook for documented and reproducible computing'
 author: Chris Friedline
 permalink: /2014/01/concept-map-ipython-notebook-for-documented-and-reproducible-computing/

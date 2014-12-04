@@ -1,4 +1,6 @@
 ---
+date: 2012-12-15
+round: round-01
 title: 'Class wrap up &#8211; Azalee Bostroem'
 author: Azalee Bostroem
 permalink: /2012/12/class-wrap-up-azalee-bostroem/

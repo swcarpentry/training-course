@@ -1,4 +1,6 @@
 ---
+date: 2014-03-19
+round: round-08
 title: 'Motivation: What&#8217;s in your batch processing toolbox?'
 author: Bradley Taber-Thomas
 permalink: /2014/03/motivation-whats-in-your-batch-processing-toolbox/

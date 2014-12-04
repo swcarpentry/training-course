@@ -1,4 +1,6 @@
 ---
+date: 2013-03-21
+round: round-04
 title: Daniel Noble
 author: Daniel Noble
 permalink: /2013/03/daniel-noble/

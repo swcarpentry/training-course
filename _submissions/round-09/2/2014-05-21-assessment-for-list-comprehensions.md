@@ -1,4 +1,6 @@
 ---
+date: 2014-05-21
+round: round-09
 title: Assessment for list comprehensions
 author: Jonathan Frederic
 permalink: /2014/05/assessment-for-list-comprehensions/

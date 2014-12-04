@@ -1,4 +1,6 @@
 ---
+date: 2014-01-29
+round: round-08
 title: What are regular expressions?
 author: Brian Miles
 permalink: /2014/01/what-are-regular-expressions/

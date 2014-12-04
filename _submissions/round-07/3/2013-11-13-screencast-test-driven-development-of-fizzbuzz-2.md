@@ -1,4 +1,6 @@
 ---
+date: 2013-11-13
+round: round-07
 title: 'Screencast: Test driven development of FizzBuzz'
 author: Cliburn Chan
 permalink: /2013/11/screencast-test-driven-development-of-fizzbuzz-2/

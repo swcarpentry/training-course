@@ -1,4 +1,6 @@
 ---
+date: 2013-10-01
+round: round-07
 title: Margaret Leibovic
 author: Margaret Leibovic
 permalink: /2013/10/margaret-leibovic/

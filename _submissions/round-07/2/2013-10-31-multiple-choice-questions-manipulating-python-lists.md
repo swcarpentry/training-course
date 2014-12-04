@@ -1,4 +1,6 @@
 ---
+date: 2013-10-31
+round: round-07
 title: 'Multiple choice questions: Manipulating Python lists'
 author: Samuel Thomson
 permalink: /2013/10/multiple-choice-questions-manipulating-python-lists/

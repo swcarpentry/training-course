@@ -1,4 +1,6 @@
 ---
+date: 2014-07-04
+round: round-10
 title: Demotivating learning experience
 author: Tom
 permalink: /2014/07/demotivating-learning-experience-4/

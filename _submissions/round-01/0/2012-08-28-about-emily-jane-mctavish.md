@@ -1,4 +1,6 @@
 ---
+date: 2012-08-28
+round: round-01
 title: About Emily Jane McTavish
 author: Emily Jane McTavish
 permalink: /2012/08/about-emily-jane-mctavish/

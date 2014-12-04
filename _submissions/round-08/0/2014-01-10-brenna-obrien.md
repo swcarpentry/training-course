@@ -1,4 +1,6 @@
 ---
+date: 2014-01-10
+round: round-08
 title: 'Brenna O&#8217;Brien'
 author: "Brenna O'Brien"
 permalink: /2014/01/brenna-obrien/

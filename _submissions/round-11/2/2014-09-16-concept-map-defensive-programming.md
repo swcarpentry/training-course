@@ -1,4 +1,6 @@
 ---
+date: 2014-09-16
+round: round-11
 title: 'Concept map: defensive programming'
 author: David Pugh
 permalink: /2014/09/concept-map-defensive-programming/

@@ -1,4 +1,6 @@
 ---
+date: 2013-10-28
+round: round-07
 title: 'Assessment Questions &#8212; ls'
 author: Fan
 permalink: /2013/10/assessment-questions-ls/

@@ -1,4 +1,6 @@
 ---
+date: 2013-02-02
+round: round-03
 title: 'Concept Map: Path'
 author: Joon Ro
 permalink: /2013/02/concept-map-path/

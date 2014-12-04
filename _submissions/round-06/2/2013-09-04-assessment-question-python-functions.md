@@ -1,4 +1,6 @@
 ---
+date: 2013-09-04
+round: round-06
 title: 'Assessment Question: Python functions'
 author: Cliburn Chan
 permalink: /2013/09/assessment-question-python-functions/

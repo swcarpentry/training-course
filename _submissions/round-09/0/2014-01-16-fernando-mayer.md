@@ -1,4 +1,6 @@
 ---
+date: 2014-01-16
+round: round-09
 title: Fernando Mayer
 author: Fernando Mayer
 permalink: /2014/01/fernando-mayer/

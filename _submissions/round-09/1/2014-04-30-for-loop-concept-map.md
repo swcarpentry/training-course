@@ -1,4 +1,6 @@
 ---
+date: 2014-04-30
+round: round-09
 title: for loop concept map
 author: Mark Wilber
 permalink: /2014/04/for-loop-concept-map/

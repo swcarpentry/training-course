@@ -1,4 +1,6 @@
 ---
+date: 2012-10-31
+round: round-02
 title: If statements
 author: Karin Lagesen
 permalink: /2012/10/if-statements/

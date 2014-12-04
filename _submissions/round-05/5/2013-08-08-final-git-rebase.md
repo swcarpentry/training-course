@@ -1,4 +1,6 @@
 ---
+date: 2013-08-08
+round: round-05
 title: 'Final: git rebase'
 author: Preston Holmes
 permalink: /2013/08/final-git-rebase/

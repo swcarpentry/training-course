@@ -1,4 +1,6 @@
 ---
+date: 2014-01-23
+round: round-08
 title: 'Concept Map: Conditional Statements'
 author: Sheldon McKay
 permalink: /2014/01/concept-map-conditional-statements/

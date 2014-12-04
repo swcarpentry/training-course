@@ -1,4 +1,6 @@
 ---
+date: 2014-01-21
+round: round-08
 title: 'Concept map: how git works'
 author: Atul Varma
 permalink: /2014/01/concept-map-how-git-works/

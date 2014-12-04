@@ -1,4 +1,6 @@
 ---
+date: 2012-09-18
+round: round-01
 title: Motivation
 author: Ben Waugh
 permalink: /2012/09/motivation-2/

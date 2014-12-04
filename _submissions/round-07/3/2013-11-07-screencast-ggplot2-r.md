@@ -1,4 +1,6 @@
 ---
+date: 2013-11-07
+round: round-07
 title: 'screencast: exploratory plots in R ggplot2'
 author: Robert Flight
 permalink: /2013/11/screencast-ggplot2-r/

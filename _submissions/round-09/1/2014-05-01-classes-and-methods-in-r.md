@@ -1,4 +1,6 @@
 ---
+date: 2014-05-01
+round: round-09
 title: Classes and methods in R
 author: Fernando Mayer
 permalink: /2014/05/classes-and-methods-in-r/

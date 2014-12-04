@@ -1,4 +1,6 @@
 ---
+date: 2013-03-12
+round: round-04
 title: About Jorden Schossau
 author: Jorden Schossau
 permalink: /2013/03/about-jorden-schossau/

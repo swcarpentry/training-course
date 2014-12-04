@@ -1,4 +1,6 @@
 ---
+date: 2013-10-14
+round: round-07
 title: Concept Map for Image Loading
 author: Luis Pedro Coelho
 permalink: /2013/10/concept-map-for-image-loading/

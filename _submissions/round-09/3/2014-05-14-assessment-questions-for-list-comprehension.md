@@ -1,4 +1,6 @@
 ---
+date: 2014-05-14
+round: round-09
 title: Assessment Questions for List Comprehension
 author: Stefan Pfenninger
 permalink: /2014/05/assessment-questions-for-list-comprehension/

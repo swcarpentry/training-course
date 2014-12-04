@@ -1,4 +1,6 @@
 ---
+date: 2014-06-18
+round: round-10
 title: 'Concept Map: Regex concept'
 author: Aaron Erlich
 permalink: /2014/06/regex-concept/

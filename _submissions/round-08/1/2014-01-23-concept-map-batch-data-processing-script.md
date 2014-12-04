@@ -1,4 +1,6 @@
 ---
+date: 2014-01-23
+round: round-08
 title: 'Concept Map: Batch data processing script'
 author: Bradley Taber-Thomas
 permalink: /2014/01/concept-map-batch-data-processing-script/

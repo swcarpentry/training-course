@@ -1,4 +1,6 @@
 ---
+date: 2014-01-29
+round: round-07
 title: A Motivation to Learn Version Control
 author: Luis Pedro Coelho
 permalink: /2014/01/a-motivation-to-learn-version-control/

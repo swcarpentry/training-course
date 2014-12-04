@@ -1,4 +1,6 @@
 ---
+date: 2014-01-16
+round: round-08
 title: David Merand
 author: David Merand
 permalink: /2014/01/david-merand-2/

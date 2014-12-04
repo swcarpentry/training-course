@@ -1,4 +1,6 @@
 ---
+date: 2014-05-19
+round: round-09
 title: Assessment for Lists in Python
 author: Simon Michnowicz
 permalink: /2014/05/assessment-for-lists-in-python/

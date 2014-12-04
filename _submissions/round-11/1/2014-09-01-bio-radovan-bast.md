@@ -1,4 +1,6 @@
 ---
+date: 2014-09-01
+round: round-11
 title: Radovan Bast
 author: Radovan Bast
 permalink: /2014/09/bio-radovan-bast/

@@ -1,4 +1,6 @@
 ---
+date: 2012-09-03
+round: round-01
 title: 'Week 1: Organizing Knowledge'
 author: Greg Wilson
 permalink: /2012/09/week-1-organizing-knowledge/

@@ -1,4 +1,6 @@
 ---
+date: 2014-09-03
+round: round-11
 title: Roberto Vitillo
 author: Roberto Vitillo
 permalink: /2014/09/roberto-vitillo/

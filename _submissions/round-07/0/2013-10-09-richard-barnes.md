@@ -1,4 +1,6 @@
 ---
+date: 2013-10-09
+round: round-07
 title: Richard Barnes
 author: Richard Barnes
 permalink: /2013/10/richard-barnes/

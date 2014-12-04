@@ -1,4 +1,6 @@
 ---
+date: 2014-06-02
+round: round-09
 title: Motivation Video for Vagrant
 author: Mark Stillwell
 permalink: /2014/06/motivation-video-for-vagrant/

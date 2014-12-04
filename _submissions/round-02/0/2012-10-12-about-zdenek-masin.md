@@ -1,4 +1,6 @@
 ---
+date: 2012-10-12
+round: round-02
 title: About Zdenek Masin
 author: Zdenek Masin
 permalink: /2012/10/about-zdenek-masin/

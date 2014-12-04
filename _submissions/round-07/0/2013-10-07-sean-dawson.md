@@ -1,4 +1,6 @@
 ---
+date: 2013-10-07
+round: round-07
 title: Sean Dawson
 author: Sean Dawson
 permalink: /2013/10/sean-dawson/

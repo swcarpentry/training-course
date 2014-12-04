@@ -1,4 +1,6 @@
 ---
+date: 2013-11-06
+round: round-07
 title: 'Assessment Questions: Python Sets'
 author: Sean Dawson
 permalink: /2013/11/assessment-questions-python-sets/

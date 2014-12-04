@@ -1,4 +1,6 @@
 ---
+date: 2014-10-13
+round: round-11
 title: Demotivation
 author: Heather Gunning
 permalink: /2014/10/demotivation-3/

@@ -1,4 +1,6 @@
 ---
+date: 2013-03-26
+round: round-04
 title: 'Concept Map- floating point representations'
 author: Will Trimble
 permalink: /2013/03/concept-map-floating-point-representations/

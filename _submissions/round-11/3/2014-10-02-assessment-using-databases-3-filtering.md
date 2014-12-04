@@ -1,4 +1,6 @@
 ---
+date: 2014-10-02
+round: round-11
 title: 'Assessment: Using Databases, 3. Filtering'
 author: Ruth Collings
 permalink: /2014/10/assessment-using-databases-3-filtering/

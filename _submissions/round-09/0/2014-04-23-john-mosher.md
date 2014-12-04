@@ -1,4 +1,6 @@
 ---
+date: 2014-04-23
+round: round-09
 title: John Mosher
 author: John Mosher
 permalink: /2014/04/john-mosher/

@@ -1,4 +1,6 @@
 ---
+date: 2013-09-11
+round: round-06
 title: 'Assessment Question: Sequence variation'
 author: Joshua Herr
 permalink: /2013/09/assessment-question-sequence-variation/

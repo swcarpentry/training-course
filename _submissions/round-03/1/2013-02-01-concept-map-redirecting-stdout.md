@@ -1,4 +1,6 @@
 ---
+date: 2013-02-01
+round: round-03
 title: 'Concept Map: redirecting stdout'
 author: David Jones
 permalink: /2013/02/concept-map-redirecting-stdout/

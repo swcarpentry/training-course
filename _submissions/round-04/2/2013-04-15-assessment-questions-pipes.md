@@ -1,4 +1,6 @@
 ---
+date: 2013-04-15
+round: round-04
 title: 'Assessment questions: pipes'
 author: Amanda Whitlock
 permalink: /2013/04/assessment-questions-pipes/

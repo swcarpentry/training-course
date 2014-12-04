@@ -1,4 +1,6 @@
 ---
+date: 2014-09-17
+round: round-11
 title: 'Concept Map &#8211; Pipes and filters'
 author: Matthew Aiello-Lammens
 permalink: /2014/09/concept-map-pipes-and-filters-3/

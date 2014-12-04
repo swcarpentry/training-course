@@ -1,4 +1,6 @@
 ---
+date: 2014-10-12
+round: round-11
 title: My demotivation story
 author: Isabelle Laforest
 permalink: /2014/10/my-demotivation-story/

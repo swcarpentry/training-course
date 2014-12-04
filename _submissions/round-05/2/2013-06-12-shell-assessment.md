@@ -1,4 +1,6 @@
 ---
+date: 2013-06-12
+round: round-05
 title: Shell assessment
 author: Preston Holmes
 permalink: /2013/06/shell-assessment/

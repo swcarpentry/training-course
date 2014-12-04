@@ -1,4 +1,6 @@
 ---
+date: 2013-04-01
+round: round-04
 title: 'Concept Map: Reading/Parsing a CSV File (Python)'
 author: Patrick Marsh
 permalink: /2013/04/concept-map-readingparsing-a-csv-file-python/

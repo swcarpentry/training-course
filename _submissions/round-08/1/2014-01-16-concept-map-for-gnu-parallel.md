@@ -1,4 +1,6 @@
 ---
+date: 2014-01-16
+round: round-08
 title: Concept map for GNU parallel
 author: Stephen Turner
 permalink: /2014/01/concept-map-for-gnu-parallel/

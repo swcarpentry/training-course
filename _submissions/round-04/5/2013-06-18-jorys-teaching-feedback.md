@@ -1,4 +1,6 @@
 ---
+date: 2013-06-18
+round: round-04
 title: 'Jory&#8217;s Teaching Feedback'
 author: Jorden Schossau
 permalink: /2013/06/jorys-teaching-feedback/

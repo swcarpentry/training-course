@@ -1,4 +1,6 @@
 ---
+date: 2014-10-15
+round: round-11
 title: How to demotivate a pupil
 author: Kirill Palamartchouk
 permalink: /2014/10/how-to-demotivate-a-pupil/

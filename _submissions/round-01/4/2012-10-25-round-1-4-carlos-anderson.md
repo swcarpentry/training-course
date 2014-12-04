@@ -1,4 +1,6 @@
 ---
+date: 2012-10-25
+round: round-01
 title: Round 1.4 (Carlos Anderson)
 author: Carlos Anderson
 permalink: /2012/10/round-1-4-carlos-anderson/

@@ -1,4 +1,6 @@
 ---
+date: 2013-02-15
+round: round-03
 title: 'Concept map: intro to SQL databases'
 author: Ben Morris
 permalink: /2013/02/concept-map-intro-to-sql-databases/

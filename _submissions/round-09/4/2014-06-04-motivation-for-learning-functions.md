@@ -1,4 +1,6 @@
 ---
+date: 2014-06-04
+round: round-09
 title: Motivation for learning functions
 author: Isabel Fenton
 permalink: /2014/06/motivation-for-learning-functions/

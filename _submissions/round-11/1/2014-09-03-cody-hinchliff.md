@@ -1,4 +1,6 @@
 ---
+date: 2014-09-03
+round: round-11
 title: Cody Hinchliff
 author: Cody Hinchliff
 permalink: /2014/09/cody-hinchliff/

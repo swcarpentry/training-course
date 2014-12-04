@@ -1,4 +1,6 @@
 ---
+date: 2014-01-23
+round: round-08
 title: 'Concept Map: Using Git'
 author: Evan Bianco
 permalink: /2014/01/concept-map-using-git/

@@ -1,4 +1,6 @@
 ---
+date: 2014-06-03
+round: round-09
 title: 'Motivational video: SQL'
 author: Tim McNamara
 permalink: /2014/06/motivational-video-sql/

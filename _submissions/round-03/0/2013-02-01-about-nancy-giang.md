@@ -1,4 +1,6 @@
 ---
+date: 2013-02-01
+round: round-03
 title: About Nancy Giang
 author: Nancy Giang
 permalink: /2013/02/about-nancy-giang/

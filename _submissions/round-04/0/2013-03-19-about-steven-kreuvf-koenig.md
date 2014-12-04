@@ -1,4 +1,6 @@
 ---
+date: 2013-03-19
+round: round-04
 title: 'About Steven &#8216;Kreuvf&#8217; Koenig'
 author: "Steven 'Kreuvf' Koenig"
 permalink: /2013/03/about-steven-kreuvf-koenig/

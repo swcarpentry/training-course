@@ -1,4 +1,6 @@
 ---
+date: 2014-01-16
+round: round-08
 title: Ben Bradshaw
 author: Benjamin Bradshaw
 permalink: /2014/01/ben-bradshaw/

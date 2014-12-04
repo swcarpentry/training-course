@@ -1,4 +1,6 @@
 ---
+date: 2014-07-31
+round: round-10
 title: 'Reverse Instructional Design &#8211; Integrals'
 author: Paulina Lach
 permalink: /2014/07/reverse-instructional-design-integrals/

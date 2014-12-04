@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Mark Stillwell'
 author: Mark Stillwell
 permalink: /2014/03/biography-mark-stillwell/

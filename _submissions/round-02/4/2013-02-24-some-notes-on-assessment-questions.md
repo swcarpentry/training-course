@@ -1,4 +1,6 @@
 ---
+date: 2013-02-24
+round: round-02
 title: Some Notes on Assessment Questions
 author: Greg Wilson
 permalink: /2013/02/some-notes-on-assessment-questions/

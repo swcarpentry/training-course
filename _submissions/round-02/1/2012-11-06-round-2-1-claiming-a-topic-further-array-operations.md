@@ -1,4 +1,6 @@
 ---
+date: 2012-11-06
+round: round-02
 title: 'Round 2.1: Arrays &#8211; Getting data in the right format for processing.'
 author: Oliver Szymanezyk
 permalink: /2012/11/round-2-1-claiming-a-topic-further-array-operations/

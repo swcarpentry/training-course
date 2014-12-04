@@ -1,4 +1,6 @@
 ---
+date: 2014-06-02
+round: round-09
 title: Motivation for learning the JavaScript debugger in Chrome
 author: Dav Clark
 permalink: /2014/06/motivation-for-learning-the-javascript-debugger-in-chrome/

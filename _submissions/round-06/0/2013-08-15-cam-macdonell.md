@@ -1,4 +1,6 @@
 ---
+date: 2013-08-15
+round: round-06
 title: Cam Macdonell
 author: Cam Macdonell
 permalink: /2013/08/cam-macdonell/

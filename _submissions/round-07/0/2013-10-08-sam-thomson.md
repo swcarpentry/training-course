@@ -1,4 +1,6 @@
 ---
+date: 2013-10-08
+round: round-07
 title: Sam Thomson
 author: Samuel Thomson
 permalink: /2013/10/sam-thomson/

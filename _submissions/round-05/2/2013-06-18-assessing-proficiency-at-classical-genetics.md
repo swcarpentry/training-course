@@ -1,4 +1,6 @@
 ---
+date: 2013-06-18
+round: round-05
 title: Assessing proficiency at classical genetics
 author: Billy Rowell
 permalink: /2013/06/assessing-proficiency-at-classical-genetics/

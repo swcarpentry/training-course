@@ -1,4 +1,6 @@
 ---
+date: 2014-01-07
+round: round-07
 title: 'Using Python&#8217;s enumerate Built-in'
 author: Samuel Thomson
 permalink: /2014/01/using-pythons-enumerate-built-in/

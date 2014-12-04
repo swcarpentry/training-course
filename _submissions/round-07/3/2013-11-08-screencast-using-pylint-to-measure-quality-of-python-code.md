@@ -1,4 +1,6 @@
 ---
+date: 2013-11-08
+round: round-07
 title: 'Screencast: Using pylint to measure quality of python code'
 author: David Worth
 permalink: /2013/11/screencast-using-pylint-to-measure-quality-of-python-code/

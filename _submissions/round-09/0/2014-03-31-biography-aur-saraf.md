@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Aur Saraf'
 author: Aur Saraf
 permalink: /2014/03/biography-aur-saraf/

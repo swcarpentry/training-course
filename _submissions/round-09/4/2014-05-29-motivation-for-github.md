@@ -1,4 +1,6 @@
 ---
+date: 2014-05-29
+round: round-09
 title: Motivation for GitHub
 author: Scott Burns
 permalink: /2014/05/motivation-for-github/

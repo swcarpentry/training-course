@@ -1,4 +1,6 @@
 ---
+date: 2013-08-21
+round: round-06
 title: 'Concept Map: Digital GIS Data'
 author: Jonah Duckles
 permalink: /2013/08/concept-map-digital-gis-data/

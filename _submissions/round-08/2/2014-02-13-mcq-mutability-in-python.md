@@ -1,4 +1,6 @@
 ---
+date: 2014-02-13
+round: round-08
 title: 'MCQ: Mutability in Python'
 author: Simon Belluzzo
 permalink: /2014/02/mcq-mutability-in-python/

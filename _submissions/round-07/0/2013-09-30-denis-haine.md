@@ -1,4 +1,6 @@
 ---
+date: 2013-09-30
+round: round-07
 title: Denis Haine
 author: Denis Haine
 permalink: /2013/09/denis-haine/

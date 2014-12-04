@@ -1,4 +1,6 @@
 ---
+date: 2013-01-14
+round: round-03
 title: About Kwasi Kwakwa
 author: Kwasi Kwakwa
 permalink: /2013/01/about-kwasi-kwakwa/

@@ -1,4 +1,6 @@
 ---
+date: 2012-10-17
+round: round-02
 title: About Oliver Szymanezyk
 author: Oliver Szymanezyk
 permalink: /2012/10/about-oliver-szymanezyk/

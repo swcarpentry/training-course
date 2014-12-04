@@ -1,4 +1,6 @@
 ---
+date: 2014-01-22
+round: round-08
 title: Basic text processing with Python built-in string methods with examples
 author: Likit Preeyanon
 permalink: /2014/01/basic-text-processing-with-python-built-in-string-methods-with-examples/

@@ -1,4 +1,6 @@
 ---
+date: 2014-01-20
+round: round-08
 title: 'Biography &#8211; Michael Gatto'
 author: Michael Gatto
 permalink: /2014/01/biography-michael-gatto/

@@ -1,4 +1,6 @@
 ---
+date: 2014-01-22
+round: round-08
 title: 'Concept Map: Unix find command'
 author: Jeramia Ory
 permalink: /2014/01/concept-map-unix-find-command/

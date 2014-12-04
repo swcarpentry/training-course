@@ -1,4 +1,6 @@
 ---
+date: 2014-04-02
+round: round-09
 title: 'Biography: Jeff Hollister'
 author: Jeff Hollister
 permalink: /2014/04/biography-jeff-hollister/

@@ -1,4 +1,6 @@
 ---
+date: 2013-02-11
+round: round-02
 title: Multiple choice questions on lists and loops
 author: Luis Figueira
 permalink: /2013/02/multiple-choice-questions-on-lists-and-loops/

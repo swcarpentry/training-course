@@ -1,4 +1,6 @@
 ---
+date: 2013-07-31
+round: round-05
 title: 'Live vs recorded sessions: Shoaib and Ivan'
 author: Ivan Gonzalez
 permalink: /2013/07/live-vs-recorded-sessions-shoaib-and-ivan/

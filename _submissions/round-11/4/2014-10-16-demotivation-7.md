@@ -1,4 +1,6 @@
 ---
+date: 2014-10-16
+round: round-11
 title: Demotivation
 author: Cody Hinchliff
 permalink: /2014/10/demotivation-7/

@@ -1,4 +1,6 @@
 ---
+date: 2012-11-14
+round: round-02
 title: Mind Map of White Space in Python
 author: Alex Viana
 permalink: /2012/11/mind-map-of-white-space-in-python/

@@ -1,4 +1,6 @@
 ---
+date: 2013-04-18
+round: round-04
 title: From How to What
 author: Greg Wilson
 permalink: /2013/04/from-how-to-what/

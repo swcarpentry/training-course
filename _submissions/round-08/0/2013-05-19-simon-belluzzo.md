@@ -1,4 +1,6 @@
 ---
+date: 2013-05-19
+round: round-08
 title: Simon Belluzzo
 author: Simon Belluzzo
 permalink: /2013/05/simon-belluzzo/

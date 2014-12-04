@@ -1,4 +1,6 @@
 ---
+date: 2013-06-05
+round: round-05
 title: 'Concept Map &#8211; SQL Group By'
 author: Shoaib Sufi
 permalink: /2013/06/concept-map-sql-group-by/

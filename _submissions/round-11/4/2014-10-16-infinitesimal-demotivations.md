@@ -1,4 +1,6 @@
 ---
+date: 2014-10-16
+round: round-11
 title: Infinitesimal demotivations
 author: Radovan Bast
 permalink: /2014/10/infinitesimal-demotivations/

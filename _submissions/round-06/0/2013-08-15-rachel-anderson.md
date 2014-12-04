@@ -1,4 +1,6 @@
 ---
+date: 2013-08-15
+round: round-06
 title: Rachel Anderson
 author: Rachel Anderson
 permalink: /2013/08/rachel-anderson/

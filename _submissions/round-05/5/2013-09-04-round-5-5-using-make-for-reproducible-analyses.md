@@ -1,4 +1,6 @@
 ---
+date: 2013-09-04
+round: round-05
 title: 'Round 5.5: Using Make for Reproducible Analyses'
 author: Jordan Fish
 permalink: /2013/09/round-5-5-using-make-for-reproducible-analyses/

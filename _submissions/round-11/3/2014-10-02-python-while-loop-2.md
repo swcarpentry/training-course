@@ -1,4 +1,6 @@
 ---
+date: 2014-10-02
+round: round-11
 title: python while-loop
 author: Asela Wijeratne
 permalink: /2014/10/python-while-loop-2/

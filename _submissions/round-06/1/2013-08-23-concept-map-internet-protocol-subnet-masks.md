@@ -1,4 +1,6 @@
 ---
+date: 2013-08-23
+round: round-06
 title: 'Concept Map: Internet Protocol Subnet Masks'
 author: Patrick Calhoun
 permalink: /2013/08/concept-map-internet-protocol-subnet-masks/

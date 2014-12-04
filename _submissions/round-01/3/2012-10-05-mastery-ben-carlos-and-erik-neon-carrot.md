@@ -1,4 +1,6 @@
 ---
+date: 2012-10-05
+round: round-01
 title: 'Mastery &#8211; Ben, Carlos and Erik (Neon Carrot)'
 author: Ben Waugh
 permalink: /2012/10/mastery-ben-carlos-and-erik-neon-carrot/

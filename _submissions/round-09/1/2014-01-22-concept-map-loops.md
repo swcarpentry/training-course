@@ -1,4 +1,6 @@
 ---
+date: 2014-01-22
+round: round-09
 title: 'Concept map: Loops'
 author: Isabel Fenton
 permalink: /2014/01/concept-map-loops/

@@ -1,4 +1,6 @@
 ---
+date: 2014-02-12
+round: round-08
 title: 'MCQ: Pretest/Post-test for Github Contribution Workflow using a Patch Branch.'
 author: Anne Moroney
 permalink: /2014/02/mcq-pretestpost-test-for-github-contribution-workflow-using-a-patch-branch/

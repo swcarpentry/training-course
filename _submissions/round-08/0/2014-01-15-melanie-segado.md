@@ -1,4 +1,6 @@
 ---
+date: 2014-01-15
+round: round-08
 title: Melanie Segado
 author: Melanie Segado
 permalink: /2014/01/melanie-segado/

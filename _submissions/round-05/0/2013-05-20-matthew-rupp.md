@@ -1,4 +1,6 @@
 ---
+date: 2013-05-20
+round: round-05
 title: Matthew Rupp
 author: Matthew Rupp
 permalink: /2013/05/matthew-rupp/

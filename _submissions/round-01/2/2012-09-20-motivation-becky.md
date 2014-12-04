@@ -1,4 +1,6 @@
 ---
+date: 2012-09-20
+round: round-01
 title: 'Motivation &#8211; Becky'
 author: Becky Stewart
 permalink: /2012/09/motivation-becky/

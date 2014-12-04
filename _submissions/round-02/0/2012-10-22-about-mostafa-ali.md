@@ -1,4 +1,6 @@
 ---
+date: 2012-10-22
+round: round-02
 title: About Mostafa Ali
 author: Mostafa Ali
 permalink: /2012/10/about-mostafa-ali/

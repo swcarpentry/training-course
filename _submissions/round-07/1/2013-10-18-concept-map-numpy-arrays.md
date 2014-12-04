@@ -1,4 +1,6 @@
 ---
+date: 2013-10-18
+round: round-07
 title: 'Concept Map: numpy arrays'
 author: Joshua Adelman
 permalink: /2013/10/concept-map-numpy-arrays/

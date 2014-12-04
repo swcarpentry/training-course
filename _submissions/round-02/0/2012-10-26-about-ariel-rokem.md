@@ -1,4 +1,6 @@
 ---
+date: 2012-10-26
+round: round-02
 title: About Ariel Rokem
 author: Ariel Rokem
 permalink: /2012/10/about-ariel-rokem/

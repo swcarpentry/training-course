@@ -1,4 +1,6 @@
 ---
+date: 2014-01-28
+round: round-07
 title: Learning Calculus, and why one should learn Git
 author: Robert Flight
 permalink: /2014/01/learning-calculus-and-why-one-should-learn-git/

@@ -1,4 +1,6 @@
 ---
+date: 2014-01-22
+round: round-08
 title: 'Concept Map: Numpy masked arrays'
 author: Nikolay Koldunov
 permalink: /2014/01/concept-map-numpy-masked-arrays/

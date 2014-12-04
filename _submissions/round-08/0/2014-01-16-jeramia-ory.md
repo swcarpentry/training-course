@@ -1,4 +1,6 @@
 ---
+date: 2014-01-16
+round: round-08
 title: Jeramia Ory
 author: Jeramia Ory
 permalink: /2014/01/jeramia-ory/

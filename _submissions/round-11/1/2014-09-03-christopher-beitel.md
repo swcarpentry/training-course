@@ -1,4 +1,6 @@
 ---
+date: 2014-09-03
+round: round-11
 title: Christopher Beitel
 author: Christopher Beitel
 permalink: /2014/09/christopher-beitel/

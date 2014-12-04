@@ -1,4 +1,6 @@
 ---
+date: 2013-05-14
+round: round-05
 title: Neal Davis
 author: Neal Davis
 permalink: /2013/05/neal-davis/

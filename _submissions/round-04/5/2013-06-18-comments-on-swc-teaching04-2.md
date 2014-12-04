@@ -1,4 +1,6 @@
 ---
+date: 2013-06-18
+round: round-04
 title: Comments on SWC Teaching04
 author: Jorden Schossau
 permalink: /2013/06/comments-on-swc-teaching04-2/

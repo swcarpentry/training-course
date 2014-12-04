@@ -1,4 +1,6 @@
 ---
+date: 2013-06-27
+round: round-05
 title: 'Screencast Proposal: Speeding up batch jobs'
 author: Simon Belluzzo
 permalink: /2013/06/screencast-proposal-speeding-up-batch-jobs/

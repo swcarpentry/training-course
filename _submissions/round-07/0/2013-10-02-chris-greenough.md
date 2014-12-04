@@ -1,4 +1,6 @@
 ---
+date: 2013-10-02
+round: round-07
 title: Chris Greenough
 author: Chris
 permalink: /2013/10/chris-greenough/

@@ -1,4 +1,6 @@
 ---
+date: 2014-05-31
+round: round-09
 title: Motivation for learning for loops in python
 author: Aur Saraf
 permalink: /2014/05/motivation-for-learning-for-loops-in-python/

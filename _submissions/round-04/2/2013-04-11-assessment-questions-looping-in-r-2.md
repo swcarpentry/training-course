@@ -1,4 +1,6 @@
 ---
+date: 2013-04-11
+round: round-04
 title: 'Assessment questions &#8211; looping in R'
 author: John Blischak
 permalink: /2013/04/assessment-questions-looping-in-r-2/

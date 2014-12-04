@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Geneviève Smith'
 author: Genevieve Smith
 permalink: /2014/03/biography-genevieve-smith/

@@ -1,4 +1,6 @@
 ---
+date: 2013-11-04
+round: round-07
 title: Assessing expertise of getting data into R
 author: Daniel Hocking
 permalink: /2013/11/assessing-expertise-of-getting-data-into-r/

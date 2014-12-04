@@ -1,4 +1,6 @@
 ---
+date: 2014-10-01
+round: round-11
 title: 'Assessment: The Unix Shell &#8211; Files and Directories'
 author: Emilia Gan
 permalink: /2014/10/assessment-the-unix-shell-files-and-directories/

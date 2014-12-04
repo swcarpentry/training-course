@@ -1,4 +1,6 @@
 ---
+date: 2013-11-07
+round: round-07
 title: 'Assessment Questions: Python Sorting'
 author: Chris Waigl
 permalink: /2013/11/assessment-questions-python-sorting/

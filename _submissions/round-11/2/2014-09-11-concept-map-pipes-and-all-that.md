@@ -1,4 +1,6 @@
 ---
+date: 2014-09-11
+round: round-11
 title: 'Concept map &#8211; pipes and all that'
 author: Timothee Poisot
 permalink: /2014/09/concept-map-pipes-and-all-that/

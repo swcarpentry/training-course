@@ -1,4 +1,6 @@
 ---
+date: 2014-03-31
+round: round-09
 title: 'Biography: Ahmadou Dicko'
 author: Ahmadou Dicko
 permalink: /2014/03/biography-of-ahmadou-dicko/
