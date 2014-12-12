@@ -1,6 +1,5 @@
 ---
 date: 2014-09-02
-round: round-11
 title: Erik Kastman
 author: Erik Kastman
 permalink: /2014/09/erik-kastman/

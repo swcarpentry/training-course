@@ -1,6 +1,5 @@
 ---
 date: 2013-10-08
-round: round-07
 title: Brian J Brennan
 author: Brian Brennan
 permalink: /2013/10/brian-j-brennan/

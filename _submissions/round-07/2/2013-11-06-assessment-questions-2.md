@@ -1,6 +1,5 @@
 ---
 date: 2013-11-06
-round: round-07
 title: Assessment Questions
 author: Richard Barnes
 permalink: /2013/11/assessment-questions-2/

@@ -1,6 +1,5 @@
 ---
 date: 2013-08-19
-round: round-06
 title: 'Concept Map: Introduction to cmake'
 author: Christopher
 permalink: /2013/08/concept-map-introduction-to-cmake/

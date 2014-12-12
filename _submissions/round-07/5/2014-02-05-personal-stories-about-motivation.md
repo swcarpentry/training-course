@@ -1,6 +1,5 @@
 ---
 date: 2014-02-05
-round: round-07
 title: Personal stories about motivation
 author: John Corless
 permalink: /2014/02/personal-stories-about-motivation/

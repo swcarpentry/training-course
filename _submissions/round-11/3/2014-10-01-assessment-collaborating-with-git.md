@@ -1,6 +1,5 @@
 ---
 date: 2014-10-01
-round: round-11
 title: 'Assessment &#8211; Collaborating with Git'
 author: Hamid
 permalink: /2014/10/assessment-collaborating-with-git/

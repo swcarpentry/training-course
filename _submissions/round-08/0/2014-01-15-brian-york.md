@@ -1,6 +1,5 @@
 ---
 date: 2014-01-15
-round: round-08
 title: Brian York
 author: Brian York
 permalink: /2014/01/brian-york/

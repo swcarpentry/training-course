@@ -1,6 +1,5 @@
 ---
 date: 2013-06-12
-round: round-04
 title: Reflection on my audience feedback
 author: John Blischak
 permalink: /2013/06/reflection-on-my-audience-feedback/

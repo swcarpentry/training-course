@@ -1,6 +1,5 @@
 ---
 date: 2014-06-22
-round: round-10
 title: 'Concept map: for-loop in Python'
 author: Rainer Kiko
 permalink: /2014/06/concept-map-for-loop-in-python/

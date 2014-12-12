@@ -1,6 +1,5 @@
 ---
 date: 2014-09-28
-round: round-11
 title: 'Assessment exercise: Relational Databases'
 author: Roman Valls
 permalink: /2014/09/assessment-exercise-relational-databases/

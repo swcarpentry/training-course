@@ -1,6 +1,5 @@
 ---
 date: 2013-06-28
-round: round-04
 title: Reflections on the course
 author: April Wright
 permalink: /2013/06/reflections-on-the-course/

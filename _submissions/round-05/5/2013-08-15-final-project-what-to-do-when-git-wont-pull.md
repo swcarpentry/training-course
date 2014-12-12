@@ -1,6 +1,5 @@
 ---
 date: 2013-08-15
-round: round-05
 title: 'Final Project: What to do when git won&#8217;t pull'
 author: Chris Holdgraf
 permalink: /2013/08/final-project-what-to-do-when-git-wont-pull/

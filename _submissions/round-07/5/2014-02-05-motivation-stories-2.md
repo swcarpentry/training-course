@@ -1,6 +1,5 @@
 ---
 date: 2014-02-05
-round: round-07
 title: Motivation stories
 author: Denis Haine
 permalink: /2014/02/motivation-stories-2/

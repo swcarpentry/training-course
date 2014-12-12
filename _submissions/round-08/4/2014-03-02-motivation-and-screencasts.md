@@ -1,6 +1,5 @@
 ---
 date: 2014-03-02
-round: round-08
 title: Motivation and Screencasts
 author: Greg Wilson
 permalink: /2014/03/motivation-and-screencasts/

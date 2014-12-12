@@ -1,6 +1,5 @@
 ---
 date: 2014-09-12
-round: round-11
 title: From Basic Principles to Concept Maps
 author: Greg Wilson
 permalink: /2014/09/from-basic-principles-to-concept-maps/

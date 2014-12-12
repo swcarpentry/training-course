@@ -1,6 +1,5 @@
 ---
 date: 2014-09-06
-round: round-11
 title: Ashwin Srinath
 author: Ashwin Srinath
 permalink: /2014/09/ashwin-srinath/

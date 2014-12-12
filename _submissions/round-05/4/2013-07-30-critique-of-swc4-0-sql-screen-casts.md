@@ -1,6 +1,5 @@
 ---
 date: 2013-07-30
-round: round-05
 title: Critique of SWC4.0 SQL Screen Casts
 author: Jordan Fish
 permalink: /2013/07/critique-of-swc4-0-sql-screen-casts/

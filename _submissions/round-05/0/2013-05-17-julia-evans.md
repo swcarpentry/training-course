@@ -1,6 +1,5 @@
 ---
 date: 2013-05-17
-round: round-05
 title: Julia Evans
 author: Julia Evans
 permalink: /2013/05/julia-evans/

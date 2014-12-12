@@ -1,6 +1,5 @@
 ---
 date: 2014-09-15
-round: round-11
 title: 'Concept map: Analysing patient data'
 author: Jeremy Metz
 permalink: /2014/09/concept-map-analysing-patient-data/

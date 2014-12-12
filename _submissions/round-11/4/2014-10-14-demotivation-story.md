@@ -1,6 +1,5 @@
 ---
 date: 2014-10-14
-round: round-11
 title: Demotivation story
 author: Thomas Guignard
 permalink: /2014/10/demotivation-story/

@@ -1,6 +1,5 @@
 ---
 date: 2014-04-30
-round: round-09
 title: Concept Map for Accessing Resources through SSH Gateways
 author: Mark Stillwell
 permalink: /2014/04/concept-map-for-accessing-resources-through-ssh-gateways/

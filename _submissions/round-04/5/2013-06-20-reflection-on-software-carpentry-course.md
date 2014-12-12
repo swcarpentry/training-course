@@ -1,6 +1,5 @@
 ---
 date: 2013-06-20
-round: round-04
 title: Reflection on Software Carpentry Course
 author: Jens von der Linden
 permalink: /2013/06/reflection-on-software-carpentry-course/

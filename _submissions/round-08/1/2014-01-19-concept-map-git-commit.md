@@ -1,6 +1,5 @@
 ---
 date: 2014-01-19
-round: round-08
 title: 'Concept map: git commit'
 author: Jessica Hamrick
 permalink: /2014/01/concept-map-git-commit/

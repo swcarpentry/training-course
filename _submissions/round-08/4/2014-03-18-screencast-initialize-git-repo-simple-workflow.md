@@ -1,6 +1,5 @@
 ---
 date: 2014-03-18
-round: round-08
 title: 'Screencast: Initialize Git Repo + Simple Workflow'
 author: Abigail Cabunoc
 permalink: /2014/03/screencast-initialize-git-repo-simple-workflow/

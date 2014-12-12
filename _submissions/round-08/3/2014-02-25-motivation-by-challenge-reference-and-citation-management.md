@@ -1,6 +1,5 @@
 ---
 date: 2014-02-25
-round: round-08
 title: 'Motivation by Challenge: Reference and Citation Management'
 author: Gabriel Devenyi
 permalink: /2014/02/motivation-by-challenge-reference-and-citation-management/

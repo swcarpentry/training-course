@@ -1,6 +1,5 @@
 ---
 date: 2014-10-14
-round: round-11
 title: Demotivation in Undergraduate Algorithms
 author: Greg Caporaso
 permalink: /2014/10/demotivation-in-undergraduate-algorithms/

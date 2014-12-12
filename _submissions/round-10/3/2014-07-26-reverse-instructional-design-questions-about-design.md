@@ -1,6 +1,5 @@
 ---
 date: 2014-07-26
-round: round-10
 title: 'Reverse instructional design: questions about &#8220;design&#8221;'
 author: Piotr Banaszkiewicz
 permalink: /2014/07/reverse-instructional-design-questions-about-design/

@@ -1,6 +1,5 @@
 ---
 date: 2013-10-17
-round: round-07
 title: 'Concept Map: Linux Directories'
 author: Christina Magkoufopoulou
 permalink: /2013/10/concept-map-linux-directories/

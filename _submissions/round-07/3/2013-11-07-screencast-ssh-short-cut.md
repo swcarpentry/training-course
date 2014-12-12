@@ -1,6 +1,5 @@
 ---
 date: 2013-11-07
-round: round-07
 title: 'Screencast: SSH short cut'
 author: Fan
 permalink: /2013/11/screencast-ssh-short-cut/

@@ -1,6 +1,5 @@
 ---
 date: 2014-01-16
-round: round-08
 title: Isabel Fenton
 author: Isabel Fenton
 permalink: /2014/01/isabel-fenton/

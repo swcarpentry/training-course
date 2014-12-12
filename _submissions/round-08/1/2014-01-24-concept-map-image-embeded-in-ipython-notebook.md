@@ -1,6 +1,5 @@
 ---
 date: 2014-01-24
-round: round-08
 title: 'Concept map: Image(&#8230;,embeded=) in IPython Notebook'
 author: Matthias Bussonnier
 permalink: /2014/01/concept-map-image-embeded-in-ipython-notebook/

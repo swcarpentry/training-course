@@ -1,6 +1,5 @@
 ---
 date: 2013-05-16
-round: round-05
 title: Chris Gray
 author: Chris Gray
 permalink: /2013/05/chris-gray/

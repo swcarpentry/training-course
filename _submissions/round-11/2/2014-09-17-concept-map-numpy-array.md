@@ -1,6 +1,5 @@
 ---
 date: 2014-09-17
-round: round-11
 title: 'Concept Map: Numpy Array'
 author: Daniel Smith
 permalink: /2014/09/concept-map-numpy-array/

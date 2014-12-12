@@ -1,6 +1,5 @@
 ---
 date: 2013-05-28
-round: round-05
 title: 'Concept Map: Path (UNIX)'
 author: Nichole Bennett
 permalink: /2013/05/concept-map-path-unix/

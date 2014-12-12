@@ -1,6 +1,5 @@
 ---
 date: 2014-05-01
-round: round-09
 title: 'Concept Map: Github'
 author: Jon Duncan
 permalink: /2014/05/concept-map-for-github/

@@ -1,6 +1,5 @@
 ---
 date: 2014-06-18
-round: round-10
 title: 'Concept map: how users are kept track of in web-based interactive experiment'
 author: Erik Sorensen
 permalink: /2014/06/concept-map-how-users-are-kept-track-of-in-web-based-interactive-experiment/

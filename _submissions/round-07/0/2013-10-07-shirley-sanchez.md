@@ -1,6 +1,5 @@
 ---
 date: 2013-10-07
-round: round-07
 title: Shirley Sanchez
 author: Shirley Sanchez
 permalink: /2013/10/shirley-sanchez/

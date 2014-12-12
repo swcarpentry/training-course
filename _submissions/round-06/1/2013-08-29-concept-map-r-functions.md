@@ -1,6 +1,5 @@
 ---
 date: 2013-08-29
-round: round-06
 title: 'Concept map: R functions'
 author: Cliburn Chan
 permalink: /2013/08/concept-map-r-functions/

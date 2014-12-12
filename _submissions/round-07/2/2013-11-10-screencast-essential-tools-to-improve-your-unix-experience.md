@@ -1,6 +1,5 @@
 ---
 date: 2013-11-10
-round: round-07
 title: 'Screencast: Essential tools to improve your UNIX experience.'
 author: David Rio
 permalink: /2013/11/screencast-essential-tools-to-improve-your-unix-experience/

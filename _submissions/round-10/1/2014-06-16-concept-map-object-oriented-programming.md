@@ -1,6 +1,5 @@
 ---
 date: 2014-06-16
-round: round-10
 title: 'Concept Map: Object Oriented Programming'
 author: Leonor Garcia-Gutierrez
 permalink: /2014/06/concept-map-object-oriented-programming/

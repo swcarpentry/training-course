@@ -1,6 +1,5 @@
 ---
 date: 2013-10-17
-round: round-07
 title: 'Concept Map: latexdiff to review changes'
 author: Remi Emonet
 permalink: /2013/10/concept-map-latexdiff-to-review-changes/

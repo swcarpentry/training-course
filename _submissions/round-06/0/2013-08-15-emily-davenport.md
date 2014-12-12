@@ -1,6 +1,5 @@
 ---
 date: 2013-08-15
-round: round-06
 title: Emily Davenport
 author: Emily Davenport
 permalink: /2013/08/emily-davenport/

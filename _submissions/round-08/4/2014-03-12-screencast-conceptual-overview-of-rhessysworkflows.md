@@ -1,6 +1,5 @@
 ---
 date: 2014-03-12
-round: round-08
 title: 'Screencast: Conceptual overview of RHESSysWorkflows'
 author: Brian Miles
 permalink: /2014/03/screencast-conceptual-overview-of-rhessysworkflows/

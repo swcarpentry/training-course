@@ -1,6 +1,5 @@
 ---
 date: 2014-05-26
-round: round-09
 title: Screencast on python dictionary
 author: Timothy Warren
 permalink: /2014/05/screencast-on-python-dictionary/

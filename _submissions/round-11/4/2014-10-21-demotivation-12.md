@@ -1,6 +1,5 @@
 ---
 date: 2014-10-21
-round: round-11
 title: Demotivation
 author: Emilia Gan
 permalink: /2014/10/demotivation-12/

@@ -1,6 +1,5 @@
 ---
 date: 2014-03-31
-round: round-09
 title: 'Biography: Christian Jacobs'
 author: Christian Jacobs
 permalink: /2014/03/biography-christian-jacobs/

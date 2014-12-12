@@ -1,6 +1,5 @@
 ---
 date: 2013-10-16
-round: round-07
 title: 'Concept Map: JavaScript Prototypes'
 author: Bill Mills
 permalink: /2013/10/concept-map-javascript-prototypes/

@@ -1,6 +1,5 @@
 ---
 date: 2012-09-10
-round: round-01
 title: Week 1 Wrap-Up
 author: Greg Wilson
 permalink: /2012/09/week-1-wrap-up/

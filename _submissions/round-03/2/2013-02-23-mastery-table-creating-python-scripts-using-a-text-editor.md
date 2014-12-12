@@ -1,6 +1,5 @@
 ---
 date: 2013-02-23
-round: round-03
 title: 'Mastery Table: creating Python scripts using a text editor'
 author: Ben Morris
 permalink: /2013/02/mastery-table-creating-python-scripts-using-a-text-editor/

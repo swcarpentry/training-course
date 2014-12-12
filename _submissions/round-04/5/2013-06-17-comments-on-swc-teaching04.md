@@ -1,6 +1,5 @@
 ---
 date: 2013-06-17
-round: round-04
 title: Comments on SWC Teaching04
 author: Diego Barneche
 permalink: /2013/06/comments-on-swc-teaching04/

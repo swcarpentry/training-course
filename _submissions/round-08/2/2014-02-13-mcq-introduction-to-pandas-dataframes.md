@@ -1,6 +1,5 @@
 ---
 date: 2014-02-13
-round: round-08
 title: 'MCQ: Introduction to pandas DataFrames'
 author: Andrea Zonca
 permalink: /2014/02/mcq-introduction-to-pandas-dataframes/

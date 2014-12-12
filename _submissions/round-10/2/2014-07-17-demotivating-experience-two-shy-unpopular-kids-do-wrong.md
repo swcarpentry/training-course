@@ -1,6 +1,5 @@
 ---
 date: 2014-07-17
-round: round-10
 title: 'Demotivating Experience: Shy, Unpopular Kid Does Wrong'
 author: Scott Talafuse
 permalink: /2014/07/demotivating-experience-two-shy-unpopular-kids-do-wrong/

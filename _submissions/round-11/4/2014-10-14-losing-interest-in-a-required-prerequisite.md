@@ -1,6 +1,5 @@
 ---
 date: 2014-10-14
-round: round-11
 title: Losing interest in a required prerequisite
 author: Jared Camins-Esakov
 permalink: /2014/10/losing-interest-in-a-required-prerequisite/

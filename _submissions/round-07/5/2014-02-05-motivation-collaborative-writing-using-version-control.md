@@ -1,6 +1,5 @@
 ---
 date: 2014-02-05
-round: round-07
 title: 'Motivation: Collaborative writing using version control'
 author: Joshua Adelman
 permalink: /2014/02/motivation-collaborative-writing-using-version-control/

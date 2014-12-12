@@ -1,6 +1,5 @@
 ---
 date: 2013-04-10
-round: round-04
 title: 'Assessment questions &#8211; Looping in R'
 author: Daniel Noble
 permalink: /2013/04/assessment-questions-looping-in-r/

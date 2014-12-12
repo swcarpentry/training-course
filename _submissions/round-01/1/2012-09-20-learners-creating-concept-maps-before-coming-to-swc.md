@@ -1,6 +1,5 @@
 ---
 date: 2012-09-20
-round: round-01
 title: Learners creating concept maps before coming to SWC
 author: Tracy Teal
 permalink: /2012/09/learners-creating-concept-maps-before-coming-to-swc/

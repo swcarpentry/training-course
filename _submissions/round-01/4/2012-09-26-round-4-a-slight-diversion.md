@@ -1,6 +1,5 @@
 ---
 date: 2012-09-26
-round: round-01
 title: 'Round 4: A Slight Diversion'
 author: Greg Wilson
 permalink: /2012/09/round-4-a-slight-diversion/

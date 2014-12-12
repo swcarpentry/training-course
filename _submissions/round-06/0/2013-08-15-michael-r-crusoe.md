@@ -1,6 +1,5 @@
 ---
 date: 2013-08-15
-round: round-06
 title: Michael R. Crusoe
 author: Michael Crusoe
 permalink: /2013/08/michael-r-crusoe/

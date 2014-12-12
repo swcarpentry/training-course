@@ -1,6 +1,5 @@
 ---
 date: 2014-10-23
-round: round-11
 title: Demotivation
 author: David Pugh
 permalink: /2014/10/demotivation-15/

@@ -1,6 +1,5 @@
 ---
 date: 2013-05-23
-round: round-05
 title: Jenny Bryan
 author: Jennifer Bryan
 permalink: /2013/05/jenny-bryan/

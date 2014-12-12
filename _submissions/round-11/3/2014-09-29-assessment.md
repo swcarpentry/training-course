@@ -1,6 +1,5 @@
 ---
 date: 2014-09-29
-round: round-11
 title: 'Assessment exercise: The unix shell &#8211; pipes and filters'
 author: Heather Gunning
 permalink: /2014/09/assessment/

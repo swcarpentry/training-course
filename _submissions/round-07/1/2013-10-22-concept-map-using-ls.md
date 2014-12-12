@@ -1,6 +1,5 @@
 ---
 date: 2013-10-22
-round: round-07
 title: 'Concept map: using ls'
 author: Naupaka Zimmerman
 permalink: /2013/10/concept-map-using-ls/

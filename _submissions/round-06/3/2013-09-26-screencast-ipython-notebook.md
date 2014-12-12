@@ -1,6 +1,5 @@
 ---
 date: 2013-09-26
-round: round-06
 title: 'Screencast: iPython Notebook'
 author: Rachel Anderson
 permalink: /2013/09/screencast-ipython-notebook/

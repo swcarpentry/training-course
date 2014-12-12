@@ -1,6 +1,5 @@
 ---
 date: 2013-02-23
-round: round-03
 title: 'Mastery Table: Matrix Programming with Python'
 author: Joon Ro
 permalink: /2013/02/mastery-table-matrix-programming-with-python/

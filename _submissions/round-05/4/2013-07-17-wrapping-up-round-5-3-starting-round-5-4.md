@@ -1,6 +1,5 @@
 ---
 date: 2013-07-17
-round: round-05
 title: Wrapping Up Round 5.3, Starting Round 5.4
 author: Greg Wilson
 permalink: /2013/07/wrapping-up-round-5-3-starting-round-5-4/

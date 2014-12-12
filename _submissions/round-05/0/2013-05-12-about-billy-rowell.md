@@ -1,6 +1,5 @@
 ---
 date: 2013-05-12
-round: round-05
 title: About Billy Rowell
 author: Billy Rowell
 permalink: /2013/05/about-billy-rowell/

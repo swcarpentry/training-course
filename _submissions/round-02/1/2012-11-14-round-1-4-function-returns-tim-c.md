@@ -1,6 +1,5 @@
 ---
 date: 2012-11-14
-round: round-02
 title: 'Round 2.1 Function Returns &#8211; Tim C.'
 author: Tim Cerino
 permalink: /2012/11/round-1-4-function-returns-tim-c/

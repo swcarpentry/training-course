@@ -1,6 +1,5 @@
 ---
 date: 2014-10-02
-round: round-11
 title: 'Assessment: Functions, local and global variables'
 author: Ramalingam Saravanan
 permalink: /2014/10/assessment-functions-local-and-global-variables/

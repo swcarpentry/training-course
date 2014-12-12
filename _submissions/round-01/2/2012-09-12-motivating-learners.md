@@ -1,6 +1,5 @@
 ---
 date: 2012-09-12
-round: round-01
 title: Motivating learners
 author: Sarah Supp
 permalink: /2012/09/motivating-learners/

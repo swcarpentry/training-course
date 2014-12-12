@@ -1,6 +1,5 @@
 ---
 date: 2014-09-17
-round: round-11
 title: Concept Map Shell
 author: Kathy Chung
 permalink: /2014/09/concept-map-shell-2/

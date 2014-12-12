@@ -1,6 +1,5 @@
 ---
 date: 2014-05-07
-round: round-09
 title: Concept Map – How awk works
 author: Yu-Ching Shih
 permalink: /2014/05/concept-map-how-awk-works/

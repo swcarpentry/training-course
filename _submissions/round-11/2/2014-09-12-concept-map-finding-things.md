@@ -1,6 +1,5 @@
 ---
 date: 2014-09-12
-round: round-11
 title: 'Concept map: Finding Things'
 author: Kate Hertweck
 permalink: /2014/09/concept-map-finding-things/

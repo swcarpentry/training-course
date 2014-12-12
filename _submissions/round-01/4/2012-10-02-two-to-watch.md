@@ -1,6 +1,5 @@
 ---
 date: 2012-10-02
-round: round-01
 title: Two to Watch
 author: Greg Wilson
 permalink: /2012/10/two-to-watch/

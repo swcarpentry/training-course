@@ -1,6 +1,5 @@
 ---
 date: 2014-02-27
-round: round-08
 title: 'Motivation: Using APLpy to create publication-quality astronomical images'
 author: Jean-Christophe Leyder
 permalink: /2014/02/motivation-using-aplpy-to-create-publication-quality-astronomical-images/

@@ -1,6 +1,5 @@
 ---
 date: 2013-06-26
-round: round-05
 title: 'Proposed screencast  &#8211; about &#8220;git reset &#8211;hard&#8221;'
 author: Yuxi Luo
 permalink: /2013/06/proposed-screencast-about-git-reset-hard/

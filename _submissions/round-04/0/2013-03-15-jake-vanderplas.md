@@ -1,6 +1,5 @@
 ---
 date: 2013-03-15
-round: round-04
 title: Jake Vanderplas
 author: Jacob Vanderplas
 permalink: /2013/03/jake-vanderplas/

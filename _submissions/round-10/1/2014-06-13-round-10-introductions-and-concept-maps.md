@@ -1,6 +1,5 @@
 ---
 date: 2014-06-13
-round: round-10
 title: 'Round 10: Introductions and Concept Maps'
 author: Greg Wilson
 permalink: /2014/06/round-10-introductions-and-concept-maps/

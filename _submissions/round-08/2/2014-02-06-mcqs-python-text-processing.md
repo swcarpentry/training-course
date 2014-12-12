@@ -1,6 +1,5 @@
 ---
 date: 2014-02-06
-round: round-08
 title: 'MCQs: Python text processing'
 author: Likit Preeyanon
 permalink: /2014/02/mcqs-python-text-processing/

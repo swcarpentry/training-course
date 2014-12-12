@@ -1,6 +1,5 @@
 ---
 date: 2013-01-21
-round: round-02
 title: Wrapping Up Round 2.3, Starting Round 2.4
 author: Greg Wilson
 permalink: /2013/01/wrapping-up-round-2-3-starting-round-2-4/

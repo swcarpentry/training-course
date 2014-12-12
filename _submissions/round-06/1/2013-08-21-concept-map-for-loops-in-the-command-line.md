@@ -1,6 +1,5 @@
 ---
 date: 2013-08-21
-round: round-06
 title: 'Concept Map: for loops in the command line'
 author: Jeramia Ory
 permalink: /2013/08/concept-map-for-loops-in-the-command-line/

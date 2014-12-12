@@ -1,6 +1,5 @@
 ---
 date: 2013-03-01
-round: round-02
 title: Round 2.4 Wrap-Up
 author: Greg Wilson
 permalink: /2013/03/round-2-4-wrap-up/

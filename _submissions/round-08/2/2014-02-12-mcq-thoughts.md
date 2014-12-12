@@ -1,6 +1,5 @@
 ---
 date: 2014-02-12
-round: round-08
 title: MCQ Thoughts
 author: Patrick Marsh
 permalink: /2014/02/mcq-thoughts/

@@ -1,6 +1,5 @@
 ---
 date: 2014-10-01
-round: round-11
 title: 'Assessment: Assignment statements in Python'
 author: Mariela Perignon
 permalink: /2014/10/assessment-assignment-statements-in-python/

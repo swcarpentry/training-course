@@ -1,6 +1,5 @@
 ---
 date: 2013-06-20
-round: round-05
 title: 'MC: Regression (again!)'
 author: Chris Holdgraf
 permalink: /2013/06/mc-regression-again/

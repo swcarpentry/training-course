@@ -1,6 +1,5 @@
 ---
 date: 2013-03-19
-round: round-04
 title: Gene Goltsman
 author: Eugene Goltsman
 permalink: /2013/03/gene-goltsman/

@@ -1,6 +1,5 @@
 ---
 date: 2014-03-11
-round: round-08
 title: Motivating Students To Learn Command-Line Basics
 author: Atul Varma
 permalink: /2014/03/motivating-students-to-learn-command-line-basics/

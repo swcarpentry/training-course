@@ -1,6 +1,5 @@
 ---
 date: 2012-10-31
-round: round-01
 title: 'Round 1.4 For loops &#8211; Emily Jane'
 author: Emily Jane McTavish
 permalink: /2012/10/round-1-4-for-loops-emily-jane/

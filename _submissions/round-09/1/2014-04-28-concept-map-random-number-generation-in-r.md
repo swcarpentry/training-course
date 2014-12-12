@@ -1,6 +1,5 @@
 ---
 date: 2014-04-28
-round: round-09
 title: 'Concept Map &#8211; Random Number Generation in R'
 author: Dan Warren
 permalink: /2014/04/concept-map-random-number-generation-in-r/

@@ -1,6 +1,5 @@
 ---
 date: 2012-11-07
-round: round-01
 title: Round 1.4 Justin on object methods
 author: Justin Ely
 permalink: /2012/11/round-1-4-justin-on-object-methods/

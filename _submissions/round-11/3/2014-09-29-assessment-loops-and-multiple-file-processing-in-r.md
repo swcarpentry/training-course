@@ -1,6 +1,5 @@
 ---
 date: 2014-09-29
-round: round-11
 title: 'Assessment &#8212; loops and multiple file processing in R'
 author: François Michonneau
 permalink: /2014/09/assessment-loops-and-multiple-file-processing-in-r/

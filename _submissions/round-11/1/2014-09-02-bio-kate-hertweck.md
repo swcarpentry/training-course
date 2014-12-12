@@ -1,6 +1,5 @@
 ---
 date: 2014-09-02
-round: round-11
 title: Kate Hertweck
 author: Kate Hertweck
 permalink: /2014/09/bio-kate-hertweck/

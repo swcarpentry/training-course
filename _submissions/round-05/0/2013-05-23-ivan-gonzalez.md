@@ -1,6 +1,5 @@
 ---
 date: 2013-05-23
-round: round-05
 title: Ivan Gonzalez
 author: Ivan Gonzalez
 permalink: /2013/05/ivan-gonzalez/

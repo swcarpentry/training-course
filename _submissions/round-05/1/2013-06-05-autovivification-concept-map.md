@@ -1,6 +1,5 @@
 ---
 date: 2013-06-05
-round: round-05
 title: Autovivification Concept Map
 author: Sarah Richardson
 permalink: /2013/06/autovivification-concept-map/

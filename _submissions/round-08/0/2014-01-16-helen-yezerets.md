@@ -1,6 +1,5 @@
 ---
 date: 2014-01-16
-round: round-08
 title: Helen Yezerets
 author: Helen Yezerets
 permalink: /2014/01/helen-yezerets/

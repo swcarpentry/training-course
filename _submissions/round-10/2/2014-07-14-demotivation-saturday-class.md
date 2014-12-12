@@ -1,6 +1,5 @@
 ---
 date: 2014-07-14
-round: round-10
 title: 'Demotivation &#8211; Saturday Class'
 author: David Kua
 permalink: /2014/07/demotivation-saturday-class/

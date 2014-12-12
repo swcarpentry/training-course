@@ -1,6 +1,5 @@
 ---
 date: 2013-03-14
-round: round-04
 title: Rich FitzJohn
 author: Rich FitzJohn
 permalink: /2013/03/rich-fitzjohn/

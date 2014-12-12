@@ -1,6 +1,5 @@
 ---
 date: 2014-05-01
-round: round-09
 title: 'concept map: while loop'
 author: Stefan Pfenninger
 permalink: /2014/05/concept-map-while-loop-2/

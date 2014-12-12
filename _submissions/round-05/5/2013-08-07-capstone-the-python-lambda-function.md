@@ -1,6 +1,5 @@
 ---
 date: 2013-08-07
-round: round-05
 title: 'Capstone—The Python &#8220;lambda&#8221; function.'
 author: Neal Davis
 permalink: /2013/08/capstone-the-python-lambda-function/

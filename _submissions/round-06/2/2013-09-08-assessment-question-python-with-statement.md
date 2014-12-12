@@ -1,6 +1,5 @@
 ---
 date: 2013-09-08
-round: round-06
 title: 'Assessment Question: Python with-statement'
 author: Philipp Lies
 permalink: /2013/09/assessment-question-python-with-statement/

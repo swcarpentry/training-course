@@ -1,6 +1,5 @@
 ---
 date: 2013-10-15
-round: round-07
 title: 'Concept Map: Unix Permissions'
 author: Melissa Santos
 permalink: /2013/10/concept-map-unix-permissions/

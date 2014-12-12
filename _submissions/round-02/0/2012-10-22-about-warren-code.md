@@ -1,6 +1,5 @@
 ---
 date: 2012-10-22
-round: round-02
 title: About Warren Code
 author: Warren Code
 permalink: /2012/10/about-warren-code/

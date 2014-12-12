@@ -1,6 +1,5 @@
 ---
 date: 2014-09-30
-round: round-11
 title: 'Assessment exercise: Finding Things'
 author: Kirill Palamartchouk
 permalink: /2014/09/assessment-exercise-finding-things/

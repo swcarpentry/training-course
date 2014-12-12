@@ -1,6 +1,5 @@
 ---
 date: 2013-03-27
-round: round-04
 title: 'Concept Map: Loading audio files in scikits.audiolab'
 author: Bogdan Vera
 permalink: /2013/03/concept-map-loading-audio-files-in-scikits-audiolab/

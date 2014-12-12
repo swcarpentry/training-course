@@ -1,6 +1,5 @@
 ---
 date: 2014-05-06
-round: round-09
 title: 'Concept Map &#8211; Functions'
 author: Tim McNamara
 permalink: /2014/05/concept-map-functions/

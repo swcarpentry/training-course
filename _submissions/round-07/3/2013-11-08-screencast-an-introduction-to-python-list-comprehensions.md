@@ -1,6 +1,5 @@
 ---
 date: 2013-11-08
-round: round-07
 title: 'Screencast: (An introduction to) Python list comprehensions'
 author: Samuel Thomson
 permalink: /2013/11/screencast-an-introduction-to-python-list-comprehensions/

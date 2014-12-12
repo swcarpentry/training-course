@@ -1,6 +1,5 @@
 ---
 date: 2013-11-08
-round: round-07
 title: 'Screencast: Writing Custom R Functions'
 author: Daniel Hocking
 permalink: /2013/11/screencast-writing-r-functions/

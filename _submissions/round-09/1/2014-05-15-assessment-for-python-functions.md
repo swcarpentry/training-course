@@ -1,6 +1,5 @@
 ---
 date: 2014-05-15
-round: round-09
 title: Assessment for Python Functions
 author: Mark Wilber
 permalink: /2014/05/assessment-for-python-functions/

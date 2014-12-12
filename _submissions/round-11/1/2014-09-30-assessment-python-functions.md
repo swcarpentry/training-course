@@ -1,6 +1,5 @@
 ---
 date: 2014-09-30
-round: round-11
 title: Assessment | python functions
 author: Timothee Poisot
 permalink: /2014/09/assessment-python-functions/

@@ -1,6 +1,5 @@
 ---
 date: 2013-09-22
-round: round-06
 title: 'Screencast: Loading modules into python'
 author: Emily Davenport
 permalink: /2013/09/screencast-loading-modules-into-python-2/

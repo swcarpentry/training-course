@@ -1,6 +1,5 @@
 ---
 date: 2013-05-25
-round: round-05
 title: Against Concept Maps
 author: Itamar Turner-Trauring
 permalink: /2013/05/against-concept-maps/

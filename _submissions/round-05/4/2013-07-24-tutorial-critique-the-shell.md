@@ -1,6 +1,5 @@
 ---
 date: 2013-07-24
-round: round-05
 title: Tutorial critique—the shell
 author: Neal Davis
 permalink: /2013/07/tutorial-critique-the-shell/

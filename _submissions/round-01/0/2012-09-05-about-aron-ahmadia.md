@@ -1,6 +1,5 @@
 ---
 date: 2012-09-05
-round: round-01
 title: About Aron Ahmadia
 author: Aron Ahmadia
 permalink: /2012/09/about-aron-ahmadia/

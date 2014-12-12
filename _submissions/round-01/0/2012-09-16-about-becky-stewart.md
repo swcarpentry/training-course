@@ -1,6 +1,5 @@
 ---
 date: 2012-09-16
-round: round-01
 title: About Becky Stewart
 author: Becky Stewart
 permalink: /2012/09/about-becky-stewart/

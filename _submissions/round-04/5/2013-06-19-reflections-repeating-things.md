@@ -1,6 +1,5 @@
 ---
 date: 2013-06-19
-round: round-04
 title: 'Reflections on teaching: repeating things'
 author: Rich FitzJohn
 permalink: /2013/06/reflections-repeating-things/

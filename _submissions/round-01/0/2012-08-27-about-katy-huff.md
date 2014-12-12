@@ -1,6 +1,5 @@
 ---
 date: 2012-08-27
-round: round-01
 title: About Katy Huff
 author: Katy Huff
 permalink: /2012/08/about-katy-huff/

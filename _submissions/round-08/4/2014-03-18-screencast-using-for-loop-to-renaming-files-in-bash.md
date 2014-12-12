@@ -1,6 +1,5 @@
 ---
 date: 2014-03-18
-round: round-08
 title: 'Screencast: using for loop to renaming files in bash'
 author: Jeramia Ory
 permalink: /2014/03/screencast-using-for-loop-to-renaming-files-in-bash/

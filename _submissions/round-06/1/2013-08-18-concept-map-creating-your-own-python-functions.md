@@ -1,6 +1,5 @@
 ---
 date: 2013-08-18
-round: round-06
 title: 'Concept Map: Creating your own python functions'
 author: Julian Garcia
 permalink: /2013/08/concept-map-creating-your-own-python-functions/

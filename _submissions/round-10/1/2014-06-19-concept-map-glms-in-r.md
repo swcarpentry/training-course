@@ -1,6 +1,5 @@
 ---
 date: 2014-06-19
-round: round-10
 title: 'Concept Map: GLMs in R'
 author: Easton White
 permalink: /2014/06/concept-map-glms-in-r/

@@ -1,6 +1,5 @@
 ---
 date: 2013-02-22
-round: round-03
 title: 'Mastery Table: LaTeX'
 author: Amy Brown
 permalink: /2013/02/mastery-table-latex/

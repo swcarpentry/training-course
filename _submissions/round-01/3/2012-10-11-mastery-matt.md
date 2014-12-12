@@ -1,6 +1,5 @@
 ---
 date: 2012-10-11
-round: round-01
 title: 'Mastery &#8211; Matt'
 author: Matt Davis
 permalink: /2012/10/mastery-matt/

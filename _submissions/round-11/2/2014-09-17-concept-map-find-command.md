@@ -1,6 +1,5 @@
 ---
 date: 2014-09-17
-round: round-11
 title: 'Concept Map: Find command'
 author: Chris Gates
 permalink: /2014/09/concept-map-find-command/

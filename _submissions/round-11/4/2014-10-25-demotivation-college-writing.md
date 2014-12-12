@@ -1,6 +1,5 @@
 ---
 date: 2014-10-25
-round: round-11
 title: 'Demotivation: College Writing'
 author: Matthew Aiello-Lammens
 permalink: /2014/10/demotivation-college-writing/

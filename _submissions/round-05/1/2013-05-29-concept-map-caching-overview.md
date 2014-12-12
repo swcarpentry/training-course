@@ -1,6 +1,5 @@
 ---
 date: 2013-05-29
-round: round-05
 title: 'Concept Map: Caching Overview'
 author: Simon Belluzzo
 permalink: /2013/05/concept-map-caching-overview/

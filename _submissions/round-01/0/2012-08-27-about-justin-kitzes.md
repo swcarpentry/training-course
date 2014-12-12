@@ -1,6 +1,5 @@
 ---
 date: 2012-08-27
-round: round-01
 title: About Justin Kitzes
 author: Justin Kitzes
 permalink: /2012/08/about-justin-kitzes/

@@ -1,6 +1,5 @@
 ---
 date: 2012-10-30
-round: round-02
 title: 'Round 2.1 &#8211; How Functions Work'
 author: Aleksandra Pawlik
 permalink: /2012/10/round-2-1-how-functions-work/

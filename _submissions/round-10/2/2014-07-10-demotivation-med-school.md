@@ -1,6 +1,5 @@
 ---
 date: 2014-07-10
-round: round-10
 title: 'Demotivation- Med School'
 author: Chelsea Chisholm
 permalink: /2014/07/demotivation-med-school/

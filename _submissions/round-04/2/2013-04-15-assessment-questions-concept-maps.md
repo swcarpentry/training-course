@@ -1,6 +1,5 @@
 ---
 date: 2013-04-15
-round: round-04
 title: 'Assessment Questions: Concept Maps'
 author: Stefan van der Walt
 permalink: /2013/04/assessment-questions-concept-maps/

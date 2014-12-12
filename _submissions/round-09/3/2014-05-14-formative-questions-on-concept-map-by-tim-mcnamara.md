@@ -1,6 +1,5 @@
 ---
 date: 2014-05-14
-round: round-09
 title: Formative questions on function concept map by Tim McNamara
 author: Matthew Dimmock
 permalink: /2014/05/formative-questions-on-concept-map-by-tim-mcnamara/

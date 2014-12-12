@@ -1,6 +1,5 @@
 ---
 date: 2013-10-16
-round: round-07
 title: 'Concept Map: Central Dogma of Genetics'
 author: Aaron Garoutte
 permalink: /2013/10/concept-map-central-dogma-of-genetics/

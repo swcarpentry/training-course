@@ -1,6 +1,5 @@
 ---
 date: 2014-04-02
-round: round-09
 title: 'Biography: Jon Duncan'
 author: Jon Duncan
 permalink: /2014/04/biography-jon-duncan/

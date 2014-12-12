@@ -1,6 +1,5 @@
 ---
 date: 2013-06-26
-round: round-05
 title: 'Screencast &#8211; pandas groupby and apply functions'
 author: Martin Schilling
 permalink: /2013/06/screencast-pandas-groupby-and-apply-functions/

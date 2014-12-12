@@ -1,6 +1,5 @@
 ---
 date: 2014-02-12
-round: round-08
 title: 'Round 8.2 MCQ &#8211; Python Loops'
 author: ablackpz
 permalink: /2014/02/round-8-2-mcq-python-loops/

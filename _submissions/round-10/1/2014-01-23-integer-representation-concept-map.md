@@ -1,6 +1,5 @@
 ---
 date: 2014-01-23
-round: round-10
 title: Integer Representation Concept Map
 author: David Merand
 permalink: /2014/01/integer-representation-concept-map/

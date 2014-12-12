@@ -1,6 +1,5 @@
 ---
 date: 2014-05-02
-round: round-09
 title: Benefits and Challenges of VMs
 author: Dav Clark
 permalink: /2014/05/benefits-and-challenges-of-vms/

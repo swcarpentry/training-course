@@ -1,6 +1,5 @@
 ---
 date: 2013-01-30
-round: round-03
 title: Concept Map for Files and Directories
 author: Amy Brown
 permalink: /2013/01/concept-map-for-files-and-directories/

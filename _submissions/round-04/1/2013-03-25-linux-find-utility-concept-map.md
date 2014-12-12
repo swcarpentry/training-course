@@ -1,6 +1,5 @@
 ---
 date: 2013-03-25
-round: round-04
 title: 'Linux &#8216;find&#8217; utility concept map'
 author: Eugene Goltsman
 permalink: /2013/03/linux-find-utility-concept-map/

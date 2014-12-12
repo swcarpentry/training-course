@@ -1,6 +1,5 @@
 ---
 date: 2014-09-02
-round: round-11
 title: David R. Pugh
 author: David Pugh
 permalink: /2014/09/david-r-pugh/

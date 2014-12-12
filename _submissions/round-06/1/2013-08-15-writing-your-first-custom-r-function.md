@@ -1,6 +1,5 @@
 ---
 date: 2013-08-15
-round: round-06
 title: Writing your first custom R function
 author: Cliburn Chan
 permalink: /2013/08/writing-your-first-custom-r-function/

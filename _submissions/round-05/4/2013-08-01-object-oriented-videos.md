@@ -1,6 +1,5 @@
 ---
 date: 2013-08-01
-round: round-05
 title: Object Oriented videos
 author: David Merand
 permalink: /2013/08/object-oriented-videos/

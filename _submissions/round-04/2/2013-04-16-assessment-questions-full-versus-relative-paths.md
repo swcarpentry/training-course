@@ -1,6 +1,5 @@
 ---
 date: 2013-04-16
-round: round-04
 title: 'Assessment Questions: Full versus relative paths'
 author: Daniel Falster
 permalink: /2013/04/assessment-questions-full-versus-relative-paths/

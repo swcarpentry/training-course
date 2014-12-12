@@ -1,6 +1,5 @@
 ---
 date: 2013-12-05
-round: round-07
 title: Taming the console with tmux.
 author: David Rio
 permalink: /2013/12/taming-the-console-with-tmux/

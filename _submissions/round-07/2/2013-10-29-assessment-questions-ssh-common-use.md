@@ -1,6 +1,5 @@
 ---
 date: 2013-10-29
-round: round-07
 title: 'Assessment Questions: ssh common use'
 author: Remi Emonet
 permalink: /2013/10/assessment-questions-ssh-common-use/

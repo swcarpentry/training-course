@@ -1,6 +1,5 @@
 ---
 date: 2014-05-28
-round: round-09
 title: Motivational Screencast on Plotting in Python
 author: Jeremiah Lant
 permalink: /2014/05/motivational-screencast-on-plotting-in-python/

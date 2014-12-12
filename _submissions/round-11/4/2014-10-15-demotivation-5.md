@@ -1,6 +1,5 @@
 ---
 date: 2014-10-15
-round: round-11
 title: Demotivation
 author: Tiffany Timbers
 permalink: /2014/10/demotivation-5/

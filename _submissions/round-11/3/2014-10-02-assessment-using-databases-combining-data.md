@@ -1,6 +1,5 @@
 ---
 date: 2014-10-02
-round: round-11
 title: 'Assessment: Using Databases &#8211; Combining Data'
 author: Thomas Guignard
 permalink: /2014/10/assessment-using-databases-combining-data/

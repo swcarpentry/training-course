@@ -1,6 +1,5 @@
 ---
 date: 2014-04-04
-round: round-09
 title: 'Biography: Huayan Gao'
 author: Huayan Gao
 permalink: /2014/04/biography-huayan-gao/

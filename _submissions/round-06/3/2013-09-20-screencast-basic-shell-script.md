@@ -1,6 +1,5 @@
 ---
 date: 2013-09-20
-round: round-06
 title: 'Screencast: Basic Shell Script'
 author: Christina Koch
 permalink: /2013/09/screencast-basic-shell-script/

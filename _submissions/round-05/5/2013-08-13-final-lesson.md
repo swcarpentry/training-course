@@ -1,6 +1,5 @@
 ---
 date: 2013-08-13
-round: round-05
 title: 'Final lesson: Keeping your projects organized and documented'
 author: Ivan Gonzalez
 permalink: /2013/08/final-lesson/

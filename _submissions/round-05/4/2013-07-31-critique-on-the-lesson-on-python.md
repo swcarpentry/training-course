@@ -1,6 +1,5 @@
 ---
 date: 2013-07-31
-round: round-05
 title: Critique on the lesson on Python
 author: Ivan Gonzalez
 permalink: /2013/07/critique-on-the-lesson-on-python/

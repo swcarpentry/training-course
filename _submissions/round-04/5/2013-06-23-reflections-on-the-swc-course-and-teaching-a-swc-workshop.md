@@ -1,6 +1,5 @@
 ---
 date: 2013-06-23
-round: round-04
 title: Reflections on the SWC course and teaching a SWC workshop
 author: Randy Olson
 permalink: /2013/06/reflections-on-the-swc-course-and-teaching-a-swc-workshop/

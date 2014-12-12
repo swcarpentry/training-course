@@ -1,6 +1,5 @@
 ---
 date: 2012-09-26
-round: round-01
 title: 'Mastery &#8211; Katy Huff'
 author: Katy Huff
 permalink: /2012/09/mastery-katy-huff/

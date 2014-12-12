@@ -1,6 +1,5 @@
 ---
 date: 2014-09-18
-round: round-11
 title: 'Concept Map &#8211; Unix redirection and pipes'
 author: Ramalingam Saravanan
 permalink: /2014/09/concept-map-unix-redirection-and-pipes/

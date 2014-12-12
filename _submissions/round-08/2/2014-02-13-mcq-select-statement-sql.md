@@ -1,6 +1,5 @@
 ---
 date: 2014-02-13
-round: round-08
 title: 'MCQ: SELECT Statement (SQL)'
 author: Abigail Cabunoc
 permalink: /2014/02/mcq-select-statement-sql/

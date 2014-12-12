@@ -1,6 +1,5 @@
 ---
 date: 2013-05-28
-round: round-05
 title: 'Concept Map: Python Loop Control'
 author: Stuart Charters
 permalink: /2013/05/concept-map-python-loop-control/

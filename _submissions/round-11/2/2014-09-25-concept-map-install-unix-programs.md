@@ -1,6 +1,5 @@
 ---
 date: 2014-09-25
-round: round-11
 title: 'Concept map (update): Python functions'
 author: Matthew Shirley
 permalink: /2014/09/concept-map-install-unix-programs/

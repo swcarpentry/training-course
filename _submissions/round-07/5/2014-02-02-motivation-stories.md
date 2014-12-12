@@ -1,6 +1,5 @@
 ---
 date: 2014-02-02
-round: round-07
 title: Motivation stories
 author: David Jones
 permalink: /2014/02/motivation-stories/

@@ -1,6 +1,5 @@
 ---
 date: 2013-04-10
-round: round-04
 title: Assessment questions for SQL databases
 author: Randy Olson
 permalink: /2013/04/assessment-questions-for-sql-databases/

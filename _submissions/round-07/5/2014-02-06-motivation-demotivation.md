@@ -1,6 +1,5 @@
 ---
 date: 2014-02-06
-round: round-07
 title: 'Motivation &#038; Demotivation'
 author: Luis Pedro Coelho
 permalink: /2014/02/motivation-demotivation/

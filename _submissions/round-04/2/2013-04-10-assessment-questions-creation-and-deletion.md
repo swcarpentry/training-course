@@ -1,6 +1,5 @@
 ---
 date: 2013-04-10
-round: round-04
 title: 'Assessment Questions: Creation and Deletion'
 author: Jorden Schossau
 permalink: /2013/04/assessment-questions-creation-and-deletion/

@@ -1,6 +1,5 @@
 ---
 date: 2014-01-21
-round: round-08
 title: 'Concept Map: Objects in JavaScript'
 author: "Brenna O'Brien"
 permalink: /2014/01/concept-map-objects-in-javascript/

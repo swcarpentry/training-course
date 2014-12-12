@@ -1,6 +1,5 @@
 ---
 date: 2014-03-25
-round: round-08
 title: Round 8.4 Wrap-Up
 author: Greg Wilson
 permalink: /2014/03/round-8-4-wrap-up/

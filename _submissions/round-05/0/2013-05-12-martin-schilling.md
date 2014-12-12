@@ -1,6 +1,5 @@
 ---
 date: 2013-05-12
-round: round-05
 title: Martin Schilling
 author: Martin Schilling
 permalink: /2013/05/martin-schilling/

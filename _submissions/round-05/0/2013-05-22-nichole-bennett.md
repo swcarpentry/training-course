@@ -1,6 +1,5 @@
 ---
 date: 2013-05-22
-round: round-05
 title: Nichole Bennett
 author: Nichole Bennett
 permalink: /2013/05/nichole-bennett/

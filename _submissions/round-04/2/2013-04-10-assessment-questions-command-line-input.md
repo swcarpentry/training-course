@@ -1,6 +1,5 @@
 ---
 date: 2013-04-10
-round: round-04
 title: Assessment Questions -Command Line Input
 author: Cindee Madison
 permalink: /2013/04/assessment-questions-command-line-input/

@@ -1,6 +1,5 @@
 ---
 date: 2013-09-06
-round: round-06
 title: 'Assessment Questions: Python List Comprehensions'
 author: Leszek Tarkowski
 permalink: /2013/09/assessment-questions-python-list-comprehensions/

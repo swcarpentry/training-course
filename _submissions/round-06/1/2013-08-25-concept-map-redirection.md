@@ -1,6 +1,5 @@
 ---
 date: 2013-08-25
-round: round-06
 title: 'Concept Map: Redirection'
 author: Nathan S. Watson-Haigh
 permalink: /2013/08/concept-map-redirection/

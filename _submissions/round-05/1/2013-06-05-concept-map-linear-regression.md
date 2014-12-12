@@ -1,6 +1,5 @@
 ---
 date: 2013-06-05
-round: round-05
 title: 'Concept Map &#8211; Linear Regression'
 author: Chris Holdgraf
 permalink: /2013/06/concept-map-linear-regression/

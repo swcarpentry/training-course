@@ -1,6 +1,5 @@
 ---
 date: 2013-10-07
-round: round-07
 title: Trevor Bekolay
 author: Trevor Bekolay
 permalink: /2013/10/trevor-bekolay/

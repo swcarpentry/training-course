@@ -1,6 +1,5 @@
 ---
 date: 2013-02-01
-round: round-03
 title: 'Concept map: Creating and Deleting'
 author: Nancy Giang
 permalink: /2013/02/concept-map-creating-and-deleting/

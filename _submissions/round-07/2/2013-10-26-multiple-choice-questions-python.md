@@ -1,6 +1,5 @@
 ---
 date: 2013-10-26
-round: round-07
 title: 'Multiple choice questions: Python'
 author: Pauline Barmby
 permalink: /2013/10/multiple-choice-questions-python/

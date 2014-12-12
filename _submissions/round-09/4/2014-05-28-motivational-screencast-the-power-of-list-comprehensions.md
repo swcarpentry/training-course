@@ -1,6 +1,5 @@
 ---
 date: 2014-05-28
-round: round-09
 title: 'Motivational screencast: The power of list comprehensions'
 author: Florian Rathgeber
 permalink: /2014/05/motivational-screencast-the-power-of-list-comprehensions/

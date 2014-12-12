@@ -1,6 +1,5 @@
 ---
 date: 2014-09-16
-round: round-11
 title: 'Concept map: python if statements'
 author: Greg Caporaso
 permalink: /2014/09/concept-map-python-if-statements/

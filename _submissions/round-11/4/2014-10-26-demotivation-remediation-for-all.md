@@ -1,6 +1,5 @@
 ---
 date: 2014-10-26
-round: round-11
 title: 'Demotivation: remediation for all!'
 author: Orion Buske
 permalink: /2014/10/demotivation-remediation-for-all/

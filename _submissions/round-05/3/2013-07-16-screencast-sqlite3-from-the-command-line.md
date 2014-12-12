@@ -1,6 +1,5 @@
 ---
 date: 2013-07-16
-round: round-05
 title: 'Screencast &#8211; SQLite3 from the Command Line'
 author: Tim McNamara
 permalink: /2013/07/screencast-sqlite3-from-the-command-line/

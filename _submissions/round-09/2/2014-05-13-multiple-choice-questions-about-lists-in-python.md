@@ -1,6 +1,5 @@
 ---
 date: 2014-05-13
-round: round-09
 title: Multiple choice questions about Lists in Python
 author: Genevieve Smith
 permalink: /2014/05/multiple-choice-questions-about-lists-in-python/

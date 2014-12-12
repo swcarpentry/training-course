@@ -1,6 +1,5 @@
 ---
 date: 2013-06-19
-round: round-04
 title: Reflections on the software carpentry teaching module
 author: Daniel Falster
 permalink: /2013/06/reflections-on-the-software-carpentry-teaching-module/

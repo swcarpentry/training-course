@@ -1,6 +1,5 @@
 ---
 date: 2014-05-02
-round: round-09
 title: Concept Map For Interactive Computing vs Batch Computing
 author: Simon Michnowicz
 permalink: /2014/05/concept-map-for-interactive-computing-vs-batch-computing/

@@ -1,6 +1,5 @@
 ---
 date: 2013-11-07
-round: round-07
 title: 'Screencast: Using the MG-RAST API to download annotations'
 author: Aaron Garoutte
 permalink: /2013/11/screencast-using-the-mg-rast-api-to-download-annotations/

@@ -1,6 +1,5 @@
 ---
 date: 2014-09-17
-round: round-11
 title: 'Concept map: Python functions'
 author: Mariela Perignon
 permalink: /2014/09/concept-map-python-functions-2/

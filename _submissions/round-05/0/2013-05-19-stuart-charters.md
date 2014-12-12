@@ -1,6 +1,5 @@
 ---
 date: 2013-05-19
-round: round-05
 title: Stuart Charters
 author: Stuart Charters
 permalink: /2013/05/stuart-charters/

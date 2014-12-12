@@ -1,6 +1,5 @@
 ---
 date: 2013-07-31
-round: round-05
 title: 'Critique of &#8220;Regular Expressions&#8221; video tutorials'
 author: David Perez-Suarez
 permalink: /2013/07/critique-of-regular-expressions-video-tutorials/

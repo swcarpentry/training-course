@@ -1,6 +1,5 @@
 ---
 date: 2012-09-20
-round: round-01
 title: About Adam Stark
 author: Adam Stark
 permalink: /2012/09/about-adam-stark/

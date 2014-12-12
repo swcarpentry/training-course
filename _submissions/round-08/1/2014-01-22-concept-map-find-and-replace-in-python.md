@@ -1,6 +1,5 @@
 ---
 date: 2014-01-22
-round: round-08
 title: 'Concept map: Find and replace in Python'
 author: Matt Hall
 permalink: /2014/01/concept-map-find-and-replace-in-python/

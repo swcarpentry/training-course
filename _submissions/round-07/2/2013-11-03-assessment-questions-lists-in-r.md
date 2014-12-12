@@ -1,6 +1,5 @@
 ---
 date: 2013-11-03
-round: round-07
 title: 'Assessment Questions: Lists in R'
 author: Matt Landis
 permalink: /2013/11/assessment-questions-lists-in-r/

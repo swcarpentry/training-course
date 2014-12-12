@@ -1,6 +1,5 @@
 ---
 date: 2014-05-01
-round: round-09
 title: 'Concept map: read text file'
 author: Bror Fredrik Jonsson
 permalink: /2014/05/concept-map-read-text-file/

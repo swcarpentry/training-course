@@ -1,6 +1,5 @@
 ---
 date: 2013-06-12
-round: round-05
 title: 'Multiple choice assessment: List comprehension'
 author: Karmel Allison
 permalink: /2013/06/multiple-choice-assessment-list-comprehension/

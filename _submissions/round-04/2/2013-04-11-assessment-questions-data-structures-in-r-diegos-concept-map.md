@@ -1,6 +1,5 @@
 ---
 date: 2013-04-11
-round: round-04
 title: 'Assessment Questions &#8211; Data Structures in R (Diego&#8217;s concept map)'
 author: Alex Bush
 permalink: /2013/04/assessment-questions-data-structures-in-r-diegos-concept-map/

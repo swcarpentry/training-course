@@ -1,6 +1,5 @@
 ---
 date: 2014-01-22
-round: round-08
 title: 'Concept Map: SELECT Statement (SQL)'
 author: Abigail Cabunoc
 permalink: /2014/01/concept-map-select/

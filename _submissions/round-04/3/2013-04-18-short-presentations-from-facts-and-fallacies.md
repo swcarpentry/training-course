@@ -1,6 +1,5 @@
 ---
 date: 2013-04-18
-round: round-04
 title: 'Short Presentations from &#8220;Facts and Fallacies&#8221;'
 author: Greg Wilson
 permalink: /2013/04/short-presentations-from-facts-and-fallacies/

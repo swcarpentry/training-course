@@ -1,6 +1,5 @@
 ---
 date: 2012-11-28
-round: round-01
 title: 'Matt on Array Math &#8211; Round 1.5'
 author: Matt Davis
 permalink: /2012/11/matt-on-array-math-round-1-5/

@@ -1,6 +1,5 @@
 ---
 date: 2013-06-17
-round: round-04
 title: Audience feedback
 author: Diego Barneche
 permalink: /2013/06/audience-feedback/

@@ -1,6 +1,5 @@
 ---
 date: 2013-09-02
-round: round-06
 title: 'Assessment questions: Variable assignment in Python'
 author: Damien Irving
 permalink: /2013/09/assessment-questions-variable-assignment-in-python/

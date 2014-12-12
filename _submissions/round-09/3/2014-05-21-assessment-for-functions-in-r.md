@@ -1,6 +1,5 @@
 ---
 date: 2014-05-21
-round: round-09
 title: Assessment for functions in R
 author: Catalina Anghel
 permalink: /2014/05/assessment-for-functions-in-r/

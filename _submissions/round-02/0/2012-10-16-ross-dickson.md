@@ -1,6 +1,5 @@
 ---
 date: 2012-10-16
-round: round-02
 title: About Ross Dickson
 author: Ross Dickson
 permalink: /2012/10/ross-dickson/

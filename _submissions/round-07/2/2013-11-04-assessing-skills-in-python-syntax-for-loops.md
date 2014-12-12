@@ -1,6 +1,5 @@
 ---
 date: 2013-11-04
-round: round-07
 title: 'Assessing Skills in Python Syntax &#038; For-Loops'
 author: Sharon Benjamin
 permalink: /2013/11/assessing-skills-in-python-syntax-for-loops/

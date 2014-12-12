@@ -1,6 +1,5 @@
 ---
 date: 2012-08-26
-round: round-01
 title: About Greg Wilson
 author: Greg Wilson
 permalink: /2012/08/about-greg-wilson/

@@ -1,6 +1,5 @@
 ---
 date: 2013-07-30
-round: round-05
 title: 'Live tutoring versus recorded lecture&#8212;Ted&#8217;s comments'
 author: Ted Kirkpatrick
 permalink: /2013/07/live-tutoring-versus-recorded-lecture-teds-comments/

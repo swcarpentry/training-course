@@ -1,6 +1,5 @@
 ---
 date: 2014-07-24
-round: round-10
 title: Assessment – data aggregation with dplyr
 author: Kara Woo
 permalink: /2014/07/assessment-data-aggregation-with-dplyr/

@@ -1,6 +1,5 @@
 ---
 date: 2013-06-27
-round: round-05
 title: 'Screencast proposal: setting up and using visual mergetool with git'
 author: Preston Holmes
 permalink: /2013/06/screencast-proposal-setting-up-and-using-visual-mergetool-with-git/

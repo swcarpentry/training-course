@@ -1,6 +1,5 @@
 ---
 date: 2014-09-19
-round: round-11
 title: 'Concept Map: Absolute and Relative paths'
 author: Walter Langelaar
 permalink: /2014/09/concept-map-absolute-and-relative-paths/

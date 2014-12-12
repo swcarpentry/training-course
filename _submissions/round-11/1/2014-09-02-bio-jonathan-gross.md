@@ -1,6 +1,5 @@
 ---
 date: 2014-09-02
-round: round-11
 title: Jonathan Gross
 author: Jonathan Gross
 permalink: /2014/09/bio-jonathan-gross/

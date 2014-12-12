@@ -1,6 +1,5 @@
 ---
 date: 2013-03-25
-round: round-04
 title: Numpy Array Creation Concept Map
 author: Jacob Vanderplas
 permalink: /2013/03/numpy-array-creation-concept-map/

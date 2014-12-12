@@ -1,6 +1,5 @@
 ---
 date: 2014-05-14
-round: round-09
 title: Assessment Questions for Regular Expressions
 author: Jeremiah Lant
 permalink: /2014/05/assessment-questions-for-regular-expressions/

@@ -1,6 +1,5 @@
 ---
 date: 2014-09-22
-round: round-11
 title: 'Concept Map &#8211; Function'
 author: Cody Hinchliff
 permalink: /2014/09/concept-map-function/

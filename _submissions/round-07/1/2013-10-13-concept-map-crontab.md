@@ -1,6 +1,5 @@
 ---
 date: 2013-10-13
-round: round-07
 title: 'Concept map: crontab'
 author: Ofer Bartal
 permalink: /2013/10/concept-map-crontab/

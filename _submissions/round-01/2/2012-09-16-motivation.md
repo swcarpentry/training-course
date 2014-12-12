@@ -1,6 +1,5 @@
 ---
 date: 2012-09-16
-round: round-01
 title: 'Motivation &#8211; Azalee'
 author: Azalee Bostroem
 permalink: /2012/09/motivation/

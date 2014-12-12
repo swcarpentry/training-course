@@ -1,6 +1,5 @@
 ---
 date: 2014-10-01
-round: round-11
 title: 'Assessment: Pipes and Filters'
 author: Logan Cox
 permalink: /2014/10/assessment-pipes-and-filters-2/

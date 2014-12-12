@@ -1,6 +1,5 @@
 ---
 date: 2014-05-13
-round: round-09
 title: Assessment Questions for Concept Map on Basic Syntax of an R Function
 author: Jon Duncan
 permalink: /2014/05/assessment-questions-for-concept-map-on-basic-syntax-of-an-r-function/

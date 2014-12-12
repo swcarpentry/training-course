@@ -1,6 +1,5 @@
 ---
 date: 2014-09-08
-round: round-11
 title: Jay Freeman (saurik)
 author: Jay Freeman (saurik)
 permalink: /2014/09/jay-freeman/

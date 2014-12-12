@@ -1,6 +1,5 @@
 ---
 date: 2012-09-27
-round: round-01
 title: 'Mastery &#8211; Ben Waugh'
 author: Ben Waugh
 permalink: /2012/09/mastery-ben-waugh/

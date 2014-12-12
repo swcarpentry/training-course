@@ -1,6 +1,5 @@
 ---
 date: 2013-10-01
-round: round-07
 title: David Worth
 author: David Worth
 permalink: /2013/10/david-worth/

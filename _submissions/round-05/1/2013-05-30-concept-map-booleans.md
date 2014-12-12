@@ -1,6 +1,5 @@
 ---
 date: 2013-05-30
-round: round-05
 title: 'Concept Map &#8211; Booleans'
 author: David Perez-Suarez
 permalink: /2013/05/concept-map-booleans/

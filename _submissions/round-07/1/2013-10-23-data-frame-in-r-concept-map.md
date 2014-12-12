@@ -1,6 +1,5 @@
 ---
 date: 2013-10-23
-round: round-07
 title: data.frame in R (concept map)
 author: Daniel Braithwaite
 permalink: /2013/10/data-frame-in-r-concept-map/

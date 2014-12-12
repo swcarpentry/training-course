@@ -1,6 +1,5 @@
 ---
 date: 2014-01-22
-round: round-08
 title: Becoming an expert concept map
 author: David Schryer
 permalink: /2014/01/becoming-an-expert-concept-map/

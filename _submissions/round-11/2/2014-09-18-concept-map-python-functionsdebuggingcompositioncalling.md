@@ -1,6 +1,5 @@
 ---
 date: 2014-09-18
-round: round-11
 title: 'Concept Map: Python Functions/Debugging/Composition/Calling'
 author: Jay Freeman (saurik)
 permalink: /2014/09/concept-map-python-functionsdebuggingcompositioncalling/

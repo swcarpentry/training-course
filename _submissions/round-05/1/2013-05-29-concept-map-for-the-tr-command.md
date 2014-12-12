@@ -1,6 +1,5 @@
 ---
 date: 2013-05-29
-round: round-05
 title: Concept map for the tr command
 author: Jordan Fish
 permalink: /2013/05/concept-map-for-the-tr-command/

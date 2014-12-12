@@ -1,6 +1,5 @@
 ---
 date: 2013-06-17
-round: round-05
 title: 'Multiple choice assessment:  Basic MPI routines.'
 author: Neal Davis
 permalink: /2013/06/multiple-choice-assessment-basic-mpi-routines/

@@ -1,6 +1,5 @@
 ---
 date: 2013-08-26
-round: round-06
 title: 'Concept Map: Software Testing Overview'
 author: Rachel Slaybaugh
 permalink: /2013/08/concept-map-software-testing-overview/

@@ -1,6 +1,5 @@
 ---
 date: 2014-05-21
-round: round-09
 title: 'Assessment &#8211; Python lists'
 author: Tim McNamara
 permalink: /2014/05/assessment-python-lists/

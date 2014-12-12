@@ -1,6 +1,5 @@
 ---
 date: 2014-05-22
-round: round-09
 title: Motivational Video for Regular Expressions
 author: Simon Michnowicz
 permalink: /2014/05/motivational-video-for-regular-expressions/

@@ -1,6 +1,5 @@
 ---
 date: 2014-01-07
-round: round-08
 title: Brian Miles
 author: Brian Miles
 permalink: /2014/01/brian-miles/

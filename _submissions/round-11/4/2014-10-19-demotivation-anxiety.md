@@ -1,6 +1,5 @@
 ---
 date: 2014-10-19
-round: round-11
 title: 'Demotivation: Anxiety'
 author: Ruth Collings
 permalink: /2014/10/demotivation-anxiety/

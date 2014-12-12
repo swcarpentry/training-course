@@ -1,6 +1,5 @@
 ---
 date: 2013-05-24
-round: round-05
 title: Selena Deckelmann
 author: Selena Deckelmann
 permalink: /2013/05/selena-deckelmann/

@@ -1,6 +1,5 @@
 ---
 date: 2013-10-31
-round: round-07
 title: 'Multiple choice questions: R'
 author: Scott Chamberlain
 permalink: /2013/10/multiple-choice-questions-r/

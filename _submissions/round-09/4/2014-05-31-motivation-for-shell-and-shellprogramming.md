@@ -1,6 +1,5 @@
 ---
 date: 2014-05-31
-round: round-09
 title: Motivation for Shell and Shell Programming
 author: Michael Schliephake
 permalink: /2014/05/motivation-for-shell-and-shellprogramming/

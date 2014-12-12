@@ -1,6 +1,5 @@
 ---
 date: 2014-06-18
-round: round-10
 title: 'Concept Map: Python Dictionaries'
 author: Marcello Barisonzi
 permalink: /2014/06/concept-map-python-dictionaries-2/

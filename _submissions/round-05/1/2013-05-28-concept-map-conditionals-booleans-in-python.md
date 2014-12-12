@@ -1,6 +1,5 @@
 ---
 date: 2013-05-28
-round: round-05
 title: 'Concept map: Conditionals &#038; booleans in Python'
 author: Julia Evans
 permalink: /2013/05/concept-map-conditionals-booleans-in-python/

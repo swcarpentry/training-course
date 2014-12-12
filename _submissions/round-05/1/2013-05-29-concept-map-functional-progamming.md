@@ -1,6 +1,5 @@
 ---
 date: 2013-05-29
-round: round-05
 title: 'Concept map:  Functional progamming'
 author: Neal Davis
 permalink: /2013/05/concept-map-functional-progamming/

@@ -1,6 +1,5 @@
 ---
 date: 2013-10-09
-round: round-07
 title: Naupaka Zimmerman
 author: Naupaka Zimmerman
 permalink: /2013/10/naupaka-zimmerman/

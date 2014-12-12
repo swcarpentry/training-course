@@ -1,6 +1,5 @@
 ---
 date: 2014-07-31
-round: round-10
 title: 'Reverse Instructional Design &#8211; Processing data files in the IPython Notebook'
 author: Brian Forst
 permalink: /2014/07/reverse-instructional-design-processing-data-files-in-the-ipython-notebook/

@@ -1,6 +1,5 @@
 ---
 date: 2014-07-15
-round: round-10
 title: 'Demotivation &#8211; sport'
 author: Jane Lewis
 permalink: /2014/07/demotivation-sport/

@@ -1,6 +1,5 @@
 ---
 date: 2014-07-08
-round: round-10
 title: Demotivating learning experience
 author: Paulina Lach
 permalink: /2014/07/demotivating-learning-experience-15/

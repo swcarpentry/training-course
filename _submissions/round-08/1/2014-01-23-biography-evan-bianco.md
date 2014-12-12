@@ -1,6 +1,5 @@
 ---
 date: 2014-01-23
-round: round-08
 title: 'Biography: Evan Bianco'
 author: Evan Bianco
 permalink: /2014/01/biography-evan-bianco/

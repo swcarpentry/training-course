@@ -1,6 +1,5 @@
 ---
 date: 2014-10-02
-round: round-11
 title: 'Assessment: Collaborating in GitHub'
 author: Liberty Foreman
 permalink: /2014/10/assessment-collaborating-in-github/

@@ -1,6 +1,5 @@
 ---
 date: 2013-01-04
-round: round-01
 title: 'Study Group 1 Wrap-up &#8212; Supp'
 author: Sarah Supp
 permalink: /2013/01/study-group-1-wrap-up-supp/

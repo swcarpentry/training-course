@@ -1,6 +1,5 @@
 ---
 date: 2013-08-30
-round: round-06
 title: 'Assessment Question: GNU Coreutils'
 author: Raniere Silva
 permalink: /2013/08/assessment-question-gnu-coreutils/

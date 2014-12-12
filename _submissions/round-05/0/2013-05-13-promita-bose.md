@@ -1,6 +1,5 @@
 ---
 date: 2013-05-13
-round: round-05
 title: Promita Bose
 author: Promita Bose
 permalink: /2013/05/promita-bose/

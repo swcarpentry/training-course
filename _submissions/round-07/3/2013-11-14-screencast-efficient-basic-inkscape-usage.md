@@ -1,6 +1,5 @@
 ---
 date: 2013-11-14
-round: round-07
 title: 'Screencast: efficient basic inkscape usage'
 author: Remi Emonet
 permalink: /2013/11/screencast-efficient-basic-inkscape-usage/

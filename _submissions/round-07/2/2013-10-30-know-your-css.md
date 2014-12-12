@@ -1,6 +1,5 @@
 ---
 date: 2013-10-30
-round: round-07
 title: Know Your CSS
 author: Bill Mills
 permalink: /2013/10/know-your-css/

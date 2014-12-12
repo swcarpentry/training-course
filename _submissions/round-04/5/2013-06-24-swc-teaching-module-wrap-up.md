@@ -1,6 +1,5 @@
 ---
 date: 2013-06-24
-round: round-04
 title: SWC teaching module wrap-up
 author: Amanda Whitlock
 permalink: /2013/06/swc-teaching-module-wrap-up/

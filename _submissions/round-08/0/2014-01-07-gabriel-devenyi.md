@@ -1,6 +1,5 @@
 ---
 date: 2014-01-07
-round: round-08
 title: Gabriel Devenyi
 author: Gabriel Devenyi
 permalink: /2014/01/gabriel-devenyi/

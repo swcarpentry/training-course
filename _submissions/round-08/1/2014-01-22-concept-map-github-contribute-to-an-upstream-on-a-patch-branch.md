@@ -1,6 +1,5 @@
 ---
 date: 2014-01-22
-round: round-08
 title: 'Concept Map: Github: Contribute to an upstream on a patch branch'
 author: Anne Moroney
 permalink: /2014/01/concept-map-github-contribute-to-an-upstream-on-a-patch-branch/

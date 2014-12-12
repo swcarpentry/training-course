@@ -1,6 +1,5 @@
 ---
 date: 2014-07-06
-round: round-10
 title: Demotivating learning experience
 author: Daisie Huang
 permalink: /2014/07/demotivating-learning-experience-7/

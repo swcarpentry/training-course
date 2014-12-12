@@ -1,6 +1,5 @@
 ---
 date: 2013-10-16
-round: round-07
 title: 'Concept Map: Getting Data into R'
 author: Daniel Hocking
 permalink: /2013/10/concept-map-getting-data-into-r/

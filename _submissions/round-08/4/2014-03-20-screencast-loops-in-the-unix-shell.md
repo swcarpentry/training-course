@@ -1,6 +1,5 @@
 ---
 date: 2014-03-20
-round: round-08
 title: 'Screencast: Loops in the unix shell'
 author: Bradley Taber-Thomas
 permalink: /2014/03/screencast-loops-in-the-unix-shell/

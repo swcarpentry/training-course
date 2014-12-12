@@ -1,6 +1,5 @@
 ---
 date: 2014-09-16
-round: round-11
 title: 'Concept Map: Collaborating'
 author: Olivier Lafleur
 permalink: /2014/09/concept-map-collaborating/

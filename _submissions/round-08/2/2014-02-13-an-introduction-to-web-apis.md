@@ -1,6 +1,5 @@
 ---
 date: 2014-02-13
-round: round-08
 title: 'MCQ: An introduction to web APIs'
 author: Matt Hall
 permalink: /2014/02/an-introduction-to-web-apis/

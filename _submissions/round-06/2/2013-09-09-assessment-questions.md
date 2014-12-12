@@ -1,6 +1,5 @@
 ---
 date: 2013-09-09
-round: round-06
 title: Assessment questions
 author: Amanda Charbonneau
 permalink: /2013/09/assessment-questions/

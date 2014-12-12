@@ -1,6 +1,5 @@
 ---
 date: 2012-10-05
-round: round-01
 title: 'Mastery- Sarah, Justin E., Emily Jane (Wild Watermelon)'
 author: Emily Jane McTavish
 permalink: /2012/10/mastery-sarah-justin-e-emily-jane/

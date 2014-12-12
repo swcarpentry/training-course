@@ -1,6 +1,5 @@
 ---
 date: 2013-10-17
-round: round-07
 title: 'Concept Map: Navigating directories using command line'
 author: Samuel Thomson
 permalink: /2013/10/concept-map-navigating-directories-using-command-line/

@@ -1,6 +1,5 @@
 ---
 date: 2013-09-14
-round: round-06
 title: 'Round 6.3: Screencasts'
 author: Greg Wilson
 permalink: /2013/09/round-6-3-screencasts/

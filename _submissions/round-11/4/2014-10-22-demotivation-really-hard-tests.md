@@ -1,6 +1,5 @@
 ---
 date: 2014-10-22
-round: round-11
 title: 'Demotivation: Really hard tests'
 author: Ramalingam Saravanan
 permalink: /2014/10/demotivation-really-hard-tests/

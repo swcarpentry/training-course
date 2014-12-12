@@ -1,6 +1,5 @@
 ---
 date: 2013-09-04
-round: round-06
 title: 'Assessment Question: Compiled and Interpreted Languages'
 author: ablackpz
 permalink: /2013/09/assessment-question-compiled-and-interpreted-languages/

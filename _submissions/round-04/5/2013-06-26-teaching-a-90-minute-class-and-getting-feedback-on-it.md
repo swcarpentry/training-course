@@ -1,6 +1,5 @@
 ---
 date: 2013-06-26
-round: round-04
 title: Teaching a 90 minute class and getting feedback on it
 author: Julia Gustavsen
 permalink: /2013/06/teaching-a-90-minute-class-and-getting-feedback-on-it/

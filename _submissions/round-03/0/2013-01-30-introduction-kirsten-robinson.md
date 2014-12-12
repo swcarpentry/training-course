@@ -1,6 +1,5 @@
 ---
 date: 2013-01-30
-round: round-03
 title: About Kirsten Robinson
 author: Kirsten Robinson
 permalink: /2013/01/introduction-kirsten-robinson/

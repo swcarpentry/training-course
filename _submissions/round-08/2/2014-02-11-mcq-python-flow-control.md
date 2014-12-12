@@ -1,6 +1,5 @@
 ---
 date: 2014-02-11
-round: round-08
 title: 'MCQ: Python Flow-Control'
 author: Daniel Chen
 permalink: /2014/02/mcq-python-flow-control/

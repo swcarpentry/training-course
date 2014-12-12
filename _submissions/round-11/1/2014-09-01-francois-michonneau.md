@@ -1,6 +1,5 @@
 ---
 date: 2014-09-01
-round: round-11
 title: François Michonneau
 author: François Michonneau
 permalink: /2014/09/francois-michonneau/

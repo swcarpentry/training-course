@@ -1,6 +1,5 @@
 ---
 date: 2013-10-16
-round: round-07
 title: 'Concept map: shell automation'
 author: Fan
 permalink: /2013/10/concept-map-shell-automation/

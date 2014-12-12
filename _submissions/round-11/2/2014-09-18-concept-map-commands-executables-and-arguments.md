@@ -1,6 +1,5 @@
 ---
 date: 2014-09-18
-round: round-11
 title: 'Concept Map: Commands, executables, and arguments'
 author: Lauren Michael
 permalink: /2014/09/concept-map-commands-executables-and-arguments/

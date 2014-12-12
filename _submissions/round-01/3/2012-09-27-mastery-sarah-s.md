@@ -1,6 +1,5 @@
 ---
 date: 2012-09-27
-round: round-01
 title: 'Mastery &#8211; Sarah Supp'
 author: Sarah Supp
 permalink: /2012/09/mastery-sarah-s/

@@ -1,6 +1,5 @@
 ---
 date: 2014-01-21
-round: round-08
 title: 'Concept map &#8211; Unix shell variables'
 author: Samantha Ahern
 permalink: /2014/01/concept-map-unix-shell-variables/

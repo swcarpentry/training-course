@@ -1,6 +1,5 @@
 ---
 date: 2014-01-07
-round: round-08
 title: Rob Beagrie
 author: Robert Beagrie
 permalink: /2014/01/rob-beagrie/

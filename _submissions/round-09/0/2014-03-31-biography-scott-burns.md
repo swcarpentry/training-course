@@ -1,6 +1,5 @@
 ---
 date: 2014-03-31
-round: round-09
 title: 'Biography: Scott Burns'
 author: Scott Burns
 permalink: /2014/03/biography-scott-burns/

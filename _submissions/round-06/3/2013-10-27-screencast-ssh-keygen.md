@@ -1,6 +1,5 @@
 ---
 date: 2013-10-27
-round: round-06
 title: 'Screencast: ssh-keygen'
 author: Camille Avestruz
 permalink: /2013/10/screencast-ssh-keygen/

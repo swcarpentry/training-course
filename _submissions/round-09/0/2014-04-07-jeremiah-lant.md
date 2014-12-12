@@ -1,6 +1,5 @@
 ---
 date: 2014-04-07
-round: round-09
 title: Jeremiah Lant
 author: Jeremiah Lant
 permalink: /2014/04/jeremiah-lant/

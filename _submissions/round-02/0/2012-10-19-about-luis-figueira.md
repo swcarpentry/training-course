@@ -1,6 +1,5 @@
 ---
 date: 2012-10-19
-round: round-02
 title: About Luís Figueira
 author: Luis Figueira
 permalink: /2012/10/about-luis-figueira/

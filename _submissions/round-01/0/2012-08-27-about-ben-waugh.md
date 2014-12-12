@@ -1,6 +1,5 @@
 ---
 date: 2012-08-27
-round: round-01
 title: About Ben Waugh
 author: Ben Waugh
 permalink: /2012/08/about-ben-waugh/

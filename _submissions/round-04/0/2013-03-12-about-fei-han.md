@@ -1,6 +1,5 @@
 ---
 date: 2013-03-12
-round: round-04
 title: About Fei Han
 author: Kim Han
 permalink: /2013/03/about-fei-han/

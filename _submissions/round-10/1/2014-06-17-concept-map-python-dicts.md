@@ -1,6 +1,5 @@
 ---
 date: 2014-06-17
-round: round-10
 title: 'Concept map: python dicts'
 author: Clare Sloggett
 permalink: /2014/06/concept-map-python-dicts/

@@ -1,6 +1,5 @@
 ---
 date: 2014-10-15
-round: round-11
 title: Motivation Story
 author: Roberto Vitillo
 permalink: /2014/10/motivation-story-2/

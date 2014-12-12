@@ -1,6 +1,5 @@
 ---
 date: 2013-06-24
-round: round-04
 title: Reflections on SWC04
 author: Rich FitzJohn
 permalink: /2013/06/reflections-on-swc04/

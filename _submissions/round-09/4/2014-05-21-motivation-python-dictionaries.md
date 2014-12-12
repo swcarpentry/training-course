@@ -1,6 +1,5 @@
 ---
 date: 2014-05-21
-round: round-09
 title: 'Motivation: Python Dictionaries'
 author: Christian Jacobs
 permalink: /2014/05/motivation-python-dictionaries/

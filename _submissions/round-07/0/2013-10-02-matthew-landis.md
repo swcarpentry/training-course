@@ -1,6 +1,5 @@
 ---
 date: 2013-10-02
-round: round-07
 title: Matthew Landis
 author: Matt Landis
 permalink: /2013/10/matthew-landis/

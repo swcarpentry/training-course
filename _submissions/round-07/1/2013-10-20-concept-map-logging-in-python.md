@@ -1,6 +1,5 @@
 ---
 date: 2013-10-20
-round: round-07
 title: 'Concept Map: Logging in Python'
 author: David Jones
 permalink: /2013/10/concept-map-logging-in-python/

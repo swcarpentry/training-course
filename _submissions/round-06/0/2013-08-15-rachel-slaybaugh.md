@@ -1,6 +1,5 @@
 ---
 date: 2013-08-15
-round: round-06
 title: Rachel Slaybaugh
 author: Rachel Slaybaugh
 permalink: /2013/08/rachel-slaybaugh/

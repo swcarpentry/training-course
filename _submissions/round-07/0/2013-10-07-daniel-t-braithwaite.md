@@ -1,6 +1,5 @@
 ---
 date: 2013-10-07
-round: round-07
 title: Daniel T. Braithwaite
 author: Daniel Braithwaite
 permalink: /2013/10/daniel-t-braithwaite/

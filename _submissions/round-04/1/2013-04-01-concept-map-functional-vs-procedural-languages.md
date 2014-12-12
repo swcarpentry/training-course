@@ -1,6 +1,5 @@
 ---
 date: 2013-04-01
-round: round-04
 title: 'Concept map: Functional vs Procedural languages'
 author: Stefan van der Walt
 permalink: /2013/04/concept-map-functional-vs-procedural-languages/

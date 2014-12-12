@@ -1,6 +1,5 @@
 ---
 date: 2014-06-17
-round: round-10
 title: 'Concept Map: How to Slice a List in Python'
 author: Johnny Lin
 permalink: /2014/06/concept-map-how-to-slice-a-list-in-python/

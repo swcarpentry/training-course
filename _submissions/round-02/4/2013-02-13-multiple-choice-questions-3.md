@@ -1,6 +1,5 @@
 ---
 date: 2013-02-13
-round: round-02
 title: Multiple Choice Questions
 author: Stephen McGough
 permalink: /2013/02/multiple-choice-questions-3/

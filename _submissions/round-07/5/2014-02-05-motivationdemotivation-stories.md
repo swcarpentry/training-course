@@ -1,6 +1,5 @@
 ---
 date: 2014-02-05
-round: round-07
 title: Motivation/demotivation stories
 author: Remi Emonet
 permalink: /2014/02/motivationdemotivation-stories/

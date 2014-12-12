@@ -1,6 +1,5 @@
 ---
 date: 2014-10-02
-round: round-11
 title: 'Assessment: Open Science'
 author: David LeBauer
 permalink: /2014/10/assessment-open-science/

@@ -1,6 +1,5 @@
 ---
 date: 2014-04-23
-round: round-09
 title: Editing with vi
 author: Chandler Wilkerson
 permalink: /2014/04/editing-with-vi/

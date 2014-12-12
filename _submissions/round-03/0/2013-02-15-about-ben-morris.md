@@ -1,6 +1,5 @@
 ---
 date: 2013-02-15
-round: round-03
 title: About Ben Morris
 author: Ben Morris
 permalink: /2013/02/about-ben-morris/

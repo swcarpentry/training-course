@@ -1,6 +1,5 @@
 ---
 date: 2013-05-12
-round: round-05
 title: David Merand
 author: David Merand
 permalink: /2013/05/david-merand/

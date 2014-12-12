@@ -1,6 +1,5 @@
 ---
 date: 2014-02-13
-round: round-08
 title: 'MCQ: Combining Changes from Multiple Streams of Development'
 author: James Harmon
 permalink: /2014/02/mcq-topic-combining-changes-from-multiple-streams-of-development/

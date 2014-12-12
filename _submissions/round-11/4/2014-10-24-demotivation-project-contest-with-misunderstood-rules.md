@@ -1,6 +1,5 @@
 ---
 date: 2014-10-24
-round: round-11
 title: 'Demotivation: project contest with misunderstood rules'
 author: Hamid
 permalink: /2014/10/demotivation-project-contest-with-misunderstood-rules/

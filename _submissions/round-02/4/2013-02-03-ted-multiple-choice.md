@@ -1,6 +1,5 @@
 ---
 date: 2013-02-03
-round: round-02
 title: Ted Multiple Choice
 author: Ted Hart
 permalink: /2013/02/ted-multiple-choice/

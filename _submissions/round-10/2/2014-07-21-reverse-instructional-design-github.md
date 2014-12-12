@@ -1,6 +1,5 @@
 ---
 date: 2014-07-21
-round: round-10
 title: 'Reverse Instructional Design &#8211; GitHub'
 author: Jane Lewis
 permalink: /2014/07/reverse-instructional-design-github/

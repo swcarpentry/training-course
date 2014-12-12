@@ -1,6 +1,5 @@
 ---
 date: 2014-09-20
-round: round-11
 title: 'Concept Map &#8212; Git Branching'
 author: François Michonneau
 permalink: /2014/09/concept-map-git-branching/

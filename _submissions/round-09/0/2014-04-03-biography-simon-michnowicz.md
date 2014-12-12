@@ -1,6 +1,5 @@
 ---
 date: 2014-04-03
-round: round-09
 title: 'Biography: Simon Michnowicz'
 author: Simon Michnowicz
 permalink: /2014/04/biography-simon-michnowicz/

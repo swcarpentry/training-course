@@ -1,6 +1,5 @@
 ---
 date: 2014-06-18
-round: round-10
 title: 'Concept Map: Subsetting in R'
 author: Chelsea Chisholm
 permalink: /2014/06/concept-map-subsetting-in-r/

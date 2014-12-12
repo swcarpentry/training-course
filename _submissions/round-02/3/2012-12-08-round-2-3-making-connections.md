@@ -1,6 +1,5 @@
 ---
 date: 2012-12-08
-round: round-02
 title: 'Round 2.3: Making Connections'
 author: Greg Wilson
 permalink: /2012/12/round-2-3-making-connections/

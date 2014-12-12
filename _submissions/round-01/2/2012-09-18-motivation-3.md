@@ -1,6 +1,5 @@
 ---
 date: 2012-09-18
-round: round-01
 title: Motivation
 author: Dhavide Aruliah
 permalink: /2012/09/motivation-3/

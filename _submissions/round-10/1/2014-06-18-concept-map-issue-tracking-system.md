@@ -1,6 +1,5 @@
 ---
 date: 2014-06-18
-round: round-10
 title: 'Concept map: issue tracking system'
 author: Klemens Noga
 permalink: /2014/06/concept-map-issue-tracking-system/

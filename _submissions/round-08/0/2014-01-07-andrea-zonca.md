@@ -1,6 +1,5 @@
 ---
 date: 2014-01-07
-round: round-08
 title: Andrea Zonca
 author: Andrea Zonca
 permalink: /2014/01/andrea-zonca/

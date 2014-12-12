@@ -1,6 +1,5 @@
 ---
 date: 2014-09-18
-round: round-11
 title: 'Concept Map &#8211; GitHub A Better Kind of Backup'
 author: Liberty Foreman
 permalink: /2014/09/concept-map-github-a-better-kind-of-backup/

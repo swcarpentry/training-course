@@ -1,6 +1,5 @@
 ---
 date: 2013-08-20
-round: round-06
 title: 'Concept map: loading data into R'
 author: Emily Davenport
 permalink: /2013/08/concept-map-loading-data-into-r/

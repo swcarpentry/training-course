@@ -1,6 +1,5 @@
 ---
 date: 2014-09-17
-round: round-11
 title: 'Concept Map: Science and Open Science'
 author: David LeBauer
 permalink: /2014/09/concept-map-science-and-open-science/

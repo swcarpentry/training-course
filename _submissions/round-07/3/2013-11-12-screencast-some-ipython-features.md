@@ -1,6 +1,5 @@
 ---
 date: 2013-11-12
-round: round-07
 title: 'Screencast: IPython &#8220;run magic&#8221;'
 author: David Jones
 permalink: /2013/11/screencast-some-ipython-features/

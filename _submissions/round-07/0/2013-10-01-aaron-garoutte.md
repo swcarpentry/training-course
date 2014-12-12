@@ -1,6 +1,5 @@
 ---
 date: 2013-10-01
-round: round-07
 title: Aaron Garoutte
 author: Aaron Garoutte
 permalink: /2013/10/aaron-garoutte/

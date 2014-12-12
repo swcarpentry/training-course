@@ -1,6 +1,5 @@
 ---
 date: 2014-04-08
-round: round-09
 title: Dana Bauer
 author: Dana Bauer
 permalink: /2014/04/dana-bauer/

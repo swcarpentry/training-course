@@ -1,6 +1,5 @@
 ---
 date: 2013-05-15
-round: round-05
 title: Shoaib Sufi
 author: Shoaib Sufi
 permalink: /2013/05/shoaib-sufi/

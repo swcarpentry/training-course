@@ -1,6 +1,5 @@
 ---
 date: 2013-06-08
-round: round-04
 title: Reflexion of SWC Teaching 04
 author: "Steven 'Kreuvf' Koenig"
 excerpt: In order to start teaching Software Carpentry I went through the fourth online teaching course. In this blog post I try to sum up my experiences and tell some untold stories regarding that course.

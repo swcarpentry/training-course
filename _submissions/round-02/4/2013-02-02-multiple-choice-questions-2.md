@@ -1,6 +1,5 @@
 ---
 date: 2013-02-02
-round: round-02
 title: Multiple choice questions
 author: Aleksandra Pawlik
 permalink: /2013/02/multiple-choice-questions-2/

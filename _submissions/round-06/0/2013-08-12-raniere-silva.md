@@ -1,6 +1,5 @@
 ---
 date: 2013-08-12
-round: round-06
 title: Raniere Silva
 author: Raniere Silva
 permalink: /2013/08/raniere-silva/

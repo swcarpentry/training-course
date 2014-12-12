@@ -1,6 +1,5 @@
 ---
 date: 2014-09-02
-round: round-11
 title: Isabelle Laforest
 author: Isabelle Laforest
 permalink: /2014/09/bio-isabelle-laforest/

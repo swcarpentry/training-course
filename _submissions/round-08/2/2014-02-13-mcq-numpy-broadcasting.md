@@ -1,6 +1,5 @@
 ---
 date: 2014-02-13
-round: round-08
 title: 'MCQ: numpy broadcasting'
 author: Stefan van der Walt
 permalink: /2014/02/mcq-numpy-broadcasting/

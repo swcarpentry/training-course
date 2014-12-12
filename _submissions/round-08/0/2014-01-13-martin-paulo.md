@@ -1,6 +1,5 @@
 ---
 date: 2014-01-13
-round: round-08
 title: Martin Paulo
 author: Martin Paulo
 permalink: /2014/01/martin-paulo/

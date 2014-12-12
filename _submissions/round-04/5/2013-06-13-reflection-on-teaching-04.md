@@ -1,6 +1,5 @@
 ---
 date: 2013-06-13
-round: round-04
 title: Reflection on Teaching 04
 author: John Blischak
 permalink: /2013/06/reflection-on-teaching-04/

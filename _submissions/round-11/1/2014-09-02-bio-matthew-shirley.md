@@ -1,6 +1,5 @@
 ---
 date: 2014-09-02
-round: round-11
 title: Matthew Shirley
 author: Matthew Shirley
 permalink: /2014/09/bio-matthew-shirley/

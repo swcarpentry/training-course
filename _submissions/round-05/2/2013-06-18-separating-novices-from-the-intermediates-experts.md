@@ -1,6 +1,5 @@
 ---
 date: 2013-06-18
-round: round-05
 title: 'Separating novices from the intermediates &#038; experts'
 author: Promita Bose
 permalink: /2013/06/separating-novices-from-the-intermediates-experts/

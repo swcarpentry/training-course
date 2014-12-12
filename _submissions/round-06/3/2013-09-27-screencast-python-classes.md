@@ -1,6 +1,5 @@
 ---
 date: 2013-09-27
-round: round-06
 title: 'Screencast:  Python Classes'
 author: Matthew Lightman
 permalink: /2013/09/screencast-python-classes/

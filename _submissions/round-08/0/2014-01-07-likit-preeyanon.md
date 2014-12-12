@@ -1,6 +1,5 @@
 ---
 date: 2014-01-07
-round: round-08
 title: Likit Preeyanon
 author: Likit Preeyanon
 permalink: /2014/01/likit-preeyanon/

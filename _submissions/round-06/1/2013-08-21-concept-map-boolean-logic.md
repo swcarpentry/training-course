@@ -1,6 +1,5 @@
 ---
 date: 2013-08-21
-round: round-06
 title: 'Concept Map: Boolean Logic'
 author: Joshua Ainsley
 permalink: /2013/08/concept-map-boolean-logic/

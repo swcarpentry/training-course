@@ -1,6 +1,5 @@
 ---
 date: 2014-09-16
-round: round-11
 title: 'Concept Map: git remote repositories'
 author: Jon Guyer
 permalink: /2014/09/concept-map-git-remote-repositories-2/

@@ -1,6 +1,5 @@
 ---
 date: 2013-11-08
-round: round-07
 title: 'Screencast: Image Processing in Python (now with video)'
 author: John Corless
 permalink: /2013/11/screencast-image-processing-in-python/

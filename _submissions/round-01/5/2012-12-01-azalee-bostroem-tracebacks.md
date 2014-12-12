@@ -1,6 +1,5 @@
 ---
 date: 2012-12-01
-round: round-01
 title: 'Azalee Bostroem: Tracebacks'
 author: Azalee Bostroem
 permalink: /2012/12/azalee-bostroem-tracebacks/

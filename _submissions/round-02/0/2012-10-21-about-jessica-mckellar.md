@@ -1,6 +1,5 @@
 ---
 date: 2012-10-21
-round: round-02
 title: About Jessica McKellar
 author: Jessica McKellar
 permalink: /2012/10/about-jessica-mckellar/

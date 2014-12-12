@@ -1,6 +1,5 @@
 ---
 date: 2013-04-15
-round: round-04
 title: 'Assessment Questions: Simulation in R'
 author: Diego Barneche
 permalink: /2013/04/assessment-questions-simulation-in-r/

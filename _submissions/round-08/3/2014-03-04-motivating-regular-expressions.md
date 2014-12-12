@@ -1,6 +1,5 @@
 ---
 date: 2014-03-04
-round: round-08
 title: Motivating Regular Expressions
 author: Benjamin Bradshaw
 permalink: /2014/03/motivating-regular-expressions/

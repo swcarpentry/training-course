@@ -1,6 +1,5 @@
 ---
 date: 2014-07-09
-round: round-10
 title: Demotivating learning experience
 author: Aaron Erlich
 permalink: /2014/07/demotivating-learning-experience-17/

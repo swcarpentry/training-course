@@ -1,6 +1,5 @@
 ---
 date: 2013-08-02
-round: round-05
 title: 'Topic for Final: Creating an object in Python'
 author: David Merand
 permalink: /2013/08/topic-for-final-creating-an-object-in-python/

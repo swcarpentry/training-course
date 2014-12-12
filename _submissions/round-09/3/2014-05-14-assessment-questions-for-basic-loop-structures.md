@@ -1,6 +1,5 @@
 ---
 date: 2014-05-14
-round: round-09
 title: Assessment Questions for Basic Loop Structures
 author: Russell Alleen-Willems
 permalink: /2014/05/assessment-questions-for-basic-loop-structures/

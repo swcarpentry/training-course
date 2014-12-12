@@ -1,6 +1,5 @@
 ---
 date: 2013-10-02
-round: round-07
 title: Sarah Kuchinsky
 author: Sarah Kuchinsky
 permalink: /2013/10/sarah-kuchinsky/

@@ -1,6 +1,5 @@
 ---
 date: 2014-09-19
-round: round-11
 title: 'Concept Map: SQL &#8211; Selecting Data'
 author: James Hiebert
 permalink: /2014/09/concept-map-sql-selecting-data/

@@ -1,6 +1,5 @@
 ---
 date: 2013-08-21
-round: round-06
 title: 'Concept Map: Introduction to argparse'
 author: Rachel Anderson
 permalink: /2013/08/concept-map-introduction-to-argparse/

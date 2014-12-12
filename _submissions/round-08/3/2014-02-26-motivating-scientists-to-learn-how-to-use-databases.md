@@ -1,6 +1,5 @@
 ---
 date: 2014-02-26
-round: round-08
 title: Motivating scientists to learn how to use databases
 author: Abigail Cabunoc
 permalink: /2014/02/motivating-scientists-to-learn-how-to-use-databases/

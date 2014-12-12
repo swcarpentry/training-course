@@ -1,6 +1,5 @@
 ---
 date: 2013-05-28
-round: round-05
 title: 'Concept map: factors for categorical variables in R'
 author: Jennifer Bryan
 permalink: /2013/05/concept-map-factors-for-categorical-variables-in-r/

@@ -1,6 +1,5 @@
 ---
 date: 2014-07-23
-round: round-10
 title: 'Reverse Instructional Design &#8212; Data extraction and manipulation with awk'
 author: Leonor Garcia-Gutierrez
 permalink: /2014/07/reverse-instructional-design-using-awk/

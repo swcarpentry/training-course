@@ -1,6 +1,5 @@
 ---
 date: 2014-09-26
-round: round-11
 title: Brent Shambaugh
 author: Brent Shambaugh
 permalink: /2014/09/brent-shambaugh/

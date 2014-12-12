@@ -1,6 +1,5 @@
 ---
 date: 2013-08-18
-round: round-06
 title: 'Concept Map: Regular Expressions'
 author: Molly Gibson
 permalink: /2013/08/concept-map-regular-expressions/

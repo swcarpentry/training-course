@@ -1,6 +1,5 @@
 ---
 date: 2014-09-30
-round: round-11
 title: 'Assessment Exercise: Analyzing Patient Data'
 author: Jeremy Metz
 permalink: /2014/09/assessment-exercise/

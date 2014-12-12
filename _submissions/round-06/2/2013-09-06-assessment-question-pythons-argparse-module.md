@@ -1,6 +1,5 @@
 ---
 date: 2013-09-06
-round: round-06
 title: 'Assessment Question: Python&#8217;s argparse module'
 author: Rachel Anderson
 permalink: /2013/09/assessment-question-pythons-argparse-module/

@@ -1,6 +1,5 @@
 ---
 date: 2014-09-18
-round: round-11
 title: 'Linux Shell: Creating Things'
 author: Alif
 permalink: /2014/09/linux-shell-creating-things/

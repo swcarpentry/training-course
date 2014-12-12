@@ -1,6 +1,5 @@
 ---
 date: 2013-04-09
-round: round-04
 title: Assessment questions for numpy array creation
 author: Jens von der Linden
 permalink: /2013/04/assessment-questions-for-numpy-array-creation/

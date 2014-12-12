@@ -1,6 +1,5 @@
 ---
 date: 2013-01-06
-round: round-03
 title: About Geoff Oxberry
 author: Geoff Oxberry
 permalink: /2013/01/geoff-oxberry/

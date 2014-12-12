@@ -1,6 +1,5 @@
 ---
 date: 2013-06-26
-round: round-05
 title: 'Screencast proposal:  How to visualize periodic crystals using VMD.'
 author: Neal Davis
 permalink: /2013/06/screencast-proposal-how-to-visualize-periodic-crystals-using-vmd/

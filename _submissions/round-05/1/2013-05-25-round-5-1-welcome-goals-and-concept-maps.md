@@ -1,6 +1,5 @@
 ---
 date: 2013-05-25
-round: round-05
 title: 'Round 5.1: Welcome, Goals, and Concept Maps'
 author: Greg Wilson
 permalink: /2013/05/round-5-1-welcome-goals-and-concept-maps/

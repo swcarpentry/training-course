@@ -1,6 +1,5 @@
 ---
 date: 2014-09-29
-round: round-11
 title: 'Assessment exercise: Python Functions'
 author: Daniel Smith
 permalink: /2014/09/assessment-exercise-python-functions/

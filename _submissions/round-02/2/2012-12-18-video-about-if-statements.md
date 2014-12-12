@@ -1,6 +1,5 @@
 ---
 date: 2012-12-18
-round: round-02
 title: Video about if statements
 author: Karin Lagesen
 permalink: /2012/12/video-about-if-statements/

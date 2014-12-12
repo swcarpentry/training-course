@@ -1,6 +1,5 @@
 ---
 date: 2014-01-13
-round: round-08
 title: Biography
 author: Samantha Ahern
 permalink: /2014/01/biography/

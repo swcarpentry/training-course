@@ -1,6 +1,5 @@
 ---
 date: 2013-07-28
-round: round-05
 title: 'Tutorial critique: Regular expressions'
 author: Luke Lee
 permalink: /2013/07/tutorial-critique-regular-expressions/

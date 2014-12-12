@@ -1,6 +1,5 @@
 ---
 date: 2014-03-18
-round: round-08
 title: SSH Public Key Authentication to Internal IPython Notebook
 author: Chris Friedline
 permalink: /2014/03/ssh-public-key-authentication-to-internal-ipython-notebook/

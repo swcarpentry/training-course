@@ -1,6 +1,5 @@
 ---
 date: 2013-10-01
-round: round-07
 title: Chris Waigl
 author: Chris Waigl
 permalink: /2013/10/chris-waigl/

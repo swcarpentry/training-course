@@ -1,6 +1,5 @@
 ---
 date: 2014-11-07
-round: round-11
 title: Wrapping Up Round 11
 author: Greg Wilson
 permalink: /2014/11/wrapping-up-round-11/

@@ -1,6 +1,5 @@
 ---
 date: 2013-01-16
-round: round-02
 title: My Experience with SVN + SQLite + Python
 author: Alex Viana
 permalink: /2013/01/my-experience-with-svn-sqlite-python/

@@ -1,6 +1,5 @@
 ---
 date: 2013-11-27
-round: round-07
 title: 'Round 7.4: Teaching Online'
 author: Greg Wilson
 permalink: /2013/11/round-7-4-teaching-online/

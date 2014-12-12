@@ -1,6 +1,5 @@
 ---
 date: 2014-09-03
-round: round-11
 title: Yianni Kolokythas
 author: Yianni Kolokythas
 permalink: /2014/09/yianni-kolokythas/

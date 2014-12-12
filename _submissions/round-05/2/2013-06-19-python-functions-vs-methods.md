@@ -1,6 +1,5 @@
 ---
 date: 2013-06-19
-round: round-05
 title: Python functions vs. methods
 author: Jessica Hamrick
 permalink: /2013/06/python-functions-vs-methods/

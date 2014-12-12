@@ -1,6 +1,5 @@
 ---
 date: 2013-05-28
-round: round-05
 title: 'Concept map: Python Exceptions'
 author: Preston Holmes
 permalink: /2013/05/python-exceptions-concept-map/

@@ -1,6 +1,5 @@
 ---
 date: 2013-08-21
-round: round-06
 title: 'Concept Map:  Bash Command Line'
 author: Camille Avestruz
 permalink: /2013/08/concept-map-bash-command-line/

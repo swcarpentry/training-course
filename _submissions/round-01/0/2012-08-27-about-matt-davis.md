@@ -1,6 +1,5 @@
 ---
 date: 2012-08-27
-round: round-01
 title: About Matt Davis
 author: Matt Davis
 permalink: /2012/08/about-matt-davis/

@@ -1,6 +1,5 @@
 ---
 date: 2014-02-13
-round: round-08
 title: 'MCQ: python while-loops'
 author: Isabel Fenton
 permalink: /2014/02/mcq-python-while-loops/

@@ -1,6 +1,5 @@
 ---
 date: 2014-01-31
-round: round-08
 title: 'Round 8.1/8.2: From Concept Maps to MCQs'
 author: Greg Wilson
 permalink: /2014/01/round-8-18-2-from-concept-maps-to-mcqs/

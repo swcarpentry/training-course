@@ -1,6 +1,5 @@
 ---
 date: 2013-02-03
-round: round-03
 title: 'Concept Map: Shell Variables'
 author: Kwasi Kwakwa
 permalink: /2013/02/concept-map-shell-variables/

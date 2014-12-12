@@ -1,6 +1,5 @@
 ---
 date: 2014-09-16
-round: round-11
 title: 'Concept map: What is a wildcard?'
 author: Jose Beltran
 permalink: /2014/09/concept-map-what-is-a-wildcard/

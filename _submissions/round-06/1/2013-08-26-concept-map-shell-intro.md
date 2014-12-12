@@ -1,6 +1,5 @@
 ---
 date: 2013-08-26
-round: round-06
 title: 'Concept map: shell intro'
 author: Christina Koch
 permalink: /2013/08/concept-map-shell-intro/

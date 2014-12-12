@@ -1,6 +1,5 @@
 ---
 date: 2014-09-29
-round: round-11
 title: 'Assessment: Command-Line Programs'
 author: Isabelle Laforest
 permalink: /2014/09/assessment-command-line-programs/

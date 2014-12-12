@@ -1,6 +1,5 @@
 ---
 date: 2013-07-31
-round: round-05
 title: Effectiveness measurement—post-lesson assessment.
 author: Neal Davis
 permalink: /2013/07/effectiveness-measurement-post-lesson-assessment/

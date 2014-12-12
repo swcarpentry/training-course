@@ -1,6 +1,5 @@
 ---
 date: 2013-05-13
-round: round-05
 title: Preston Holmes
 author: Preston Holmes
 permalink: /2013/05/preston-holmes/

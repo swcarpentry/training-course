@@ -1,6 +1,5 @@
 ---
 date: 2013-08-18
-round: round-06
 title: 'Round 6.1: Concept Maps'
 author: Greg Wilson
 permalink: /2013/08/round-6-1-concept-maps/

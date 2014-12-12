@@ -1,6 +1,5 @@
 ---
 date: 2013-10-29
-round: round-07
 title: 'Assessment Questions: Numpy Arrays'
 author: Joshua Adelman
 permalink: /2013/10/assessment-questions-numpy-arrays-3/

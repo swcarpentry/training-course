@@ -1,6 +1,5 @@
 ---
 date: 2014-01-13
-round: round-08
 title: Stephen Turner
 author: Stephen Turner
 permalink: /2014/01/stephen-turner/

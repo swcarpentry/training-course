@@ -1,6 +1,5 @@
 ---
 date: 2012-11-06
-round: round-02
 title: 'Round 2.1: Array Reductions'
 author: Chang She
 permalink: /2012/11/round-2-1-array-reductions/
