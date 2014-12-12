@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="page-header">
+  <h1>{{ page.title }}</h1>
+</div>
+
+{% for submission in site.submissions %}{% if submission.round == page.round %}
+  <h2><a href="{{ submission.url }}">{{ submission.title }}</a>
+    <small>Submitted by {{ submission.author }} on {{ submission.date | date: "%b %-d, %Y" }}</small>
+  </h2>
+{% endif %}{% endfor %}
