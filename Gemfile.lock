@@ -16,6 +16,8 @@ GEM
     execjs (2.2.2)
     fast-stemmer (1.0.2)
     ffi (1.9.6)
+    font-awesome-sass (4.2.2)
+      sass (~> 3.2)
     hike (1.2.3)
     hitimes (1.2.2)
     jekyll (2.4.0)
@@ -90,6 +92,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap-sass
+  font-awesome-sass
   jekyll
   jekyll-assets
   sass
