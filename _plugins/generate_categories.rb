@@ -27,7 +27,7 @@ module Jekyll
       dir = site.config['category_dir'] || 'categories'
       if site.layouts.key? 'category_index'
         site.categories.keys.each do |category|
-          site.pages << CategoryPage.new(site, site.source, File.join(dir, category), category)
+          site.pages << CategoryPage.new(site, site.source, File.join(dir, Utils.slugify(category)), category)
         end
       end
     end
@@ -46,7 +46,7 @@ module Jekyll
                      [categories]
                    end
       categories = categories.sort!.map do |category|
-        target = File.join(dir, category)
+        target = File.join(dir, Utils.slugify(category))
         "<a class='category' href='/#{target}/'>#{category}</a>"
       end
 
