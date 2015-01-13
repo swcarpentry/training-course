@@ -1,10 +1,11 @@
 module Jekyll
 
-  # Monkey-patch Site to add '/rounds' 
+  # Monkey-patch Site to add 'Site#rounds'
   class Site
     # Construct a Hash of submissions indexed by their round
     # Heavily inspired by Site::post_attr_hash
     # Note that this is not automatically accessible from liquid
+    # Site#rounds will be used by GenerateRoundPages below
     def rounds
       submissions = collections['submissions']
       hash = Hash.new { |h, key| h[key] = [] }
@@ -34,9 +35,7 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'round_index.html')
       self.data['round'] = round
-
-      round_title_prefix = site.config['round_title_prefix'] || 'Round: '
-      self.data['title'] = "#{round_title_prefix}#{round}"
+      self.data['title'] = round.capitalize.sub(/-0?/, ' ')
     end
   end
 
@@ -46,6 +45,8 @@ module Jekyll
 
     def generate(site)
       dir = site.config['rounds_dir'] || '/rounds'
+      # Don't try to generate round index pages if we don't have a template for
+      # them.
       if site.layouts.key? 'round_index'
         site.rounds.keys.each do |round|
           site.pages << RoundPage.new(site, site.source, File.join(dir, round), round)
@@ -59,6 +60,10 @@ module Jekyll
       site = @context.registers[:site]
       dir = site.config['rounds_dir'] || '/rounds'
       File.join(dir, round)
+    end
+
+    def round_title(round)
+      round.capitalize.sub(/-0?/, ' ')
     end
   end
 end

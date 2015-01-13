@@ -2,17 +2,17 @@
 layout: default
 ---
 <div class="row">
-  <div class="col-xs-12 col-sm-9">
-    <article>
-      {{ content }}
-    </article>
-  </div>
   <div class="col-xs-12 col-sm-3">
     {% assign rounds = site.submissions | group_by:"round" %}
     <div class="list-group">
     {% for round in rounds reversed %}
-    <a href="{{ round.name | round_url }}" class="list-group-item">{{ round.name }}</a>
+    <a href="{{ round.name | round_url }}" class="list-group-item">{{ round.name | round_title }}</a>
     {% endfor %}
     </div>
+  </div>
+  <div class="col-xs-12 col-sm-9">
+    <article>
+      {{ content }}
+    </article>
   </div>
 </div>

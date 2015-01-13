@@ -3,7 +3,7 @@ email: info@software-carpentry.org
 description: >
   Software Carpentry is a volunteer organization whose goal is to make
   scientists more productive, and their work more reliable, by teaching them
-  basic computing skills. 
+  basic computing skills.
 baseurl: ""
 twitter_username: swcarpentry
 github_username: swcarpentry
@@ -14,6 +14,9 @@ collections:
 
 # Build settings
 markdown: kramdown
+paginate: 10
+paginate_path: blog/page:num/
+
 defaults:
   -
     scope:

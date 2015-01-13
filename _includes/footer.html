@@ -2,25 +2,26 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4">
-        <ul class="contact-list">
+        <ul class="fa-ul">
           <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>
+            <i class="fa-li fa fa-envelope-o"></i>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </li>
         </ul>
       </div>
       <div class="col-md-4">
-        <ul class="social-media-list">
+        <ul class="fa-ul">
           {% if site.github_username %}
           <li>
-          <a href="https://github.com/{{ site.github_username }}">
-            <span class="username">{{ site.github_username }}</span>
-          </a>
+            <i class="fa-li fa fa-github"></i>
+            <a href="https://github.com/{{ site.github_username }}">{{ site.github_username }}</a>
           </li>
           {% endif %}
           {% if site.twitter_username %}
           <li>
-          <a href="https://twitter.com/{{ site.twitter_username }}">
-            <span class="username">{{ site.twitter_username }}</span>
-          </a>
+            <i class="fa-li fa fa-twitter"></i>
+            <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>
           </li>
           {% endif %}
         </ul>

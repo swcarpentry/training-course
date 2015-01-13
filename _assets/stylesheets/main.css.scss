@@ -1,16 +1,22 @@
 @import "journal_variables";
 @import "bootstrap";
 
+// https://github.com/FortAwesome/font-awesome-sass#a-ruby-on-rails
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
 // adjustments
 
-p {
-  margin-top: 2em;
-  margin-bottom: 2em;
+article {
+  p {
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
 }
 
 // footer
 
-$footer-height:     10em;
+$footer-height: 10em;
 
 html {
   position: relative;
