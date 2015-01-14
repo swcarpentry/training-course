@@ -4,7 +4,7 @@ description: >
   Software Carpentry is a volunteer organization whose goal is to make
   scientists more productive, and their work more reliable, by teaching them
   basic computing skills.
-baseurl: "/software-carpentry-training-website/"
+baseurl: "/software-carpentry-training-website"
 twitter_username: swcarpentry
 github_username: swcarpentry
 
