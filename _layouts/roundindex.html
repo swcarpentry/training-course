@@ -8,7 +8,7 @@ layout: default
   {% assign submissions = site.submissions | where:"round",page.title %}
   {% for submission in submissions %}
   <h3>
-    <a href="{{ submission.url }}">{{ submission.title }}</a>
+    <a href="{{ submission.url | prepend: site.baseurl }}">{{ submission.title }}</a>
     <small>Submitted by {{ submission.author }} on {{ submission.date | date: "%b %-d, %Y" }}</small>
   </h3>
   {% endfor %}
