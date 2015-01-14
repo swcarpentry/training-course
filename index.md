@@ -1,5 +1,4 @@
 ---
-title: Welcome!
 author: Greg Wilson
 layout: home
 ---
