@@ -1,9 +1,5 @@
-@import "journal_variables";
-@import "bootstrap";
-
-// https://github.com/FortAwesome/font-awesome-sass#a-ruby-on-rails
-@import "font-awesome-sprockets";
-@import "font-awesome";
+---
+---
 
 // adjustments
 
@@ -23,6 +19,7 @@ html {
   min-height: 100%;
 }
 body {
+  /* Margin bottom by footer height */
   margin-bottom: $footer-height;
 }
 footer {
