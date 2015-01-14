@@ -1,5 +1,6 @@
 ---
 date: 2014-02-12
+round: Round 8
 title: 'MCQ &#8211; IPython, explicit display vs displayHook on output.'
 author: Matthias Bussonnier
 permalink: /2014/02/mcq-ipython-explicit-display-vs-displayhook-on-output/

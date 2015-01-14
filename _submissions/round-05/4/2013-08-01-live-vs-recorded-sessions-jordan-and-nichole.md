@@ -1,5 +1,6 @@
 ---
 date: 2013-08-01
+round: Round 5
 title: 'Live vs Recorded Sessions: Jordan and Nichole'
 author: Nichole Bennett
 permalink: /2013/08/live-vs-recorded-sessions-jordan-and-nichole/

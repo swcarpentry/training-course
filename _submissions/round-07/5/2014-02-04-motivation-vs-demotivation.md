@@ -1,5 +1,6 @@
 ---
 date: 2014-02-04
+round: Round 7
 title: Motivation VS. Demotivation
 author: Fan
 permalink: /2014/02/motivation-vs-demotivation/

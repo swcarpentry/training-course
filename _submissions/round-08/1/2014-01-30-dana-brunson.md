@@ -1,5 +1,6 @@
 ---
 date: 2014-01-30
+round: Round 8
 title: Dana Brunson
 author: Dana Brunson
 permalink: /2014/01/dana-brunson/

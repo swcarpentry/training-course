@@ -1,5 +1,6 @@
 ---
 date: 2012-08-30
+round: Round 1
 title: About Erik Bray
 author: Erik Bray
 permalink: /2012/08/about-erik-bray/

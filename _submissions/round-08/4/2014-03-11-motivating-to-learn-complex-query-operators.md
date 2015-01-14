@@ -1,5 +1,6 @@
 ---
 date: 2014-03-11
+round: Round 8
 title: Motivating to learn complex query operators
 author: Helen Yezerets
 permalink: /2014/03/motivating-to-learn-complex-query-operators/

@@ -1,5 +1,6 @@
 ---
 date: 2013-08-21
+round: Round 6
 title: Camille Avestruz
 author: Camille Avestruz
 permalink: /2013/08/camille-avestruz/

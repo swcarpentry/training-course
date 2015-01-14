@@ -1,5 +1,6 @@
 ---
 date: 2013-05-22
+round: Round 5
 title: 'mindmap of &#8220;how learning works&#8221;(ch1/2)'
 author: Yuxi Luo
 permalink: /2013/05/mindmap-of-how-learning-worksch12/

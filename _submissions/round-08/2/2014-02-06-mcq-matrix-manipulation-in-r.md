@@ -1,5 +1,6 @@
 ---
 date: 2014-02-06
+round: Round 8
 title: 'MCQ: matrix manipulation in R'
 author: Stephen Turner
 permalink: /2014/02/mcq-matrix-manipulation-in-r/

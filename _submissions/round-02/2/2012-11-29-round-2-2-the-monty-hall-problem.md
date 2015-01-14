@@ -1,5 +1,6 @@
 ---
 date: 2012-11-29
+round: Round 2
 title: 'Round 2.2: The Monty Hall problem'
 author: Stefan van der Walt
 permalink: /2012/11/round-2-2-the-monty-hall-problem/

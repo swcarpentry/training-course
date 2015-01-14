@@ -1,5 +1,6 @@
 ---
 date: 2014-02-27
+round: Round 8
 title: 'Motivating scientists to learn Unix commands:'
 author: ablackpz
 permalink: /2014/02/motivating-scientists-to-learn-unix-commands/

@@ -1,5 +1,6 @@
 ---
 date: 2013-11-14
+round: Round 6
 title: 'Introduction to Pandas &#8211; Online teaching'
 author: Julian Garcia
 permalink: /2013/11/introduction-to-pandas-online-teaching/

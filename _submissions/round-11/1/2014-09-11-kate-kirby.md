@@ -1,5 +1,6 @@
 ---
 date: 2014-09-11
+round: Round 11
 title: Kate Kirby
 author: Kate Kirby
 permalink: /2014/09/kate-kirby/

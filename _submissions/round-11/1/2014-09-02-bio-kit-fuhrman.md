@@ -1,5 +1,6 @@
 ---
 date: 2014-09-02
+round: Round 11
 title: Kit Fuhrman
 author: Kit Fuhrman
 permalink: /2014/09/bio-kit-fuhrman/

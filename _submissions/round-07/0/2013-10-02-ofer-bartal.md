@@ -1,5 +1,6 @@
 ---
 date: 2013-10-02
+round: Round 7
 title: Ofer Bartal
 author: Ofer Bartal
 permalink: /2013/10/ofer-bartal/

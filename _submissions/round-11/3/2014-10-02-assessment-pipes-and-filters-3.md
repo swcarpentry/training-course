@@ -1,5 +1,6 @@
 ---
 date: 2014-10-02
+round: Round 11
 title: 'Assessment &#8211; Pipes and Filters'
 author: Orion Buske
 permalink: /2014/10/assessment-pipes-and-filters-3/

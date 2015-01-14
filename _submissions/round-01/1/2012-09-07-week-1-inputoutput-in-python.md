@@ -1,5 +1,6 @@
 ---
 date: 2012-09-07
+round: Round 1
 title: 'Week 1- Input/Output in Python'
 author: Emily Jane McTavish
 permalink: /2012/09/week-1-inputoutput-in-python/

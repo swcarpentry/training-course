@@ -1,5 +1,6 @@
 ---
 date: 2014-03-17
+round: Round 8
 title: 'Screencast: Aggregation in SQL'
 author: Robert Beagrie
 permalink: /2014/03/screencast-aggregation-in-sql/

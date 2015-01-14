@@ -1,5 +1,6 @@
 ---
 date: 2014-02-04
+round: Round 7
 title: Motivation Story
 author: Ryan Williams
 permalink: /2014/02/motivation-story/

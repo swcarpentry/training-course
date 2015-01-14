@@ -1,5 +1,6 @@
 ---
 date: 2014-05-29
+round: Round 9
 title: Motivational Screencast on Bash
 author: Jacob Levernier
 permalink: /2014/05/motivational-screencast-on-bash/

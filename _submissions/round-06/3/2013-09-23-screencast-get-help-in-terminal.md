@@ -1,5 +1,6 @@
 ---
 date: 2013-09-23
+round: Round 6
 title: 'Screencast: Get help in terminal'
 author: Raniere Silva
 permalink: /2013/09/screencast-get-help-in-terminal/

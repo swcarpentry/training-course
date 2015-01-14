@@ -1,5 +1,6 @@
 ---
 date: 2012-08-26
+round: Round 1
 title: About Ethan White
 author: Ethan White
 permalink: /2012/08/about-ethan-white/

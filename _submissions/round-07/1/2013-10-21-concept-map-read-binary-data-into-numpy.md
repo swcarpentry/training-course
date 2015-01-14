@@ -1,5 +1,6 @@
 ---
 date: 2013-10-21
+round: Round 7
 title: 'Concept Map: Read Binary Data into Numpy'
 author: John Corless
 permalink: /2013/10/concept-map-read-binary-data-into-numpy/

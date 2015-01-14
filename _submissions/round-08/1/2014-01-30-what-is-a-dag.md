@@ -1,5 +1,6 @@
 ---
 date: 2014-01-30
+round: Round 8
 title: What is a DAG
 author: James Harmon
 permalink: /2014/01/what-is-a-dag/

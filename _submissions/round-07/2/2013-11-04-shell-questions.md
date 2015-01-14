@@ -1,5 +1,6 @@
 ---
 date: 2013-11-04
+round: Round 7
 title: Shell questions
 author: David Rio
 permalink: /2013/11/shell-questions/

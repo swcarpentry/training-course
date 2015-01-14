@@ -1,5 +1,6 @@
 ---
 date: 2012-09-07
+round: Round 1
 title: 'Week 1 – Python: Indexing'
 author: Ben Waugh
 permalink: /2012/09/week-1-python-indexing/

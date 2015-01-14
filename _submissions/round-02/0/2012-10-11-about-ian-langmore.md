@@ -1,5 +1,6 @@
 ---
 date: 2012-10-11
+round: Round 2
 title: About Ian Langmore
 author: Ian Langmore
 permalink: /2012/10/about-ian-langmore/

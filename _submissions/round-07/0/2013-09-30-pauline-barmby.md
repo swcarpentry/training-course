@@ -1,5 +1,6 @@
 ---
 date: 2013-09-30
+round: Round 7
 title: Pauline Barmby
 author: Pauline Barmby
 permalink: /2013/09/pauline-barmby/

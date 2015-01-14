@@ -1,5 +1,6 @@
 ---
 date: 2014-01-10
+round: Round 7
 title: Visualizing spatial data using python
 author: Joshua Adelman
 permalink: /2014/01/visualizing-spatial-data-using-python/

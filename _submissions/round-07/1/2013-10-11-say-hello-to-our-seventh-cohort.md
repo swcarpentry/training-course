@@ -1,5 +1,6 @@
 ---
 date: 2013-10-11
+round: Round 7
 title: Say Hello to Our Seventh Cohort
 author: Greg Wilson
 permalink: /2013/10/say-hello-to-our-seventh-cohort/

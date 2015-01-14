@@ -1,5 +1,6 @@
 ---
 date: 2012-09-06
+round: Round 1
 title: 'Week 1 &#8211; Shell: Pipes and Filters'
 author: Matt Davis
 permalink: /2012/09/week-1-shell-pipes-and-filters/

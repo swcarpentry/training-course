@@ -1,5 +1,6 @@
 ---
 date: 2013-11-11
+round: Round 7
 title: 'Screencast (with video): Intro to R and knitr combo'
 author: Denis Haine
 permalink: /2013/11/screencast-topic-intro-to-r-and-knitr-combo/

@@ -1,5 +1,6 @@
 ---
 date: 2013-09-25
+round: Round 6
 title: 'Screencast: Installing matplotlib'
 author: Cam Macdonell
 permalink: /2013/09/screencast-installing-matplotlib/

@@ -1,5 +1,6 @@
 ---
 date: 2013-10-03
+round: Round 7
 title: Michelle Hall
 author: Michelle Hall
 permalink: /2013/10/michelle-hall/

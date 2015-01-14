@@ -1,5 +1,6 @@
 ---
 date: 2013-08-17
+round: Round 6
 title: 'GNU Coreutils &#8211; Introduction to &#8220;Linux&#8221; command line'
 author: Raniere Silva
 permalink: /2013/08/gnu-coreutils-introduction-to-linux-command-line/

@@ -1,5 +1,6 @@
 ---
 date: 2013-09-24
+round: Round 6
 title: 'Screencast: List Comprehension'
 author: Leszek Tarkowski
 permalink: /2013/09/screencast-list-comprehension/

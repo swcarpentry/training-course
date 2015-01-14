@@ -1,5 +1,6 @@
 ---
 date: 2013-09-26
+round: Round 6
 title: 'Screencast: An introduction to Vim'
 author: Dana Miller
 permalink: /2013/09/screencast-an-introduction-to-vim/

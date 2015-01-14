@@ -1,5 +1,6 @@
 ---
 date: 2013-01-06
+round: Round 3
 title: About Joon Ro
 author: Joon Ro
 permalink: /2013/01/about-joon-ro/

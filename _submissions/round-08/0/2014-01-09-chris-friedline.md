@@ -1,5 +1,6 @@
 ---
 date: 2014-01-09
+round: Round 8
 title: Chris Friedline
 author: Chris Friedline
 permalink: /2014/01/chris-friedline/

@@ -1,5 +1,6 @@
 ---
 date: 2014-02-07
+round: Round 7
 title: Wrapping Up Round 7
 author: Greg Wilson
 permalink: /2014/02/wrapping-up-round-7/

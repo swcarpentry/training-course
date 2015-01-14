@@ -1,5 +1,6 @@
 ---
 date: 2014-02-23
+round: Round 8
 title: Motivating geoscientists to learn Python
 author: Matt Hall
 permalink: /2014/02/motivating-geoscientists-to-learn-python/

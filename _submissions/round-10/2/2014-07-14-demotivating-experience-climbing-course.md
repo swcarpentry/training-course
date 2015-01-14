@@ -1,5 +1,6 @@
 ---
 date: 2014-07-14
+round: Round 10
 title: 'Demotivating experience &#8211; climbing course'
 author: Klemens Noga
 permalink: /2014/07/demotivating-experience-climbing-course/

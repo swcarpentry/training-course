@@ -1,5 +1,6 @@
 ---
 date: 2013-12-28
+round: Round 7
 title: Intro to python automation
 author: Fan
 permalink: /2013/12/intro-to-python-automation/

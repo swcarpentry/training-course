@@ -1,5 +1,6 @@
 ---
 date: 2013-11-16
+round: Round 7
 title: 'Screencast: Working efficiently with numpy arrays'
 author: Joshua Adelman
 permalink: /2013/11/screencast-working-efficiently-with-numpy-arrays/

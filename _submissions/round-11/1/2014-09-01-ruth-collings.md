@@ -1,5 +1,6 @@
 ---
 date: 2014-09-01
+round: Round 11
 title: Ruth Collings
 author: Ruth Collings
 permalink: /2014/09/ruth-collings/

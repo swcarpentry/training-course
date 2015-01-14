@@ -1,5 +1,6 @@
 ---
 date: 2014-01-16
+round: Round 8
 title: Brad Taber-Thomas
 author: Bradley Taber-Thomas
 permalink: /2014/01/brad-taber-thomas/

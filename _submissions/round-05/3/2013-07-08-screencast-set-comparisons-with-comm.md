@@ -1,5 +1,6 @@
 ---
 date: 2013-07-08
+round: Round 5
 title: 'Screencast &#8211; Set comparisons at the linux console'
 author: Billy Rowell
 permalink: /2013/07/screencast-set-comparisons-with-comm/

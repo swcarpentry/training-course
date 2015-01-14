@@ -1,5 +1,6 @@
 ---
 date: 2012-10-16
+round: Round 2
 title: About Karin Lagesen
 author: Karin Lagesen
 permalink: /2012/10/about-karin-lagesen/

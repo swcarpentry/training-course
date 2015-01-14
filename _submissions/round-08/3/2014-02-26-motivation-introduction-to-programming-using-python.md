@@ -1,5 +1,6 @@
 ---
 date: 2014-02-26
+round: Round 8
 title: 'Motivation: introduction to programming, using Python'
 author: Martin Paulo
 permalink: /2014/02/motivation-introduction-to-programming-using-python/

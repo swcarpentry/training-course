@@ -1,5 +1,6 @@
 ---
 date: 2012-10-24
+round: Round 2
 title: Round 2.1 Initial Meeting
 author: Greg Wilson
 permalink: /2012/10/round-2-1-initial-meeting/

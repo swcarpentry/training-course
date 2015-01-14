@@ -1,5 +1,6 @@
 ---
 date: 2012-11-06
+round: Round 2
 title: 'Claiming a topic: why global variables are a bad idea'
 author: Luis Figueira
 permalink: /2012/11/claiming-a-topic-why-global-variables-are-a-bad-idea/

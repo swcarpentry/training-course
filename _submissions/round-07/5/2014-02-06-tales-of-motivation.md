@@ -1,5 +1,6 @@
 ---
 date: 2014-02-06
+round: Round 7
 title: Tales of Motivation
 author: Bill Mills
 permalink: /2014/02/tales-of-motivation/

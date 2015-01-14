@@ -2,18 +2,7 @@
 layout: default
 title: Blog
 ---
-<div class="col-md-4">
-  <div class="page-header">
-    <h1>Categories</h1>
-  </div>
-  <ul>
-    {% assign categories = site.categories | sort %}
-    {% for category in categories %}
-    <li>{{ category[0] | category_links }}</li>
-    {% endfor %}
-  </ul>
-</div>
-<div class="col-md-8">
+<div class="col-md-8 col-md-offset-2">
   <div class="page-header">
     <h1>Posts</h1>
   </div>

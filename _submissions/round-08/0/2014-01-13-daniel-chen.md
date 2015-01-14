@@ -1,5 +1,6 @@
 ---
 date: 2014-01-13
+round: Round 8
 title: Daniel Chen
 author: Daniel Chen
 permalink: /2014/01/daniel-chen/

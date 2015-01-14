@@ -1,5 +1,6 @@
 ---
 date: 2014-02-02
+round: Round 7
 title: Motivation for scientific computing
 author: Pauline Barmby
 permalink: /2014/02/motivation-for-scientific-computing/

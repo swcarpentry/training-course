@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="col-md-8 col-md-offset-2">
+  <div class="page-header">
+    <h1>{{ page.title }}</h1>
+  </div>
+  {% assign submissions = site.submissions | where:"round",page.title %}
+  {% for submission in submissions %}
+  <h3>
+    <a href="{{ submission.url }}">{{ submission.title }}</a>
+    <small>Submitted by {{ submission.author }} on {{ submission.date | date: "%b %-d, %Y" }}</small>
+  </h3>
+  {% endfor %}
+</div>

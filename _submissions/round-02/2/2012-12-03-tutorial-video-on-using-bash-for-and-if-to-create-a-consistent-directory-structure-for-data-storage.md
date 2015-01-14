@@ -1,5 +1,6 @@
 ---
 date: 2012-12-03
+round: Round 2
 title: Tutorial video on using Bash for and if to create a consistent directory structure for data storage
 author: Lynne Williams
 permalink: /2012/12/tutorial-video-on-using-bash-for-and-if-to-create-a-consistent-directory-structure-for-data-storage/

@@ -1,5 +1,6 @@
 ---
 date: 2014-03-31
+round: Round 9
 title: 'Biography: Stefan Pfenninger'
 author: Stefan Pfenninger
 permalink: /2014/03/biography-stefan-pfenninger/

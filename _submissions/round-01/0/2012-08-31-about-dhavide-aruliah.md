@@ -1,5 +1,6 @@
 ---
 date: 2012-08-31
+round: Round 1
 title: About Dhavide Aruliah
 author: Dhavide Aruliah
 permalink: /2012/08/about-dhavide-aruliah/

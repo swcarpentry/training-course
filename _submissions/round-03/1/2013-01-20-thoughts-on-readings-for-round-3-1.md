@@ -1,5 +1,6 @@
 ---
 date: 2013-01-20
+round: Round 3
 title: Thoughts on Readings for Round 3.1
 author: Amy Brown
 permalink: /2013/01/thoughts-on-readings-for-round-3-1/

@@ -1,5 +1,6 @@
 ---
 date: 2014-01-16
+round: Round 8
 title: 'Concept Map: Python Variables (and syntax)'
 author: Daniel Chen
 permalink: /2014/01/concept-map-python-variables-and-syntax/

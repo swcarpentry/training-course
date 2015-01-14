@@ -1,5 +1,6 @@
 ---
 date: 2014-02-26
+round: Round 8
 title: 'Motivation: How to motivate scientist to learn basic programming'
 author: Andrea Zonca
 permalink: /2014/02/how-motivate-scientists-to-learn-basic-programming/

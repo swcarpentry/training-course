@@ -1,5 +1,6 @@
 ---
 date: 2013-10-28
+round: Round 7
 title: 'Assessment questions:  NumPy Arrays'
 author: David Jones
 permalink: /2013/10/assessment-questions-numpy-arrays/

@@ -1,5 +1,6 @@
 ---
 date: 2014-01-22
+round: Round 8
 title: 'Biography &#8211; Anne Moroney, NYC &#8211; Round 8.0'
 author: Anne Moroney
 permalink: /2014/01/biography-anne-moroney-nyc-round-8-1/

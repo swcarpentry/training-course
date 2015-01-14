@@ -1,5 +1,6 @@
 ---
 date: 2013-10-08
+round: Round 7
 title: Erik Schnetter
 author: Erik Schnetter
 permalink: /2013/10/erik-schnetter/

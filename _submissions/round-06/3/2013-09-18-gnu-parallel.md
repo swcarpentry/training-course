@@ -1,5 +1,6 @@
 ---
 date: 2013-09-18
+round: Round 6
 title: 'screencast: gnu parallel'
 author: Jonah Duckles
 permalink: /2013/09/gnu-parallel/

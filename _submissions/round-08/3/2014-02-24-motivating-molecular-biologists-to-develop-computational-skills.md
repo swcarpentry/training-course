@@ -1,5 +1,6 @@
 ---
 date: 2014-02-24
+round: Round 8
 title: Motivating molecular biologists to develop computational skills
 author: David Schryer
 permalink: /2014/02/motivating-molecular-biologists-to-develop-computational-skills/

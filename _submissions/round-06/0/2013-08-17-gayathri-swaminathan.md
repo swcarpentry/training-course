@@ -1,5 +1,6 @@
 ---
 date: 2013-08-17
+round: Round 6
 title: Gayathri Swaminathan
 author: Gayathri Swaminathan
 permalink: /2013/08/gayathri-swaminathan/

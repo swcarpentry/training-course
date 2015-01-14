@@ -1,5 +1,6 @@
 ---
 date: 2014-02-27
+round: Round 8
 title: Motivating novice web developers to learn Git and GitHub
 author: "Brenna O'Brien"
 permalink: /2014/02/motivating-novice-web-developers-to-learn-git-and-github/

@@ -1,5 +1,6 @@
 ---
 date: 2013-03-19
+round: Round 3
 title: 'Identifying Expertise: LaTeX'
 author: Kirsten Robinson
 permalink: /2013/03/identifying-expertise-latex/

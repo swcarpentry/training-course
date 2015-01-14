@@ -1,5 +1,6 @@
 ---
 date: 2013-08-12
+round: Round 6
 title: About Nathan S. Watson-Haigh
 author: Nathan S. Watson-Haigh
 permalink: /2013/08/about-nathan-s-watson-haigh/

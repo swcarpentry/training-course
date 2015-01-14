@@ -1,5 +1,6 @@
 ---
 date: 2013-09-07
+round: Round 6
 title: 'Assessment Questions: Bash command line'
 author: Camille Avestruz
 permalink: /2013/09/assessment-questions-bash-command-line/

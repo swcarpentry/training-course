@@ -1,5 +1,6 @@
 ---
 date: 2014-02-06
+round: Round 7
 title: 'Motivation: Daniel Hocking'
 author: Daniel Hocking
 permalink: /2014/02/motivation-daniel-hocking/

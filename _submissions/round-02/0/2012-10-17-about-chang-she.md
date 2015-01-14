@@ -1,5 +1,6 @@
 ---
 date: 2012-10-17
+round: Round 2
 title: About Chang She
 author: Chang She
 permalink: /2012/10/about-chang-she/

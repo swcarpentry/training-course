@@ -1,5 +1,6 @@
 ---
 date: 2013-05-19
+round: Round 5
 title: Ted Kirkpatrick
 author: Ted Kirkpatrick
 permalink: /2013/05/ted-kirkpatrick/

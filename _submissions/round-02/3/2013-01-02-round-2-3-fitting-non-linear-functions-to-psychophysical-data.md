@@ -1,5 +1,6 @@
 ---
 date: 2013-01-02
+round: Round 2
 title: 'Round 2.3: fitting non-linear functions to psychophysical data'
 author: Ariel Rokem
 permalink: /2013/01/round-2-3-fitting-non-linear-functions-to-psychophysical-data/

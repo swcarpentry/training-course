@@ -1,5 +1,6 @@
 ---
 date: 2013-07-11
+round: Round 6
 title: 'screencast  &#8211; how-to reset &#8220;git reset &#8211;hard&#8221;'
 author: Yuxi Luo
 permalink: /2013/07/screencast-how-to-reset-git-reset-hard/

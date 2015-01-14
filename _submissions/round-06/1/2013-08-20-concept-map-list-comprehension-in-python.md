@@ -1,5 +1,6 @@
 ---
 date: 2013-08-20
+round: Round 6
 title: 'Concept Map: List Comprehension in Python'
 author: Leszek Tarkowski
 permalink: /2013/08/concept-map-list-comprehension-in-python/

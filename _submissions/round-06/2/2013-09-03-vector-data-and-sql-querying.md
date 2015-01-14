@@ -1,5 +1,6 @@
 ---
 date: 2013-09-03
+round: Round 6
 title: Vector Data and SQL Querying
 author: Jonah Duckles
 permalink: /2013/09/vector-data-and-sql-querying/

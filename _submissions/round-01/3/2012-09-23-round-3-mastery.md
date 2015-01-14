@@ -1,5 +1,6 @@
 ---
 date: 2012-09-23
+round: Round 1
 title: 'Round 3: Mastery'
 author: Greg Wilson
 permalink: /2012/09/round-3-mastery/

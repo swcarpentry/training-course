@@ -1,5 +1,6 @@
 ---
 date: 2014-02-06
+round: Round 7
 title: Motivation and Inspiration
 author: Naupaka Zimmerman
 permalink: /2014/02/motivation-and-inspiration/

@@ -1,5 +1,6 @@
 ---
 date: 2014-06-06
+round: Round 9
 title: Motivation and Live Teaching
 author: Greg Wilson
 permalink: /2014/06/motivation-and-live-teaching/

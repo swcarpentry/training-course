@@ -1,5 +1,6 @@
 ---
 date: 2013-10-10
+round: Round 7
 title: Vicky Schneider-Gricar
 author: Vicky Schneider-Gricar
 permalink: /2013/10/vicky-schneider-gricar/

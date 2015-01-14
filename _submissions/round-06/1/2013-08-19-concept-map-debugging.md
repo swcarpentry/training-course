@@ -1,5 +1,6 @@
 ---
 date: 2013-08-19
+round: Round 6
 title: 'Concept map: debugging'
 author: Damien Irving
 permalink: /2013/08/concept-map-debugging/

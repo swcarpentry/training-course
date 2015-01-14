@@ -1,5 +1,6 @@
 ---
 date: 2014-10-02
+round: Round 11
 title: 'Assessment: Collaborating with GIT'
 author: Matthew Aiello-Lammens
 permalink: /2014/10/assessment-collaborating-with-git-2/

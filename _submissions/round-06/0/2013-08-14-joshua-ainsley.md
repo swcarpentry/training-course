@@ -1,5 +1,6 @@
 ---
 date: 2013-08-14
+round: Round 6
 title: Joshua Ainsley
 author: Joshua Ainsley
 permalink: /2013/08/joshua-ainsley/

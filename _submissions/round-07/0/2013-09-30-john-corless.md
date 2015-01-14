@@ -1,5 +1,6 @@
 ---
 date: 2013-09-30
+round: Round 7
 title: John Corless
 author: John Corless
 permalink: /2013/09/john-corless/

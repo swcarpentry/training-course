@@ -1,5 +1,6 @@
 ---
 date: 2014-03-12
+round: Round 8
 title: Setup Github and Travis-CI to continuously build Software Carpentry
 author: Andrea Zonca
 permalink: /2014/03/setup-github-travisci-build-software-carpentry/

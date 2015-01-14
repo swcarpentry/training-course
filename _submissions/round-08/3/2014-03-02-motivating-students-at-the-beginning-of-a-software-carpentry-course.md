@@ -1,5 +1,6 @@
 ---
 date: 2014-03-02
+round: Round 8
 title: Motivating students at the beginning of a Software Carpentry course
 author: Robert Beagrie
 permalink: /2014/03/motivating-students-at-the-beginning-of-a-software-carpentry-course/

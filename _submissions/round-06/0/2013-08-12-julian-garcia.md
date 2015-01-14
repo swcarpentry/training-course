@@ -1,5 +1,6 @@
 ---
 date: 2013-08-12
+round: Round 6
 title: Julián García
 author: Julian Garcia
 permalink: /2013/08/julian-garcia/

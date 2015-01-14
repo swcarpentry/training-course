@@ -1,5 +1,6 @@
 ---
 date: 2013-08-18
+round: Round 6
 title: 'Concept Map: how your computer uses DNS to get you XKCD'
 author: Dave Lane
 permalink: /2013/08/concept-map-how-your-computer-uses-dns-to-get-you-xkcd/

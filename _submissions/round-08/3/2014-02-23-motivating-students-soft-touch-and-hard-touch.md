@@ -1,5 +1,6 @@
 ---
 date: 2014-02-23
+round: Round 8
 title: 'Motivating Students &#8211; Soft Touch and Hard Touch'
 author: James Harmon
 permalink: /2014/02/motivating-students-soft-touch-and-hard-touch/

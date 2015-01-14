@@ -1,5 +1,6 @@
 ---
 date: 2014-02-26
+round: Round 8
 title: 'Motivation: Writing tests'
 author: Jason Orendorff
 permalink: /2014/02/motivation-writing-tests/

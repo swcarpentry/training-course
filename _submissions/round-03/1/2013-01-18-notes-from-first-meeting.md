@@ -1,5 +1,6 @@
 ---
 date: 2013-01-18
+round: Round 3
 title: Notes from First Meeting of Round 3
 author: Amy Brown
 permalink: /2013/01/notes-from-first-meeting/

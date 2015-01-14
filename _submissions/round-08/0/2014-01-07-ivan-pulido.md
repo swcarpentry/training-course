@@ -1,5 +1,6 @@
 ---
 date: 2014-01-07
+round: Round 8
 title: Ivan Pulido
 author: Ivan Pulido
 permalink: /2014/01/ivan-pulido/

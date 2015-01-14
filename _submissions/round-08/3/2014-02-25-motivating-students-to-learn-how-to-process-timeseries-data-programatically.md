@@ -1,5 +1,6 @@
 ---
 date: 2014-02-25
+round: Round 8
 title: Motivating students to learn how to process timeseries data programatically
 author: Brian Miles
 permalink: /2014/02/motivating-students-to-learn-how-to-process-timeseries-data-programatically/

@@ -1,5 +1,6 @@
 ---
 date: 2014-01-17
+round: Round 8
 title: 'Concept map: yield in python'
 author: Jean-Christophe Leyder
 permalink: /2014/01/concept-map-yield-in-python/

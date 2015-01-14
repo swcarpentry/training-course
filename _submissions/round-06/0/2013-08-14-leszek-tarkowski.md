@@ -1,5 +1,6 @@
 ---
 date: 2013-08-14
+round: Round 6
 title: Leszek Tarkowski
 author: Leszek Tarkowski
 permalink: /2013/08/leszek-tarkowski/

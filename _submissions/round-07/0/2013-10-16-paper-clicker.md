@@ -1,5 +1,6 @@
 ---
 date: 2013-10-16
+round: Round 7
 title: Paper clicker
 author: Pauline Barmby
 permalink: /2013/10/paper-clicker/

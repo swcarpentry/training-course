@@ -1,5 +1,6 @@
 ---
 date: 2014-09-11
+round: Round 11
 title: 'Concept Map: Pipes and Filters'
 author: Kirill Palamartchouk
 permalink: /2014/09/concept-map-pipes-and-filters-2/

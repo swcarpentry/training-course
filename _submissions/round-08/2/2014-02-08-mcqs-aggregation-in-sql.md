@@ -1,5 +1,6 @@
 ---
 date: 2014-02-08
+round: Round 8
 title: 'MCQs: Aggregation in SQL'
 author: Robert Beagrie
 permalink: /2014/02/mcqs-aggregation-in-sql/

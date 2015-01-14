@@ -1,5 +1,6 @@
 ---
 date: 2012-08-28
+round: Round 1
 title: About Hans-Martin von Gaudecker
 author: Hans-Martin von Gaudecker
 permalink: /2012/08/about-hans-martin-von-gaudecker/

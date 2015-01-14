@@ -1,5 +1,6 @@
 ---
 date: 2012-11-27
+round: Round 2
 title: 'Ted&#8217;s video about VCS'
 author: Ted Hart
 permalink: /2012/11/teds-video-about-vcs/

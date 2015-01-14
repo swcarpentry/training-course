@@ -1,5 +1,6 @@
 ---
 date: 2013-06-26
+round: Round 4
 title: Reflections on SWC online course
 author: Julia Gustavsen
 permalink: /2013/06/reflections-on-swc-online-course/

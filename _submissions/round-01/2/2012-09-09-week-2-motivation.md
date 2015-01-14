@@ -1,5 +1,6 @@
 ---
 date: 2012-09-09
+round: Round 1
 title: 'Week 2: Motivation'
 author: Greg Wilson
 permalink: /2012/09/week-2-motivation/

@@ -1,5 +1,6 @@
 ---
 date: 2014-02-03
+round: Round 8
 title: 'MCQs: the role of the index in git'
 author: Jean-Christophe Leyder
 permalink: /2014/02/mcqs-the-role-of-the-index-in-git/

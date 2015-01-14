@@ -1,5 +1,6 @@
 ---
 date: 2013-09-25
+round: Round 6
 title: 'Screencast: Video Analysis Introduction'
 author: Nicolas Saunier
 permalink: /2013/09/video-analysis-introduction/

@@ -1,5 +1,6 @@
 ---
 date: 2012-09-20
+round: Round 1
 title: 'Week 2: Motivation &#8211; Adam Stark'
 author: Adam Stark
 permalink: /2012/09/week-2-motivation-adam-stark/

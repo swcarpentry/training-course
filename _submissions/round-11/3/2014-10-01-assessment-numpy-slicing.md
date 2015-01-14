@@ -1,5 +1,6 @@
 ---
 date: 2014-10-01
+round: Round 11
 title: 'Assessment: NumPy slicing'
 author: Juan Nunez-Iglesias
 permalink: /2014/10/assessment-numpy-slicing/

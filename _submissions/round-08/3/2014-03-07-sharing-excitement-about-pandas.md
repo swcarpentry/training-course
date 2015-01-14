@@ -1,5 +1,6 @@
 ---
 date: 2014-03-07
+round: Round 8
 title: Sharing excitement about pandas
 author: Jeramia Ory
 permalink: /2014/03/sharing-excitement-about-pandas/

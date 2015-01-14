@@ -1,5 +1,6 @@
 ---
 date: 2013-11-19
+round: Round 6
 title: GitHub Collaboration (in Mandarin) – Online teaching
 author: Yuxi Luo
 permalink: /2013/11/github-collaboration-in-mandarin-online-teaching/

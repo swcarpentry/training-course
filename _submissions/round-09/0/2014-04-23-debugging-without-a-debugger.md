@@ -1,5 +1,6 @@
 ---
 date: 2014-04-23
+round: Round 9
 title: Debugging without a debugger
 author: Jonathan Frederic
 permalink: /2014/04/debugging-without-a-debugger/

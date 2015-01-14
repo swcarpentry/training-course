@@ -1,5 +1,6 @@
 ---
 date: 2013-08-15
+round: Round 6
 title: Amanda Charbonneau
 author: Amanda Charbonneau
 permalink: /2013/08/amanda-charbonneau-2/

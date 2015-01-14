@@ -1,5 +1,6 @@
 ---
 date: 2014-02-02
+round: Round 7
 title: Excited about statistics (really?)
 author: Pauline Barmby
 permalink: /2014/02/excited-about-statistics-really/

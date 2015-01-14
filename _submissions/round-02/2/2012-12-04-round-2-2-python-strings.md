@@ -1,5 +1,6 @@
 ---
 date: 2012-12-04
+round: Round 2
 title: 'Round 2.2: Python strings'
 author: Jason Pell
 permalink: /2012/12/round-2-2-python-strings/

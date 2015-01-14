@@ -1,5 +1,6 @@
 ---
 date: 2014-02-05
+round: Round 7
 title: Motivation and Demotivation
 author: Kwasi Kwakwa
 permalink: /2014/02/motivation-and-demotivation/

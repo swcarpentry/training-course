@@ -1,5 +1,6 @@
 ---
 date: 2012-09-03
+round: Round 1
 title: About Carlos Anderson
 author: Carlos Anderson
 permalink: /2012/09/about-carlos-anderson/

@@ -1,5 +1,6 @@
 ---
 date: 2013-08-21
+round: Round 6
 title: 'Concept Map: Automating Data Processing'
 author: Nicolas Saunier
 permalink: /2013/08/concept-map-automating-data-processing/

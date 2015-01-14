@@ -1,5 +1,6 @@
 ---
 date: 2014-06-22
+round: Round 9
 title: From Motivation to Lessons
 author: Greg Wilson
 permalink: /2014/06/from-motivation-to-lessons/

@@ -1,5 +1,6 @@
 ---
 date: 2014-03-06
+round: Round 8
 title: 'Screencast: Improving the behaviour of the up and down arrows in bash'
 author: Jean-Christophe Leyder
 permalink: /2014/03/screencast-improving-the-behaviour-of-the-up-and-down-arrows-in-bash/

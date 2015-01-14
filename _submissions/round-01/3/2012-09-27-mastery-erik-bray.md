@@ -1,5 +1,6 @@
 ---
 date: 2012-09-27
+round: Round 1
 title: Mastery – Erik Bray
 author: Erik Bray
 permalink: /2012/09/mastery-erik-bray/

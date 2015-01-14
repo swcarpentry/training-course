@@ -1,5 +1,6 @@
 ---
 date: 2013-06-20
+round: Round 5
 title: 'Multiple choice &#8211; SQL GROUP BY &#8230; again ; )'
 author: Shoaib Sufi
 permalink: /2013/06/multiple-choice-sql-group-by-again/

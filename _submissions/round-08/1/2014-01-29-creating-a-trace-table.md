@@ -1,5 +1,6 @@
 ---
 date: 2014-01-29
+round: Round 8
 title: Creating a trace table
 author: Zahra Shirzadi
 permalink: /2014/01/creating-a-trace-table/

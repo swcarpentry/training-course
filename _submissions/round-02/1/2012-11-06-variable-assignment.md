@@ -1,5 +1,6 @@
 ---
 date: 2012-11-06
+round: Round 2
 title: 'Round 2.1: Use = to assign a value to a variable'
 author: Paul Ivanov
 permalink: /2012/11/variable-assignment/

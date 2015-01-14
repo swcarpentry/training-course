@@ -1,5 +1,6 @@
 ---
 date: 2014-02-24
+round: Round 8
 title: Motivating scientists to learn how to process text files with Python
 author: Likit Preeyanon
 permalink: /2014/02/motivating-scientists-to-learn-how-to-process-text-files-with-python/

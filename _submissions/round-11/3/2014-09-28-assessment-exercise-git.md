@@ -1,5 +1,6 @@
 ---
 date: 2014-09-28
+round: Round 11
 title: 'Assessment exercise: Git'
 author: Radovan Bast
 permalink: /2014/09/assessment-exercise-git/

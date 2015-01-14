@@ -1,5 +1,6 @@
 ---
 date: 2014-06-24
+round: Round 10
 title: 'Concept map: Cleaning a climbing anchor'
 author: Brian Forst
 permalink: /2014/06/concept-map-cleaning-a-climbing-anchor/

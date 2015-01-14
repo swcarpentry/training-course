@@ -1,5 +1,6 @@
 ---
 date: 2013-08-20
+round: Round 6
 title: 'Concept Map: Git Commits'
 author: Cam Macdonell
 permalink: /2013/08/concept-map-git-commits/

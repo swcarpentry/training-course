@@ -1,5 +1,6 @@
 ---
 date: 2014-02-25
+round: Round 8
 title: Motivation by building on existing skills in either Python or R, but not both
 author: Chris Friedline
 permalink: /2014/02/motivation-by-building-on-existing-skills-in-either-python-or-r-but-not-both/
