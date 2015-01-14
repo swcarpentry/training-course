@@ -13,7 +13,7 @@
       <ul class="nav navbar-nav">
         {% for link in site.data.navigation %}
         {% if page.url == link.url %}<li class="active"><a href="#">
-        {% else %} <li><a href="{{ link.url }}">{% endif %}
+        {% else %}<li><a href="{% if link.url contains "://" %}{{ link.url }}{% else %}{{ link.url | prepend: site.baseurl }}{% endif %}">{% endif %}
         {{ link.title }}{% if page.url == link.url %}<span class="sr-only">(current)</span>{% endif %}</a>
         </li>
         {% endfor %}
