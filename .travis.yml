@@ -1,8 +1,0 @@
-language: ruby
-script: bundler exec jekyll build
-deploy:
-  provider: divshot
-  skip_cleanup: true
-  environment: development
-  api_key:
-    secure: ig62fMHIAKByX6SQ7aeQR5mFih1PrSgWa0OCehwAfU9Uc+wgiyVtjjxHeXe8PGVGnKyuUmNZj9uI/8i0nejkB2l1qhlfAatOnGl2Q1ZcImS0SkOXwjbDwU0QFJ7qwvzHG5J36LJ0s6n8Ux8jCrFGLS0PsEMmE40aZz9bdTFl/fk=
