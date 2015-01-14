@@ -13,6 +13,9 @@ collections:
     output: true
 
 # Build settings
+safe: true # because Github Pages
+lsi: false # because Github Pages
+
 markdown: kramdown
 paginate: 10
 paginate_path: blog/page:num/
