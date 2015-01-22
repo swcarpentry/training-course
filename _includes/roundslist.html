@@ -1,0 +1,9 @@
+<div class="list-group">
+  {% assign rounds = site.submissions | where:"layout","roundindex" %}
+  {% for round in rounds reversed %}
+  <a href="{{ round.url | prepend: site.baseurl }}" class="list-group-item">
+    {{ round.title }}
+  </a>
+  {% endfor %}
+</div>
+

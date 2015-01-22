@@ -1,0 +1,41 @@
+title: Teaching Software Carpentry
+email: info@software-carpentry.org
+description: >
+  Software Carpentry is a volunteer organization whose goal is to make
+  scientists more productive, and their work more reliable, by teaching them
+  basic computing skills.
+baseurl: "/software-carpentry-training-website"
+twitter_username: swcarpentry
+github_username: swcarpentry
+
+collections:
+  submissions:
+    output: true
+
+# Build settings
+safe: true # because Github Pages
+lsi: false # because Github Pages
+
+markdown: kramdown
+paginate: 10
+paginate_path: blog/page:num/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "submissions"
+    values:
+      layout: "submission"
+
