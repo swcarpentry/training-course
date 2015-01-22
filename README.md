@@ -1,5 +1,3 @@
-*Still work in progress*
-
 To build:
 
 ```
@@ -9,3 +7,11 @@ bundle install
 bundle exec jekyll serve
 ```
 
+or if software is installed:
+
+```
+make serve
+```
+
+You can then preview the site at
+[http://0.0.0.0:4000/software-carpentry-training-website/](http://0.0.0.0:4000/software-carpentry-training-website/).
