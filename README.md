@@ -1,10 +1,25 @@
-*Still work in progress*
+This is the shared blog for the Software Carpentry instructor training course.
 
-To build:
+To set up:
 
 ```
 gem install bundler
-# in the repo folder
+```
+
+and then in the root directory:
+
+```
 bundle install
+```
+
+and then either:
+
+```
 bundle exec jekyll serve
+```
+
+or:
+
+```
+make serve
 ```
