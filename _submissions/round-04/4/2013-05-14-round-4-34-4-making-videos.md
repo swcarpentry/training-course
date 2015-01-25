@@ -72,8 +72,8 @@ We are moving our next meeting up a day to accommodate our Australian friends (o
 
  [1]: http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/
  [2]: http://teaching.software-carpentry.org/category/video/
- [3]: /uploads/2012/08/chen-pattern-language-screencasting-2009.pdf
- [4]: /uploads/2012/08/mayer-reduce-cognitive-load.pdf
+ [3]: /software-carpentry-training-website/uploads/2012/08/chen-pattern-language-screencasting-2009.pdf
+ [4]: /software-carpentry-training-website/uploads/2012/08/mayer-reduce-cognitive-load.pdf
  [5]: http://teaching.software-carpentry.org/about/
  [6]: http://youtu.be/LIYGVdHs7l4
  [7]: https://www.youtube.com/watch?v=N9IgeEsE7AQ "white board"

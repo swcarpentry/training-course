@@ -11,4 +11,4 @@ tags:
 
 The above link has my SWF screencast file.  I found it difficult to do anything interesting in 3 minutes.  Looking forward to any feedback.  Thanks,  John
 
- [1]: /uploads/2013/11/2013-11-17_1820.swf
+ [1]: /software-carpentry-training-website/uploads/2013/11/2013-11-17_1820.swf

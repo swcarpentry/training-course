@@ -18,7 +18,7 @@ labels=month.abb), Seatbelts)
 
 The dataset (first 10 observations) should look like this:
 
-[<img class="alignnone size-medium wp-image-8197" alt="Seatbelts" src="/uploads/2014/07/Seatbelts-300x81.png" width="300" height="81" />][1]
+[<img class="alignnone size-medium wp-image-8197" alt="Seatbelts" src="/software-carpentry-training-website/uploads/2014/07/Seatbelts-300x81.png" width="300" height="81" />][1]
 
 1. Which of the following commands calculate the total number of car drivers (variable *DriversKilled*) killed in each month?
 
@@ -36,9 +36,9 @@ d.) ddply(Seatbelts, .(Month), sum(DriversKilled))
 
 before and after the seat belt legislation was introduced (as indicated by the variable *law*). Your output should look like the following:
 
-[<img class="alignnone size-medium wp-image-8198" alt="Seatbelts2" src="/uploads/2014/07/Seatbelts2-300x34.png" width="300" height="34" />][2]
+[<img class="alignnone size-medium wp-image-8198" alt="Seatbelts2" src="/software-carpentry-training-website/uploads/2014/07/Seatbelts2-300x34.png" width="300" height="34" />][2]
 
 FYI: Compulsory wearing of seat belts was introduced on 31 Jan 1983.
 
- [1]: /uploads/2014/07/Seatbelts.png
- [2]: /uploads/2014/07/Seatbelts2.png
+ [1]: /software-carpentry-training-website/uploads/2014/07/Seatbelts.png
+ [2]: /software-carpentry-training-website/uploads/2014/07/Seatbelts2.png

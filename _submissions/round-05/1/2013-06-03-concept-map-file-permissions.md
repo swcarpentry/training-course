@@ -7,7 +7,7 @@ permalink: /2013/06/concept-map-file-permissions/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-large wp-image-2968" alt="File Permissions Concept Map" src="/uploads/2013/06/FilePermissions-1024x853.jpg" width="707" height="588" />][1]
+[<img class="alignnone size-large wp-image-2968" alt="File Permissions Concept Map" src="/software-carpentry-training-website/uploads/2013/06/FilePermissions-1024x853.jpg" width="707" height="588" />][1]
 
 Here is a relatively complex diagram of (hopefully) most of the concepts relating to (UNIX) file permissions. I don&#8217;t have too much knowledge about how things work in Windows or other environments.
 
@@ -22,4 +22,4 @@ Some things I was thinking about as I was going along:
 
 I used CmapTools 5.05.01 to develop this map. It is my first time using the tool. I found it quite good, but I found myself wanting to push the boundaries of map quite a bit. The software seems to want to keep the left and top boundary fixed. This meant I ran out of room quite a few times which was annoying.
 
- [1]: /uploads/2013/06/FilePermissions.jpg
+ [1]: /software-carpentry-training-website/uploads/2013/06/FilePermissions.jpg

@@ -8,7 +8,7 @@ tags:
   - Concept Map
   - round-08-1
 ---
-[<img class="alignnone size-medium wp-image-2989" alt="integer representation" src="/uploads/2013/06/integer-representation-218x300.jpeg" width="218" height="300" />][1]
+[<img class="alignnone size-medium wp-image-2989" alt="integer representation" src="/software-carpentry-training-website/uploads/2013/06/integer-representation-218x300.jpeg" width="218" height="300" />][1]
 
 &nbsp;
 
@@ -16,4 +16,4 @@ In teaching Mathematics to student teachers of Mathematics, I include a section 
 
 Please comment liberally.
 
- [1]: /uploads/2013/06/integer-representation.jpeg
+ [1]: /software-carpentry-training-website/uploads/2013/06/integer-representation.jpeg

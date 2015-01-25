@@ -9,4 +9,4 @@ tags:
 ---
 [PythonObjConceptMapsPromita][1]
 
- [1]: /uploads/2013/05/PythonObjConceptMapsPromita.pdf
+ [1]: /software-carpentry-training-website/uploads/2013/05/PythonObjConceptMapsPromita.pdf

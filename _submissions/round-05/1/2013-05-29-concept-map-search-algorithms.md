@@ -9,4 +9,4 @@ tags:
 ---
 [conceptmap\_search\_algorithm][1]
 
- [1]: /uploads/2013/05/conceptmap_search_algorithm.pdf
+ [1]: /software-carpentry-training-website/uploads/2013/05/conceptmap_search_algorithm.pdf

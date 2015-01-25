@@ -40,4 +40,4 @@ b) You must have execute permissions for `/tmp/subdir`.
 c) You must have read permissions for `/tmp/subdir`.  
 d) You must have read and write permissions for `/tmp/subdir`.
 
- [1]: /uploads/2013/02/Scan-Feb-1-2013-2_53-AM.pdf
+ [1]: /software-carpentry-training-website/uploads/2013/02/Scan-Feb-1-2013-2_53-AM.pdf

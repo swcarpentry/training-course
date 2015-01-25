@@ -21,6 +21,6 @@ The map doesn&#8217;t address:
 *   why to use private keys instead of passwords
 *   how to configure your account on the server to support using an ssh key to login
 
-[<img class="aligncenter size-large wp-image-7725" alt="SSH with a private key" src="/uploads/2014/06/SEdwards_Week1_homework-1024x768.jpg" width="707" height="530" />][1]
+[<img class="aligncenter size-large wp-image-7725" alt="SSH with a private key" src="/software-carpentry-training-website/uploads/2014/06/SEdwards_Week1_homework-1024x768.jpg" width="707" height="530" />][1]
 
- [1]: /uploads/2014/06/SEdwards_Week1_homework.jpg
+ [1]: /software-carpentry-training-website/uploads/2014/06/SEdwards_Week1_homework.jpg

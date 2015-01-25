@@ -28,7 +28,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="/uploads/2012/11/arrays.jpg"><img class="aligncenter size-medium wp-image-1043" title="arrays" src="/uploads/2012/11/arrays-300x138.jpg" alt="" width="300" height="138" /></a>
+  <a href="/software-carpentry-training-website/uploads/2012/11/arrays.jpg"><img class="aligncenter size-medium wp-image-1043" title="arrays" src="/software-carpentry-training-website/uploads/2012/11/arrays-300x138.jpg" alt="" width="300" height="138" /></a>
 </p>
 
 <p style="text-align: justify;">

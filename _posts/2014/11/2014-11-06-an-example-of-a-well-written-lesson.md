@@ -12,5 +12,5 @@ categories:
 [C09 Guide][3]
 
  [1]: https://cs.uwaterloo.ca/~bwbecker/
- [2]: /uploads/2014/11/C09-Slides.pdf
- [3]: /uploads/2014/11/C09-Guide.pdf
+ [2]: /software-carpentry-training-website/uploads/2014/11/C09-Slides.pdf
+ [3]: /software-carpentry-training-website/uploads/2014/11/C09-Guide.pdf

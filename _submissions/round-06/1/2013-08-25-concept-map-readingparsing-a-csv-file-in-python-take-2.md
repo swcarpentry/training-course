@@ -13,6 +13,6 @@ Because I&#8217;m late in completing this, I thought I&#8217;d go ahead and atte
 
 I&#8217;d appreciate feedback, as reading/parsing a CSV file is a common task in the meteorology classes I&#8217;ve been a part of that teach computing skills.
 
-[<img class="alignnone size-full" alt="20130401-082335.jpg" src="/uploads/2013/04/20130401-082335.jpg" />][1]
+[<img class="alignnone size-full" alt="20130401-082335.jpg" src="/software-carpentry-training-website/uploads/2013/04/20130401-082335.jpg" />][1]
 
- [1]: /uploads/2013/04/20130401-082335.jpg
+ [1]: /software-carpentry-training-website/uploads/2013/04/20130401-082335.jpg

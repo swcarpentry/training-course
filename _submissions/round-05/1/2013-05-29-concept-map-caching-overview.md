@@ -7,6 +7,6 @@ permalink: /2013/05/concept-map-caching-overview/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-2932" alt="Scan 2" src="/uploads/2013/05/Scan-2-300x210.jpeg" width="300" height="210" />][1]
+[<img class="alignnone size-medium wp-image-2932" alt="Scan 2" src="/software-carpentry-training-website/uploads/2013/05/Scan-2-300x210.jpeg" width="300" height="210" />][1]
 
- [1]: /uploads/2013/05/Scan-2.jpeg
+ [1]: /software-carpentry-training-website/uploads/2013/05/Scan-2.jpeg

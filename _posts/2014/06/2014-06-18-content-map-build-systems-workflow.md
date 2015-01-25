@@ -15,7 +15,7 @@ To make your site **even** **faster** we compress images with plugins like PNG G
 
 Save yourself some time setting up a project without human errors and cut down tons of kilobytes to shorten your load time by using a build system!<figure id="attachment_7793" style="width: 576px;" class="wp-caption alignnone">
 
-[<img class="size-large wp-image-7793" alt="This workflow shows a build system workflow, one that would appear in Gulp.js or Grunt.js. There is a main HTML file that has three arrows pointing to it. The arrows go to CSS, JavaScript, and Images. With CSS and JS we add all the files together via concatenation then we compress the file via uglify. CSS can use a preprocessor tool and JS can use error checking tools or tools that run unit tests! Images are added into the HTML document at a fraction of the size. Automation for the win!" src="/uploads/2014/06/20140618_084543-e1403100353388-576x1024.jpg" width="576" height="1024" />][1]<figcaption class="wp-caption-text">Cut down your 30 CSS and JS files by combining them into single CSS & JS files. Run your tests, see if it passes, then crush all the KBs of all your images with compression!</figcaption></figure> 
+[<img class="size-large wp-image-7793" alt="This workflow shows a build system workflow, one that would appear in Gulp.js or Grunt.js. There is a main HTML file that has three arrows pointing to it. The arrows go to CSS, JavaScript, and Images. With CSS and JS we add all the files together via concatenation then we compress the file via uglify. CSS can use a preprocessor tool and JS can use error checking tools or tools that run unit tests! Images are added into the HTML document at a fraction of the size. Automation for the win!" src="/software-carpentry-training-website/uploads/2014/06/20140618_084543-e1403100353388-576x1024.jpg" width="576" height="1024" />][1]<figcaption class="wp-caption-text">Cut down your 30 CSS and JS files by combining them into single CSS & JS files. Run your tests, see if it passes, then crush all the KBs of all your images with compression!</figcaption></figure> 
 &nbsp;
 
 Awesome Build Systems we talked about are <a title="Gulp js - build system" href="gulpjs.com" target="_blank">Gulp.js</a> and <a title="Grunt js - task runner" href="http://gruntjs.com/" target="_blank">Grunt.js</a>.
@@ -24,4 +24,4 @@ Awesome Build Systems we talked about are <a title="Gulp js - build system" hre
 
 -<a title="@amandaharlin" href="http://twitter.com/amandaharlin" target="_blank">Amanda Harlin</a>
 
- [1]: /uploads/2014/06/20140618_084543-e1403100353388.jpg
+ [1]: /software-carpentry-training-website/uploads/2014/06/20140618_084543-e1403100353388.jpg

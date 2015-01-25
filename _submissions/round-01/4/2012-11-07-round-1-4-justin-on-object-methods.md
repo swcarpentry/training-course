@@ -15,7 +15,7 @@ I am fairly certain my terminology may not be entirely correct in this tutorial,
 
 [http://nbviewer.ipython.org/4033092/][1]
 
-[/uploads/2012/11/swc_round4.pdf][2]
+[/software-carpentry-training-website/uploads/2012/11/swc_round4.pdf][2]
 
  [1]: http://nbviewer.ipython.org/4033092/ "notebook"
- [2]: /uploads/2012/11/swc_round4.pdf "concept map"
+ [2]: /software-carpentry-training-website/uploads/2012/11/swc_round4.pdf "concept map"

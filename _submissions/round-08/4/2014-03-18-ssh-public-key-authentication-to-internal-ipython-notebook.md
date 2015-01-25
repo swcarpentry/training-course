@@ -7,7 +7,7 @@ permalink: /2014/03/ssh-public-key-authentication-to-internal-ipython-notebook/
 enclosure:
   - |
     |
-        /uploads/2014/03/swc_ssh_notebook.mp4
+        /software-carpentry-training-website/uploads/2014/03/swc_ssh_notebook.mp4
         7652531
         video/mp4
         
@@ -25,5 +25,5 @@ Interested to know what you think.  Definitely glossed over the fact that the s
 Cheers!
 
 <div style="width: 474px; height: 385px; " class="wp-video">
-  <video class="wp-video-shortcode" id="video-6359-5" width="474" height="385" preload="metadata" controls="controls"><source type="video/mp4" src="/uploads/2014/03/swc_ssh_notebook.mp4?_=5" /><a href="/uploads/2014/03/swc_ssh_notebook.mp4">/uploads/2014/03/swc_ssh_notebook.mp4</a></video>
+  <video class="wp-video-shortcode" id="video-6359-5" width="474" height="385" preload="metadata" controls="controls"><source type="video/mp4" src="/software-carpentry-training-website/uploads/2014/03/swc_ssh_notebook.mp4?_=5" /><a href="/software-carpentry-training-website/uploads/2014/03/swc_ssh_notebook.mp4">/software-carpentry-training-website/uploads/2014/03/swc_ssh_notebook.mp4</a></video>
 </div>

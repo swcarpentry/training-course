@@ -17,7 +17,7 @@ tags:
 
 ****When creating a concept map for this topic, it helped to have both a map for how all the concepts relate and for an example workflow of data input in R. The concept map can me used for teaching theory and the workflow map can be used for an idealized data input exercise.
 
-[<img class="alignnone size-medium wp-image-3835" alt="photo (1)" src="/uploads/2013/08/photo-1-300x224.jpg" width="300" height="224" />][1] [<img class="alignnone size-medium wp-image-3836" alt="photo (2)" src="/uploads/2013/08/photo-2-300x224.jpg" width="300" height="224" />][2]
+[<img class="alignnone size-medium wp-image-3835" alt="photo (1)" src="/software-carpentry-training-website/uploads/2013/08/photo-1-300x224.jpg" width="300" height="224" />][1] [<img class="alignnone size-medium wp-image-3836" alt="photo (2)" src="/software-carpentry-training-website/uploads/2013/08/photo-2-300x224.jpg" width="300" height="224" />][2]
 
 &nbsp;
 
@@ -50,6 +50,6 @@ tags:
 
 &nbsp;
 
- [1]: /uploads/2013/08/photo-1.jpg
- [2]: /uploads/2013/08/photo-2.jpg
- [3]: /uploads/2013/08/SWC_Final.pdf
+ [1]: /software-carpentry-training-website/uploads/2013/08/photo-1.jpg
+ [2]: /software-carpentry-training-website/uploads/2013/08/photo-2.jpg
+ [3]: /software-carpentry-training-website/uploads/2013/08/SWC_Final.pdf

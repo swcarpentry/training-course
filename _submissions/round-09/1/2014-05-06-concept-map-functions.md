@@ -11,13 +11,13 @@ Hi all, here&#8217;s a go at a concept map for &#8220;functions&#8221;. My motiv
 
 I was surprised at how much easier it was to explain *why* functions were useful, rather than simply *what* they were.
 
-[<img class="alignnone size-full wp-image-6956" alt="Concept Map - Functions" src="/uploads/2014/05/cm-functions-mcnamara.png" width="1024" height="609" />][1]
+[<img class="alignnone size-full wp-image-6956" alt="Concept Map - Functions" src="/software-carpentry-training-website/uploads/2014/05/cm-functions-mcnamara.png" width="1024" height="609" />][1]
 
 **EDIT:** updated after feedback from Mark Wilber.
 
 Now we&#8217;re really starting to look like spaghetti. Even though it&#8217;s messy, I think it&#8217;s important to inter-relate concepts. There could probably be many more arrows drawn across the page.
 
-[<img class="alignnone size-large wp-image-6966" alt="Concept Map Functions 2" src="/uploads/2014/05/cm-functions-mcnamara-2-1024x768.jpg" width="707" height="530" />][2]
+[<img class="alignnone size-large wp-image-6966" alt="Concept Map Functions 2" src="/software-carpentry-training-website/uploads/2014/05/cm-functions-mcnamara-2-1024x768.jpg" width="707" height="530" />][2]
 
- [1]: /uploads/2014/05/cm-functions-mcnamara.png
- [2]: /uploads/2014/05/cm-functions-mcnamara-2.jpg
+ [1]: /software-carpentry-training-website/uploads/2014/05/cm-functions-mcnamara.png
+ [2]: /software-carpentry-training-website/uploads/2014/05/cm-functions-mcnamara-2.jpg

@@ -11,6 +11,6 @@ Here&#8217;s my concept map for navigating directories using the command line (i
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-4819" alt="WP_000125" src="/uploads/2013/10/WP_000125-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-4819" alt="WP_000125" src="/software-carpentry-training-website/uploads/2013/10/WP_000125-300x225.jpg" width="300" height="225" />][1]
 
- [1]: /uploads/2013/10/WP_000125.jpg
+ [1]: /software-carpentry-training-website/uploads/2013/10/WP_000125.jpg

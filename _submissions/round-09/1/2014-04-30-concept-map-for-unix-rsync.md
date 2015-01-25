@@ -9,6 +9,6 @@ tags:
 ---
 `rsync` is a conceptually simple command. Both the source (what we want to move) and the destination (where we want it) have specific locations. Locations are defined by a host and path on that host.
 
-[<img class="alignnone size-medium wp-image-6856" alt="concept map for rsync" src="/uploads/2014/04/photo1-e1398877603100-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-6856" alt="concept map for rsync" src="/software-carpentry-training-website/uploads/2014/04/photo1-e1398877603100-300x225.jpg" width="300" height="225" />][1]
 
- [1]: /uploads/2014/04/photo1-e1398877603100.jpg
+ [1]: /software-carpentry-training-website/uploads/2014/04/photo1-e1398877603100.jpg

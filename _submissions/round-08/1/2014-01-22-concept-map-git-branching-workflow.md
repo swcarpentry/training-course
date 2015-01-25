@@ -12,7 +12,7 @@ The target are people that have already a basic understanding of git and want to
 
 <!--more-->Something went quite wrong&#8230;the concept map doesn&#8217;t have many interconnections, I probably chose a topic which is linear, not particularly suitable for a representation as a concept map&#8230;
 
-[<img class="alignnone  wp-image-5559" alt="git-feature-branch-workflow_2y3ui8xr" src="/uploads/2014/01/git-feature-branch-workflow_2y3ui8xr.jpg" width="743" height="359" />][1]
+[<img class="alignnone  wp-image-5559" alt="git-feature-branch-workflow_2y3ui8xr" src="/software-carpentry-training-website/uploads/2014/01/git-feature-branch-workflow_2y3ui8xr.jpg" width="743" height="359" />][1]
 
 &nbsp;
 
@@ -21,7 +21,7 @@ The target are people that have already a basic understanding of git and want to
 UPDATE 25 Jan thanks to comments by Anne and Jessica,  
 now remote (Github is purple, local is yellow), I also integrated the other comments.
 
-[<img class="alignnone size-full wp-image-5688" alt="git-feature-branch-workflow_2y3uhftg" src="/uploads/2014/01/git-feature-branch-workflow_2y3uhftg.jpg" width="1060" height="584" />][2]
+[<img class="alignnone size-full wp-image-5688" alt="git-feature-branch-workflow_2y3uhftg" src="/software-carpentry-training-website/uploads/2014/01/git-feature-branch-workflow_2y3uhftg.jpg" width="1060" height="584" />][2]
 
- [1]: /uploads/2014/01/git-feature-branch-workflow_2y3ui8xr.jpg
- [2]: /uploads/2014/01/git-feature-branch-workflow_2y3uhftg.jpg
+ [1]: /software-carpentry-training-website/uploads/2014/01/git-feature-branch-workflow_2y3ui8xr.jpg
+ [2]: /software-carpentry-training-website/uploads/2014/01/git-feature-branch-workflow_2y3uhftg.jpg

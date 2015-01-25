@@ -282,5 +282,5 @@ Questions for today:
  [2]: http://www.screencast-o-matic.com/
  [3]: http://www.maartenbaert.be/simplescreenrecorder/
  [4]: http://freeseer.github.io/
- [5]: /uploads/2012/08/chen-pattern-language-screencasting-2009.pdf
+ [5]: /software-carpentry-training-website/uploads/2012/08/chen-pattern-language-screencasting-2009.pdf
  [6]: http://teaching.software-carpentry.org/category/video/

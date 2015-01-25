@@ -13,6 +13,6 @@ tags:
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-4783" alt="concept_map" src="/uploads/2013/10/concept_map-e1381960837685-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-4783" alt="concept_map" src="/software-carpentry-training-website/uploads/2013/10/concept_map-e1381960837685-300x225.jpg" width="300" height="225" />][1]
 
- [1]: /uploads/2013/10/concept_map-e1381960837685.jpg
+ [1]: /software-carpentry-training-website/uploads/2013/10/concept_map-e1381960837685.jpg

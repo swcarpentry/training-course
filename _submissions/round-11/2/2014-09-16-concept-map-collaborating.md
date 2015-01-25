@@ -7,10 +7,10 @@ permalink: /2014/09/concept-map-collaborating/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-8678" alt="IMG_4663" src="/uploads/2014/09/IMG_4663-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-8678" alt="IMG_4663" src="/software-carpentry-training-website/uploads/2014/09/IMG_4663-300x225.jpg" width="300" height="225" />][1]
 
 &nbsp;
 
 Here is my first ever concept map. Waiting for your feedback !
 
- [1]: /uploads/2014/09/IMG_4663.jpg
+ [1]: /software-carpentry-training-website/uploads/2014/09/IMG_4663.jpg

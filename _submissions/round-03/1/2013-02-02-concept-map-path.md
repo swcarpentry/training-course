@@ -10,7 +10,7 @@ tags:
   - conceptual map
 ---
 <h1 style="text-align: left;">
-  Concept Map<a href="/uploads/2013/02/snapshot2.jpeg"><img class="alignnone size-large wp-image-1583" alt="concept-map-path" src="/uploads/2013/02/snapshot2-1024x764.jpeg" width="707" height="527" /></a>
+  Concept Map<a href="/software-carpentry-training-website/uploads/2013/02/snapshot2.jpeg"><img class="alignnone size-large wp-image-1583" alt="concept-map-path" src="/software-carpentry-training-website/uploads/2013/02/snapshot2-1024x764.jpeg" width="707" height="527" /></a>
 </h1>
 
 # Multiple Choice Questions

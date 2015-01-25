@@ -7,10 +7,10 @@ permalink: /2014/06/regex-concept/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-7753" alt="RegexConcept" src="/uploads/2014/06/RegexConcept-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-7753" alt="RegexConcept" src="/software-carpentry-training-website/uploads/2014/06/RegexConcept-300x225.jpg" width="300" height="225" />][1]
 
 The idea here is to help a complete novice understand what a regex is. Sorry for the extreme low fidelity :).
 
 &nbsp;
 
- [1]: /uploads/2014/06/RegexConcept.jpg
+ [1]: /software-carpentry-training-website/uploads/2014/06/RegexConcept.jpg

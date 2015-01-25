@@ -23,7 +23,7 @@ What I&#8217;m shooting for here is to use this common problem as a launchpad to
 Below is a concept map for git pull.  As always, I found that there could be much more information here than is shown, but I didn&#8217;t want it to get too complex.
 
 <p style="text-align: center;">
-  <a href="/uploads/2013/08/GitPull.jpg"><img class="alignnone size-large wp-image-3983" alt="GitPull" src="/uploads/2013/08/GitPull-1024x488.jpg" width="707" height="336" /></a>
+  <a href="/software-carpentry-training-website/uploads/2013/08/GitPull.jpg"><img class="alignnone size-large wp-image-3983" alt="GitPull" src="/software-carpentry-training-website/uploads/2013/08/GitPull-1024x488.jpg" width="707" height="336" /></a>
 </p>
 
 <h1 style="text-align: left;">

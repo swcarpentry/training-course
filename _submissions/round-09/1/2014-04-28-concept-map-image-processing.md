@@ -9,8 +9,8 @@ tags:
 ---
 Here is the concept map that I would use to describe the image processing chain to Radiography Undergrads (specifically using NumPy and SciPy for problem solving) .
 
-[<img class="alignnone size-medium wp-image-6806" alt="20140428_134345" src="/uploads/2014/04/20140428_134345-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-6806" alt="20140428_134345" src="/software-carpentry-training-website/uploads/2014/04/20140428_134345-300x225.jpg" width="300" height="225" />][1]
 
 &nbsp;
 
- [1]: /uploads/2014/04/20140428_134345.jpg
+ [1]: /software-carpentry-training-website/uploads/2014/04/20140428_134345.jpg

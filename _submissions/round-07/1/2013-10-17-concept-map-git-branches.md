@@ -7,6 +7,6 @@ permalink: /2013/10/concept-map-git-branches/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-large wp-image-4850" alt="git-branch" src="/uploads/2013/10/git-branch-1024x694.jpg" width="707" height="479" />][1]
+[<img class="alignnone size-large wp-image-4850" alt="git-branch" src="/software-carpentry-training-website/uploads/2013/10/git-branch-1024x694.jpg" width="707" height="479" />][1]
 
- [1]: /uploads/2013/10/git-branch.jpg
+ [1]: /software-carpentry-training-website/uploads/2013/10/git-branch.jpg

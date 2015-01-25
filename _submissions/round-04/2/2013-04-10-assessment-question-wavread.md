@@ -20,4 +20,4 @@ An expert would know things like:
 *   mixing the two sounds is different than assigning each sound to either L or R channel
 *   you may need to scale the result of the mixture to avoid clipping
 
- [1]: /uploads/2013/03/wavreadConceptMap11.png "wavread concept map"
+ [1]: /software-carpentry-training-website/uploads/2013/03/wavreadConceptMap11.png "wavread concept map"

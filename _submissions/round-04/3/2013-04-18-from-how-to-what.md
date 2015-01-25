@@ -62,6 +62,6 @@ It&#8217;s OK if several people pick the same topic—you&#8217;re unlikely to s
 
 &nbsp;
 
- [1]: /uploads/2012/08/hannay-survey-2009.pdf
- [2]: /uploads/2012/08/prabhu-survey-2011.pdf
+ [1]: /software-carpentry-training-website/uploads/2012/08/hannay-survey-2009.pdf
+ [2]: /software-carpentry-training-website/uploads/2012/08/prabhu-survey-2011.pdf
  [3]: /2013/04/18/short-presentations-from-facts-and-fallacies/

@@ -9,7 +9,7 @@ tags:
 ---
 Here&#8217;s the concept map I would use (the topics I didn&#8217;t cover are in pink):
 
-[<img class="alignnone size-full wp-image-757" title="concept_map" src="/uploads/2012/10/concept_map2.png" alt="" width="700" height="506" />][1]
+[<img class="alignnone size-full wp-image-757" title="concept_map" src="/software-carpentry-training-website/uploads/2012/10/concept_map2.png" alt="" width="700" height="506" />][1]
 
 &nbsp;
 
@@ -21,6 +21,6 @@ Here&#8217;s a link to the IPython Notebook for the lesson: [File][2] (raw) and
 
 3. Being able to interactively run each piece of code provides learners with immediate feedback. IPython doesn&#8217;t have any of the fancy tools Bret had in order to visualize what&#8217;s happening, but I&#8217;ve kept my code snippets small so that they could be understood in chunks. Because I&#8217;d likely be teaching biologists, I included a biology-related example in the end to keep the topic relevant.
 
- [1]: /uploads/2012/10/concept_map2.png
+ [1]: /software-carpentry-training-website/uploads/2012/10/concept_map2.png
  [2]: https://www.msu.edu/~carlosja/list_comprehension.ipynb
  [3]: http://nbviewer.ipython.org/url/msu.edu/~carlosja/list_comprehension.ipynb

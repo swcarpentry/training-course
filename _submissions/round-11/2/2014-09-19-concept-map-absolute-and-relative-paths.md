@@ -7,6 +7,6 @@ permalink: /2014/09/concept-map-absolute-and-relative-paths/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-8893" alt="paths_concept.map" src="/uploads/2014/09/paths_concept.map_-300x168.png" width="300" height="168" />][1]
+[<img class="alignnone size-medium wp-image-8893" alt="paths_concept.map" src="/software-carpentry-training-website/uploads/2014/09/paths_concept.map_-300x168.png" width="300" height="168" />][1]
 
- [1]: /uploads/2014/09/paths_concept.map_.png
+ [1]: /software-carpentry-training-website/uploads/2014/09/paths_concept.map_.png

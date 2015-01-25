@@ -9,7 +9,7 @@ tags:
 ---
 **Prepared by Justin Kitzes**
 
-[<img class="alignnone size-large wp-image-137" title="kitzes_week1_lists" src="/uploads/2012/09/kitzes_week1_lists-1024x838.png" alt="" width="707" height="578" />][1]
+[<img class="alignnone size-large wp-image-137" title="kitzes_week1_lists" src="/software-carpentry-training-website/uploads/2012/09/kitzes_week1_lists-1024x838.png" alt="" width="707" height="578" />][1]
 
 [JK: Since lists are a somewhat complex subject, I wrote short vignette/examples below rather than code snippets + paragraphs. Hopefully still in the spirit of the assignment.]
 
@@ -112,5 +112,5 @@ The examples together highlight the two more general concepts of collections (b
 
 It took me around 4-5 hours (including the reading) to complete this week&#8217;s assignment, although I didn&#8217;t make too much of an effort to work quickly. I downloaded [CmapTools][2] to use to make my concept map &#8211; great free software, very easy to use.
 
- [1]: /uploads/2012/09/kitzes_week1_lists.png
+ [1]: /software-carpentry-training-website/uploads/2012/09/kitzes_week1_lists.png
  [2]: http://cmap.ihmc.us/

@@ -16,8 +16,8 @@ tags:
   </dd>
 </dl>
 
-[<img class="alignnone size-medium wp-image-7068" alt="Github_v2.1" src="/uploads/2014/05/Github_v2.1-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-7068" alt="Github_v2.1" src="/software-carpentry-training-website/uploads/2014/05/Github_v2.1-300x225.jpg" width="300" height="225" />][1]
 
 This is a revised version of the Git basic concepts concept map to address previous comments
 
- [1]: /uploads/2014/05/Github_v2.1.jpg
+ [1]: /software-carpentry-training-website/uploads/2014/05/Github_v2.1.jpg

@@ -10,7 +10,7 @@ tags:
 I went with the low-hanging fruit option and did a concept map for the very first idea in the Boot Camp. Let me know what I missed.
 
 <p style="text-align: center;">
-  <a href="/uploads/2013/01/filesConceptMap1.jpg"><img class="alignnone size-large wp-image-1504" alt="Concept Map for Files and Directories" src="/uploads/2013/01/filesConceptMap1-1024x724.jpg" width="707" height="499" /></a>
+  <a href="/software-carpentry-training-website/uploads/2013/01/filesConceptMap1.jpg"><img class="alignnone size-large wp-image-1504" alt="Concept Map for Files and Directories" src="/software-carpentry-training-website/uploads/2013/01/filesConceptMap1-1024x724.jpg" width="707" height="499" /></a>
 </p>
 
 <p style="text-align: left;">
