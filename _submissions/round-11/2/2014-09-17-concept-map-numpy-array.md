@@ -7,7 +7,7 @@ permalink: /2014/09/concept-map-numpy-array/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-large wp-image-8772" alt="Numpy_Array_Concept_Map" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/Numpy_Array_Concept_Map1-1024x842.jpg" width="707" height="581" />][1]
+[<img class="alignnone size-large wp-image-8772" alt="Numpy_Array_Concept_Map" src="/uploads/2014/09/Numpy_Array_Concept_Map1-1024x842.jpg" width="707" height="581" />][1]
 
 &nbsp;
 
@@ -15,4 +15,4 @@ A concept map of a numpy array. At this point in the carpentry course the user o
 
 In retrospect, this is probably not the best topic for a concept map.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/09/Numpy_Array_Concept_Map1.jpg
+ [1]: /uploads/2014/09/Numpy_Array_Concept_Map1.jpg

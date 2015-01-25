@@ -7,7 +7,7 @@ permalink: /2012/09/week-1-inputoutput-in-python/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-large wp-image-231" title="IOconceptmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/IOconceptmap-1024x768.png" alt="" width="707" height="530" />][1]
+[<img class="alignnone size-large wp-image-231" title="IOconceptmap" src="/uploads/2012/09/IOconceptmap-1024x768.png" alt="" width="707" height="530" />][1]
 
 Example:
 
@@ -120,4 +120,4 @@ I went very general in my concept map &#8211;  I did not specific commands.
 I found it hard to capture in a short example much of the intricacy of I/O but re-reading parts of the chapter cause me to add in several more explicit parallels between reading and writing that I think made the whole operation much more logic driven.  
 I spent about an hour reading and two and a half hours on the concept map and example. But then I had to shut down my laptop, for the plane to land and am quickly posting as is. Hope I caught my typos!
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/09/IOconceptmap.png
+ [1]: /uploads/2012/09/IOconceptmap.png

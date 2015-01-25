@@ -20,7 +20,7 @@ QUESTION 1
 
 Consider the list myList in R. Which of the following would correctly extract the object storing the lm() regression results? (Select all that apply)
 
-[<img class="alignnone size-full wp-image-8136" alt="listcomp" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/07/listcomp.png" width="826" height="411" />][1]
+[<img class="alignnone size-full wp-image-8136" alt="listcomp" src="/uploads/2014/07/listcomp.png" width="826" height="411" />][1]
 
 &nbsp;
 
@@ -36,4 +36,4 @@ Not knowing about what the objects glm() and lm() return look like, how would yo
 
 BONUS: Using one command, how would you look at all the coefficients simultaneously.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/07/listcomp.png
+ [1]: /uploads/2014/07/listcomp.png

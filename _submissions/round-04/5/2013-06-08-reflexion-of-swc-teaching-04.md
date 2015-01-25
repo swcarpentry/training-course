@@ -95,7 +95,7 @@ While I learnt a lot from &#8216;How Learning Works&#8217;, I noticed that many 
         
         <!-- Greg said 'at least 200 words' :X-->
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/06/warzone2100_command_line_parameters.png
+ [1]: /uploads/2013/06/warzone2100_command_line_parameters.png
 
  *[RFC]: Request For Comments
  *[SWC]: Software Carpentry

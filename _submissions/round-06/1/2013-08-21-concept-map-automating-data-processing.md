@@ -8,5 +8,5 @@ tags:
   - Concept Map
 ---
 <p style="text-align: center;">
-  <a href="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/6-1-concept-map.jpg"><img class="size-medium wp-image-4005 aligncenter" title="Concept Map for Automating Data Processing" alt="6-1-concept-map" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/6-1-concept-map-300x187.jpg" width="300" height="187" /></a>
+  <a href="/uploads/2013/08/6-1-concept-map.jpg"><img class="size-medium wp-image-4005 aligncenter" title="Concept Map for Automating Data Processing" alt="6-1-concept-map" src="/uploads/2013/08/6-1-concept-map-300x187.jpg" width="300" height="187" /></a>
 </p>

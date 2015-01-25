@@ -8,5 +8,5 @@ tags:
   - Concept Map
 ---
 <p style="text-align: center;">
-  <a href="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/concept_map_julian_garcia_function.jpg"><img class="aligncenter size-full wp-image-3934" alt="concept_map_julian_garcia_function" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/concept_map_julian_garcia_function.jpg" width="1024" height="768" /></a>
+  <a href="/uploads/2013/08/concept_map_julian_garcia_function.jpg"><img class="aligncenter size-full wp-image-3934" alt="concept_map_julian_garcia_function" src="/uploads/2013/08/concept_map_julian_garcia_function.jpg" width="1024" height="768" /></a>
 </p>

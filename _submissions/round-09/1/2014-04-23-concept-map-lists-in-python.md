@@ -11,4 +11,4 @@ I have produced the following concept map for students learning the basics of th
 
 ![A concept map of the 'list' data structure, produced by Christian Jacobs.][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/04/list_concept_map_christian_jacobs.jpg
+ [1]: /uploads/2014/04/list_concept_map_christian_jacobs.jpg

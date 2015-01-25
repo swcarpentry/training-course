@@ -9,7 +9,7 @@ tags:
 ---
 After collecting your data it comes time to analyze. But, of course, the data never arrive ready for SPSS&#8211;the data may need cleaning, preprocessing, computing a dependent variable for each of many separate files, etc. Consider a simple experiment comparing reaction times to pictures of faces expressing different emotions. It&#8217;s not uncommon to end up with a data file looking like this (with many more trials) for each subject:
 
-[<img class="alignnone size-full wp-image-6176" alt="exampledatafile" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/02/exampledatafile.png" width="574" height="121" />][1]
+[<img class="alignnone size-full wp-image-6176" alt="exampledatafile" src="/uploads/2014/02/exampledatafile.png" width="574" height="121" />][1]
 
 Such data files also frequently have unwanted header rows, unwieldy text (check out that Clock column!), and invalid or inaccurate trails (see Faces.ACC&#8211;accuracy&#8211;for trial3). And you like will want to compute a dependent variable of interest (e.g., mean RTs for angry and happy trials). What are some options for how to processes these files and get them ready for analysis?&#8230;
 
@@ -32,4 +32,4 @@ Such data files also frequently have unwanted header rows, unwieldy text (check 
 *   Transparent and flexible (Want to reprocess all the data to compute a new dependent variable? Update the script and run it once. Done.)
 *   Major cause of highly productive research studies!
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/02/exampledatafile.png
+ [1]: /uploads/2014/02/exampledatafile.png

@@ -11,6 +11,6 @@ this is a (hopefully readable) map related to http://software-carpentry.org/v5/
 
 comments/criticism most welcome.
 
-[<img class="alignnone size-medium wp-image-8645" alt="concept_map_python_functions" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/concept_map_python_functions-300x200.jpg" width="300" height="200" />][1]
+[<img class="alignnone size-medium wp-image-8645" alt="concept_map_python_functions" src="/uploads/2014/09/concept_map_python_functions-300x200.jpg" width="300" height="200" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/09/concept_map_python_functions.jpg
+ [1]: /uploads/2014/09/concept_map_python_functions.jpg

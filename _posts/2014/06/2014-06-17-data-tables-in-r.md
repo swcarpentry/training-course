@@ -17,6 +17,6 @@ A Concept map for teaching the basics of \`data.tables\` to a novice in R. What 
 
 The rest of the bubbles are related concepts not necessarily on the critical path for the lesson, but discussion may diverge depending on the learner&#8217;s prior knowledge (especially if they&#8217;ve had some exposure to R, and know what a \`data.frame\` is).
 
-[<img class="alignnone size-medium wp-image-7722" alt="Something witty like Randall Munroe would write." src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/Concept-map-300x266.jpeg" width="300" height="266" />][1]
+[<img class="alignnone size-medium wp-image-7722" alt="Something witty like Randall Munroe would write." src="/uploads/2014/06/Concept-map-300x266.jpeg" width="300" height="266" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/06/Concept-map.jpeg
+ [1]: /uploads/2014/06/Concept-map.jpeg

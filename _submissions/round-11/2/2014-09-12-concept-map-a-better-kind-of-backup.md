@@ -13,6 +13,6 @@ You have permission to be brutally honest. This map is how I perceive the connec
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-8609" alt="20140912_095239" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/20140912_095239-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-8609" alt="20140912_095239" src="/uploads/2014/09/20140912_095239-300x225.jpg" width="300" height="225" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/09/20140912_095239.jpg
+ [1]: /uploads/2014/09/20140912_095239.jpg

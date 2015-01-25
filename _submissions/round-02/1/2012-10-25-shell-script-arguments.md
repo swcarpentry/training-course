@@ -9,7 +9,7 @@ tags:
 ---
 I spent about an hour Wednesday evening thinking and messing about with Cmap (which I picked up from the Round 1 posts, and I highly recommend it:  http://cmap.ihmc.us/).  For a concept I started with &#8220;What&#8217;s a file?&#8221;.  It is **way** too easy to go past 6 nodes on a cmap on some subject you know a lot about!  Reined myself in, trimmed it down to 6 nodes.
 
-[<img class="alignright size-full wp-image-765" title="UnixFilesCmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/10/UnixFilesCmap.png" alt="" width="405" height="208" />][1]
+[<img class="alignright size-full wp-image-765" title="UnixFilesCmap" src="/uploads/2012/10/UnixFilesCmap.png" alt="" width="405" height="208" />][1]
 
 Then tried to think of an &#8220;example to illustrate the concept&#8221;.  Uh&#8230; okay.  &#8216;ls': Here&#8217;s a filename.  Here&#8217;s its extension.  &#8216;pwd': here&#8217;s it&#8217;s location.  &#8216;ls -l': here&#8217;s how big it is.
 
@@ -17,7 +17,7 @@ Half a dozen worked examples to reduce cognitive load?  What do you get student
 
 Well, that&#8217;s three concepts for the cmap right away. I struggled for a while to come up with three and *only* three related concepts to fill out the map, then threw away &#8216;str&#8217; and turned it into a cmap for &#8216;numeric types&#8217;.
 
-[<img class="alignright size-full wp-image-766" title="NumericTypesCmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/10/NumericTypesCmap2.png" alt="" width="361" height="269" />][2]
+[<img class="alignright size-full wp-image-766" title="NumericTypesCmap" src="/uploads/2012/10/NumericTypesCmap2.png" alt="" width="361" height="269" />][2]
 
 Thursday afternoon, I return to cook up an example and some worked examples.  Let me see, how do you determine the range and size-in-bytes of a Python float or int?  <rummage, rummage>  Well, we could exponentiate big numbers until we get an overflow error.  Oh yeah, and we might have to explain what the &#8216;L&#8217; is about at the end of a Python long int.  Talk about irrelevant distractions&#8230;
 
@@ -29,7 +29,7 @@ Thursday evening.  Back to http://software-carpentry.org/2012/10/key-points/ on
 
 Let&#8217;s have a go at shell scripts, shamelessly mining Greg&#8217;s notes for the concept map.
 
-[<img class="aligncenter size-full wp-image-767" title="ShellArgumentsCmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/10/ShellArgumentsCmap1.png" alt="A small concept map of Unix shell scripts and arguments" width="344" height="226" />][3]
+[<img class="aligncenter size-full wp-image-767" title="ShellArgumentsCmap" src="/uploads/2012/10/ShellArgumentsCmap1.png" alt="A small concept map of Unix shell scripts and arguments" width="344" height="226" />][3]
 
 Now a simple, yet motivated, example:
 
@@ -60,6 +60,6 @@ done</pre>
 
 Time spent:  About 4 hours.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/10/UnixFilesCmap.png
- [2]: http://teaching.software-carpentry.org/wp-content/uploads/2012/10/NumericTypesCmap2.png
- [3]: http://teaching.software-carpentry.org/wp-content/uploads/2012/10/ShellArgumentsCmap1.png
+ [1]: /uploads/2012/10/UnixFilesCmap.png
+ [2]: /uploads/2012/10/NumericTypesCmap2.png
+ [3]: /uploads/2012/10/ShellArgumentsCmap1.png

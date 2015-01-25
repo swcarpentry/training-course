@@ -68,7 +68,7 @@ tags:
 
 ***<span style="text-decoration: underline;">Readings</span>***
 
-*   <http://teaching.software-carpentry.org/wp-content/uploads/2012/08/guzdial.pdf>
+*   </uploads/2012/08/guzdial.pdf>
 *   Anything else from <http://teaching.software-carpentry.org/links> that catches your eye
 *   The first two chapters of *How Learning Works*
 *   <http://software-carpentry.org/blog/2013/12/tools-conversations-and-cultures.html>
@@ -77,7 +77,7 @@ tags:
 *   <http://www.interaction-design.org/encyclopedia/cognitive_artifacts.html>
 *   <http://www.changemag.org/Archives/Back%20Issues/September-October%202010/the-myth-of-learning-full.html>
 *   <https://en.wikipedia.org/wiki/Mind_map>
-*   Seperate interesting link from chat: <http://teaching.software-carpentry.org/wp-content/uploads/2012/08/mayer-reduce-cognitive-load.pdf>
+*   Seperate interesting link from chat: </uploads/2012/08/mayer-reduce-cognitive-load.pdf>
 
 ***<span style="text-decoration: underline;">Practice and Reflection</span>***
 
@@ -172,7 +172,7 @@ Aside here, the myth of different learning &#8220;styles&#8221;
     *   Not a decision tree or dataflow diagram
     *   <http://software-carpentry.org/blog/2014/01/a-beautiful-diagram.html> is one for software deployment 
         *   too large for a single lesson, but pulls together all the concepts
-    *   <http://teaching.software-carpentry.org/wp-content/uploads/2014/01/nature.png> shows a redrawing of <http://teaching.softwareN-carpentry.org/wp-content/uploads/2014/01/nature.jpg>
+    *   </uploads/2014/01/nature.png> shows a redrawing of <http://teaching.softwareN-carpentry.org/wp-content/uploads/2014/01/nature.jpg>
     *   See <http://teaching.software-carpentry.org/category/concept-map/> for what previous trainees have done
     *   This is related to mind mapping <https://en.wikipedia.org/wiki/Mind_map> used to &#8220;brainstorm&#8221; material
 *   Many ways to use them: 

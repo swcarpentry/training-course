@@ -11,6 +11,6 @@ In my group we often run web-based experiments with participants in a computer l
 
 &nbsp;
 
-[<img class="aligncenter size-large wp-image-7785" alt="Concept map for identification of users in experiment" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/EO_Sorensen_identification_of_users-1024x574.jpg" width="707" height="396" />][1]
+[<img class="aligncenter size-large wp-image-7785" alt="Concept map for identification of users in experiment" src="/uploads/2014/06/EO_Sorensen_identification_of_users-1024x574.jpg" width="707" height="396" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/06/EO_Sorensen_identification_of_users.jpg
+ [1]: /uploads/2014/06/EO_Sorensen_identification_of_users.jpg

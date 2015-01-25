@@ -7,7 +7,7 @@ permalink: /2014/06/concept-map-python-dicts/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-7698" alt="concept_map" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/concept_map-300x211.jpg" width="300" height="211" />][1]
+[<img class="alignnone size-medium wp-image-7698" alt="concept_map" src="/uploads/2014/06/concept_map-300x211.jpg" width="300" height="211" />][1]
 
 &nbsp;
 
@@ -17,4 +17,4 @@ I actually had an interesting experience as I showed the map to my partner; the 
 
 So this is a pretty simple topic, python dicts!
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/06/concept_map.jpg
+ [1]: /uploads/2014/06/concept_map.jpg

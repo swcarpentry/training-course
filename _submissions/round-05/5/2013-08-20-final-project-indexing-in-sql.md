@@ -16,7 +16,7 @@ Will try and add the concept map ASAP.
 
 Edit: Here&#8217;s the concept map!
 
-[<img class="alignnone size-medium wp-image-4057" alt="indexing" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/indexing-295x300.png" width="295" height="300" />][1]
+[<img class="alignnone size-medium wp-image-4057" alt="indexing" src="/uploads/2013/08/indexing-295x300.png" width="295" height="300" />][1]
 
 &nbsp;
 
@@ -44,7 +44,7 @@ Next Edit:
 
 I talked to a couple of other PhD-students about indexing, here&#8217;s my &#8220;teaching material&#8221;, the stuff I scribbled on the whiteboard while I talked:
 
-[<img class="alignnone size-medium wp-image-4203" alt="20130903_162104" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/20130903_162104-225x300.jpg" width="225" height="300" />][2]
+[<img class="alignnone size-medium wp-image-4203" alt="20130903_162104" src="/uploads/2013/08/20130903_162104-225x300.jpg" width="225" height="300" />][2]
 
 Feedback was relatively OK &#8211; I asked for e-mails but no-one really criticized anything, I guess it&#8217;s hard to get people to criticize something when they&#8217;re not really used to criticizing. Here&#8217;s one:
 
@@ -53,5 +53,5 @@ Understood it, although know nothing of mysql.
 The advice when it is good to use indexing and when it
 is not necessary was very helpful.</pre>
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/indexing.png
- [2]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/20130903_162104.jpg
+ [1]: /uploads/2013/08/indexing.png
+ [2]: /uploads/2013/08/20130903_162104.jpg

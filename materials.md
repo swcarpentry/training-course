@@ -51,7 +51,7 @@ permalink: /materials/
 
 *   &#8220;[Understanding by Design][37]&#8221; template and examples (for those in a hurry)
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/guzdial.pdf
+ [1]: /uploads/2012/08/guzdial.pdf
  [2]: http://computinged.wordpress.com/
  [3]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/
  [4]: http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393081591/
@@ -64,27 +64,27 @@ permalink: /materials/
  [11]: http://www.amazon.com/Design-People-Learn-Voices-Matter/dp/0321768434/
  [12]: http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843
  [13]: http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/
- [14]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/binkley-identifier-style-effort-comprehension-2012.pdf
- [15]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/chen-pattern-language-screencasting-2009.pdf
- [16]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/cherubini-venolia-whiteboard-2007.pdf
- [17]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/clark-libarkin-2011.pdf
- [18]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/crouch-mazur-peer-instruction-ten-years-2001.pdf
- [19]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/daniel-moocs-2012.pdf
- [20]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/dunlosky-learning-techniques-2013.pdf
- [21]: http://teaching.software-carpentry.org/wp-content/uploads/2014/03/The-Aesthetics-of-Imperfection.pdf
- [22]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/ajpv3i.pdf
- [23]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/hannay-survey-2009.pdf
- [24]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/harskamp-mayer-modality.pdf
- [25]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/kirschner-minimal-guidance-fails-2006.pdf
- [26]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/labaree-educationalization-2008.pdf
- [27]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/lee-matlab-cs1-2013.pdf
- [28]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/mayer-reduce-cognitive-load.pdf
- [29]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/porter-halving-fail-peer-instruction-2013.pdf
- [30]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/p34-porter.pdf
- [31]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/prabhu-survey-2011.pdf
- [32]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/rattan-entity-theory-2011.pdf
- [33]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/sorva-thesis-1.pdf
- [34]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/sweller-cognitive-load-theory.pdf
- [35]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/whitecraft-williams.pdf
- [36]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/wholey-1996.pdf
- [37]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/UbDQuikvue1005.pdf
+ [14]: /uploads/2012/08/binkley-identifier-style-effort-comprehension-2012.pdf
+ [15]: /uploads/2012/08/chen-pattern-language-screencasting-2009.pdf
+ [16]: /uploads/2012/08/cherubini-venolia-whiteboard-2007.pdf
+ [17]: /uploads/2012/08/clark-libarkin-2011.pdf
+ [18]: /uploads/2012/08/crouch-mazur-peer-instruction-ten-years-2001.pdf
+ [19]: /uploads/2012/08/daniel-moocs-2012.pdf
+ [20]: /uploads/2012/08/dunlosky-learning-techniques-2013.pdf
+ [21]: /uploads/2014/03/The-Aesthetics-of-Imperfection.pdf
+ [22]: /uploads/2013/08/ajpv3i.pdf
+ [23]: /uploads/2012/08/hannay-survey-2009.pdf
+ [24]: /uploads/2012/08/harskamp-mayer-modality.pdf
+ [25]: /uploads/2012/08/kirschner-minimal-guidance-fails-2006.pdf
+ [26]: /uploads/2012/08/labaree-educationalization-2008.pdf
+ [27]: /uploads/2012/08/lee-matlab-cs1-2013.pdf
+ [28]: /uploads/2012/08/mayer-reduce-cognitive-load.pdf
+ [29]: /uploads/2012/08/porter-halving-fail-peer-instruction-2013.pdf
+ [30]: /uploads/2013/08/p34-porter.pdf
+ [31]: /uploads/2012/08/prabhu-survey-2011.pdf
+ [32]: /uploads/2012/08/rattan-entity-theory-2011.pdf
+ [33]: /uploads/2012/08/sorva-thesis-1.pdf
+ [34]: /uploads/2012/08/sweller-cognitive-load-theory.pdf
+ [35]: /uploads/2013/08/whitecraft-williams.pdf
+ [36]: /uploads/2012/08/wholey-1996.pdf
+ [37]: /uploads/2012/08/UbDQuikvue1005.pdf

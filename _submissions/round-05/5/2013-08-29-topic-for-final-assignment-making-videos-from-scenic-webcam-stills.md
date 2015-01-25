@@ -14,7 +14,7 @@ The context of this idea is as an applied shell scripting exercise. The aim is t
 
 **Concept map:**
 
-[<img class="alignnone size-medium wp-image-4174" alt="5.5-idea-concept-map" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/5.5-idea-concept-map-300x183.jpeg" width="300" height="183" />][1]
+[<img class="alignnone size-medium wp-image-4174" alt="5.5-idea-concept-map" src="/uploads/2013/08/5.5-idea-concept-map-300x183.jpeg" width="300" height="183" />][1]
 
 &nbsp;
 
@@ -90,7 +90,7 @@ There were some discussion on how exercises could be structured; giving skeleton
 
 &nbsp;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/5.5-idea-concept-map.jpeg
+ [1]: /uploads/2013/08/5.5-idea-concept-map.jpeg
  [2]: http://www.slideshare.net/shoaibsufi/55-teachingmaterial "Applied shell scripting"
  [3]: https://vimeo.com/75486006 "Snowdon video"
  [4]: http://sierra-nevada.cs.man.ac.uk/

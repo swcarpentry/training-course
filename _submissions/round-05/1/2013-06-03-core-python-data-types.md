@@ -11,6 +11,6 @@ This is my attempt at trying to give a high-level organization to the core built
 
 I&#8217;d like to think this is how I would begin to explain the &#8216;batteries included&#8217; philosophy of Python to **very** beginning Python developers.  So, I chose to organize it in a way that could provide students with a quick way to look up the proper data type assuming they already know the problem they want to solve like &#8216;simple math&#8217; or &#8216;store a list of unordered information.&#8217;
 
-[<img class="alignnone size-medium wp-image-2979" alt="Python data types concept map" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/06/data_types_concept_map-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-2979" alt="Python data types concept map" src="/uploads/2013/06/data_types_concept_map-300x225.jpg" width="300" height="225" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/06/data_types_concept_map.jpg
+ [1]: /uploads/2013/06/data_types_concept_map.jpg

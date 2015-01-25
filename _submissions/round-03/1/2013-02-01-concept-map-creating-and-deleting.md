@@ -7,7 +7,7 @@ permalink: /2013/02/concept-map-creating-and-deleting/
 tags:
   - Concept Map
 ---
-<a href="http://teaching.software-carpentry.org/wp-content/uploads/2013/02/CreatingandDeletingConceptMap1.png" target="_blank"><img class="alignnone  wp-image-1548" alt="CreatingandDeletingConceptMap" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/02/CreatingandDeletingConceptMap1-1024x366.png" width="707" height="252" /></a>
+<a href="/uploads/2013/02/CreatingandDeletingConceptMap1.png" target="_blank"><img class="alignnone  wp-image-1548" alt="CreatingandDeletingConceptMap" src="/uploads/2013/02/CreatingandDeletingConceptMap1-1024x366.png" width="707" height="252" /></a>
 
 &nbsp;
 

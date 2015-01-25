@@ -14,7 +14,7 @@ Refs.:
 
 Concept map:
 
-[<img class="alignnone size-medium wp-image-3846" alt="conceptMap" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/conceptMap-214x300.jpg" width="214" height="300" />][1]
+[<img class="alignnone size-medium wp-image-3846" alt="conceptMap" src="/uploads/2013/08/conceptMap-214x300.jpg" width="214" height="300" />][1]
 
 &nbsp;
 
@@ -40,4 +40,4 @@ Assessment questions:
 
 &#8211; as detailed as possible
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/conceptMap.jpg
+ [1]: /uploads/2013/08/conceptMap.jpg

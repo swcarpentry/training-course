@@ -7,6 +7,6 @@ permalink: /2013/03/concept-map-looping-in-r-alex-bush/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-large wp-image-1967" alt="Looping-in-R" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/03/Looping-in-R-1024x724.png" width="707" height="499" />][1]
+[<img class="alignnone size-large wp-image-1967" alt="Looping-in-R" src="/uploads/2013/03/Looping-in-R-1024x724.png" width="707" height="499" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/03/Looping-in-R.png
+ [1]: /uploads/2013/03/Looping-in-R.png

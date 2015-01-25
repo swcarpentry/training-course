@@ -9,7 +9,7 @@ tags:
 ---
 ## Concept map
 
-[<img class="alignnone size-full wp-image-237" title="concept-map" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/concept-map1.jpg" alt="" width="993" height="729" />][1]This took a while to create, partly because I spent some time experimenting with Inkscape and other drawing and diagramming applications before giving up and resorting to freehand drawing on paper, but also because I had never used Numpy before. So this is a concept map drawn not by a subject expert but a comparative novice. I did also find it attempting to mutate into some kind of UML-inspired collaboration diagram at some points, which I guess is not the same thing as a concept map.
+[<img class="alignnone size-full wp-image-237" title="concept-map" src="/uploads/2012/09/concept-map1.jpg" alt="" width="993" height="729" />][1]This took a while to create, partly because I spent some time experimenting with Inkscape and other drawing and diagramming applications before giving up and resorting to freehand drawing on paper, but also because I had never used Numpy before. So this is a concept map drawn not by a subject expert but a comparative novice. I did also find it attempting to mutate into some kind of UML-inspired collaboration diagram at some points, which I guess is not the same thing as a concept map.
 
 ## Examples
 
@@ -67,4 +67,4 @@ I would estimate it has taken my about 5 hours in total to read the relevant cha
 
 Some of the material in the Software Carpentry video did not work as expected, which probably indicates a dependency on the version of Numpy. Namely in the section on &#8220;Basic Operations&#8221;, the resize() method does not select a block of given rows and columns but flattens the data before reshaping it.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/09/concept-map1.jpg
+ [1]: /uploads/2012/09/concept-map1.jpg

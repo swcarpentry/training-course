@@ -11,6 +11,6 @@ Covering only the section &#8220;Generating SSH Keys&#8221; that is part of the 
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-8622" alt="swc-map" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/swc-map-e1410545440384-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-8622" alt="swc-map" src="/uploads/2014/09/swc-map-e1410545440384-300x225.jpg" width="300" height="225" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/09/swc-map-e1410545440384.jpg
+ [1]: /uploads/2014/09/swc-map-e1410545440384.jpg

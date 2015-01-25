@@ -15,7 +15,7 @@ UPDATE &#8211; 17/Aug/2013:  Mindmap added
 
 This mindmap shows the difference between *cloning* and *forking* a public repository on a social git platform (eg. [github][1], [bitbucket][2], [gitlab][3], &#8230;), *Pull Requests* are used to ask the maintainer of the repository to pull your improvements to the code &#8211; who can accept/merge it, hold it till new improvements are included or decline it. Also, code can be *fetched* from other forks (as Bilbo does from Gandalf). Finally, forking can be done on forks of forks (Sam does it from Frodo who did it from Bilbo).  Notice that *Forks* are &#8220;controlled&#8221; *clones*, so their differences/evolutions can be tracked.<figure id="attachment_3915" style="width: 707px;" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-3915" alt="Bilbo's workflow" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/gitsocial-1024x588.png" width="707" height="405" />][4]<figcaption class="wp-caption-text">JRRT has a repository where he is creating a map of Middle Earth. Other people are also contributing by using the social side of git.  
+[<img class="size-large wp-image-3915" alt="Bilbo's workflow" src="/uploads/2013/08/gitsocial-1024x588.png" width="707" height="405" />][4]<figcaption class="wp-caption-text">JRRT has a repository where he is creating a map of Middle Earth. Other people are also contributing by using the social side of git.  
 Click on the image for a larger version.</figcaption></figure> 
 UPDATE &#8211; 3/Sep/2013: Questions, Slides and Feedback.
 
@@ -41,4 +41,4 @@ I really loved the &#8220;experiment&#8221; and now I&#8217;m looking forward to
  [1]: http://github.com "github"
  [2]: http://bitbucket.org/ "bitbucket"
  [3]: http://gitlab.org/ "github os clone"
- [4]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/gitsocial.png
+ [4]: /uploads/2013/08/gitsocial.png

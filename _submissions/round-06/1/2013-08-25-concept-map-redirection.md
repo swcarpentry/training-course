@@ -11,8 +11,8 @@ Sorry for the late submission of this assignment. I decided to go for teaching r
 
 I&#8217;ve kept the concept map free from clutter as I wanted to have this image in the forefront of the student&#8217;s mind at the end of the class. I think it&#8217;s a nice summary of the three streams and the characters used for redirection. I also thought about putting in things like 2>&1 for redirecting STDERR and STDOUT at the same time but decided against it for a beginner class and the same can be achieved with &#8220;2> out.stderr > out.stdout&#8221;.
 
-[<img class="alignnone size-medium wp-image-4115" alt="concept_map_redirection" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/concept_map_redirection-300x207.png" width="415" height="286" />][1]
+[<img class="alignnone size-medium wp-image-4115" alt="concept_map_redirection" src="/uploads/2013/08/concept_map_redirection-300x207.png" width="415" height="286" />][1]
 
 &nbsp;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/concept_map_redirection.png
+ [1]: /uploads/2013/08/concept_map_redirection.png
