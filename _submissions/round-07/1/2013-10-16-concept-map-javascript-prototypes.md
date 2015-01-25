@@ -9,6 +9,6 @@ tags:
 ---
 A quick brain dump of prototypes in JS
 
-[<img class="alignnone size-medium wp-image-4790" alt="photo" src="/software-carpentry-training-website/uploads/2013/10/photo-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-4790" alt="photo" src="/training-course/uploads/2013/10/photo-300x225.jpg" width="300" height="225" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2013/10/photo.jpg
+ [1]: /training-course/uploads/2013/10/photo.jpg

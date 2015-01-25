@@ -9,8 +9,8 @@ tags:
 ---
 Teaching loading (biological) image loading from a file on disk. 
 
-[<img class="alignnone size-medium wp-image-4739" alt="image loading concepts" src="/software-carpentry-training-website/uploads/2013/10/image_loading_concepts-300x190.png" width="300" height="190" />][1]
+[<img class="alignnone size-medium wp-image-4739" alt="image loading concepts" src="/training-course/uploads/2013/10/image_loading_concepts-300x190.png" width="300" height="190" />][1]
 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2013/10/image_loading_concepts.png
+ [1]: /training-course/uploads/2013/10/image_loading_concepts.png

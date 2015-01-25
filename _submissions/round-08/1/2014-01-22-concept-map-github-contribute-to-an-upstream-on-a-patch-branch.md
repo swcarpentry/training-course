@@ -30,8 +30,8 @@ Github Collaboration
 
 x
 
-[<img class="alignnone size-full wp-image-5618" alt="SwCarpentry.PicGithubCollab.140122w" src="/software-carpentry-training-website/uploads/2014/01/SwCarpentry.PicGithubCollab.140122w.png" width="604" height="587" />][1]
+[<img class="alignnone size-full wp-image-5618" alt="SwCarpentry.PicGithubCollab.140122w" src="/training-course/uploads/2014/01/SwCarpentry.PicGithubCollab.140122w.png" width="604" height="587" />][1]
 
 x
 
- [1]: /software-carpentry-training-website/uploads/2014/01/SwCarpentry.PicGithubCollab.140122w.png
+ [1]: /training-course/uploads/2014/01/SwCarpentry.PicGithubCollab.140122w.png

@@ -5,7 +5,7 @@ permalink: /2014/09/assessment-exercise-the-unix-shell-files-and-directories/
 categories:
   - Uncategorized
 ---
-[<img class="alignnone size-medium wp-image-8972" alt="folder_structures_image" src="/software-carpentry-training-website/uploads/2014/09/folder_structures_image-300x219.png" width="300" height="219" />][1]
+[<img class="alignnone size-medium wp-image-8972" alt="folder_structures_image" src="/training-course/uploads/2014/09/folder_structures_image-300x219.png" width="300" height="219" />][1]
 
 Using the image above to illustrate a file/folder structure, answer the following questions:
 
@@ -30,4 +30,4 @@ If **pwd** displays **/users/darwin/flowers**, what will **ls -F ..** display?
 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2014/09/folder_structures_image.png
+ [1]: /training-course/uploads/2014/09/folder_structures_image.png

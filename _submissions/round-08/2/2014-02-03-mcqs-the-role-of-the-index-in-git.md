@@ -70,4 +70,4 @@ This prompts you to decide to modify the source code &#8211; it is time to start
 &nbsp; &nbsp; &nbsp; &nbsp; `git log --name-status`  
 &nbsp; &nbsp; &nbsp; &nbsp; `git log -p`
 
- [1]: /software-carpentry-training-website/uploads/2014/02/hello.c
+ [1]: /training-course/uploads/2014/02/hello.c

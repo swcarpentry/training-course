@@ -21,8 +21,8 @@ import pandas as pd</p>
 
 When I returned home from SciPy, I fire up an IPython notebook in one tab, Google in the other, and in an afternoon converted a handfull of excel files into this:
 
-[<img src="/software-carpentry-training-website/uploads/2014/03/Screen-Shot-2014-03-07-at-4.24.29-PM-1024x600.png" alt="Ecoplate Fit Data" width="707" height="414" class="aligncenter size-large wp-image-6271" />][1]
+[<img src="/training-course/uploads/2014/03/Screen-Shot-2014-03-07-at-4.24.29-PM-1024x600.png" alt="Ecoplate Fit Data" width="707" height="414" class="aligncenter size-large wp-image-6271" />][1]
 
 When using this story, I would stress that my knowledge of Python is pedestrian at best. I learn what I need to make it do things, and in this case it took a few hours of never using a tool to making it do what I wanted. The IPython notebook is especially helpful for this, and allows me to tinker and code in 20-30 minute chunks, which with my teaching schedule is usually all I have.
 
- [1]: /software-carpentry-training-website/uploads/2014/03/Screen-Shot-2014-03-07-at-4.24.29-PM.png
+ [1]: /training-course/uploads/2014/03/Screen-Shot-2014-03-07-at-4.24.29-PM.png

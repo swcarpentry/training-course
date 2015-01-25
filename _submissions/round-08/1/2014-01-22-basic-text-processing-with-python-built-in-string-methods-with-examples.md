@@ -7,6 +7,6 @@ permalink: /2014/01/basic-text-processing-with-python-built-in-string-methods-wi
 tags:
   - Concept Map
 ---
-Text processing is a common task in Bioinformatics. A Python string object has many built-in methods for manipulating texts. These methods can be used together to perform a complicated task such as parsing data from a text file, converting file formats and etc.[<img class="alignnone size-medium wp-image-5565" alt="photo-2" src="/software-carpentry-training-website/uploads/2014/01/photo-2-e1390367320466-300x225.jpg" width="300" height="225" />][1]
+Text processing is a common task in Bioinformatics. A Python string object has many built-in methods for manipulating texts. These methods can be used together to perform a complicated task such as parsing data from a text file, converting file formats and etc.[<img class="alignnone size-medium wp-image-5565" alt="photo-2" src="/training-course/uploads/2014/01/photo-2-e1390367320466-300x225.jpg" width="300" height="225" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/01/photo-2.jpg
+ [1]: /training-course/uploads/2014/01/photo-2.jpg

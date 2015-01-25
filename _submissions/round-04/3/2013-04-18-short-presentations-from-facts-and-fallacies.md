@@ -29,20 +29,20 @@ Please add a bullet to the list below with your name and the topic of your short
 18. Jens von der Linden [Fact 7][18]
 
  [1]: http://www.slideshare.net/gvwilson/dark-matter-public-health-and-scientific-computing
- [2]: /software-carpentry-training-website/uploads/2013/04/20130425_Fact_44_SK.pdf
+ [2]: /training-course/uploads/2013/04/20130425_Fact_44_SK.pdf
  [3]: http://prezi.com/4bxkx6ukamr9/swc-bogdans-presentation/
- [4]: /software-carpentry-training-website/uploads/2013/05/madison_fact491.pdf
- [5]: /software-carpentry-training-website/uploads/2013/04/madison_fact49.pdf "Fact 49 Errors Cluster"
+ [4]: /training-course/uploads/2013/05/madison_fact491.pdf
+ [5]: /training-course/uploads/2013/04/madison_fact49.pdf "Fact 49 Errors Cluster"
  [6]: https://docs.google.com/presentation/d/1BFie99bPiE3q-e-fFUJO0mn8_Vfug6OZ9N8ub_jaVJs/edit?usp=sharing
- [7]: /software-carpentry-training-website/uploads/2013/04/insights_form_facts_and_fallacies_diegobarneche_2013.05.071.pdf
+ [7]: /training-course/uploads/2013/04/insights_form_facts_and_fallacies_diegobarneche_2013.05.071.pdf
  [8]: https://docs.google.com/presentation/d/1X1c1c-Gm75KC1amdH5NS7mEPq89QSlhkrjGF7P3ck4I/pub?start=false&loop=false&delayms=3000 "Fact 6-It takes time to learn new tools...."
- [9]: /software-carpentry-training-website/uploads/2013/04/Fact39.pdf
+ [9]: /training-course/uploads/2013/04/Fact39.pdf
  [10]: https://docs.google.com/presentation/d/11yDRsU1k0rNF4679B4HJj2jDJ1bNwCNXI3xmrTT8vXk/pub?start=false&loop=false&delayms=3000
- [11]: /software-carpentry-training-website/uploads/2013/04/Fact37.pdf
+ [11]: /training-course/uploads/2013/04/Fact37.pdf
  [12]: https://www.dropbox.com/s/tu24pg7zizke39d/fact18_blischak.pptx
  [13]: http://richfitz.github.io/fact21
- [14]: /software-carpentry-training-website/uploads/2013/04/Anything-is-Feasible.pdf
- [15]: /software-carpentry-training-website/uploads/2013/05/Randy-Olson-Fallacy-10.pdf
- [16]: /software-carpentry-training-website/uploads/2013/04/hw3.pdf
+ [14]: /training-course/uploads/2013/04/Anything-is-Feasible.pdf
+ [15]: /training-course/uploads/2013/05/Randy-Olson-Fallacy-10.pdf
+ [16]: /training-course/uploads/2013/04/hw3.pdf
  [17]: http://portal.sliderocket.com/BCGMO/Pedal-to-the-Metal--Not-Looking-Back
  [18]: http://sdrv.ms/ZTQfB2

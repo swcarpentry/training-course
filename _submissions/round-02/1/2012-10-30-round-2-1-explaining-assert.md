@@ -80,10 +80,10 @@ AssertionError: Inputs must be positive numbers!
 
 &nbsp;
 
-[<img class="alignnone size-full wp-image-919" title="assert_mindmap" src="/software-carpentry-training-website/uploads/2012/10/assert_mindmap1.png" alt="" width="720" height="540" />][1]
+[<img class="alignnone size-full wp-image-919" title="assert_mindmap" src="/training-course/uploads/2012/10/assert_mindmap1.png" alt="" width="720" height="540" />][1]
 
 &nbsp;
 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2012/10/assert_mindmap1.png
+ [1]: /training-course/uploads/2012/10/assert_mindmap1.png

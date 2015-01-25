@@ -7,6 +7,6 @@ permalink: /2014/09/concept-map-git-remote-repositories-2/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-8711" alt="git_remote_concept_map" src="/software-carpentry-training-website/uploads/2014/09/git_remote_concept_map-300x232.png" width="300" height="232" />][1]
+[<img class="alignnone size-medium wp-image-8711" alt="git_remote_concept_map" src="/training-course/uploads/2014/09/git_remote_concept_map-300x232.png" width="300" height="232" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/09/git_remote_concept_map.png
+ [1]: /training-course/uploads/2014/09/git_remote_concept_map.png

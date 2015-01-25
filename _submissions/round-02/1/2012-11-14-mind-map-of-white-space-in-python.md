@@ -11,7 +11,7 @@ White space is a trivial but powerful concept in Python. It fits nicely into &#8
 
 ### Mind Map 
 
-[<img src="/software-carpentry-training-website/uploads/2012/11/WhiteSpaceMindMap-300x221.png" alt="" title="WhiteSpaceMindMap" width="300" height="221" class="alignnone size-medium wp-image-1126" />][1]
+[<img src="/training-course/uploads/2012/11/WhiteSpaceMindMap-300x221.png" alt="" title="WhiteSpaceMindMap" width="300" height="221" class="alignnone size-medium wp-image-1126" />][1]
 
 ### An Illustrative Example
 
@@ -201,4 +201,4 @@ White space is also used to block together functions and classes. Let&#8217;s lo
 
 There's a lot going on here and it might be very confusing, that's fine. Everything we learned before is still true. The point is that every piece of white space in this code block is there for a reason. All the indentation is there to block code into the class, its methods, and the if/else statement. This ensures the code will run correctly. All the rest of the white space follows PEP8 recommendations. This ensure that others will easily be able read this code more easily because it is in a familiar style. As code becomes more complex, this use of familiar style becomes more and more helpful. You can think of this as being analogous to the structure and style of a journal article. However, just as there are times where you break the structure of a journal article for special circumstances, you can break the PEP8 style guide when it is justified.
 
- [1]: /software-carpentry-training-website/uploads/2012/11/WhiteSpaceMindMap.png
+ [1]: /training-course/uploads/2012/11/WhiteSpaceMindMap.png

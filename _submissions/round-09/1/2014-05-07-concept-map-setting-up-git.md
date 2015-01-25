@@ -11,8 +11,8 @@ This is supposed to show how you can set up git for an existing project. I wante
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-6978" alt="IMG_20140507_143108" src="/software-carpentry-training-website/uploads/2014/05/IMG_20140507_143108-225x300.jpg" width="225" height="300" />][1]
+[<img class="alignnone size-medium wp-image-6978" alt="IMG_20140507_143108" src="/training-course/uploads/2014/05/IMG_20140507_143108-225x300.jpg" width="225" height="300" />][1]
 
 One thing the concept map shows me is that the concepts are very closely assigned to the commands, at least for me.
 
- [1]: /software-carpentry-training-website/uploads/2014/05/IMG_20140507_143108.jpg
+ [1]: /training-course/uploads/2014/05/IMG_20140507_143108.jpg

@@ -5,7 +5,7 @@ permalink: /2014/10/find_comamnd/
 categories:
   - Assessment
 ---
-Greg has a directory of assessments for his students:[<img class="wp-image-9141 alignright" title="Directory" alt="Screen Shot 2014-10-02 at 6.23.29 AM" src="/software-carpentry-training-website/uploads/2014/10/Screen-Shot-2014-10-02-at-6.23.29-AM-284x300.png" width="199" height="210" />][1]
+Greg has a directory of assessments for his students:[<img class="wp-image-9141 alignright" title="Directory" alt="Screen Shot 2014-10-02 at 6.23.29 AM" src="/training-course/uploads/2014/10/Screen-Shot-2014-10-02-at-6.23.29-AM-284x300.png" width="199" height="210" />][1]
 
 1) Greg needs a list of all of Bob&#8217;s homework assignments; he needs the full paths for each homework file, like this:  
 **./homework_1/BOB.hw1**  
@@ -32,4 +32,4 @@ he now wants to sort Bob&#8217;s homework from earliest to latest like so:
 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2014/10/Screen-Shot-2014-10-02-at-6.23.29-AM.png
+ [1]: /training-course/uploads/2014/10/Screen-Shot-2014-10-02-at-6.23.29-AM.png

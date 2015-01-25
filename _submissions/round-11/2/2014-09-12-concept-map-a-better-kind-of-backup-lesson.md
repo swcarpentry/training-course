@@ -10,6 +10,6 @@ tags:
 Feel free to give feedbakcs.  
 Thanks everybody!
 
-[<img class="alignnone size-medium wp-image-8615" alt="IMG_20140912_102604" src="/software-carpentry-training-website/uploads/2014/09/IMG_20140912_1026041-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-8615" alt="IMG_20140912_102604" src="/training-course/uploads/2014/09/IMG_20140912_1026041-300x225.jpg" width="300" height="225" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/09/IMG_20140912_1026041.jpg
+ [1]: /training-course/uploads/2014/09/IMG_20140912_1026041.jpg

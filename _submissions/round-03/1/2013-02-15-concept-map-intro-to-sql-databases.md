@@ -9,7 +9,7 @@ tags:
 ---
 Better late than never, yeah?
 
-[<img alt="out" src="/software-carpentry-training-website/uploads/2013/02/out-300x73.png" width="300" height="73" />][1]
+[<img alt="out" src="/training-course/uploads/2013/02/out-300x73.png" width="300" height="73" />][1]
 
 &nbsp;
 
@@ -19,4 +19,4 @@ I created this diagram using RDF, which I think is a very natural way to express
 
 I&#8217;m a visual learner, and after spelling out how concepts are related, being able to generate and look at a graphic that shows how all these ideas are interconnected really helps me structure my thoughts and gives an idea of where teaching should start and how it should flow. I think this would be a very helpful way to organize my thoughts prior to teaching.
 
- [1]: /software-carpentry-training-website/uploads/2013/02/out.png
+ [1]: /training-course/uploads/2013/02/out.png

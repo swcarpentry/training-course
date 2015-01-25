@@ -8,6 +8,6 @@ tags:
 ---
 In this final project, I aim to introduce people to rebasing in git, when (and when not to) use it, how it can improve project history and help you work with git&#8217;s branching.
 
-[<img class="alignnone size-medium wp-image-4042" alt="Evernote Snapshot 20130821 140544" src="/software-carpentry-training-website/uploads/2013/08/Evernote-Snapshot-20130821-140544.jpg" />][1]
+[<img class="alignnone size-medium wp-image-4042" alt="Evernote Snapshot 20130821 140544" src="/training-course/uploads/2013/08/Evernote-Snapshot-20130821-140544.jpg" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2013/08/Evernote-Snapshot-20130821-140544.jpg
+ [1]: /training-course/uploads/2013/08/Evernote-Snapshot-20130821-140544.jpg

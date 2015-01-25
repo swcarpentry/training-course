@@ -173,5 +173,5 @@ Group 7 met for the first time yesterday; 41 people attended, and three sent apo
  [2]: http://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101
  [3]: https://github.com/swcarpentry
  [4]: http://www.amazon.com/Connections-James-Burke/dp/0316116815/
- [5]: /software-carpentry-training-website/uploads/2012/08/guzdial.pdf
+ [5]: /training-course/uploads/2012/08/guzdial.pdf
  [6]: http://teaching.software-carpentry.org/category/concept-map/

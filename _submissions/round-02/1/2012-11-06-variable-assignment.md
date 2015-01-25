@@ -7,7 +7,7 @@ permalink: /2012/11/variable-assignment/
 tags:
   - Concept Map
 ---
-[<img src="/software-carpentry-training-website/uploads/2012/11/assignment-operator.png" alt="" title="assignment operator" width="600" height="279" class="alignnone size-full wp-image-1131" />][1]
+[<img src="/training-course/uploads/2012/11/assignment-operator.png" alt="" title="assignment operator" width="600" height="279" class="alignnone size-full wp-image-1131" />][1]
 
 Think of **=**, which is the assignment operator, as filling out of a lanyard or name tag or label that someone is going to wear around their head/neck. The variable name is to the left of the **=**, and the person it labels is to the right. From then on, you can refer to whoever gets the nametag by the label on it. Suppose there&#8217;s already someone named Finn in our code. We make make Finn a new nametag:
 
@@ -58,4 +58,4 @@ Because the right hand side gets evaluated first, you sometimes see a variable n
 
 So on the right hand side, &#8220;lucky\_number&#8221; was a label for 7, but after the expression 6*7 evaluated to 42, 42 was assigned back to the variable &#8220;lucky\_number&#8221;. Recall that we can only have one &#8220;lucky\_number&#8221; within a scope, just like we could only have one &#8220;coolest\_hero&#8221;.
 
- [1]: /software-carpentry-training-website/uploads/2012/11/assignment-operator.png
+ [1]: /training-course/uploads/2012/11/assignment-operator.png

@@ -7,7 +7,7 @@ permalink: /2012/10/if-statements/
 tags:
   - Concept Map
 ---
-[<img class="alignnone  wp-image-997" title="cm" src="/software-carpentry-training-website/uploads/2012/10/cm1.png" alt="" width="864" height="624" />][1]
+[<img class="alignnone  wp-image-997" title="cm" src="/training-course/uploads/2012/10/cm1.png" alt="" width="864" height="624" />][1]
 
 Codewise in python, the structure of an IF block is:
 
@@ -77,4 +77,4 @@ else:
 
 Hours: 5
 
- [1]: /software-carpentry-training-website/uploads/2012/10/cm1.png
+ [1]: /training-course/uploads/2012/10/cm1.png

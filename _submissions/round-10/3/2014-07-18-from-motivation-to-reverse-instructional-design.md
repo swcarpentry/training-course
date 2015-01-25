@@ -25,7 +25,7 @@ There is no assigned chapter from *How Learning Works* this time around. Instead
  [1]: https://en.wikipedia.org/wiki/Backward_Design
  [2]: https://en.wikipedia.org/wiki/Test-driven_development
  [3]: http://teaching.software-carpentry.org/category/assessment/
- [4]: /software-carpentry-training-website/uploads/2012/08/guzdial.pdf
- [5]: /software-carpentry-training-website/uploads/2012/08/crouch-mazur-peer-instruction-ten-years-2001.pdf
- [6]: /software-carpentry-training-website/uploads/2012/08/labaree-educationalization-2008.pdf
- [7]: /software-carpentry-training-website/uploads/2013/08/whitecraft-williams.pdf
+ [4]: /training-course/uploads/2012/08/guzdial.pdf
+ [5]: /training-course/uploads/2012/08/crouch-mazur-peer-instruction-ten-years-2001.pdf
+ [6]: /training-course/uploads/2012/08/labaree-educationalization-2008.pdf
+ [7]: /training-course/uploads/2013/08/whitecraft-williams.pdf

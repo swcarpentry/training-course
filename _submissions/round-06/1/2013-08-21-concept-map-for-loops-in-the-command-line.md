@@ -9,6 +9,6 @@ tags:
 ---
 The focus of my 10 minute concept would not be for loops in bash, but rather using the for loop to demonstrate why the command line is useful/powerful.
 
-[<img class="aligncenter size-large wp-image-4000" alt="bash-for-loop" src="/software-carpentry-training-website/uploads/2013/08/bash-for-loop-1024x598.jpeg" width="707" height="412" />][1]
+[<img class="aligncenter size-large wp-image-4000" alt="bash-for-loop" src="/training-course/uploads/2013/08/bash-for-loop-1024x598.jpeg" width="707" height="412" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2013/08/bash-for-loop.jpeg
+ [1]: /training-course/uploads/2013/08/bash-for-loop.jpeg

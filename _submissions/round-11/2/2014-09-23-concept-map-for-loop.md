@@ -7,6 +7,6 @@ permalink: /2014/09/concept-map-for-loop/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-8920" alt="IMAG0205" src="/software-carpentry-training-website/uploads/2014/09/IMAG0205-300x169.jpg" width="300" height="169" />][1]
+[<img class="alignnone size-medium wp-image-8920" alt="IMAG0205" src="/training-course/uploads/2014/09/IMAG0205-300x169.jpg" width="300" height="169" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/09/IMAG0205.jpg
+ [1]: /training-course/uploads/2014/09/IMAG0205.jpg

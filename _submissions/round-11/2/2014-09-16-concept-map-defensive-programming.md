@@ -7,6 +7,6 @@ permalink: /2014/09/concept-map-defensive-programming/
 tags:
   - Concept Map
 ---
-[<img src="/software-carpentry-training-website/uploads/2014/09/IMAG0158-e1410917550861-300x179.jpg" alt="Defensive programming" width="300" height="179" class="aligncenter size-medium wp-image-8706" />][1]
+[<img src="/training-course/uploads/2014/09/IMAG0158-e1410917550861-300x179.jpg" alt="Defensive programming" width="300" height="179" class="aligncenter size-medium wp-image-8706" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/09/IMAG0158-e1410917550861.jpg
+ [1]: /training-course/uploads/2014/09/IMAG0158-e1410917550861.jpg

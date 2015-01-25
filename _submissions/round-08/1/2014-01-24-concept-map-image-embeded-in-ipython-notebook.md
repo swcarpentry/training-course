@@ -7,10 +7,10 @@ permalink: /2014/01/concept-map-image-embeded-in-ipython-notebook/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-5677" alt="Concept-Map-Matthias-B" src="/software-carpentry-training-website/uploads/2014/01/Concept-Map-Matthias-B-300x211.png" width="300" height="211" />][1]
+[<img class="alignnone size-medium wp-image-5677" alt="Concept-Map-Matthias-B" src="/training-course/uploads/2014/01/Concept-Map-Matthias-B-300x211.png" width="300" height="211" />][1]
 
 &nbsp;
 
 This is ment to target people using the IPython notebook to display external image, to introduce the difference advantages/drawbacks between embeding image in IPython notebook, or having them soft linked.
 
- [1]: /software-carpentry-training-website/uploads/2014/01/Concept-Map-Matthias-B.png
+ [1]: /training-course/uploads/2014/01/Concept-Map-Matthias-B.png

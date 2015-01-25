@@ -9,7 +9,7 @@ tags:
 ---
 I picked &#8216;nested for loops&#8217; as my topic (book/python.html#s:nestloop and <http://software-carpentry.org/2012/10/key-points/>). Thanks a lot Ross, for pointing to cmap, it is a great little program. Here is my first throw at a concept map.
 
-[<img class="alignnone size-large wp-image-773" title="lex - swcarpentry_2.1 - nested for loops" src="/software-carpentry-training-website/uploads/2012/10/lex-swcarpentry_2.1-nested-for-loops-1024x477.jpg" alt="" width="707" height="329" />][1]
+[<img class="alignnone size-large wp-image-773" title="lex - swcarpentry_2.1 - nested for loops" src="/training-course/uploads/2012/10/lex-swcarpentry_2.1-nested-for-loops-1024x477.jpg" alt="" width="707" height="329" />][1]
 
 Worked examples:
 
@@ -104,4 +104,4 @@ Real world example: exercise 3, &#8211;> all permutations of dinucleotide (two-c
 Explain how this concept relates to something a scientist might actually want to do:  
 relates to 15-17:. How can I analyze/manage/reformat data, and 19, how to find something in data.
 
- [1]: /software-carpentry-training-website/uploads/2012/10/lex-swcarpentry_2.1-nested-for-loops.jpg
+ [1]: /training-course/uploads/2012/10/lex-swcarpentry_2.1-nested-for-loops.jpg

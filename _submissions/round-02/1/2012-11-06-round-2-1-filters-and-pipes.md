@@ -7,7 +7,7 @@ permalink: /2012/11/round-2-1-filters-and-pipes/
 tags:
   - Concept Map
 ---
-[<img class="aligncenter size-full wp-image-966" title="concept map for Filters and pipes" src="/software-carpentry-training-website/uploads/2012/11/conceptMap2-1small1.png" alt="" width="756" height="446" />][1]
+[<img class="aligncenter size-full wp-image-966" title="concept map for Filters and pipes" src="/training-course/uploads/2012/11/conceptMap2-1small1.png" alt="" width="756" height="446" />][1]
 
 <p style="text-align: left;">
   Filters and pipes are simple UNIX system calls used to manipulate text files.  Simple filter commands, such as <em>head</em>, <em>tail</em>, <em>grep</em> or <em>cut</em> allow text files to be parsed.  Commands such as <em>cat</em> and <em>paste</em> allow files to be appended or aggregated.  These file manipulation commands lend themselves especially well to handling data stored in delimited text files (e.g., csv format).  Pipes allow the (standard) output of these commands to be used as the input to another filter command, allowing for filters to be compounded.  Sophisticated tools for parsing, characterizing, and formatting data files can be constructed through sequentially cascading filter commands with pipes.
@@ -70,4 +70,4 @@ Date,Time,Location,Diameter,X,Y.
   Time spent: three hours.
 </p>
 
- [1]: /software-carpentry-training-website/uploads/2012/11/conceptMap2-1small1.png
+ [1]: /training-course/uploads/2012/11/conceptMap2-1small1.png

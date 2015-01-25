@@ -20,5 +20,5 @@ Edited to add: I have nothing against emacs, just trying to teach what I had exp
 
  [1]: http://teaching.software-carpentry.org/2013/08/21/concept-map-basics-of-vi
  [2]: http://teaching.software-carpentry.org/2014/03/12/screencast-how-to-use-vim-buffers/#comment-7844
- [3]: http://sachachua.com/blog/wp-content/software-carpentry-training-website/uploads/2013/05/How-to-Learn-Emacs8.png
+ [3]: http://sachachua.com/blog/wp-content/training-course/uploads/2013/05/How-to-Learn-Emacs8.png
  [4]: http://emacsmovies.org/blog/where_to_begin/

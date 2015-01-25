@@ -11,6 +11,6 @@ The safety checks that can help keep you alive when cleaning a climbing anchor. 
 
 Serious disclaimer here: don&#8217;t use this to learn how to clean a climbing anchor. Find a qualified instructor and learn with them (and practice it all on the ground many times beforehand).
 
-[<img class="alignnone size-full wp-image-7908" alt="Climbing_Anchor_Checks" src="/software-carpentry-training-website/uploads/2014/06/Climbing_Anchor_Checks.jpg" width="1208" height="1280" />][1]
+[<img class="alignnone size-full wp-image-7908" alt="Climbing_Anchor_Checks" src="/training-course/uploads/2014/06/Climbing_Anchor_Checks.jpg" width="1208" height="1280" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/06/Climbing_Anchor_Checks.jpg
+ [1]: /training-course/uploads/2014/06/Climbing_Anchor_Checks.jpg

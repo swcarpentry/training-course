@@ -12,11 +12,11 @@ This assessment uses the [Pole of Inaccessibility survey database][1] that is be
 
 Given the tables **Person** (5 rows total)
 
-[<img class="alignnone size-full wp-image-9204" alt="person" src="/software-carpentry-training-website/uploads/2014/10/person.png" width="272" height="114" />][2]
+[<img class="alignnone size-full wp-image-9204" alt="person" src="/training-course/uploads/2014/10/person.png" width="272" height="114" />][2]
 
 and **Survey** (21 rows total, 2 of them have NULLs in the **person** column)
 
-[<img class="alignnone size-full wp-image-9205" alt="survey" src="/software-carpentry-training-website/uploads/2014/10/survey.png" width="340" height="336" />][3]
+[<img class="alignnone size-full wp-image-9205" alt="survey" src="/training-course/uploads/2014/10/survey.png" width="340" height="336" />][3]
 
 How many rows would the following SQL statement return?
 
@@ -42,5 +42,5 @@ Now, if from the same two tables we wanted to return the radiation (**rad** in t
 *   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">AND</span>
 
  [1]: https://github.com/swcarpentry/bc/blob/gh-pages/novice/sql/gen-survey-database.sql
- [2]: /software-carpentry-training-website/uploads/2014/10/person.png
- [3]: /software-carpentry-training-website/uploads/2014/10/survey.png
+ [2]: /training-course/uploads/2014/10/person.png
+ [3]: /training-course/uploads/2014/10/survey.png

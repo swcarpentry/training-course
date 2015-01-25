@@ -7,6 +7,6 @@ permalink: /2014/09/concept-map-general-loop-structure/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-8731" alt="Loop" src="/software-carpentry-training-website/uploads/2014/09/Loop-168x300.png" width="168" height="300" />][1]
+[<img class="alignnone size-medium wp-image-8731" alt="Loop" src="/training-course/uploads/2014/09/Loop-168x300.png" width="168" height="300" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/09/Loop.png
+ [1]: /training-course/uploads/2014/09/Loop.png

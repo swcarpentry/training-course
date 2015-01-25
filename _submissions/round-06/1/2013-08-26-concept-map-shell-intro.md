@@ -7,6 +7,6 @@ permalink: /2013/08/concept-map-shell-intro/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-4126" alt="concept-map-shell" src="/software-carpentry-training-website/uploads/2013/08/concept-map-shell-300x196.jpeg" width="300" height="196" />][1]
+[<img class="alignnone size-medium wp-image-4126" alt="concept-map-shell" src="/training-course/uploads/2013/08/concept-map-shell-300x196.jpeg" width="300" height="196" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2013/08/concept-map-shell.jpeg
+ [1]: /training-course/uploads/2013/08/concept-map-shell.jpeg

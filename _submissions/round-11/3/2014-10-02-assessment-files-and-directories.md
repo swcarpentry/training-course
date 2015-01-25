@@ -23,6 +23,6 @@ d) cp -r results ../writing/figures
 2. Looking the home directory structure given in the figure, to move the contents of folder &#8220;results&#8221; to the folder &#8220;figures&#8221; using absolute paths, you use the command:  
 mv \___\___\__ _\___\____ <figure id="attachment_9182" style="width: 265px;" class="wp-caption alignnone">
 
-[<img src="/software-carpentry-training-website/uploads/2014/10/dir-struct-assess-265x300.png" alt="Directory Structure" width="265" height="300" class="size-medium wp-image-9182" />][1]<figcaption class="wp-caption-text">Directory Structure</figcaption></figure>
+[<img src="/training-course/uploads/2014/10/dir-struct-assess-265x300.png" alt="Directory Structure" width="265" height="300" class="size-medium wp-image-9182" />][1]<figcaption class="wp-caption-text">Directory Structure</figcaption></figure>
 
- [1]: /software-carpentry-training-website/uploads/2014/10/dir-struct-assess.png
+ [1]: /training-course/uploads/2014/10/dir-struct-assess.png

@@ -7,7 +7,7 @@ permalink: /2012/09/week-1-control-flow/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-247" title="ControlFlow" src="/software-carpentry-training-website/uploads/2012/09/ControlFlow-300x231.png" alt="" width="300" height="231" />][1]
+[<img class="alignnone size-medium wp-image-247" title="ControlFlow" src="/training-course/uploads/2012/09/ControlFlow-300x231.png" alt="" width="300" height="231" />][1]
 
 &nbsp;
 
@@ -70,4 +70,4 @@ This task took a little over an hour. Conveniently, I had available examples fro
 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2012/09/ControlFlow.png
+ [1]: /training-course/uploads/2012/09/ControlFlow.png

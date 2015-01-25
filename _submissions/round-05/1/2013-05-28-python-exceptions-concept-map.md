@@ -11,4 +11,4 @@ tags:
 
 The above link is to a rather large (spatially) PDF &#8211; hopefully those who view it will be familiar with the zoom tool on their PDF viewer <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 
- [1]: /software-carpentry-training-website/uploads/2013/05/exception-concept-map.pdf
+ [1]: /training-course/uploads/2013/05/exception-concept-map.pdf

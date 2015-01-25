@@ -19,7 +19,7 @@ During the process of making my concept map, I was able to see areas where I cou
 
 &nbsp;
 
-[<img class="alignnone size-large wp-image-392" title="TKT_map" src="/software-carpentry-training-website/uploads/2012/09/TKT_map1-1024x764.jpg" alt="" width="707" height="527" />][1]
+[<img class="alignnone size-large wp-image-392" title="TKT_map" src="/training-course/uploads/2012/09/TKT_map1-1024x764.jpg" alt="" width="707" height="527" />][1]
 
 The shapes and colors are
 
@@ -45,7 +45,7 @@ I&#8217;m not really sure this is the way to do a concept map, but it did help m
 
 Everyone in lab presented their concept maps and during that meeting, I took notes and drew a new set of concept maps identifying places where people&#8217;s projects overlapped and where we might form working groups of a few lab members to address those particular question.  There seems to be no point in us each solving them on our own, and we have different backgrounds, so a diverse perspective could help.  That set of concept maps is here (see it hanging here on one of our refrigerators):
 
-[<img class="alignnone size-large wp-image-393" title="Lab_map" src="/software-carpentry-training-website/uploads/2012/09/Lab_map-764x1024.jpg" alt="" width="707" height="947" />][2]
+[<img class="alignnone size-large wp-image-393" title="Lab_map" src="/training-course/uploads/2012/09/Lab_map-764x1024.jpg" alt="" width="707" height="947" />][2]
 
 I don&#8217;t know how helpful all of this is for SWC.
 
@@ -67,5 +67,5 @@ I&#8217;d be interested to hear thoughts on if you thought this type of approach
 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2012/09/TKT_map1.jpg
- [2]: /software-carpentry-training-website/uploads/2012/09/Lab_map.jpg
+ [1]: /training-course/uploads/2012/09/TKT_map1.jpg
+ [2]: /training-course/uploads/2012/09/Lab_map.jpg

@@ -11,6 +11,6 @@ tags:
 
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-6864" alt="concept-map_python-dictionary_jeremiah-lant" src="/software-carpentry-training-website/uploads/2014/04/concept-map_python-dictionary_jeremiah-lant-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-6864" alt="concept-map_python-dictionary_jeremiah-lant" src="/training-course/uploads/2014/04/concept-map_python-dictionary_jeremiah-lant-300x225.jpg" width="300" height="225" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/04/concept-map_python-dictionary_jeremiah-lant.jpg
+ [1]: /training-course/uploads/2014/04/concept-map_python-dictionary_jeremiah-lant.jpg

@@ -7,7 +7,7 @@ permalink: /2013/08/concept-map-software-testing-overview/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-4130" alt="Software Testing Concept Map" src="/software-carpentry-training-website/uploads/2013/08/TestingConceptMap-300x179.jpg" width="300" height="179" />][1]
+[<img class="alignnone size-medium wp-image-4130" alt="Software Testing Concept Map" src="/training-course/uploads/2013/08/TestingConceptMap-300x179.jpg" width="300" height="179" />][1]
 
 &nbsp;
 
@@ -15,4 +15,4 @@ Hopefully this is legible (I think you&#8217;ll need to click on the image to en
 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2013/08/TestingConceptMap.jpg
+ [1]: /training-course/uploads/2013/08/TestingConceptMap.jpg

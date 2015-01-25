@@ -11,7 +11,7 @@ In general, I found the talking to be very clear and with correct speed. I found
 
 Sometimes, there&#8217;s too much stuff going on in a slide. It would be better to a) show code step-by-step on several slides and b) have only one point or so per slide. The current way I was sometimes overwhelmed &#8211; for example, see this screenshot:
 
-[<img class="alignnone size-medium wp-image-3605" alt="Example of overloaded slide" src="/software-carpentry-training-website/uploads/2013/07/example-300x222.png" width="300" height="222" />][1]
+[<img class="alignnone size-medium wp-image-3605" alt="Example of overloaded slide" src="/training-course/uploads/2013/07/example-300x222.png" width="300" height="222" />][1]
 
 It was very good to have explanatory pictures on the slides explaining what is happening &#8220;behind the scenes&#8221; (like with Array sum()). It was also good to show bigger combinations of functions starting from the &#8220;inside&#8221; and then walking out explaining each step (like explaining &#8220;mean(data[data[:,0] == 0],0)&#8221; starting from &#8220;data[:,0]&#8221;).
 
@@ -23,4 +23,4 @@ Some small things:
 
 &#8211; In Linear Algebra on slide &#8220;Like other array-based libraries or languages, NumPy provides many useful tools for common operations&#8221; &#8211; the shown function isn&#8217;t sum(), it&#8217;s numpy.sum(). Python&#8217;s inbuilt sum() works very differently! It would be less confusing to type numpy.sum() here. I was following up the examples in Python and got weird results. Later on, mean() isn&#8217;t an in-built Python function so no problems there.
 
- [1]: /software-carpentry-training-website/uploads/2013/07/example.png
+ [1]: /training-course/uploads/2013/07/example.png

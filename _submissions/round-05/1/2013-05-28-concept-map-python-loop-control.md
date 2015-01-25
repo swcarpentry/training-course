@@ -7,8 +7,8 @@ permalink: /2013/05/concept-map-python-loop-control/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-large wp-image-2887" alt="pythonconceptmap" src="/software-carpentry-training-website/uploads/2013/05/pythonconceptmap-724x1024.jpg" width="707" height="999" />][1]
+[<img class="alignnone size-large wp-image-2887" alt="pythonconceptmap" src="/training-course/uploads/2013/05/pythonconceptmap-724x1024.jpg" width="707" height="999" />][1]
 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2013/05/pythonconceptmap.jpg
+ [1]: /training-course/uploads/2013/05/pythonconceptmap.jpg

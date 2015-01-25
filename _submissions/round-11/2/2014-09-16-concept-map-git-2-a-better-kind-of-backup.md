@@ -9,6 +9,6 @@ tags:
 ---
 My topic consists of the points *Tracking Changes to Files *and *Changing a File* from the <a href="http://software-carpentry.org/v5/novice/git/01-backup.html" target="_blank">A Better Kind of Backup</a> lesson for version control.
 
-[<img alt="IMG_20140915_234614734" src="/software-carpentry-training-website/uploads/2014/09/IMG_20140915_234614734-300x168.jpg" width="300" height="168" />][1]
+[<img alt="IMG_20140915_234614734" src="/training-course/uploads/2014/09/IMG_20140915_234614734-300x168.jpg" width="300" height="168" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/09/IMG_20140915_234614734.jpg
+ [1]: /training-course/uploads/2014/09/IMG_20140915_234614734.jpg

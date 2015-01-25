@@ -7,7 +7,7 @@ permalink: /2012/10/round-1-4-for-loops-emily-jane/
 tags:
   - Concept Map
 ---
-[<img class="alignnone  wp-image-861" title="Slide1" src="/software-carpentry-training-website/uploads/2012/10/Slide13.jpg" alt="" width="504" height="588" />][1]
+[<img class="alignnone  wp-image-861" title="Slide1" src="/training-course/uploads/2012/10/Slide13.jpg" alt="" width="504" height="588" />][1]
 
 My topic is for loops. Really simple, but also easily confusing for new programmers.
 
@@ -22,4 +22,4 @@ Notebook in nbviewer:
 
 3.) I wanted to explore the concept from Bret Victor&#8217;s talk of dynamically experiencing the outcome of changes as you make them. This is a whole lot less pretty here than in his demo, but I think could be really useful for students trying to understand how loops work. Although there are probably better ways, I do this here the way I do in my own code, which is with a whole lot of print statements. By repeating things while adding I think it calrifies how complex statements are built. I also think it is valuable to demonstrate bugs and include code that will not work.
 
- [1]: /software-carpentry-training-website/uploads/2012/10/Slide13.jpg
+ [1]: /training-course/uploads/2012/10/Slide13.jpg

@@ -7,7 +7,7 @@ permalink: /2012/09/week-1-python-libraries/
 tags:
   - Concept Map
 ---
-[<img class="aligncenter size-large wp-image-148" src="/software-carpentry-training-website/uploads/2012/09/PythonLibrariesCmap-1024x785.jpg" alt="" width="707" height="541" />][1]
+[<img class="aligncenter size-large wp-image-148" src="/training-course/uploads/2012/09/PythonLibrariesCmap-1024x785.jpg" alt="" width="707" height="541" />][1]
 
 &nbsp;
 
@@ -79,7 +79,7 @@ It took me ~6.5 hrs to do this assignment, including the readings. I used [CmapT
 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2012/09/PythonLibrariesCmap.jpg
+ [1]: /training-course/uploads/2012/09/PythonLibrariesCmap.jpg
  [2]: http://docs.python.org/library/
  [3]: http://www.amazon.com/Practical-Programming-Introduction-Pragmatic-Programmers/dp/1934356271
  [4]: http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913/ref=sr_1_1?s=books&ie=UTF8&qid=1347034556&sr=1-1&keywords=practical+computing+for+biologists

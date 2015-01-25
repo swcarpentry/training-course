@@ -24,6 +24,6 @@ The **general** role of design is to:
 
 This window shows up when you&#8217;re closing the text editor. Fix the picture so that the user experience is better (you can draw/write/etc on that picture):
 
-[<img class="alignnone size-medium wp-image-8268" alt="DesignChangeCaptionsTask" src="/software-carpentry-training-website/uploads/2014/07/DesignChangeCaptionsTask-300x143.png" width="300" height="143" />][1]
+[<img class="alignnone size-medium wp-image-8268" alt="DesignChangeCaptionsTask" src="/training-course/uploads/2014/07/DesignChangeCaptionsTask-300x143.png" width="300" height="143" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/07/DesignChangeCaptionsTask.png
+ [1]: /training-course/uploads/2014/07/DesignChangeCaptionsTask.png

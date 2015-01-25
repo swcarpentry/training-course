@@ -7,7 +7,7 @@ permalink: /2013/01/concept-map-pipes-and-filters/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-full wp-image-1524" alt="PipesAndFilters" src="/software-carpentry-training-website/uploads/2013/01/PipesAndFilters1.png" width="796" height="805" />][1]
+[<img class="alignnone size-full wp-image-1524" alt="PipesAndFilters" src="/training-course/uploads/2013/01/PipesAndFilters1.png" width="796" height="805" />][1]
 
 &nbsp;
 
@@ -29,5 +29,5 @@ Filters and pipes can also be used for numeric work. In the following command `c
 
 <pre>cut -c 4-5 some_nums.txt | paste -sd + - | bc</pre>
 
- [1]: /software-carpentry-training-website/uploads/2013/01/PipesAndFilters1.png
+ [1]: /training-course/uploads/2013/01/PipesAndFilters1.png
  [2]: http://teaching.software-carpentry.org/2012/09/06/week-1-shell-pipes-and-filters/

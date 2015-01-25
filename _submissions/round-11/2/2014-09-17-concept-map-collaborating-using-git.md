@@ -7,6 +7,6 @@ permalink: /2014/09/concept-map-collaborating-using-git/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-large wp-image-8790" alt="git-collaboration-conceptmap" src="/software-carpentry-training-website/uploads/2014/09/git-collaboration-conceptmap-1024x768.jpg" width="707" height="530" />][1]
+[<img class="alignnone size-large wp-image-8790" alt="git-collaboration-conceptmap" src="/training-course/uploads/2014/09/git-collaboration-conceptmap-1024x768.jpg" width="707" height="530" />][1]
 
- [1]: /software-carpentry-training-website/uploads/2014/09/git-collaboration-conceptmap.jpg
+ [1]: /training-course/uploads/2014/09/git-collaboration-conceptmap.jpg

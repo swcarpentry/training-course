@@ -9,7 +9,7 @@ tags:
 ---
 I probably bit off a bit much to explain in 5 minutes, but think that if I split the map into two maps, that might be a good way to start pruning down.<figure id="attachment_6850" style="width: 612px;" class="wp-caption alignnone">
 
-[<img class="size-large wp-image-6850" alt="Database concept map" src="/software-carpentry-training-website/uploads/2014/04/IMAG0712-612x1024.jpg" width="612" height="1024" />][1]<figcaption class="wp-caption-text">DB Concept Map</figcaption></figure> 
+[<img class="size-large wp-image-6850" alt="Database concept map" src="/training-course/uploads/2014/04/IMAG0712-612x1024.jpg" width="612" height="1024" />][1]<figcaption class="wp-caption-text">DB Concept Map</figcaption></figure> 
 &nbsp;
 
- [1]: /software-carpentry-training-website/uploads/2014/04/IMAG0712.jpg
+ [1]: /training-course/uploads/2014/04/IMAG0712.jpg

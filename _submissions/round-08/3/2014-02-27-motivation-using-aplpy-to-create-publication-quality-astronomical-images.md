@@ -197,13 +197,13 @@ This custom marker can then be used in the image:
 
 **Final image with the custom marker**  
 The publication-quality image obtained using the step-by-step commands listed above is:  
-[<img src="/software-carpentry-training-website/uploads/2014/02/SN_in_M82.png" alt="SN_in_M82" width="585" height="577" class="aligncenter size-full wp-image-6202" />][1]
+[<img src="/training-course/uploads/2014/02/SN_in_M82.png" alt="SN_in_M82" width="585" height="577" class="aligncenter size-full wp-image-6202" />][1]
 
 A similar example, using an HST observation, is:  
-[<img src="/software-carpentry-training-website/uploads/2014/02/hst.png" alt="hst" width="593" height="577" class="aligncenter size-full wp-image-6203" />][2]
+[<img src="/training-course/uploads/2014/02/hst.png" alt="hst" width="593" height="577" class="aligncenter size-full wp-image-6203" />][2]
 
 **More information on APLpy**  
 The <a title="APLpy" href="http://aplpy.github.io/" target="_blank">official website of APLpy</a> is an excellent resource. The <a title="APLpy tutorial" href="http://aplpy.readthedocs.org/en/latest/quickstart.html" target="_blank">tutorial</a> gives an introduction similar to the one above. The <a title="APLpy Quick Reference Guide" href="http://aplpy.readthedocs.org/en/latest/quick_reference.html" target="_blank">Quick reference Guide</a> summarizes all the commands and gives useful examples.
 
- [1]: /software-carpentry-training-website/uploads/2014/02/SN_in_M82.png
- [2]: /software-carpentry-training-website/uploads/2014/02/hst.png
+ [1]: /training-course/uploads/2014/02/SN_in_M82.png
+ [2]: /training-course/uploads/2014/02/hst.png

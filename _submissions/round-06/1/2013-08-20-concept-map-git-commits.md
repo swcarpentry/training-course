@@ -11,7 +11,7 @@ tags:
 
 &nbsp;
 
-[<img class="size-medium wp-image-3986 alignleft" alt="git-commits" src="/software-carpentry-training-website/uploads/2013/08/git-commits-300x233.png" width="300" height="233" />][1]
+[<img class="size-medium wp-image-3986 alignleft" alt="git-commits" src="/training-course/uploads/2013/08/git-commits-300x233.png" width="300" height="233" />][1]
 
 &nbsp;
 
@@ -33,7 +33,7 @@ tags:
 
 And an updated version based on suggestions to add &#8220;git diff&#8221;
 
-[<img class="alignnone size-medium wp-image-4088" alt="git-commits2" src="/software-carpentry-training-website/uploads/2013/08/git-commits2-300x233.png" width="300" height="233" />][2]
+[<img class="alignnone size-medium wp-image-4088" alt="git-commits2" src="/training-course/uploads/2013/08/git-commits2-300x233.png" width="300" height="233" />][2]
 
- [1]: /software-carpentry-training-website/uploads/2013/08/git-commits.png
- [2]: /software-carpentry-training-website/uploads/2013/08/git-commits2.png
+ [1]: /training-course/uploads/2013/08/git-commits.png
+ [2]: /training-course/uploads/2013/08/git-commits2.png

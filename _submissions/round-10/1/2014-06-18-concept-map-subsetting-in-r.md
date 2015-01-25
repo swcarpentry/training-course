@@ -7,10 +7,10 @@ permalink: /2014/06/concept-map-subsetting-in-r/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-7791" alt="image" src="/software-carpentry-training-website/uploads/2014/06/image-e1403100396113-212x300.jpg" width="212" height="300" />][1]
+[<img class="alignnone size-medium wp-image-7791" alt="image" src="/training-course/uploads/2014/06/image-e1403100396113-212x300.jpg" width="212" height="300" />][1]
 
 &nbsp;
 
 Here is a description of a few main methods of subsetting in R. I tried to keep it as concise as possible, with a brief mention on how these methods may differ depending on data structure. Cheers!
 
- [1]: /software-carpentry-training-website/uploads/2014/06/image-e1403100396113.jpg
+ [1]: /training-course/uploads/2014/06/image-e1403100396113.jpg

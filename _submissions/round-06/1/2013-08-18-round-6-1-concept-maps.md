@@ -54,7 +54,7 @@ Please add your name and location below (note: this is always a good demo of why
 *   Cliburn Chan (Duke University)
 *   Please read: 
     *   <http://software-carpentry.org/blog/2013/08/what-we-cover-in-instructor-training.html>
-    *   </software-carpentry-training-website/uploads/2012/08/guzdial.pdf>
+    *   </training-course/uploads/2012/08/guzdial.pdf>
     *   <https://computinged.wordpress.com/> (see <http://teaching.software-carpentry.org/links)>
     *   <http://teaching.software-carpentry.org/category/concept-map/>
     *   The first two chapters of &#8220;How Learning Works&#8221;
@@ -165,7 +165,7 @@ Think about what using etherpad to manage discussion is like
 Please read:
 
 *   <http://software-carpentry.org/blog/2013/08/what-we-cover-in-instructor-training.html>
-*   </software-carpentry-training-website/uploads/2012/08/guzdial.pdf>
+*   </training-course/uploads/2012/08/guzdial.pdf>
 *   <https://computinged.wordpress.com/> (see <http://teaching.software-carpentry.org/links)>
 *   <http://teaching.software-carpentry.org/category/concept-map/>
 *   The first two chapters of &#8220;How Learning Works&#8221;
@@ -173,4 +173,4 @@ Please read:
 
 Reason to meet every two weeks: do assignment in first week, get/give feedback in second week.
 
- [1]: /software-carpentry-training-website/uploads/2012/08/guzdial.pdf
+ [1]: /training-course/uploads/2012/08/guzdial.pdf

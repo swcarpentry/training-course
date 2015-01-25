@@ -7,7 +7,7 @@ permalink: /2012/09/week-1-shell-pipes-and-filters/
 tags:
   - Concept Map
 ---
-[<img class="alignnone  wp-image-130" title="Shell- Pipes and Filters" src="/software-carpentry-training-website/uploads/2012/09/Shell-Pipes-and-Filters.png" alt="" width="402" height="178" />][1]
+[<img class="alignnone  wp-image-130" title="Shell- Pipes and Filters" src="/training-course/uploads/2012/09/Shell-Pipes-and-Filters.png" alt="" width="402" height="178" />][1]
 
 A classic example of pipes and filters is to search the contents of a particular set of files for a string or pattern:
 
@@ -25,5 +25,5 @@ To take advantage of pipes people must first be familiar with the existence of a
 
 Notes: This took me probably around 5-6 hours (not including the reading), though some of that was searching for a good way to make a concept map. I settled on a Google Docs Drawing.
 
- [1]: /software-carpentry-training-website/uploads/2012/09/Shell-Pipes-and-Filters.png
+ [1]: /training-course/uploads/2012/09/Shell-Pipes-and-Filters.png
  [2]: http://stackoverflow.com/a/451204

@@ -9,7 +9,7 @@ categories:
 
 Given data of the following form:
 
-[<img class="alignnone  wp-image-8323" alt="reverse_design1" src="/software-carpentry-training-website/uploads/2014/07/reverse_design1-300x194.png" width="180" height="116" />][1]
+[<img class="alignnone  wp-image-8323" alt="reverse_design1" src="/training-course/uploads/2014/07/reverse_design1-300x194.png" width="180" height="116" />][1]
 
 &nbsp;
 
@@ -68,4 +68,4 @@ d. aggregate(data[,2], by=data[,1], FUN=mean)
 
 2. Write a function to calculate the mean and standard error across for canopy cover across the three vegetation types, and make sure it can handle NA values.
 
- [1]: /software-carpentry-training-website/uploads/2014/07/reverse_design1.png
+ [1]: /training-course/uploads/2014/07/reverse_design1.png
