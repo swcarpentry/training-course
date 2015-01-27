@@ -133,8 +133,8 @@ We, of course, did the 1 good and 1 bad comment at the end.  You can see the su
   build up a better framework to connect all the bits in the breadth of material covered
 </li>
 
-[<img class="alignnone size-full wp-image-1301" title="wustl-police" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/12/wustl-police.jpg" alt="" width="448" height="299" />][1]
+[<img class="alignnone size-full wp-image-1301" title="wustl-police" src="/training-course/uploads/2012/12/wustl-police.jpg" alt="" width="448" height="299" />][1]
 
 &nbsp;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/12/wustl-police.jpg
+ [1]: /training-course/uploads/2012/12/wustl-police.jpg

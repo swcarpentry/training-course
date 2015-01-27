@@ -39,5 +39,5 @@ thanks
 
 &nbsp;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/11/Func_Return_Concept_Map.pdf
+ [1]: /training-course/uploads/2012/11/Func_Return_Concept_Map.pdf
  [2]: http://nbviewer.ipython.org/4075545/ "http://nbviewer.ipython.org/4075545/"

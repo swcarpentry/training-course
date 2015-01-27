@@ -8,7 +8,7 @@ tags:
   - Assessment
 ---
 **A path describes the location of an object in a file system. What is an &#8220;absolute path&#8221; to the file &#8220;chapter1.html&#8221;?**  
-[<img src="http://teaching.software-carpentry.org/wp-content/uploads/2014/05/assignment1.png" alt="assignment1" width="288" height="329" class="alignnone size-full wp-image-7004" />][1]
+[<img src="/training-course/uploads/2014/05/assignment1.png" alt="assignment1" width="288" height="329" class="alignnone size-full wp-image-7004" />][1]
 
 1.  The shortest specification how to reach the desired object from the current working directory,  
     f.ex. <tt>"../../documents/book/chapter1.html"</tt>.
@@ -26,4 +26,4 @@ tags:
 3.  <tt>~/documents/paper/section1/../.././book/chapter1.html</tt>
 4.  <tt>~/documents/paper/section1/../../.book/chapter1.html</tt>
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/05/assignment1.png
+ [1]: /training-course/uploads/2014/05/assignment1.png

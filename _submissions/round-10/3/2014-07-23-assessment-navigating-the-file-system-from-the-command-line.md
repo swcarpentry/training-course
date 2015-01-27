@@ -11,7 +11,7 @@ tags:
 
 **Q1.**  Given the Unix file system shown in the tree diagram below, if your current working directory was **smalldir**, which of the following commands would you use to change to the **planets2** directory?
 
-<img class="alignnone size-medium wp-image-8192" style="font-size: 12px;" alt="directory tree" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/07/Screenshot-from-2014-07-23-211639-197x300.png" width="197" height="300" />
+<img class="alignnone size-medium wp-image-8192" style="font-size: 12px;" alt="directory tree" src="/training-course/uploads/2014/07/Screenshot-from-2014-07-23-211639-197x300.png" width="197" height="300" />
 
 A) cd planets2
 

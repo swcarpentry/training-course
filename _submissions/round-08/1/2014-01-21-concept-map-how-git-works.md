@@ -7,7 +7,7 @@ permalink: /2014/01/concept-map-how-git-works/
 tags:
   - Concept Map
 ---
-<figure id="attachment_5533" style="width: 707px;" class="wp-caption alignnone">[<img src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/git-concept-map-1024x836.jpg" alt="git concept map" width="707" height="577" class="size-large wp-image-5533" />][1]<figcaption class="wp-caption-text">A concept map for git.</figcaption></figure> 
+<figure id="attachment_5533" style="width: 707px;" class="wp-caption alignnone">[<img src="/training-course/uploads/2014/01/git-concept-map-1024x836.jpg" alt="git concept map" width="707" height="577" class="size-large wp-image-5533" />][1]<figcaption class="wp-caption-text">A concept map for git.</figcaption></figure> 
 I noticed that Jessica Hamrick also did a concept map on [git commit][2], so it might be useful to compare and contrast these two. (Also see Evan Bianco&#8217;s [Using Git][3] and Anne Moroney&#8217;s concept map for [contributing to github][4].)
 
 Specific issues I considered when making this:
@@ -18,7 +18,7 @@ Specific issues I considered when making this:
 *   I also wanted the concept map to convey what makes **git different from Github**.
 *   A number of concepts in this map are ones that are covered by Scott Chacon&#8217;s [Git Internals][5] chapter of his *Pro Git* book. While the material of that chapter is advanced, I feel that the concepts conveyed in it actually demystified a lot of git for me and revealed a relatively simple set of concepts that are obscured by the git command-line program. Understanding those concepts made it much easier for me to understand how to use git to my advantage, and also get myself out of weird situations I&#8217;d inadvertently put myself into.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/01/git-concept-map.jpg
+ [1]: /training-course/uploads/2014/01/git-concept-map.jpg
  [2]: http://teaching.software-carpentry.org/2014/01/19/concept-map-git-commit/
  [3]: http://teaching.software-carpentry.org/2014/01/23/concept-map-using-git/
  [4]: http://teaching.software-carpentry.org/2014/01/22/concept-map-github-contribute-to-an-upstream-on-a-patch-branch/

@@ -9,10 +9,10 @@ tags:
 ---
 *Before asking these questions, I would take 10-15 min to teach this about awk: column numbering/accessing, printing columns subject to conditions, and specifying delimiters. If needed, also logical *(&&, ||), *relational* (>,<,>=,<=, ==, !=)* and arithmetic *(+, -, *, /)* operators.*
 
-We have a tab-separated datafile (**<a href="http://teaching.software-carpentry.org/wp-content/uploads/2014/07/patient_data.txt" target="_blank">patient_data.txt</a>**, see preview below), containing data for 100 patients: Diastolic blood pressure in mmHg (DBP), Systolic blood pressure in mmHg (SBP), receiving treatment or not, phone number and date of the last visit to the doctor (format YYYYMMDD).
+We have a tab-separated datafile (**<a href="/training-course/uploads/2014/07/patient_data.txt" target="_blank">patient_data.txt</a>**, see preview below), containing data for 100 patients: Diastolic blood pressure in mmHg (DBP), Systolic blood pressure in mmHg (SBP), receiving treatment or not, phone number and date of the last visit to the doctor (format YYYYMMDD).
 
 <p style="text-align: center;">
-  <a href="http://teaching.software-carpentry.org/wp-content/uploads/2014/07/patient_data.txt"><img class="aligncenter size-full wp-image-8172" alt="RID_data_lite" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/07/RID_data_lite.png" width="442" height="204" /></a><strong></strong>
+  <a href="/training-course/uploads/2014/07/patient_data.txt"><img class="aligncenter size-full wp-image-8172" alt="RID_data_lite" src="/training-course/uploads/2014/07/RID_data_lite.png" width="442" height="204" /></a><strong></strong>
 </p>
 
 &nbsp;

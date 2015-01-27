@@ -18,11 +18,11 @@ And, from Vanderbilt University, a [short guide to writing multiple-choice quest
 
  [1]: http://cwsei.ubc.ca/resources/instructor_guidance.htm
  [2]: http://cwsei.ubc.ca/resources/files/First_Day_of_Class.pdf
- [3]: http://teaching.software-carpentry.org/wp-content/uploads/2014/02/First_Day_of_Class.pdf
+ [3]: /training-course/uploads/2014/02/First_Day_of_Class.pdf
  [4]: http://cwsei.ubc.ca/Files/InstructorHabitsToKeepStudentsEngaged_CWSEI.pdf
- [5]: http://teaching.software-carpentry.org/wp-content/uploads/2014/02/InstructorHabitsToKeepStudentsEngaged_CWSEI.pdf
+ [5]: /training-course/uploads/2014/02/InstructorHabitsToKeepStudentsEngaged_CWSEI.pdf
  [6]: http://cwsei.ubc.ca/resources/files/Motivating-Learning_CWSEI.pdf
- [7]: http://teaching.software-carpentry.org/wp-content/uploads/2014/02/Motivating-Learning_CWSEI.pdf
+ [7]: /training-course/uploads/2014/02/Motivating-Learning_CWSEI.pdf
  [8]: http://cwsei.ubc.ca/resources/files/WhatNotToDo_CWSEI.pdf
- [9]: http://teaching.software-carpentry.org/wp-content/uploads/2014/02/WhatNotToDo_CWSEI.pdf
+ [9]: /training-course/uploads/2014/02/WhatNotToDo_CWSEI.pdf
  [10]: http://cft.vanderbilt.edu/writing-good-multiple-choice-test-questions/

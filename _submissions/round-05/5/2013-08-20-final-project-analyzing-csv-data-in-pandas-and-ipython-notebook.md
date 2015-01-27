@@ -17,7 +17,7 @@ I&#8217;m going to demonstrate the following for my final project:
 
 # Concept Map:
 
-[<img class=" wp-image-3996 alignnone" alt="Photo Aug 20, 9 41 23 PM" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/Photo-Aug-20-9-41-23-PM-300x225.jpg" width="270" height="203" />][1]
+[<img class=" wp-image-3996 alignnone" alt="Photo Aug 20, 9 41 23 PM" src="/training-course/uploads/2013/08/Photo-Aug-20-9-41-23-PM-300x225.jpg" width="270" height="203" />][1]
 
 &nbsp;
 
@@ -49,4 +49,4 @@ I tried really hard to be enthusiastic when teaching this topic because it&#8217
 
 Also, question 1 was relatively easy for everyone.  However, question 2 seemed to trip up beginners because the differences between matplotlib and Pandas are very blurry in my examples.  So, newcomers couldn&#8217;t decide whether Pandas was good for plotting or data analytics.  I suppose both are sort of correct, but the answer I was looking for was &#8216;b&#8217;, not &#8216;c.&#8217;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/Photo-Aug-20-9-41-23-PM.jpg
+ [1]: /training-course/uploads/2013/08/Photo-Aug-20-9-41-23-PM.jpg

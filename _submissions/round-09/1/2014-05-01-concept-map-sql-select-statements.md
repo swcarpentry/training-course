@@ -7,6 +7,6 @@ permalink: /2014/05/concept-map-sql-select-statements/
 tags:
   - Concept Map
 ---
-[<img class="size-medium wp-image-6919 aligncenter" alt="2014-04-30-Concept_Map_Assignment_Cropped" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/05/2014-04-30-Concept_Map_Assignment_Cropped-297x300.png" width="297" height="300" />][1]
+[<img class="size-medium wp-image-6919 aligncenter" alt="2014-04-30-Concept_Map_Assignment_Cropped" src="/training-course/uploads/2014/05/2014-04-30-Concept_Map_Assignment_Cropped-297x300.png" width="297" height="300" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/05/2014-04-30-Concept_Map_Assignment_Cropped.png
+ [1]: /training-course/uploads/2014/05/2014-04-30-Concept_Map_Assignment_Cropped.png

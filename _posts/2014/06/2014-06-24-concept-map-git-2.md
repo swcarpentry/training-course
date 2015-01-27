@@ -6,6 +6,6 @@ categories:
   - Concept Map
   - Uncategorized
 ---
-[<img class="alignnone size-medium wp-image-7918" alt="SWC-conceptmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/SWC-conceptmap-211x300.png" width="211" height="300" />][1]
+[<img class="alignnone size-medium wp-image-7918" alt="SWC-conceptmap" src="/training-course/uploads/2014/06/SWC-conceptmap-211x300.png" width="211" height="300" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/06/SWC-conceptmap.png
+ [1]: /training-course/uploads/2014/06/SWC-conceptmap.png

@@ -13,6 +13,6 @@ Cheers,
 
 Denis
 
-[<img class="alignnone size-medium wp-image-4800" alt="git_mindmap" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/10/git_mindmap-300x212.png" width="300" height="212" />][1]
+[<img class="alignnone size-medium wp-image-4800" alt="git_mindmap" src="/training-course/uploads/2013/10/git_mindmap-300x212.png" width="300" height="212" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/10/git_mindmap.png
+ [1]: /training-course/uploads/2013/10/git_mindmap.png

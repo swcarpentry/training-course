@@ -11,4 +11,4 @@ tags:
 ---
 [20140127_conceptMap][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/01/20140127_conceptMap.pdf
+ [1]: /training-course/uploads/2014/01/20140127_conceptMap.pdf

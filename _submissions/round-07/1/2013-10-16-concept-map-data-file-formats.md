@@ -9,4 +9,4 @@ tags:
 ---
 [concept\_map\_pb][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/10/concept_map_pb.pdf
+ [1]: /training-course/uploads/2013/10/concept_map_pb.pdf

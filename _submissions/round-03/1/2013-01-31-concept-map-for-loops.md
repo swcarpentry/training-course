@@ -9,7 +9,7 @@ tags:
 ---
 Here is my version of a simple concept map explaining when to use a for loop.
 
-[<img class="alignnone size-large wp-image-1579" alt="for_loop" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/01/for_loop-1024x579.png" width="707" height="399" />][1]
+[<img class="alignnone size-large wp-image-1579" alt="for_loop" src="/training-course/uploads/2013/01/for_loop-1024x579.png" width="707" height="399" />][1]
 
 Questions to test understanding of for loops:
 
@@ -36,4 +36,4 @@ If yes, then sharpen it and put in the box.
 otherwise  
 just put it back.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/01/for_loop.png
+ [1]: /training-course/uploads/2013/01/for_loop.png

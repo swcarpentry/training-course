@@ -11,9 +11,9 @@ While all the hipsters are out muddling with NoSQL data, you can use the tried a
 
 Feedback welcome. Be honest, I can take it, I swear. As I was drawing this, I realized I was unsure whether the WHERE clause should filter back onto the SELECT or the Result set. I settled on Result set since that&#8217;s what happens in my brain.<figure id="attachment_5584" style="width: 300px;" class="wp-caption alignnone">
 
-[<img class="size-medium wp-image-5584 " alt="Concept Map: SELECT Statement (SQL)" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/01/photo-300x225.jpg" width="300" height="225" />][1]<figcaption class="wp-caption-text">Concept Map: SELECT Statement (SQL). How to extract data from a good old fashioned relational database</figcaption></figure> 
+[<img class="size-medium wp-image-5584 " alt="Concept Map: SELECT Statement (SQL)" src="/training-course/uploads/2014/01/photo-300x225.jpg" width="300" height="225" />][1]<figcaption class="wp-caption-text">Concept Map: SELECT Statement (SQL). How to extract data from a good old fashioned relational database</figcaption></figure> 
 &nbsp;
 
 &nbsp;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/01/photo.jpg
+ [1]: /training-course/uploads/2014/01/photo.jpg

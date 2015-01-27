@@ -7,7 +7,7 @@ permalink: /2012/10/round-2-1-strings-in-python/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-810" title="String Concept Map" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/10/stringconceptmap-300x260.png" alt="" width="300" height="260" />][1]
+[<img class="alignnone size-medium wp-image-810" title="String Concept Map" src="/training-course/uploads/2012/10/stringconceptmap-300x260.png" alt="" width="300" height="260" />][1]
 
 **What is a string?**
 
@@ -76,4 +76,4 @@ Strings are heavily used in Python to store any kind of textual data. For exampl
 
 It took me about 2 hours to decide on a topic for a concept map, make the map, and then write up this report.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/10/stringconceptmap.png
+ [1]: /training-course/uploads/2012/10/stringconceptmap.png

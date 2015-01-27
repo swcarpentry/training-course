@@ -15,5 +15,5 @@ tags:
 
 [ipython notebook &#8211; view ][2]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/11/Actions_of_Addition_Concept_Map.pdf "Concept Map"
+ [1]: /training-course/uploads/2012/11/Actions_of_Addition_Concept_Map.pdf "Concept Map"
  [2]: http://nbviewer.ipython.org/4029666/ "ipython notebook - view"

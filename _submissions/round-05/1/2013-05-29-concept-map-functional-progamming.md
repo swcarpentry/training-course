@@ -11,11 +11,11 @@ tags:
 
 I have mapped out the basic principles of functional programming and their connexions.  While I have a little bit of introductory experience with Haskell, I am not by any stretch of the imagination an FP-style programmer.  I noticed that there was another older concept map outlining the differences between functional and procedural programming styles.  I explicitly avoided referencing that to keep this version &#8220;pure&#8221;.
 
-[<img class="alignnone size-large wp-image-2904" alt="Neal Davis - Functional Programming Context Map v. 1" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/05/ned-v1-768x1024.png" width="707" height="942" />][1]
+[<img class="alignnone size-large wp-image-2904" alt="Neal Davis - Functional Programming Context Map v. 1" src="/training-course/uploads/2013/05/ned-v1-768x1024.png" width="707" height="942" />][1]
 
 The first draft I made was largely based on the logical structure of the Wikipedia article on functional programming, with connexions drawn based on my own prior knowledge of historical problems with formal computation.  I think it ended up with too many spurious categories, categories of interest to the mathematical study but probably inappropriate for an early-pedagogical presentation.  In addition, the experience of preparing the concept map at the same time as reading was more distracting than traditional note taking for me, and I wasted time trying to match synonyms for &#8220;relates to&#8221; so I could draw double-headed arrows.
 
-[<img class="alignnone size-large wp-image-2905" alt="Neal Davis - Functional Programming Context Map v. 2" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/05/ned-v2-768x1024.png" width="707" height="942" />][2]
+[<img class="alignnone size-large wp-image-2905" alt="Neal Davis - Functional Programming Context Map v. 2" src="/training-course/uploads/2013/05/ned-v2-768x1024.png" width="707" height="942" />][2]
 
 For the second version, I started from scratch and threw out the initial first-level categorization (for the most part).  I pulled the historical stuff out to a separate level to leave more room for practical insights.  I also wrote down headings only rather than drawing any lines at this point.  Many lines were also simply connexions rather than verbal—more useful for me but not an observer.
 
@@ -27,8 +27,8 @@ The more effective concept maps distinguish the &#8220;starting point&#8221; cle
 
 And it was probably a mistake to attempt to craft a concept map at the same time I&#8217;m learning a new concept, rather than simply outlining something with which I&#8217;m already very familiar.  It&#8217;s unfair to hang too much of that albatross around the neck of the concept map, I suppose.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/05/ned-v1.png
- [2]: http://teaching.software-carpentry.org/wp-content/uploads/2013/05/ned-v2.png
+ [1]: /training-course/uploads/2013/05/ned-v1.png
+ [2]: /training-course/uploads/2013/05/ned-v2.png
  [3]: http://teaching.software-carpentry.org/2013/05/25/python-variables-a-diagram-that-is-not-a-concept-map/
  [4]: http://teaching.software-carpentry.org/2013/05/25/the-soul-of-gitabout-the-dot-git-dirconcept-map/
  [5]: http://teaching.software-carpentry.org/2013/05/28/concept-map-conditionals-booleans-in-python/

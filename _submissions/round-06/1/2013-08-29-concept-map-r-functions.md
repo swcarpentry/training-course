@@ -9,6 +9,6 @@ tags:
 ---
 Used this to teach a small intro R class.
 
-[<img class="alignnone size-large wp-image-4156" alt="RFunConceptMap" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/RFunConceptMap-1024x791.png" width="707" height="546" />][1]
+[<img class="alignnone size-large wp-image-4156" alt="RFunConceptMap" src="/training-course/uploads/2013/08/RFunConceptMap-1024x791.png" width="707" height="546" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/RFunConceptMap.png
+ [1]: /training-course/uploads/2013/08/RFunConceptMap.png

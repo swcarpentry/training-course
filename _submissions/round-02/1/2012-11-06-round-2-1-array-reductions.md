@@ -8,7 +8,7 @@ tags:
   - Concept Map
 ---
 <p style="text-align: center;">
-  <a href="http://teaching.software-carpentry.org/wp-content/uploads/2012/11/concept_map.001.png"><img class="size-full wp-image-986 aligncenter" title="concept_map.001" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/11/concept_map.001.png" alt="" width="635" height="344" /></a>
+  <a href="/training-course/uploads/2012/11/concept_map.001.png"><img class="size-full wp-image-986 aligncenter" title="concept_map.001" src="/training-course/uploads/2012/11/concept_map.001.png" alt="" width="635" height="344" /></a>
 </p>
 
 Array reductions represent a extremely useful class of array operations that involves computing aggregate statistics over the array. Numpy ndarrays come with methods like &#8216;sum&#8217;, &#8216;mean&#8217;, &#8216;std&#8217;, and many other reductions that are convenient to use. Specifying an argument for the &#8216;axis&#8217; parameter means computing the reduction along the given dimension, while omitting the &#8216;axis&#8217; parameter means computing the reduction over all elements in the array.
