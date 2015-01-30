@@ -15,3 +15,5 @@ Our Sept-Dec 2014 and Jan-Apr 2015 offerings are now full, but there are spaces 
 [1]: http://software-carpentry.org
 [2]: http://software-carpentry.org/badges/#instructor-badge
 [3]: http://software-carpentry.org/conduct.html
+
+The GitHub repository for this site is available at <a href="https://github.com/swcarpentry/training-course"> https://github.com/swcarpentry/training-course</a>.
