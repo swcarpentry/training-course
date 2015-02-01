@@ -13,5 +13,5 @@ You don't need to be an expert programmer to take part: in fact, we prefer instr
 Our Sept-Dec 2014 and Jan-Apr 2015 offerings are now full, but there are spaces available for May-Aug 2015.
 
 [1]: http://software-carpentry.org
-[2]: http://software-carpentry.org/badges/#instructor-badge
+[2]: http://software-carpentry.org/pages/team.html
 [3]: http://software-carpentry.org/conduct.html

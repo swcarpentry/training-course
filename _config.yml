@@ -1,12 +1,13 @@
 title: Teaching Software Carpentry
 email: info@software-carpentry.org
 description: >
-  Software Carpentry is a volunteer organization whose goal is to make
-  scientists more productive, and their work more reliable, by teaching them
-  basic computing skills.
+  Software Carpentry is a volunteer organization
+  that teaches researchers how to get more done with computers
+  in less time and with less pain.
 baseurl: "/training-course"
 twitter_username: swcarpentry
 github_username: swcarpentry
+github_projectname: training-course
 
 collections:
   submissions:
