@@ -1,7 +1,7 @@
 ---
 date: 2014-02-11
 round: Round 8
-title: 'MCQ and exercise, 'find' command'
+title: "MCQ and exercise, 'find' command"
 author: Jeramia Ory
 permalink: /2014/02/mcq-and-exercise-find-command/
 tags:

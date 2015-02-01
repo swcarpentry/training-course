@@ -1,7 +1,7 @@
 ---
 date: 2012-10-30
 round: Round 2
-title: 'Round 2.1 --- explaining 'assert''
+title: "Round 2.1 --- explaining 'assert'"
 author: Ariel Rokem
 permalink: /2012/10/round-2-1-explaining-assert/
 tags:

@@ -1,7 +1,7 @@
 ---
 date: 2013-06-06
 round: Round 5
-title: 'Concept Map: Bayes' Rule'
+title: "Concept Map: Bayes' Rule"
 author: Jessica Hamrick
 permalink: /2013/06/concept-map-bayes-rule/
 tags:

@@ -1,7 +1,7 @@
 ---
 date: 2012-11-19
 round: Round 2
-title: 'Let's Take a Look At Ourselves'
+title: "Let's Take a Look At Ourselves"
 author: Greg Wilson
 permalink: /2012/11/lets-take-a-look-at-ourselves/
 tags:

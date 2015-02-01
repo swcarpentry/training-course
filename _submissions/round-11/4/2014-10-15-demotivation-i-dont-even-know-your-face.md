@@ -1,7 +1,7 @@
 ---
 date: 2014-10-15
 round: Round 11
-title: 'Demotivation: I don't even know your face'
+title: "Demotivation: I don't even know your face"
 author: Franz Navarro
 permalink: /2014/10/demotivation-i-dont-even-know-your-face/
 tags:

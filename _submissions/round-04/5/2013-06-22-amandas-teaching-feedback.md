@@ -1,7 +1,7 @@
 ---
 date: 2013-06-22
 round: Round 4
-title: 'Amanda's teaching feedback'
+title: "Amanda's teaching feedback"
 author: Amanda Whitlock
 permalink: /2013/06/amandas-teaching-feedback/
 tags:

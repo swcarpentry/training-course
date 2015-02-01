@@ -1,6 +1,6 @@
 ---
 date: 2014-10-22
-title: 'Demotivation: don't hold students back'
+title: "Demotivation: don't hold students back"
 author: Juan Nunez-Iglesias
 permalink: /2014/10/demotivation-dont-hold-students-back/
 round: Round 11

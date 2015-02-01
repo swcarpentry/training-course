@@ -1,7 +1,7 @@
 ---
 date: 2013-02-25
 round: Round 3
-title: 'Mastering: Someone Else's Program'
+title: "Mastering: Someone Else's Program"
 author: David Jones
 permalink: /2013/02/mastering-someone-elses-program/
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'Software Carpentry Helper's Report, Oxford University Biochemistry Day 1'
+title: "Software Carpentry Helper's Report, Oxford University Biochemistry Day 1"
 author: Aron Ahmadia
 permalink: /2012/10/software-carpentry-helpers-report-oxford-university-biochemistry-day-1/
 categories:

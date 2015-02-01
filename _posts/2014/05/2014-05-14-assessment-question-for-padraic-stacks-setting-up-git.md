@@ -1,5 +1,5 @@
 ---
-title: 'Assessment question for Padraic Stack's "Setting up git"'
+title: "Assessment question for Padraic Stack's 'Setting up git'"
 author: Bror Fredrik Jonsson
 permalink: /2014/05/assessment-question-for-padraic-stacks-setting-up-git/
 categories:

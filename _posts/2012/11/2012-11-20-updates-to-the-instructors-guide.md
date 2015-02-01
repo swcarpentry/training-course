@@ -1,5 +1,5 @@
 ---
-title: 'Updates to the Instructor's Guide'
+title: "Updates to the Instructor's Guide"
 author: Greg Wilson
 permalink: /2012/11/updates-to-the-instructors-guide/
 categories:

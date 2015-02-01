@@ -1,7 +1,7 @@
 ---
 date: 2014-02-26
 round: Round 8
-title: 'Motivation: The Hero's Journey'
+title: "Motivation: The Hero's Journey"
 author: Mark Stacy
 permalink: /2014/02/motivation-the-heros-journey/
 tags:
