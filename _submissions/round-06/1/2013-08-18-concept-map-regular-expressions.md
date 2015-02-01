@@ -20,7 +20,7 @@ After feedback that this was way too much information, I simplified it some:
 
 &nbsp;
 
-I still agree that this was probably an ambitious topic for 10 minutes, I&#8217;ve thought of about a dozen more compact topics since!
+I still agree that this was probably an ambitious topic for 10 minutes, I've thought of about a dozen more compact topics since!
 
 &nbsp;
 

@@ -6,9 +6,9 @@ categories:
   - Community
   - Meta
 ---
-Back in 2012, I invited a bunch of people to contribute a chapter each to a book with the working title, &#8220;What Everyone in Tech Absolutely, Positively Must Know About Education (No Exceptions)&#8221;. Unlike [*Beautiful Code*][1], [*Making Software*][2], and [*The Architecture of Open Source Applications*][3], it never came together, but I still think it would be useful: a lot of people are wasting a lot of time and money because they&#8217;re [a bit confused about the difference between money, intelligence, and expertise][4] when it comes to education, and I think a 30,000 word overview of key ideas—something you could read on a flight from New York to Silicon Valley—would could prevent at least some of that.
+Back in 2012, I invited a bunch of people to contribute a chapter each to a book with the working title, "What Everyone in Tech Absolutely, Positively Must Know About Education (No Exceptions)". Unlike [*Beautiful Code*][1], [*Making Software*][2], and [*The Architecture of Open Source Applications*][3], it never came together, but I still think it would be useful: a lot of people are wasting a lot of time and money because they're [a bit confused about the difference between money, intelligence, and expertise][4] when it comes to education, and I think a 30,000 word overview of key ideas—something you could read on a flight from New York to Silicon Valley—would could prevent at least some of that.
 
-Warren Code and I have therefore put together a list of topics that we think could be introduced in 1000 words each. We&#8217;d be grateful for comments: what&#8217;s missing that really needs to be there, and what&#8217;s there that doesn&#8217;t need to be?
+Warren Code and I have therefore put together a list of topics that we think could be introduced in 1000 words each. We'd be grateful for comments: what's missing that really needs to be there, and what's there that doesn't need to be?
 
 1.  Dewey, Piaget, Vygotsky, Freire (or, key figures in 100 words each)
 2.  distance ed overview
@@ -23,7 +23,7 @@ Warren Code and I have therefore put together a list of topics that we think cou
 11. developing homework (and in-class tasks?) that build expertise.
 12. differences between novice, competent practitioner, and expert understanding
 13. direct instruction vs. problem-based learning and inquiry-based learning
-14. expertise in three parts (see how people learn&#8217;s intro, for example): prior knowledge, knowledge frameworks, metacognition.
+14. expertise in three parts (see how people learn's intro, for example): prior knowledge, knowledge frameworks, metacognition.
 15. fixed vs. growth mindset
 16. forms of assessment
 17. interactive engagement overview across STEM
@@ -39,7 +39,7 @@ Warren Code and I have therefore put together a list of topics that we think cou
 27. setting expectations in the classroom/promoting effective study habits
 28. stereotype threat
 29. the scholarship of teaching and learning (vs. education research vs. scholarly teaching)
-30. what does it mean to &#8220;understand computing&#8221;?
+30. what does it mean to "understand computing"?
 31. writing effective multiple choice questions
 
  [1]: http://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047

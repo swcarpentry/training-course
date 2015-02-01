@@ -7,7 +7,7 @@ permalink: /2013/10/concept-map-navigating-directories-using-command-line/
 tags:
   - Concept Map
 ---
-Here&#8217;s my concept map for navigating directories using the command line (in *nix environments).
+Here's my concept map for navigating directories using the command line (in *nix environments).
 
 &nbsp;
 

@@ -7,7 +7,7 @@ permalink: /2014/02/mcq-python-flow-control/
 tags:
   - Assessment
 ---
-which of the following will only print &#8220;hello world&#8221; exactly 3 times?
+which of the following will only print "hello world" exactly 3 times?
 
 A.
 
@@ -97,9 +97,9 @@ What will this script return in standard output?
     
 
 A. this will return an infinite loop  
-B. the values 0, 1, more pizza please, 2, 3, 4, 5, stop feeding me i&#8217;m full on separate lines  
+B. the values 0, 1, more pizza please, 2, 3, 4, 5, stop feeding me i'm full on separate lines  
 C. the values 0, 1, more pizza please, 2, 3, 4 on separate lines  
-D. the values 0, 1, more pizza please, 2, 3, stop feeding me i&#8217;m full on separate lines  
+D. the values 0, 1, more pizza please, 2, 3, stop feeding me i'm full on separate lines  
 E. the values 0, 1, more pizza please, 2, 3 on separate lines  
 F. the values 0, 1, 2, 3, 4, 5 on separate lines  
 G. the values 0, 1, 2, 3, 4 on separate lines  

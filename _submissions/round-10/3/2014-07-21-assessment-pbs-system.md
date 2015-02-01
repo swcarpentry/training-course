@@ -1,7 +1,7 @@
 ---
 date: 2014-07-21
 round: Round 10
-title: 'Assessment &#8211; PBS system'
+title: 'Assessment --- PBS system'
 author: Maciej Czuchry
 permalink: /2014/07/assessment-pbs-system/
 tags:
@@ -16,4 +16,4 @@ tags:
 4.  qalter $SCRIPTNAME
 5.  ./$SCRIPTNAME
 
-2. Using manual of torque commands and your knowledge write a short shell (bash/sh/tcsh/&#8230;) script which show hostname of worker node the job is running. Resources info to take for PBS are: 1 worker node with 1 processor, 100MB RAM per processor, 5min walltime. The jobname to set is &#8216;HostnameCheck&#8217;.
+2. Using manual of torque commands and your knowledge write a short shell (bash/sh/tcsh/...) script which show hostname of worker node the job is running. Resources info to take for PBS are: 1 worker node with 1 processor, 100MB RAM per processor, 5min walltime. The jobname to set is 'HostnameCheck'.

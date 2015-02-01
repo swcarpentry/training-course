@@ -13,9 +13,9 @@ May 8/9, 2013
 
 **Agenda**
 
-*   How &#8220;science-y&#8221; did you think this research was?
+*   How "science-y" did you think this research was?
 *   Would you approve it if it was sent to you for peer review?
-*   What did you read that you didn&#8217;t believe?
+*   What did you read that you didn't believe?
 *   What (if anything) are you going to change in your own working practice?
 *   What (if anything) are you going to teach?
 *   How should the picture superiority effect (http://en.wikipedia.org/wiki/Picture\_superiority\_effect) affect your slides?
@@ -23,11 +23,11 @@ May 8/9, 2013
 
 **Next Round**
 
-We are moving our next meeting up a day to accommodate our Australian friends (or having a third meeting—we&#8217;ll figure it out next week). To prepare:
+We are moving our next meeting up a day to accommodate our Australian friends (or having a third meeting—we'll figure it out next week). To prepare:
 
 *   Look at [past videos][2]
-*   Read [Chen&#8217;s pattern language of screencasting][3] and [Mayer on reducing cognitive load][4]
-*   You may find other papers on the [reading list][5] interesting as well&#8230;
+*   Read [Chen's pattern language of screencasting][3] and [Mayer on reducing cognitive load][4]
+*   You may find other papers on the [reading list][5] interesting as well...
 *   Record two short videos of yourself teaching something 
     *   One giving a lecture at a whiteboard
     *   One a screencast (record your desktop while you do something, explaining as you go)
@@ -38,7 +38,7 @@ We are moving our next meeting up a day to accommodate our Australian friends (o
 
 *   Code review: 
     *   Setup projector, grade code never seen, and do review in front of audience
-    *   let them see &#8220;how&#8221; you do the review.
+    *   let them see "how" you do the review.
     *   Will that enocurage them to do more reviews themeselves?
 *   Teach to read before you write? 
     *   No! If you want to learn, you need to be committed.
@@ -47,12 +47,12 @@ We are moving our next meeting up a day to accommodate our Australian friends (o
     *   more effective when you combine text with images
     *   lots of text = redundant information
     *   reduce cognitive load
-    *   more text needed when it&#8217;s standalone
-    *   having only images on a slide makes me present better, since I have nothing to read off of, and thus *need* to know what I&#8217;m saying
+    *   more text needed when it's standalone
+    *   having only images on a slide makes me present better, since I have nothing to read off of, and thus *need* to know what I'm saying
 *   Feedback 
     *   video: great medium for getting feedbacking about teaching technique
     *   YouTube used to solocit feedback (musicians, and teachers)
-    *   emphasis on &#8220;how you teach&#8221; not &#8220;what you teach&#8221;
+    *   emphasis on "how you teach" not "what you teach"
 
 ##### Video Links
 
@@ -68,7 +68,7 @@ We are moving our next meeting up a day to accommodate our Australian friends (o
 *   Julia Gustavsen: whiteboard -[basic local version control][19] (and yes I am 34secs over time. <img src="http://localhost:8080/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" /> ); screencast- [git local commit][20].
 *   Will Trimble:  whiteboard [sequence data accession number archipelego][21]
 *   April Wright: screencast[ on symbolic links ][22], board [on qrsh][23]
-*   Bogdan Vera &#8211; Screencast, Rotation and [Translating the Coordinate System in Processing][24] Whiteboard: [UML Class Diagrams][25]
+*   Bogdan Vera --- Screencast, Rotation and [Translating the Coordinate System in Processing][24] Whiteboard: [UML Class Diagrams][25]
 
  [1]: http://www.amazon.com/Making-Software-Really-Works-Believe/dp/0596808321/
  [2]: http://teaching.software-carpentry.org/category/video/

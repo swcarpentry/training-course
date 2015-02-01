@@ -20,7 +20,7 @@ Round 4.2/4.3
 *   What did you learn from the feedback you got on your questions? 
     *   How much did you revise them?
     *   How much did you rethink your novice/proficient/expert distinctions?
-*   How do you think you&#8217;d do on other people&#8217;s questions? 
+*   How do you think you'd do on other people's questions? 
     *   I.e., how often would you be novice, proficient, or expert?
 *   Next exercise (**note**: this has changed!)
 
@@ -31,14 +31,14 @@ Round 4.2/4.3
     *   easy to distinguish novice from competant
     *   harder to come up with expert questions
     *   Greg: takes 1 day to generate 6-7 questions for an exam, another 1 day to revise based on feedback from colleagues
-*   &#8220;Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.&#8221; — Brian Kernighan 
-    *   Experts don&#8217;t just know when to break the rules: they also know how to reason backward from effects to causes (i.e., how to debug).
+*   "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." — Brian Kernighan 
+    *   Experts don't just know when to break the rules: they also know how to reason backward from effects to causes (i.e., how to debug).
     *   One way to create expert-vs-proficient assessment questions is to give them something that contains an error and ask what they need to fix it.
     *   Easy to mark: yes or know.
     *   Gives them an opportunity to show transference of relevant knowledge from related domains.
 *   Challenges in writing good questions 
     *   removing ambiguities
-    *   leaving opportunities for learners to be partly correct and correct in part (which aren&#8217;t the same thing).
+    *   leaving opportunities for learners to be partly correct and correct in part (which aren't the same thing).
     *   yes/no questions better for quick assessment of large numbers of people but harder to assess shades of grey
 *   Competent practitioners often better than experts for teaching novices 
     *   Experts: 
@@ -54,11 +54,11 @@ For *Thursday*, May 2 (note the change of day):
 
 *   Read the [Hannay][1] and [Prabhu][2] papers.
 *   Read *Facts and Fallacies of Software Engineering*.
-*   Pick one or two results from the book that you didn&#8217;t already know, and that connect to your own work somehow.
+*   Pick one or two results from the book that you didn't already know, and that connect to your own work somehow.
 *   Put together a very short presentation (no more than ten slides, no more than three minutes) to explain it, the evidence for it, and its implications to our intended audience.
 *   Put the slides online somewhere and then add a link to it to [this post][3].
 
-It&#8217;s OK if several people pick the same topic—you&#8217;re unlikely to see the same connections between it and your own work, and much less likely to come up with the same presentation <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />  What I *would* like you to do is sketch a very quick concept map for yourself before you start putting the presentation together, and think of a simple question you could use to tell whether people (a) already understand the idea before you start talking, and/or (b) understand it when you&#8217;re done, and/or (c) are actually acting on it.  You don&#8217;t need to post these, but I&#8217;d like you to introspect and see whether thinking in these terms helps you put together a better presentation in less time.
+It's OK if several people pick the same topic—you're unlikely to see the same connections between it and your own work, and much less likely to come up with the same presentation <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />  What I *would* like you to do is sketch a very quick concept map for yourself before you start putting the presentation together, and think of a simple question you could use to tell whether people (a) already understand the idea before you start talking, and/or (b) understand it when you're done, and/or (c) are actually acting on it.  You don't need to post these, but I'd like you to introspect and see whether thinking in these terms helps you put together a better presentation in less time.
 
 &nbsp;
 

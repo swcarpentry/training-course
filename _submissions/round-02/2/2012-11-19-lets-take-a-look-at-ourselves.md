@@ -1,7 +1,7 @@
 ---
 date: 2012-11-19
 round: Round 2
-title: 'Let&#8217;s Take a Look At Ourselves'
+title: 'Let's Take a Look At Ourselves'
 author: Greg Wilson
 permalink: /2012/11/lets-take-a-look-at-ourselves/
 tags:
@@ -31,17 +31,17 @@ Our work: [Round 1.4][1], [Round 2.1][2]
 
 1.  Students work in pairs
 2.  Identify strong students who are bored and pair them with struggling students
-3.  You may have to leave students who aren&#8217;t prepared behind
+3.  You may have to leave students who aren't prepared behind
 4.  Make sure less experienced student is the one at the keyboard
 5.  Get people to attend in pairs/teams
 6.  Spaces that encourage collaboration rather than lecture are beneficial (small tables with groups, not theatre style seating)
-7.  When teaching in pairs have the person not teaching watch the room and signal the person teaching if/when they&#8217;re going too fast (often) or too slow (rarely)
+7.  When teaching in pairs have the person not teaching watch the room and signal the person teaching if/when they're going too fast (often) or too slow (rarely)
 8.  Can use etherpads in SWC workshops (contact Greg)
 
 **General Teaching Notes:**
 
 1.  Talk of 3-10 minutes and then have a small exercise
-2.  No one will ever be more motivated that you are (don&#8217;t be bored by the material you&#8217;re presenting)
+2.  No one will ever be more motivated that you are (don't be bored by the material you're presenting)
 3.  Self-efficacy: if people believe they are going to succeed they will learn/do better
 4.  Stereo type threat: reminding people of sterotypes about ability makes everyone perform worse
 5.  Avoid saying things are easy because this is demoralizing for students who are struggling.
@@ -59,7 +59,7 @@ Our work: [Round 1.4][1], [Round 2.1][2]
 
 1.  Stand up in front of at least 2-3 people, teach for 3 minutes (no more), post to youtube and link to blog 
     *   Due in 2 weeks
-    *   Key part is video of what you do when you&#8217;re teaching
+    *   Key part is video of what you do when you're teaching
     *   We are building toward (but not doing yet) <http://www.beasmartercookie.com/>
 
 Please look at/comment on our [pre-assessment questionnaire][4]

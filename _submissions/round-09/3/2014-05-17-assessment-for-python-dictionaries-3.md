@@ -8,7 +8,7 @@ tags:
   - Assessment
   - Concept Map
 ---
-Questions for Jeremiah&#8217;s [concept map][1] on python dictionaries.
+Questions for Jeremiah's [concept map][1] on python dictionaries.
 
 &nbsp;
 
@@ -16,24 +16,24 @@ Questions for Jeremiah&#8217;s [concept map][1] on python dictionaries.
 
 Consider the following two lines of python code.
 
-world_cup = {&#8216;favorites': [&#8216;Brazil&#8217;, &#8216;Spain&#8217;, &#8216;Germany&#8217;], &#8216;host': &#8216;Brazil&#8217;, &#8216;months': [&#8216;June&#8217;,&#8217;July&#8217;] }  
-list\_to\_print=\[world\_cup [&#8216;months&#8217;\] \[0\], world\_cup \[&#8216;host&#8217;\] \[1\], world_cup \[&#8216;favorites&#8217;\] \[2\]]
+world_cup = {'favorites': ['Brazil', 'Spain', 'Germany'], 'host': 'Brazil', 'months': ['June','July'] }  
+list\_to\_print=\[world\_cup ['months'\] \[0\], world\_cup \['host'\] \[1\], world_cup \['favorites'\] \[2\]]
 
 Question 1:
 
 What is the value of *list\_to\_print*?
 
-A. [ [&#8216;June&#8217;, &#8216;July&#8217;], &#8216;Brazil&#8217;, [&#8216;Brazil&#8217;, &#8216;Spain&#8217;, &#8216;Germany&#8217;] ]
+A. [ ['June', 'July'], 'Brazil', ['Brazil', 'Spain', 'Germany'] ]
 
-B. [&#8216;June&#8217;, &#8216;r&#8217;, &#8216;Germany&#8217;]
+B. ['June', 'r', 'Germany']
 
-C. [&#8216;June&#8217;, &#8216;Brazil&#8217;, [&#8216;Brazil&#8217;,&#8217;Spain&#8217;]]
+C. ['June', 'Brazil', ['Brazil','Spain']]
 
-D. [ &#8216;J&#8217;, &#8216;r&#8217;, &#8216;a&#8217; ]
+D. [ 'J', 'r', 'a' ]
 
 Question 2
 
-Define a new dictionary S*ummer_2014*. *Summer_2014* should have two keys. One key should be named &#8216;sports&#8217; and the value of the key should be the dictionary *world_cup *(as defined in question 1). A second key should be named &#8216;number\_of\_months&#8217; and the value should be the integer 3.
+Define a new dictionary S*ummer_2014*. *Summer_2014* should have two keys. One key should be named 'sports' and the value of the key should be the dictionary *world_cup *(as defined in question 1). A second key should be named 'number\_of\_months' and the value should be the integer 3.
 
 &nbsp;
 

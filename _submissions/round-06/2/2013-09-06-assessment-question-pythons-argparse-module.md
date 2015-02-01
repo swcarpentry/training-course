@@ -1,7 +1,7 @@
 ---
 date: 2013-09-06
 round: Round 6
-title: 'Assessment Question: Python&#8217;s argparse module'
+title: 'Assessment Question: Python's argparse module'
 author: Rachel Anderson
 permalink: /2013/09/assessment-question-pythons-argparse-module/
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 Q1: I have a program called mysum.py, which sums input from the user.  I use argparse like so:  
 parser = argparse.ArgumentParser()  
-parser.add_argument(&#8216;integers&#8217;, type=int, metavar=&#8217;N&#8217;, help=&#8217;Integers to sum.&#8217;)
+parser.add_argument('integers', type=int, metavar='N', help='Integers to sum.')
 
 I want the user to be able to enter any number of integers to sum, i.e.:
 
@@ -27,7 +27,7 @@ c) *
 d) +
 
 Q2: Now that I have my integers to sum, how can I do the summation within the add_argument call?  
-a) Include this in call to add_argument(): action=&#8217;+&#8217;  
+a) Include this in call to add_argument(): action='+'  
 b) Include this in call to add_argument(): action=sum  
 c) Write a custom action called myaction and add this in call to add_argument(): action=myaction  
-d) You can&#8217;t.  We don&#8217;t have access to the arguments until we call args = parser.parse_args()
+d) You can't.  We don't have access to the arguments until we call args = parser.parse_args()

@@ -7,7 +7,7 @@ permalink: /2013/10/concept-map-git/
 tags:
   - Concept Map
 ---
-Here&#8217;s my concept map for Git version control.
+Here's my concept map for Git version control.
 
 Cheers,
 

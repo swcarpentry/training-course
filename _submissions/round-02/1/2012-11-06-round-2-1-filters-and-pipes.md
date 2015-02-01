@@ -25,7 +25,7 @@ Date,Time,Location,Diameter,X,Y.
 01/01/2010,10:30:05.54,Front,4.551,0.2,-0.3  
 01/01/2010,10:30:07.66,TopFlange,14.37,-1.18,1.77  
 01/01/2010,10:30:10.87,Front,4.53,-0.18,0.143  
-&#8230;  
+...  
 02/02/2010,16:35:14.8,BackMount,3.553,-2.43,3.14  
 02/02/2010,19:49:56.096,EntryPort,,6.133,1.56.18,2.676  
 02/02/2010,21:52:11.656,Flange,24.53,-0.123,10.234
@@ -39,15 +39,15 @@ Date,Time,Location,Diameter,X,Y.
 </p>
 
 <p style="text-align: left;">
-  % grep &#8217;01/02/2010&#8242; observation_data.csv
+  % grep '01/02/2010&#8242; observation_data.csv
 </p>
 
 <p style="text-align: left;">
-  will select all rows in the file <em>observation_data.csv</em> with the string &#8217;01/02/2010&#8242; to the standard output, effectively selecting all measurements made on January 2, 2010, at all locations in the laser system.  The rows will be printed to you screen.  To send the output to a file for inspection later, we can use a carrot to re-direct the standard (screen) output to a file,
+  will select all rows in the file <em>observation_data.csv</em> with the string '01/02/2010&#8242; to the standard output, effectively selecting all measurements made on January 2, 2010, at all locations in the laser system.  The rows will be printed to you screen.  To send the output to a file for inspection later, we can use a carrot to re-direct the standard (screen) output to a file,
 </p>
 
 <p style="text-align: left;">
-  % grep &#8217;01/02/2010&#8242; observation_data.csv > data_from_20100102.csv
+  % grep '01/02/2010&#8242; observation_data.csv > data_from_20100102.csv
 </p>
 
 <p style="text-align: left;">
@@ -55,7 +55,7 @@ Date,Time,Location,Diameter,X,Y.
 </p>
 
 <p style="text-align: left;">
-  % grep &#8217;01/02/2010&#8242; observation_data.csv | grep &#8216;Front&#8217; > data_from_20100102_Front.csv
+  % grep '01/02/2010&#8242; observation_data.csv | grep 'Front' > data_from_20100102_Front.csv
 </p>
 
 <p style="text-align: left;">

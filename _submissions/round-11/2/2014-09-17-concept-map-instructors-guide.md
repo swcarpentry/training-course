@@ -1,7 +1,7 @@
 ---
 date: 2014-09-17
 round: Round 11
-title: 'Concept Map | Instructor&#8217;s Guide'
+title: 'Concept Map | Instructor's Guide'
 author: Eric Youngson
 permalink: /2014/09/concept-map-instructors-guide/
 tags:

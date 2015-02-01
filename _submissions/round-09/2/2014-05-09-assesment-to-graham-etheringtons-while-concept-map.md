@@ -1,7 +1,7 @@
 ---
 date: 2014-05-09
 round: Round 9
-title: 'Assessment to Graham Etherington&#8217;s While Concept Map'
+title: 'Assessment to Graham Etherington's While Concept Map'
 author: Alexandra Simperler
 permalink: /2014/05/assesment-to-graham-etheringtons-while-concept-map/
 tags:
@@ -17,7 +17,7 @@ while ($number < 5) {
 
     $number += 1;
 
-    print &#8220;The count is now $numbern&#8221;;
+    print "The count is now $numbern";
 
 }
 

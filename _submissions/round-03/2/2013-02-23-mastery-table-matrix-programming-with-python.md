@@ -7,7 +7,7 @@ permalink: /2013/02/mastery-table-matrix-programming-with-python/
 tags:
   - Proficiency
 ---
-I don&#8217;t think I am at the expert level on matrix programming, but I tried my best. I am not familiar with the tables in WordPress so I just formatted them as follows. I nominate **Karthik** to make a longer response.
+I don't think I am at the expert level on matrix programming, but I tried my best. I am not familiar with the tables in WordPress so I just formatted them as follows. I nominate **Karthik** to make a longer response.
 
 ## 1. what does a novice know coming in (including misconceptions!)
 

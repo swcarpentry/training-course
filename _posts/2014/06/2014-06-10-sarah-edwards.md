@@ -7,9 +7,9 @@ categories:
 ---
 I work in computer networking research and development and have been at [BBN Technologies][1] in Cambridge, Massachusetts, for the last 10 years.  I work on <a title="GENI" href="http://groups.geni.net/geni/wiki/GeniNewcomersWelcome" target="_blank">GENI</a>, an NSF-funded project to build a nationwide virtual environment for computer networking and distributed systems research (a.k.a. we are building a testbed so other researchers can figure out what the Internet should be like in the future).  I write software to make GENI easier to use, I teach tutorials, and I help experimenters use GENI.
 
-I&#8217;m hoping that software carpentry will give me ideas I can use in my current project and also I enjoy the teaching I do now and would like to do more.
+I'm hoping that software carpentry will give me ideas I can use in my current project and also I enjoy the teaching I do now and would like to do more.
 
-I believe that in computing [&#8220;everything is hard until someone makes it easy&#8221;][2].  And that we should be lucky enough to share what [&#8220;everyone knows&#8221;][3] with those that don&#8217;t know it yet.****
+I believe that in computing ["everything is hard until someone makes it easy"][2].  And that we should be lucky enough to share what ["everyone knows"][3] with those that don't know it yet.****
 
 ****I am an electrical engineer by training.  My favorite programming language is python.
 

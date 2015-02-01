@@ -7,4 +7,4 @@ permalink: /2012/11/list-of-lists/
 tags:
   - Concept Map
 ---
-For me I will talk about &#8220;list of lists&#8221; concept in Python, I will assume that the reader has a previous knowledge in lists
+For me I will talk about "list of lists" concept in Python, I will assume that the reader has a previous knowledge in lists

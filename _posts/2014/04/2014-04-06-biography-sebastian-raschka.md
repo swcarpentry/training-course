@@ -6,7 +6,7 @@ categories:
   - Biography
   - Live 01
 ---
-My name is Sebastian Raschka and I was born and raised in Germany, where I did my Bachelor&#8217;s degree in Biology (my thesis was in the area of developmental genetics) at Heinrich-Heine University, Duesseldorf. In 2011, I joined an exchange program with Michigan State University (East Lansing, Michigan), and after I received my Bachelor&#8217;s degree in Germany, I decided to come back to MSU to join a PhD program in Biochemistry, which recently became a Dual-Major degree: Computational Biology.
+My name is Sebastian Raschka and I was born and raised in Germany, where I did my Bachelor's degree in Biology (my thesis was in the area of developmental genetics) at Heinrich-Heine University, Duesseldorf. In 2011, I joined an exchange program with Michigan State University (East Lansing, Michigan), and after I received my Bachelor's degree in Germany, I decided to come back to MSU to join a PhD program in Biochemistry, which recently became a Dual-Major degree: Computational Biology.
 
 I always loved working and tinkering with computers, and thus I joined a computational protein structure analysis lab for my PhD thesis, where I work on software for protein-ligand docking and high-throughput drug screening (i.e., small chemical compounds for targetting protein receptors).
 

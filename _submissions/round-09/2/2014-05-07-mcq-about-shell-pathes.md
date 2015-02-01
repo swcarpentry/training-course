@@ -7,7 +7,7 @@ permalink: /2014/05/mcq-about-shell-pathes/
 tags:
   - Assessment
 ---
-**A path describes the location of an object in a file system. What is an &#8220;absolute path&#8221; to the file &#8220;chapter1.html&#8221;?**  
+**A path describes the location of an object in a file system. What is an "absolute path" to the file "chapter1.html"?**  
 [<img src="http://files.software-carpentry.org/training-course/2014/05/assignment1.png" alt="assignment1" width="288" height="329" class="alignnone size-full wp-image-7004" />][1]
 
 1.  The shortest specification how to reach the desired object from the current working directory,  

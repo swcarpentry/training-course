@@ -1,7 +1,7 @@
 ---
 date: 2014-10-01
 round: Round 11
-title: 'Assessment &#8211; Collaborating with Git'
+title: 'Assessment --- Collaborating with Git'
 author: Hamid
 permalink: /2014/10/assessment-collaborating-with-git/
 tags:
@@ -14,8 +14,8 @@ I chose the <a href="http://software-carpentry.org/v5/novice/git/02-collab.html"
 Which of the following is happens when executing:  
 >> git push origin master
 
-A: Changes are committed locally, and then merged into the remote repository&#8217;s \`master\` branch  
-B: Locally committed changes are pushed into the remote repository&#8217;s \`master\` branch  
+A: Changes are committed locally, and then merged into the remote repository's \`master\` branch  
+B: Locally committed changes are pushed into the remote repository's \`master\` branch  
 C: Local changes on \`development\` branch are merged into the local \`master\` branch  
 D: The latest version from the remote repository is merged into the local repository
 
@@ -28,7 +28,7 @@ You are planning to join and contribute to coolproject by adding a visualization
 1                 >> # edit files, work on new file visual.py  
 2                  >> git branch visual-tool  
 3                  >> git push -u origin visual-tool  
-4                  >> git commit -a -m &#8216;First version of visualization added&#8217;  
+4                  >> git commit -a -m 'First version of visualization added'  
 5                  >> git clone https://github.com/coolproject.git  
 6                  >> git checkout visual-tool  
 7                  >> git add visual.py

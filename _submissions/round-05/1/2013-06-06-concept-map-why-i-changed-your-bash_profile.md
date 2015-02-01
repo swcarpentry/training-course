@@ -12,7 +12,7 @@ I was inspired by my experience changing the .bash_profiles of many mac users at
 I wanted to do a concept map to explore just how many concepts are packed into the process of adding an export line to a .bash_profile. Perhaps this can help me explain it more clearly, and understand how it should fit into a bootcamp.<figure id="attachment_3039" style="width: 300px;" class="wp-caption alignnone">
 
 [<img class="size-medium wp-image-3039" alt="Version 1.0" src="http://files.software-carpentry.org/training-course/2013/06/whatddyoujustdo-300x228.png" width="300" height="228" />][1]<figcaption class="wp-caption-text">Version 1.0</figcaption></figure> 
-I think it could use somerevision, but for now, at least I&#8217;m making the rest of you all look good&#8212;not that you needed my help!
+I think it could use somerevision, but for now, at least I'm making the rest of you all look good---not that you needed my help!
 
 -Katie
 

@@ -10,6 +10,6 @@ tags:
 ---
 A lot of web service calls return an XML document that needs to be manipulated.
 
-In my screencast I&#8217;ll show how to manipulate the xml file to extract data, including attributes and when you have multiple tags of the same type at the same level.
+In my screencast I'll show how to manipulate the xml file to extract data, including attributes and when you have multiple tags of the same type at the same level.
 
 What do people think?

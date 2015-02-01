@@ -9,7 +9,7 @@ tags:
 ---
 **Novice from competent:**
 
-What R command does not test if x=&#8221;hello&#8221; and y=&#8221;hello&#8221; are equal?
+What R command does not test if x="hello" and y="hello" are equal?
 
 A) %in%  
 B) =  

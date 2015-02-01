@@ -9,6 +9,6 @@ tags:
 ---
 Please watch it full screen at 720p or it will be too fuzzy to see the text.
 
-There&#8217;s some background noise, but it&#8217;s not too bad.
+There's some background noise, but it's not too bad.
 
 <http://www.youtube.com/watch?v=ZjjcO5FYl-Q>

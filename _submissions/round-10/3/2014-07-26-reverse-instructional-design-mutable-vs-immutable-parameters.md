@@ -6,7 +6,7 @@ author: Dominic Barraclough
 permalink: /2014/07/reverse-instructional-design-mutable-vs-immutable-parameters/
 tags:
 ---
-Back grouund &#8211; this question was motivated by a recent observation by a friend. While Sean is a very experienced and knowledgable software engineer, he is not that familiar with python and mentioned that he was caught out by the different behavior of mutable vs immutable objects when they are passed as parameters
+Back grouund --- this question was motivated by a recent observation by a friend. While Sean is a very experienced and knowledgable software engineer, he is not that familiar with python and mentioned that he was caught out by the different behavior of mutable vs immutable objects when they are passed as parameters
 
 Given this, I though of summative tests to check that somebody learning python understands the different behavior of mutiable and immutable items when they are passes as function parameters.
 

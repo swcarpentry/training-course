@@ -25,6 +25,6 @@ a)      scanf [C], cin [C++]
 
 b)      ->[C], this-> [C++]
 
-c)       fopen(&#8216;rw&#8217;) [C], ofstream [C++]
+c)       fopen('rw') [C], ofstream [C++]
 
 d)      malloc [C], new [C++]

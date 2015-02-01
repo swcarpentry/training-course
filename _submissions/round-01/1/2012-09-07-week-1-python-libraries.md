@@ -1,7 +1,7 @@
 ---
 date: 2012-09-07
 round: Round 1
-title: 'Week 1 &#8211; Python: Libraries'
+title: 'Week 1 --- Python: Libraries'
 author: Sarah Supp
 permalink: /2012/09/week-1-python-libraries/
 tags:
@@ -31,7 +31,7 @@ Python stores the imported module within an object, which is given the same vari
 
 <pre>math.sqrt()</pre>
 
-Using dot notation may seem like a lot of extra typing, but it is important because it allows each module to have it’s own namespace. In other words, if two modules use the same name for a function or variable, Python is able to identify them separately and continue to use the functions correctly rather than accidentally masking one with the other. If this were not the case, then whichever module was imported last would contain the working version of the variable name. This could lead to some unexpected results because your program might not be doing what you think it&#8217;s doing!
+Using dot notation may seem like a lot of extra typing, but it is important because it allows each module to have it’s own namespace. In other words, if two modules use the same name for a function or variable, Python is able to identify them separately and continue to use the functions correctly rather than accidentally masking one with the other. If this were not the case, then whichever module was imported last would contain the working version of the variable name. This could lead to some unexpected results because your program might not be doing what you think it's doing!
 
 If, however, you want to get around using dot notation, you can import specific functions directly from a module. For example, if you knew you didn’t have any variable name conflicts with `sqrt`, and importing the entire suite of functions from math was unnecessary, you could use:
 
@@ -53,7 +53,7 @@ Importing a code that you have written as a library works the same as in the exa
 
 <pre>import myfunctions</pre>
 
-Note that you don&#8217;t need to include the `.py` extension.
+Note that you don't need to include the `.py` extension.
 
 &nbsp;
 

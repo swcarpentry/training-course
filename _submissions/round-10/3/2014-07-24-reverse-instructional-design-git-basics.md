@@ -7,19 +7,19 @@ round: Round 10
 categories:
   - Assessment
 ---
-1.  You have created a new git repository in your current directory with the &#8216;git init&#8217; command.
+1.  You have created a new git repository in your current directory with the 'git init' command.
 
-Further, you have edited and saved a new file name &#8216;README&#8217; to the current directory.
+Further, you have edited and saved a new file name 'README' to the current directory.
 
-What sequence of commands will permanently save the new file &#8216;README&#8217; to your repository?
+What sequence of commands will permanently save the new file 'README' to your repository?
 
-a) git status; git add README; git diff &#8211;staged; git commit -m &#8220;created README&#8221;
+a) git status; git add README; git diff ---staged; git commit -m "created README"
 
-b) git status; git commit -m &#8220;created README&#8221;; git status; git log
+b) git status; git commit -m "created README"; git status; git log
 
-c) git add README; git diff &#8211;staged; git commit; git status
+c) git add README; git diff ---staged; git commit; git status
 
-d) git status; git add README; git status; git diff &#8211;staged; git log
+d) git status; git add README; git status; git diff ---staged; git log
 
 2. Files under git control go through three main stages: working files, staging area, and repository.
 

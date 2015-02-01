@@ -1,7 +1,7 @@
 ---
 date: 2013-06-18
 round: Round 4
-title: 'Evaluation of &#8216;From Clicking Excel to Writing Programmes&#8217;'
+title: 'Evaluation of 'From Clicking Excel to Writing Programmes''
 author: "Steven 'Kreuvf' Koenig"
 excerpt: 'In the lecture &lsquo;From Clicking Excel to Writing Programmes&rsquo; I explained the very basics of shells/text-oriented user interfaces to people by employing &lsquo;bridging&rsquo;. By explaining the basic ideas behind what people use everyday&nbsp;&ndash;&nbsp;Microsoft Excel&nbsp;&ndash;&nbsp;I started to introduce the very basic features of shells (Cygwin/bash). The audience consisted exclusively of people from my chair. Language used: English. The idea is to point people into a direction which ultimately leads to writing own scripts.'
 permalink: /2013/06/evaluation-of-from-clicking-excel-to-writing-programmes/
@@ -68,7 +68,7 @@ Powerpoint presentation + live demonstrations on the same computer.
     *   authentic appearance
     *   discussion at the end very good
     *   good explanations (2 x)
-    *   You will build a bridge and we will walk on it &#8211;> nice =)
+    *   You will build a bridge and we will walk on it ---> nice =)
     *   well comprehensible explanations
     *   relation to everyday problems (slash in internet addresses)
     *   good presentation style
@@ -81,18 +81,18 @@ Powerpoint presentation + live demonstrations on the same computer.
     
     *   virtual keyboard unnecessary; time-consuming
     *   audience underchallenged, more content for 90 mins!
-    *   Slide 4: &#8220;<u>Not Aims</u> of this Talk&#8221; is awkward phrasing
-    *   posture during clicking through slides &#8211;> maybe use lectern
+    *   Slide 4: "<u>Not Aims</u> of this Talk" is awkward phrasing
+    *   posture during clicking through slides ---> maybe use lectern
     *   Lecture could go faster
     *   Swearing during lecture<!-- I cannot remember having done this, is 'I didn't screw up again' considered swearing? -->
     
     *   Slide 4: unnecessary and demotivating
-    *   maybe relation of Excel & R better than Excel & shell &#8211;> also shows advantages, e. g. reproducibility, faster
-    *   in addition to comparison of internet addresses and paths maybe show ftp of a website (also as http) &#8211;> directory structure<!-- not sure why this is under BAD-->
+    *   maybe relation of Excel & R better than Excel & shell ---> also shows advantages, e. g. reproducibility, faster
+    *   in addition to comparison of internet addresses and paths maybe show ftp of a website (also as http) ---> directory structure<!-- not sure why this is under BAD-->
     
     *   15 min waiting time<!-- had to start 15 mins later to get at least 6 persons-->
     
-    *   color &#8211; coloured (slide 12)
+    *   color --- coloured (slide 12)
     *   a bit too much irony<!-- no idea what he/she means -->
     
     *   switch between Powerpoint and shell
@@ -104,11 +104,11 @@ Powerpoint presentation + live demonstrations on the same computer.
     
     **Switching back and forth between Powerpoint and shell + onscreen keyboard is hell**. Especially, if you want to get to a certain slide, but not reveal everything already and then you have to interrupt the presentation in order to have shell + onscreen keyboard as top windows (on top of fullscreen presentation). In the future I would use graphics to explain the underlying concepts and explain everything else directly in the shell. If I were to give a real lecture, there would also be written material, so people could read up on things afterwards. So, **moving away from powerpoint as central building block**.
     
-    This will automatically remove lots of redundancy, since I explain what the shell is doing during the demonstration. When I am revealing the slide after that, it basically says the same again&#8230; Instead of **wasting time with redundant slides**, I could invest it into showing some more basic shell stuff, i.e. more content.
+    This will automatically remove lots of redundancy, since I explain what the shell is doing during the demonstration. When I am revealing the slide after that, it basically says the same again... Instead of **wasting time with redundant slides**, I could invest it into showing some more basic shell stuff, i.e. more content.
     
     I felt that the on-screen keyboard was of great help and except for one comment, everybody seemed to like it as well. I decided to try the on-screen keyboard since I noticed this problem at the Weihenstephan bootcamp in January this year<!-- 2013 --> and wanted to do it better. It feels very unfamiliar to click what you would type, but it seems to be a huge benefit for most of the audience. I also noticed that the on-screen keyboard is slower, but not THAT slow. You need to think more when using it, because it slows you down a lot. So, you try to use the history and tab completion more, which in turn teaches people that 
     
-    **this is how you use a shell with such features**. <a href="https://en.wikipedia.org/w/index.php?title=List_of_Latin_phrases_(R)&oldid=551143504" title="List of Latin phrases (R)" rel="nofollow">Repetitio mater studiorum est.</a> Another advantage is that people can see where the key for a certain symbol is on the lecturers keyboard. While this may not be helpful in multi-language contexts, it **can remove one of the things causing the IMHO highest cognitive load** under these circumstances: when trying to reproduce what the instructor is typing&nbsp;&ndash;&nbsp;and bash makes use of many weird and sometimes even very similar looking characters such as &#8216; vs. \`&nbsp;&ndash;&nbsp;you have to understand what he/she is doing *and* find out which character to use *and* find the character on your keyboard. Therefore, I will try to keep this in, at least when teaching shell or other basic stuff where you have to use uncommon characters.
+    **this is how you use a shell with such features**. <a href="https://en.wikipedia.org/w/index.php?title=List_of_Latin_phrases_(R)&oldid=551143504" title="List of Latin phrases (R)" rel="nofollow">Repetitio mater studiorum est.</a> Another advantage is that people can see where the key for a certain symbol is on the lecturers keyboard. While this may not be helpful in multi-language contexts, it **can remove one of the things causing the IMHO highest cognitive load** under these circumstances: when trying to reproduce what the instructor is typing&nbsp;&ndash;&nbsp;and bash makes use of many weird and sometimes even very similar looking characters such as ' vs. \`&nbsp;&ndash;&nbsp;you have to understand what he/she is doing *and* find out which character to use *and* find the character on your keyboard. Therefore, I will try to keep this in, at least when teaching shell or other basic stuff where you have to use uncommon characters.
     
     If I had to re-run this, I would definitely add more content (in no particular order):
     

@@ -32,4 +32,4 @@ E) TypeError: unsupported operand type(s) for +: list and list
 
 &nbsp;
 
-On looking at this again the following morning, I&#8217;m not completely sure that the second question is quite competent-from-expert (maybe I&#8217;m not enough of an expert!). It certainly is higher-level compared to the first one, which is more of a &#8220;do you remember&#8221; type question.
+On looking at this again the following morning, I'm not completely sure that the second question is quite competent-from-expert (maybe I'm not enough of an expert!). It certainly is higher-level compared to the first one, which is more of a "do you remember" type question.

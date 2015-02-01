@@ -1,14 +1,14 @@
 ---
 date: 2014-07-23
 round: Round 10
-title: 'Reverse instructional design &#8211; using ggplot2 in R'
+title: 'Reverse instructional design --- using ggplot2 in R'
 author: James Robinson
 permalink: /2014/07/reverse-instructional-design-using-ggplot2-in-r/
 tags:
   - Assessment
   - R
 ---
-Consider the following dataset named &#8220;temp&#8221; of the goals and assists scored by 10 hockey players from the USA and Canada:
+Consider the following dataset named "temp" of the goals and assists scored by 10 hockey players from the USA and Canada:
 
 [<img class="alignnone size-full wp-image-8173" alt="screenshot" src="http://files.software-carpentry.org/training-course/2014/07/screenshot.png" width="233" height="174" />][1]
 

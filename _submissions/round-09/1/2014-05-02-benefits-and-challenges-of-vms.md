@@ -7,7 +7,7 @@ permalink: /2014/05/benefits-and-challenges-of-vms/
 tags:
   - Concept Map
 ---
-I&#8217;m actually working on educating folks about this and building campus-wide policy. So, I very much appreciate any feedback on ideas or the diagram itself.<figure id="attachment_6939" style="width: 707px;" class="wp-caption alignnone">
+I'm actually working on educating folks about this and building campus-wide policy. So, I very much appreciate any feedback on ideas or the diagram itself.<figure id="attachment_6939" style="width: 707px;" class="wp-caption alignnone">
 
 [<img class="size-large wp-image-6939" alt="VMs: Benefits and Challenges" src="http://files.software-carpentry.org/training-course/2014/05/13899712048_03487baa94_o-1024x763.jpg" width="707" height="526" />][1]<figcaption class="wp-caption-text">VMs: Benefits and Challenges</figcaption></figure> 
 [VMs: Benefits and Challenges][2]

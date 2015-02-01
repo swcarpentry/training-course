@@ -7,7 +7,7 @@ permalink: /2014/10/demotivation-2/
 tags:
   - Motivation
 ---
-Since this week&#8217;s assignment is quite personal, I went and wrote a blog post on my personal site, hope you don&#8217;t mind:
+Since this week's assignment is quite personal, I went and wrote a blog post on my personal site, hope you don't mind:
 
 [http://blogs.nopcode.org/brainstorm/2014/10/11/motivation\_on\_software_carpentry/][1]
 

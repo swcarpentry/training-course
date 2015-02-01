@@ -28,6 +28,6 @@ tags:
     2.  <span style="font-size: medium;"><span style="text-decoration: underline;">Intermediate</span>: Use some command-line tools, like cut and paste</span>
     3.  <span style="font-size: medium;"><span style="text-decoration: underline;">Expert</span>: Use awk, sed, or a programming language to automate conversion</span>
 6.  **<span style="font-size: medium;">How do I search through my data?</span>** 
-    1.  <span style="font-size: medium;"><span style="text-decoration: underline;">Novice</span>: Use a program&#8217;s find tool</span>
+    1.  <span style="font-size: medium;"><span style="text-decoration: underline;">Novice</span>: Use a program's find tool</span>
     2.  <span style="font-size: medium;"><span style="text-decoration: underline;">Intermediate</span>: Simple use of grep</span>
     3.  <span style="font-size: medium;"><span style="text-decoration: underline;">Expert</span>: Use regular expressions</span>

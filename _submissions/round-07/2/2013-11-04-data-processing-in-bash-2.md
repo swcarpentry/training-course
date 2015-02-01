@@ -21,7 +21,7 @@ D)  len data.txt; tail -20 data.txt
 
 2. For a data file data.csv in comma-separated-variable mode, which command in bash allows you to extract the 3rd column of data and write it to a new file called new.txt? (Competent from expert)
 
-A)  cut &#8211;delimiter, -c3 > new.txt
+A)  cut ---delimiter, -c3 > new.txt
 
 B)  cut -d, -f3 data.csv | new.txt
 

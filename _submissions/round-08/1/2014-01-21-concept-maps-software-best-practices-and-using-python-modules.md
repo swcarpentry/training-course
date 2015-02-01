@@ -1,13 +1,13 @@
 ---
 date: 2014-01-21
 round: Round 8
-title: 'Concept maps: &#8220;Software best practices&#8221; and &#8220;Using Python modules&#8221;'
+title: 'Concept maps: "Software best practices" and "Using Python modules"'
 author: Jason Orendorff
 permalink: /2014/01/concept-maps-software-best-practices-and-using-python-modules/
 tags:
   - Concept Map
 ---
-This was hard. Concept maps don&#8217;t help express key distinctions between concepts or express relationships that involve many concepts rather than just two. Still, the first picture here does an OK job conveying the point that these practices (testing, automation, and version control) all reinforce one another. I wouldn&#8217;t be too embarrassed to hand that out.
+This was hard. Concept maps don't help express key distinctions between concepts or express relationships that involve many concepts rather than just two. Still, the first picture here does an OK job conveying the point that these practices (testing, automation, and version control) all reinforce one another. I wouldn't be too embarrassed to hand that out.
 
 When I see concept maps in books I always roll my eyes. But I can totally see what Greg is saying about using the exercise of drawing a concept map to discover what relationships you know implicitly. Neat.
 

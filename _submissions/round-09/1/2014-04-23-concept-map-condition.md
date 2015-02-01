@@ -7,9 +7,9 @@ permalink: /2014/04/concept-map-condition/
 tags:
   - Concept Map
 ---
-# **Spoiler Alert:** A few of us have decided to do the same topic so we can compare our results. The topic is &#8220;condition&#8221; (note: not &#8220;conditional&#8221;). If you want to join in, don&#8217;t peek at my attempt until you finish yours :&dash;)
+# **Spoiler Alert:** A few of us have decided to do the same topic so we can compare our results. The topic is "condition" (note: not "conditional"). If you want to join in, don't peek at my attempt until you finish yours :&dash;)
 
-My attempt after the fold&#8230;
+My attempt after the fold...
 
 <!--more--><figure id="attachment_6721" style="width: 707px;" class="wp-caption alignnone">
 

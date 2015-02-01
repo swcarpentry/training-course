@@ -6,7 +6,7 @@ author: Ivan Gonzalez
 permalink: /2013/08/final-lesson/
 tags:
 ---
-Organizing the miriad of files with data, source code, and results that make up a scientific project can be a challenge for many scientists. Good organization and clear documentation are key in order to guarantee the reproducibility of scientific results. In my lesson, I&#8217;m presenting a few strategies to keep scientific projects documented and well-organized in a computer, using simple tools that require no computational background.
+Organizing the miriad of files with data, source code, and results that make up a scientific project can be a challenge for many scientists. Good organization and clear documentation are key in order to guarantee the reproducibility of scientific results. In my lesson, I'm presenting a few strategies to keep scientific projects documented and well-organized in a computer, using simple tools that require no computational background.
 
 Refs.:
 
@@ -24,20 +24,20 @@ Assessment questions:
 
 2) The computer filesystem:
 
-&#8211; can represent well any relationship between files
+--- can represent well any relationship between files
 
-&#8211; can represent well only hierarchical structures
+--- can represent well only hierarchical structures
 
-&#8211; can be used to our advantage in organizing our projects
+--- can be used to our advantage in organizing our projects
 
 &nbsp;
 
 3) How project documentation should be?
 
-&#8211; for your eyes only
+--- for your eyes only
 
-&#8211; such as other scientist or myself can reproduce my results
+--- such as other scientist or myself can reproduce my results
 
-&#8211; as detailed as possible
+--- as detailed as possible
 
  [1]: http://files.software-carpentry.org/training-course/2013/08/conceptMap.jpg

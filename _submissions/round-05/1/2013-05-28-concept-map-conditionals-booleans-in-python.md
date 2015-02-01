@@ -9,4 +9,4 @@ tags:
 ---
 <a href="http://files.software-carpentry.org/training-course/2013/05/software-carpentry-concept-map-on-if-statements.pdf" target="_blank">PDF of concept map</a>
 
-I ended up drawing two things. The first page is the concept map, and the second page is 20 or so examples of programs that print &#8220;hi&#8221; to demonstrate different things you can do with if statements.
+I ended up drawing two things. The first page is the concept map, and the second page is 20 or so examples of programs that print "hi" to demonstrate different things you can do with if statements.

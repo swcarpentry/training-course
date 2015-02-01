@@ -41,10 +41,10 @@ def tricky_function(keys, values, defaults={'param_1': None}):
 </pre>
 <p>`
 
-2) Explain what is dangerous about this snippet and what mutability&#8217;s role is?
+2) Explain what is dangerous about this snippet and what mutability's role is?
 
 &nbsp;
 
-The competent will know what immutable objects are and how to create them.  The expert will know the interaction between immutable objects and object labels and will be aware of corner cases involving mutable objects.  Identifying the &#8220;expert&#8221; in mutable/immutable objects is tricky because it can&#8217;t be done in isolation.  The expert of one concept must have expertise in many concepts first.  It is possible that you cannot become an expert in just one thing at at time.  You must simultaneously become an expert in several things.
+The competent will know what immutable objects are and how to create them.  The expert will know the interaction between immutable objects and object labels and will be aware of corner cases involving mutable objects.  Identifying the "expert" in mutable/immutable objects is tricky because it can't be done in isolation.  The expert of one concept must have expertise in many concepts first.  It is possible that you cannot become an expert in just one thing at at time.  You must simultaneously become an expert in several things.
 
  [1]: http://teaching.software-carpentry.org/2013/03/27/concept-map-mutable-and-immutable-objects-in-python/

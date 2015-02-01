@@ -6,13 +6,13 @@ author: Billy Rowell
 permalink: /2013/09/final-project-basic-sql-select-query-syntax/
 tags:
 ---
-For my final project, I&#8217;m going to explain basic SQL query syntax, including SELECT, FROM, and WHERE clauses.  I will assume that they are familiar with terms for describing data in spreadsheet form, and if they understand a little basic set algebra (union and intersection) I&#8217;ll explain joins.  If there is time, I can get into ORDER BY and GROUP BY.
+For my final project, I'm going to explain basic SQL query syntax, including SELECT, FROM, and WHERE clauses.  I will assume that they are familiar with terms for describing data in spreadsheet form, and if they understand a little basic set algebra (union and intersection) I'll explain joins.  If there is time, I can get into ORDER BY and GROUP BY.
 
-I&#8217;m going to prepare material for all of these topics, and order it in the order above.  If my audience (co-workers without SQL experience) is interested, I&#8217;ll push through until it&#8217;s all done.  Otherwise I&#8217;ll stop after SELECT/FROM/WHERE.
+I'm going to prepare material for all of these topics, and order it in the order above.  If my audience (co-workers without SQL experience) is interested, I'll push through until it's all done.  Otherwise I'll stop after SELECT/FROM/WHERE.
 
 I will post my concept map, assessment questions, and course materials below, but they will also be in [this git repository][1].
 
-UPDATE: Of course I&#8217;ve realized that I&#8217;m attempting way too much information for 8-10 minutes. I still like my assessment questions and feel like I can cover that material in 8-10 minutes, but my original concept map is too expansive. It was a brain dump instead of a more careful list of things I could realistically cover.
+UPDATE: Of course I've realized that I'm attempting way too much information for 8-10 minutes. I still like my assessment questions and feel like I can cover that material in 8-10 minutes, but my original concept map is too expansive. It was a brain dump instead of a more careful list of things I could realistically cover.
 
 My concept map is below:
 
@@ -57,7 +57,7 @@ Feedback:
 =========
 
 *   This was a little too basic for my target audience. They would have benefited more from explaining the various JOIN clauses.
-*   Using ipython-sql for people who aren&#8217;t particularly familiar with ipython may be a little confusing. It probably would have been better to use something like [SQLite Manager][4] for Firefox.
+*   Using ipython-sql for people who aren't particularly familiar with ipython may be a little confusing. It probably would have been better to use something like [SQLite Manager][4] for Firefox.
 *   Assessment questions were well matched to the material.
 *   It probably would have been better to be more thematically consistent with the sample/assessment datasets.
 

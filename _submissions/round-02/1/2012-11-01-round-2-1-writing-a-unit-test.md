@@ -13,7 +13,7 @@ Concept Map:
 
 [Code Examples][2] ([raw IPython notebook][3])
 
-Why should scientists care? Because we&#8217;re scientists and we actually want to know that the results we&#8217;re publishing are right and not just the result of some bug in our code. Plus retractions are really embarrassing. [Titus Brown explains in more detail][4] (and with more flair).
+Why should scientists care? Because we're scientists and we actually want to know that the results we're publishing are right and not just the result of some bug in our code. Plus retractions are really embarrassing. [Titus Brown explains in more detail][4] (and with more flair).
 
  [1]: http://files.software-carpentry.org/training-course/2012/11/unit_test_concept_map.jpg
  [2]: http://nbviewer.ipython.org/url/raw.github.com/ethanwhite/teaching-swc/master/unittest_examples.ipynb

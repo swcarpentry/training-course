@@ -1,7 +1,7 @@
 ---
 date: 2014-02-12
 round: Round 8
-title: 'Round 8.2 MCQ &#8211; Python Loops'
+title: 'Round 8.2 MCQ --- Python Loops'
 author: ablackpz
 permalink: /2014/02/round-8-2-mcq-python-loops/
 tags:
@@ -37,7 +37,7 @@ To verify learning:
 
 What will be the output from this code?
 
-data = [&#8216;ATTT&#8217;,&#8217;GGCC&#8217;,&#8217;CACT&#8217;]
+data = ['ATTT','GGCC','CACT']
 
 for seq in data:
 
@@ -49,7 +49,7 @@ for seq in data:
 
 &emsp;&emsp;count += 1
 
-&emsp;&emsp;if nuc == &#8216;G&#8217; or nuc == &#8216;C':
+&emsp;&emsp;if nuc == 'G' or nuc == 'C':
 
 &emsp;&emsp;&emsp;gc += 1
 
@@ -71,14 +71,14 @@ Practical exercise:
 
 &nbsp;
 
-Your collaborator gave you 250 samples with metadata saved in the file &#8216;master.txt&#8217;.  You then took those 250 samples and ran an experiment, which showed that only a few samples were of interest.  The identifiers for those samples you saved in the file &#8216;ids.txt&#8217;.  Now you need to pull the metadata for those few interesting samples from the master file.  The code below is almost correct.  Find and fix the errors.
+Your collaborator gave you 250 samples with metadata saved in the file 'master.txt'.  You then took those 250 samples and ran an experiment, which showed that only a few samples were of interest.  The identifiers for those samples you saved in the file 'ids.txt'.  Now you need to pull the metadata for those few interesting samples from the master file.  The code below is almost correct.  Find and fix the errors.
 
-outfile = open(&#8216;selectedData&#8217;, &#8216;w&#8217;)  
+outfile = open('selectedData', 'w')  
 ids = []  
-while newId in open(&#8216;ids.txt&#8217;):  
+while newId in open('ids.txt'):  
 &emsp; ids.append(newId.rstrip)
 
-for record in open(&#8216;master.txt&#8217;):  
+for record in open('master.txt'):  
 &emsp; for item in ids:  
 &emsp;&emsp; if id in data:  
 &emsp;&emsp;&emsp; outfile.write(data)  

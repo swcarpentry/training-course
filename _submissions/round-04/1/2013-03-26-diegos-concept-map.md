@@ -1,7 +1,7 @@
 ---
 date: 2013-03-26
 round: Round 4
-title: 'Diego&#8217;s concept map'
+title: 'Diego's concept map'
 author: Diego Barneche
 permalink: /2013/03/diegos-concept-map/
 tags:

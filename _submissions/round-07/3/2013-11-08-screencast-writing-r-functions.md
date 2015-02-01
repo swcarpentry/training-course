@@ -7,11 +7,11 @@ permalink: /2013/11/screencast-writing-r-functions/
 tags:
   - Video
 ---
-I going to do a screencast teaching relatively new R users to write their own basic functions. The lesson will assume they&#8217;ve already learned how to write for loops and use built-in functions within R. I am currently thinking that I will write a function just to take a mean of a vector.
+I going to do a screencast teaching relatively new R users to write their own basic functions. The lesson will assume they've already learned how to write for loops and use built-in functions within R. I am currently thinking that I will write a function just to take a mean of a vector.
 
-UPDATE: I tried to make a screencast of writing a mean function but couldn&#8217;t get it under 5 minutes with any usefulness. I decided to just do a simple power function.
+UPDATE: I tried to make a screencast of writing a mean function but couldn't get it under 5 minutes with any usefulness. I decided to just do a simple power function.
 
-Here&#8217;s the video posted via YouTube for better quality:
+Here's the video posted via YouTube for better quality:
 
 
 

@@ -7,7 +7,7 @@ permalink: /2013/11/screencast-using-the-mg-rast-api-to-download-annotations/
 tags:
   - Video
 ---
-I&#8217;ll be demonstrating how to use the MG-RAST API to download different types of metagenome information.
+I'll be demonstrating how to use the MG-RAST API to download different types of metagenome information.
 
 &nbsp;
 

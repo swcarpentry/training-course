@@ -55,7 +55,7 @@ tags:
 </div>
 
 <div>
-  A. Finding a 2nd order relationship between a building&#8217;s height and its cost
+  A. Finding a 2nd order relationship between a building's height and its cost
 </div>
 
 <div>

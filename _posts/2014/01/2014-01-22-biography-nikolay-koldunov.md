@@ -1,5 +1,5 @@
 ---
-title: 'Biography &#8211; Nikolay Koldunov'
+title: 'Biography --- Nikolay Koldunov'
 author: Nikolay Koldunov
 permalink: /2014/01/biography-nikolay-koldunov/
 categories:

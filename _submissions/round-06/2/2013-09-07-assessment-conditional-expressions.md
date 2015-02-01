@@ -7,11 +7,11 @@ permalink: /2013/09/assessment-conditional-expressions/
 tags:
   - Assessment
 ---
-This was tough, as I&#8217;m not really an expert in anything except mathematics. Ah well. Have some questions on conditional evaluation. 
+This was tough, as I'm not really an expert in anything except mathematics. Ah well. Have some questions on conditional evaluation. 
 
 First question (novice vs competent):
 
-Which value of x will cause the following conditional expression to return &#8220;false&#8221;?
+Which value of x will cause the following conditional expression to return "false"?
 
 <pre>(x &lt; 10 OR x > 8) AND x > 6</pre>
 
@@ -20,7 +20,7 @@ B. x = 9
 C. x = 7  
 D. x = 5
 
-Second question (competent vs expert &#8211; sort of):
+Second question (competent vs expert --- sort of):
 
 How many of the individual inequalities below must be evaluated to return an answer for x = 67?
 

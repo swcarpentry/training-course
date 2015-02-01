@@ -7,9 +7,9 @@ permalink: /2014/01/concept-map-github-contribute-to-an-upstream-on-a-patch-bran
 tags:
   - Concept Map
 ---
-I apologize I missed last week&#8217;s talk, and having done this I now think I see I was supposed to have only 6 bubbles since it should be something to communicate to others?! I was asking others about this very issue, and indeed now I may be critiqued as well.
+I apologize I missed last week's talk, and having done this I now think I see I was supposed to have only 6 bubbles since it should be something to communicate to others?! I was asking others about this very issue, and indeed now I may be critiqued as well.
 
-This is a first pass, very rough, cryptic to others, listing of git commands I had to make &#8216;mine&#8217; in order to submit a patch on a branch to a github repo.
+This is a first pass, very rough, cryptic to others, listing of git commands I had to make 'mine' in order to submit a patch on a branch to a github repo.
 
 If I would clean it up and order it a bit better, I would say the audience is someone who wants to contribute to an open source project whose rules require submitting on a ticket branch.
 
@@ -20,9 +20,9 @@ For searching and such; this circle outline has the following primary structure.
 Github Collaboration  
 1.Find and get a project.  
 2.Attach and use Tracking Branches.  
-3.Get others&#8217; updates.  
+3.Get others' updates.  
 4.Do work on the code.  
-5.Modify others&#8217; code.  
+5.Modify others' code.  
 6.Fix my work.  
 7.Publish work to others.  
 8.Git Internals, to understand better what one is doing.  

@@ -7,9 +7,9 @@ permalink: /2013/08/about-nathan-s-watson-haigh/
 tags:
   - Biography
 ---
-Nathan Watson-Haigh is a Research Fellow in Bioinformatics at the Australian Centre for Plant Functional Genomics ([ACPFG][1]) in Adelaide, Australia. He has undergraduate beginnings in biology but has worked in the field of bioinformatics for the past 12yrs with experiences in phylogenetic and molecular sequence analysis, integrating &#8216;omic data sets, systems biology and co-expression network analysis, de novo genome and transcriptome assembly. Over the past 12-18 months he has become increasingly involved in developing and delivering hands-on bioinformatics workshops as well as developing the cloud-based Virtual Machines used to deliver them.
+Nathan Watson-Haigh is a Research Fellow in Bioinformatics at the Australian Centre for Plant Functional Genomics ([ACPFG][1]) in Adelaide, Australia. He has undergraduate beginnings in biology but has worked in the field of bioinformatics for the past 12yrs with experiences in phylogenetic and molecular sequence analysis, integrating 'omic data sets, systems biology and co-expression network analysis, de novo genome and transcriptome assembly. Over the past 12-18 months he has become increasingly involved in developing and delivering hands-on bioinformatics workshops as well as developing the cloud-based Virtual Machines used to deliver them.
 
-Nathan&#8217;s work at the ACPFG is primarily based around RNA-seq data from hexaploid bread wheat cultivars that are of particular interest to Australia. He also has responsibility of maintaining the Linux systems in use by the bioinformatics group.
+Nathan's work at the ACPFG is primarily based around RNA-seq data from hexaploid bread wheat cultivars that are of particular interest to Australia. He also has responsibility of maintaining the Linux systems in use by the bioinformatics group.
 
 Nathan has also been instrumental in the establishment of the Bioinformatics Interest Group of South Australia ([BIG SA][2]), a group of cross-organisational bioinformaticians and allied professions from around South Australia.
 

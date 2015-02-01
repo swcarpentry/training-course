@@ -1,14 +1,14 @@
 ---
 date: 2013-08-07
 round: Round 5
-title: 'Capstone—The Python &#8220;lambda&#8221; function.'
+title: 'Capstone—The Python "lambda" function.'
 author: Neal Davis
 permalink: /2013/08/capstone-the-python-lambda-function/
 tags:
 ---
-I propose covering the basic theory and uses of the Python `lambda` keyword, used to create anonymous functions. This one will stretch me a little and force me to clarify my own inchoate understanding of anonymous functions. I won&#8217;t focus on `lambda`-specific uses (i.e., I may include things that you could in principle do in other Pythonic ways like list comprehensions), but will focus on the notion of passing a function and how this can be clearer and easier to follow in the end even if it&#8217;s a little wonky to think about too hard in the beginning.<figure id="attachment_3979" style="width: 636px;" class="wp-caption alignnone">
+I propose covering the basic theory and uses of the Python `lambda` keyword, used to create anonymous functions. This one will stretch me a little and force me to clarify my own inchoate understanding of anonymous functions. I won't focus on `lambda`-specific uses (i.e., I may include things that you could in principle do in other Pythonic ways like list comprehensions), but will focus on the notion of passing a function and how this can be clearer and easier to follow in the end even if it's a little wonky to think about too hard in the beginning.<figure id="attachment_3979" style="width: 636px;" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-3979" alt="A concept map of the Python `lambda' statement." src="http://files.software-carpentry.org/training-course/2013/08/SWC-5.5-ConceptMap.png" width="636" height="598" />][1]<figcaption class="wp-caption-text">A concept map of the Python \`lambda&#8217; statement.</figcaption></figure> 
+[<img class="size-full wp-image-3979" alt="A concept map of the Python `lambda' statement." src="http://files.software-carpentry.org/training-course/2013/08/SWC-5.5-ConceptMap.png" width="636" height="598" />][1]<figcaption class="wp-caption-text">A concept map of the Python \`lambda' statement.</figcaption></figure> 
 The concept map has five main notices: terseness, inequivalence to lambda calculus, anonymity, portability, and functional-style programming.
 
 ————————
@@ -66,6 +66,6 @@ Based on this, please complete the following exercises in the Python interpreter
 
 ————————
 
-Tested.  It was with a new subordinate, however, who may not have felt free to criticize the technique.  He felt that my method of demonstrating the principles live in the interpreter was quite useful, and he performed well on the associated example.  (He doesn&#8217;t know Python, but does know Matlab and so could follow the discussion *sans* keywords.)
+Tested.  It was with a new subordinate, however, who may not have felt free to criticize the technique.  He felt that my method of demonstrating the principles live in the interpreter was quite useful, and he performed well on the associated example.  (He doesn't know Python, but does know Matlab and so could follow the discussion *sans* keywords.)
 
  [1]: http://files.software-carpentry.org/training-course/2013/08/SWC-5.5-ConceptMap.png

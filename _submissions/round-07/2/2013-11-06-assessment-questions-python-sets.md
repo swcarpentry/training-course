@@ -22,4 +22,4 @@ mystery = set([1, 2, 3]).intersection(set([3, 2, int("1")]))<br />
 1.  `set([1,2,3])`
 2.  `frozenset([1,2,3])`
 3.  `list([1,2,3])`
-4.  None of the above &#8211; sets cannot contain collections as elements
+4.  None of the above --- sets cannot contain collections as elements

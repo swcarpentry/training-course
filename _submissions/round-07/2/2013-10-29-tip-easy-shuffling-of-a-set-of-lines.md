@@ -9,7 +9,7 @@ tags:
 ---
 I had to shuffle my mcq answers and I want to share how I did it.
 
-Given a file &#8220;answers.txt&#8221; (or a dataset in other contexts) containing one answer/entry per line, you can just use:
+Given a file "answers.txt" (or a dataset in other contexts) containing one answer/entry per line, you can just use:
 
 `cat answers.txt | sort -R`
 

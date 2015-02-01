@@ -16,9 +16,9 @@ tags:
 ---
 Hi everyone,
 
-Thought this might be a useful vid.  It&#8217;s something I do everyday, and it was interesting to try to break it down into 3 minutes.  In actuality, it&#8217;s 3:30, because I just couldn&#8217;t figure out what to cut and still keep it informative.  Considering it started at over 6:00, it&#8217;s not too bad.  Plus, I&#8217;m an academic, so it&#8217;s my duty to go long.
+Thought this might be a useful vid.  It's something I do everyday, and it was interesting to try to break it down into 3 minutes.  In actuality, it's 3:30, because I just couldn't figure out what to cut and still keep it informative.  Considering it started at over 6:00, it's not too bad.  Plus, I'm an academic, so it's my duty to go long.
 
-My advice on using QuickTime was about 50% OK &#8211; it&#8217;s easy to create a screencast, sure, but I had to use HandBrake to get the file size down to < 8MB.
+My advice on using QuickTime was about 50% OK --- it's easy to create a screencast, sure, but I had to use HandBrake to get the file size down to < 8MB.
 
 Interested to know what you think.  Definitely glossed over the fact that the ssh config file is ~/.ssh/config though you can see the save fly by in the emacs window <img src="http://localhost:8080/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
 

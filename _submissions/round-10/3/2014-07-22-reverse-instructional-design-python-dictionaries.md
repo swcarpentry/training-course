@@ -12,7 +12,7 @@ tags:
 
 `dataset_metadata = {'title':'GISSTEMP', 'variable':'Temperature', 'units':'K', 'author':'Johnny Lin'}`
 
-Let&#8217;s say you want to create a string that is suitable for a graph axis label showing the variable name and the units (i.e., the string &#8216;Temperature [K]&#8217;). Which of the following creates such a string?
+Let's say you want to create a string that is suitable for a graph axis label showing the variable name and the units (i.e., the string 'Temperature [K]'). Which of the following creates such a string?
 
 a) `variable + units`  
 b) `variable + ' ' + '['+ units + ']'`  

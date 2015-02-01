@@ -22,5 +22,5 @@ I decided to quit academia, and become a technician in a lab. Private sector, be
 
 &nbsp;
 
-*NB &#8211; As others, <a href="http://timotheepoisot.fr/2014/10/14/how-i-quit-academia/" target="_blank">I have posted this on my blog</a>, with a longer discussion of why these things will keep on happening, and why I ultimately did not quit academia. I was baffled by the amount of emails and private messages I had on twitter, from people with similar experiences. Including several that were not as lucky as me.  
+*NB --- As others, <a href="http://timotheepoisot.fr/2014/10/14/how-i-quit-academia/" target="_blank">I have posted this on my blog</a>, with a longer discussion of why these things will keep on happening, and why I ultimately did not quit academia. I was baffled by the amount of emails and private messages I had on twitter, from people with similar experiences. Including several that were not as lucky as me.  
 *

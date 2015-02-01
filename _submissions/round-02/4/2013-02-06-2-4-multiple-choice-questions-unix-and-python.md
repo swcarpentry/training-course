@@ -1,7 +1,7 @@
 ---
 date: 2013-02-06
 round: Round 2
-title: '2.4 Multiple choice questions &#8211; unix and python'
+title: '2.4 Multiple choice questions --- unix and python'
 author: Karin Lagesen
 permalink: /2013/02/2-4-multiple-choice-questions-unix-and-python/
 tags:
@@ -31,6 +31,6 @@ c. X = L[0:2]
 
 Diagnostics:  
 The point of this exercise is to understand slicing and indexing.  
-a. Have not understood that lists are zero based, and not that slicing works from including &#8211; to excluding  
-b. Have understood that lists are zero based, but not from including &#8211; to excluding  
+a. Have not understood that lists are zero based, and not that slicing works from including --- to excluding  
+b. Have understood that lists are zero based, but not from including --- to excluding  
 c. is correct

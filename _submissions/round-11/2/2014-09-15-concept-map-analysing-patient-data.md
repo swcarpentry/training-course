@@ -9,7 +9,7 @@ tags:
 ---
 Map describing concepts in http://software-carpentry.org/v5/novice/python/01-numpy.html
 
-&#8220;Classical&#8221; operational flow highlighted in red.
+"Classical" operational flow highlighted in red.
 
 Comments welcome!
 

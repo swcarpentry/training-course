@@ -7,7 +7,7 @@ permalink: /2014/06/concept-map-how-users-are-kept-track-of-in-web-based-interac
 tags:
   - Concept Map
 ---
-In my group we often run web-based experiments with participants in a computer lab interacting &#8211; making economic decisions in a controlled environment. I hope this concept map illustrates how users are kept track of when we run our experiments. I guess the setup would be much the same for any kind of website with user interaction.
+In my group we often run web-based experiments with participants in a computer lab interacting --- making economic decisions in a controlled environment. I hope this concept map illustrates how users are kept track of when we run our experiments. I guess the setup would be much the same for any kind of website with user interaction.
 
 &nbsp;
 

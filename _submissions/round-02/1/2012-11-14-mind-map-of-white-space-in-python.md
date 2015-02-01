@@ -7,7 +7,7 @@ permalink: /2012/11/mind-map-of-white-space-in-python/
 tags:
   - Concept Map
 ---
-White space is a trivial but powerful concept in Python. It fits nicely into &#8220;a half-dozen boxes and arrows&#8221;, but can be a useful tool to getting scientist to thinking about the readability of their code.
+White space is a trivial but powerful concept in Python. It fits nicely into "a half-dozen boxes and arrows", but can be a useful tool to getting scientist to thinking about the readability of their code.
 
 ### Mind Map 
 
@@ -27,11 +27,11 @@ Here is a weird but functional piece of Python code:
                             many='', arguments='')
 </pre>
 
-What happens here? The for loop generates a list of 100 integers from 0 to 99. Then a math formula is computed and the result is assigned to a variable called result. If result is less than 100, &#8216;small&#8217; is printed. Otherwise, &#8216;big&#8217; is printed. Finally, a function, which we assume is defined elsewhere, called save\_result\_to_file, saves each instance of result to the file. Let&#8217;s look at the role white space plays in this code block. 
+What happens here? The for loop generates a list of 100 integers from 0 to 99. Then a math formula is computed and the result is assigned to a variable called result. If result is less than 100, 'small' is printed. Otherwise, 'big' is printed. Finally, a function, which we assume is defined elsewhere, called save\_result\_to_file, saves each instance of result to the file. Let's look at the role white space plays in this code block. 
 
 Some of this white space is essential, it blocks control statements together. Changing that white space would affect the functionality of the code, in some cases breaking it and in other cases changing the output. But some of the white space is optional and Python is very flexible about how you use white space. There are standard practices about how to use optional white space, defined by a document called PEP8. This is similar to a style guide for written English such as Strunk and White.
 
-You can always &#8220;break the rules&#8221; about using optional white space, but you should be aware that there are conventions and think about how breaking them might affect other users of your code. Here is a counter-example with non-standard optional white space. It will still run, and produce the same result, but it will be less readable to anyone familiar with Python.
+You can always "break the rules" about using optional white space, but you should be aware that there are conventions and think about how breaking them might affect other users of your code. Here is a counter-example with non-standard optional white space. It will still run, and produce the same result, but it will be less readable to anyone familiar with Python.
 
 <pre>for i in range( 100 ) :
     result = ( ( ( i + 5 ) * ( i * 2 ) ) / 500 ) *                     ( 1/2 )
@@ -43,7 +43,7 @@ You can always &#8220;break the rules&#8221; about using optional white space, b
 arguments='')
 </pre>
 
-Now, this isn&#8217;t too hard to read but the problems become worse the more complicated the code and is the less familiar the user is with it.
+Now, this isn't too hard to read but the problems become worse the more complicated the code and is the less familiar the user is with it.
 
 ### Concept reinforcement examples:
 
@@ -70,7 +70,7 @@ Now change the white space so that done is printed after every number.
 
 #### Example 2
 
-We just saw how indentation can change when code is executed. When control statements are nested each block of code to be executed needs to be indented relative to its control statement, even if it&#8217;s already inside another control statement. For example:
+We just saw how indentation can change when code is executed. When control statements are nested each block of code to be executed needs to be indented relative to its control statement, even if it's already inside another control statement. For example:
 
 <pre>for number in [1, 2]:
     print number
@@ -185,7 +185,7 @@ Play with the following line of math. See if you can find a more condensed and r
 
 ### Extension Example: 
 
-White space is also used to block together functions and classes. Let&#8217;s look at a more complicated piece of code to illustrate this. If classes are unfamiliar to you just focus on the concepts we just learned about white space.
+White space is also used to block together functions and classes. Let's look at a more complicated piece of code to illustrate this. If classes are unfamiliar to you just focus on the concepts we just learned about white space.
 
 <pre>class Circle(object):
     def ___init___(self, radius=1):

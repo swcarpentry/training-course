@@ -9,7 +9,7 @@ tags:
 ---
 1) Novice vs. competent practitioner
 
-If I want to know what flag options a bash command has (i.e. ls), I should search the man page.  Which of these is the program that runs when you issue the command &#8220;man ls&#8221;?
+If I want to know what flag options a bash command has (i.e. ls), I should search the man page.  Which of these is the program that runs when you issue the command "man ls"?
 
 (a) more
 

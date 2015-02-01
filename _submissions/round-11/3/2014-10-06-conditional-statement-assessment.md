@@ -20,7 +20,7 @@ Here are a couple of assessments that I put together for conditional statements.
 (e) x y z  
 (f) none of the above
 
-2. Fill in each blank with exactly one of the following phrases: *can have*, *must have*, or *can&#8217;t have*.
+2. Fill in each blank with exactly one of the following phrases: *can have*, *must have*, or *can't have*.
 
 2.1 An <tt>if</tt> \___\___\_____ a condition.  
 2.2 An <tt>if</tt> \___\___\_____ an <tt>elif</tt>.  

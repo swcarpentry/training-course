@@ -17,7 +17,7 @@ Given data of the following form:
 
 with veg as a factor and canopy.cover numeric, and the following function definition
 
-aggregate(x, by, FUN, &#8230;, simplify = TRUE)
+aggregate(x, by, FUN, ..., simplify = TRUE)
 
 <table cellspacing="0" cellpadding="0">
   <tr>
@@ -63,7 +63,7 @@ aggregate(x, by, FUN, &#8230;, simplify = TRUE)
 
 which of the following function calls will execute correctly?
 
-a. aggregate(data[&#8220;canopy.cover&#8221;], by=data[&#8220;veg&#8221;], FUN=mean)  
+a. aggregate(data["canopy.cover"], by=data["veg"], FUN=mean)  
 b. aggregate(data$canopy.cover, by=data$veg, FUN=mean)  
 c. aggregate(data, by=data$veg, FUN=mean)  
 d. aggregate(data[,2], by=data[,1], FUN=mean)

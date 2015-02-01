@@ -1,6 +1,6 @@
 ---
 date: 2014-07-24
-title: 'Reverse instructional design &#8211; summarising data in R'
+title: 'Reverse instructional design --- summarising data in R'
 author: Andy Leung
 permalink: /2014/07/reverse-instructional-design-data-aggregation-in-r/
 round: Round 10

@@ -9,7 +9,7 @@ tags:
 ---
 I chose the following concept map: http://teaching.software-carpentry.org/2013/03/29/concept-map-loading-functions-from-file/
 
-Let&#8217;s use Python.
+Let's use Python.
 
 **Distinguishing Novice From Competent Practitioner**
 
@@ -21,4 +21,4 @@ Let&#8217;s use Python.
 
 1. Change directories. How would you import function `sumint` from file *elemarithm.py*?
 
-2. When sharing code between projects, it may happen that the same function appears in two different files. We have two functions with the same name, be they identical functions, or different implementations of the same thing, or actually different things&#8211;that would be dangerous. How would you import them safely? In the case of two different implementations of the same idea, how would you indicate that one of the two functions is to be preferred?
+2. When sharing code between projects, it may happen that the same function appears in two different files. We have two functions with the same name, be they identical functions, or different implementations of the same thing, or actually different things---that would be dangerous. How would you import them safely? In the case of two different implementations of the same idea, how would you indicate that one of the two functions is to be preferred?

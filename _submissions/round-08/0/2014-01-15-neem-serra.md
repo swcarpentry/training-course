@@ -8,4 +8,4 @@ tags:
   - Biography
   - Live 01
 ---
-Hi!  I&#8217;m Neem Serra.  I currently work in St. Louis as an iOS developer for MasterCard.  My background is in evolutionary biology and genomics.
+Hi!  I'm Neem Serra.  I currently work in St. Louis as an iOS developer for MasterCard.  My background is in evolutionary biology and genomics.

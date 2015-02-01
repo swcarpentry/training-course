@@ -17,4 +17,4 @@ You just finished editing the file main.py (already tracked by git) and created 
 
 4.  <pre>&gt; git add functions.py; git commit -a</pre>
 
-You edit the files main.py and functions.py. After editing functions.py, you realize there is only one function left in it, so you rename it function.py. If you run &#8220;git status&#8221; after these changes, which file(s) will be in the &#8220;Changes to be committed&#8221;, which file(s) will be in the &#8220;Changes not staged for commit&#8221;, and which file(s) will be in the &#8220;Untracked files&#8221;?
+You edit the files main.py and functions.py. After editing functions.py, you realize there is only one function left in it, so you rename it function.py. If you run "git status" after these changes, which file(s) will be in the "Changes to be committed", which file(s) will be in the "Changes not staged for commit", and which file(s) will be in the "Untracked files"?

@@ -9,7 +9,7 @@ tags:
 ---
 A very rough draft (release early and often, right?)
 
-I wasn&#8217;t sure if I needed to include extra explanation of each mode&#8230;
+I wasn't sure if I needed to include extra explanation of each mode...
 
 [<img class="alignnone size-medium wp-image-6730" alt="IMG_20140423_154947" src="http://files.software-carpentry.org/training-course/2014/04/IMG_20140423_154947-225x300.jpg" width="225" height="300" />][1]
 

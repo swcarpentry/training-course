@@ -5,7 +5,7 @@ permalink: /2014/02/a-few-short-guides/
 categories:
   - Teaching
 ---
-Via UBC&#8217;s Warren Code and [the resource page at the Carl Wieman Science Education Initiative][1], here are a handful of two-pagers you may find useful:
+Via UBC's Warren Code and [the resource page at the Carl Wieman Science Education Initiative][1], here are a handful of two-pagers you may find useful:
 
 *   [First Day of Class – Recommendations for Instructors][2] ([cached][3])
 *   [Basic instructor Habits to Keep Students Engaged][4] ([cached][5])

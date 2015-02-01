@@ -7,7 +7,7 @@ permalink: /2013/06/basic-python-data-structures-assessment/
 tags:
   - Proficiency
 ---
-Designed to split into &#8220;novice&#8221; and &#8220;intermediate/expert&#8221;
+Designed to split into "novice" and "intermediate/expert"
 
 Novice: Which of these basic data structures are ordered? (Mark all that apply)
 

@@ -7,7 +7,7 @@ permalink: /2014/10/assessment-the-shell/
 tags:
   - Assessment
 ---
-**1. The pipe (|) operator in the shell&#8230;**
+**1. The pipe (|) operator in the shell...**
 
 a) Separates a shell command from a list of optional arguments for that command.  
 b) Redirects the output of the command on the left-hand side of the pipe as input to a command specified on the right-hand side of the pipe.  

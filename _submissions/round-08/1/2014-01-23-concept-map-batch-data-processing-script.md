@@ -11,7 +11,7 @@ The intended audience is behavioral scientists who have data files that need to 
 
 [<img class="alignnone size-medium wp-image-5673" alt="image" src="http://files.software-carpentry.org/training-course/2014/01/image-e1390533707631-300x225.jpg" width="300" height="225" />][1]
 
-Update 2014-01-29: revised version&#8230;
+Update 2014-01-29: revised version...
 
 [<img class="alignnone size-medium wp-image-5730" alt="BCTT_conceptmap8.1_rev" src="http://files.software-carpentry.org/training-course/2014/01/BCTT_conceptmap8.1_rev-300x179.jpg" width="300" height="179" />][2]
 

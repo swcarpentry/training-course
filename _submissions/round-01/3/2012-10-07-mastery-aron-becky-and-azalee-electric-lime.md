@@ -1,13 +1,13 @@
 ---
 date: 2012-10-07
 round: Round 1
-title: 'Mastery &#8211; Aron, Becky, and Azalee (Electric Lime)'
+title: 'Mastery --- Aron, Becky, and Azalee (Electric Lime)'
 author: Azalee Bostroem
 permalink: /2012/10/mastery-aron-becky-and-azalee-electric-lime/
 tags:
   - Proficiency
 ---
-We started with a discussion on who our primary audience was and what length class we were going to teach. This helped us limit the scope of what we thought was important. We then started designing a curriculum rather than ask fundamental questions to be answered by our curriculum. This is reflected in Q5 especially. What you see below is the result of 2.5-3 hours of face to face discussion. With more time we would like to refine some of our questions to reflect skills we want student&#8217;s to learn with rather than specific subject matter. At the end you will find some material that we think should be included but didn&#8217;t find a specific question under which to place it.
+We started with a discussion on who our primary audience was and what length class we were going to teach. This helped us limit the scope of what we thought was important. We then started designing a curriculum rather than ask fundamental questions to be answered by our curriculum. This is reflected in Q5 especially. What you see below is the result of 2.5-3 hours of face to face discussion. With more time we would like to refine some of our questions to reflect skills we want student's to learn with rather than specific subject matter. At the end you will find some material that we think should be included but didn't find a specific question under which to place it.
 
 # Preliminaries
 
@@ -73,7 +73,7 @@ We started with a discussion on who our primary audience was and what length cla
 ### Q4. How do I test my software?
 
 <p style="padding-left: 30px;">
-  <em>Novice:</em> Smoke test &#8211; run your software without error messages
+  <em>Novice:</em> Smoke test --- run your software without error messages
 </p>
 
 <p style="padding-left: 30px;">
@@ -98,7 +98,7 @@ We started with a discussion on who our primary audience was and what length cla
   <em>Expert:</em> See Q6
 </p>
 
-### Q6. How can I create reusable code and use another person&#8217;s code? (assumes Q5)?
+### Q6. How can I create reusable code and use another person's code? (assumes Q5)?
 
 <p style="padding-left: 30px;">
   <em>Novice:</em> Hasn’t used modules before
@@ -172,9 +172,9 @@ We started with a discussion on who our primary audience was and what length cla
 
 *   Package managers: fink, macports, brew, pip?
 *   Use virtualenv: never have to touch your python path
-*   Slightly different environments have trouble doing something &#8211; understanding environment dependencies
+*   Slightly different environments have trouble doing something --- understanding environment dependencies
 *   Test on a virtual machine
-*   Datasets not on your physical machine &#8211; what do you do?
+*   Datasets not on your physical machine --- what do you do?
 *   Should there be some discussion on the history of computing or scientific computing?
 *   Aron recommends reading: Code Complete 2
 *   We should highlight the importance of backing up your work

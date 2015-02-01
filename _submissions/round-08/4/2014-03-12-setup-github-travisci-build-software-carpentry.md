@@ -12,7 +12,7 @@ tags:
 
 Apologies for the extra 20 seconds!
 
-Basically I&#8217;ve created a version of Software Carpentry that uses Pelican instead of Jekyll:
+Basically I've created a version of Software Carpentry that uses Pelican instead of Jekyll:
 
 <https://github.com/swcarpentry-pelican/bootcamp-pelican>
 

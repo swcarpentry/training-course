@@ -1,12 +1,12 @@
 ---
 date: 2013-04-18
 round: Round 4
-title: 'Short Presentations from &#8220;Facts and Fallacies&#8221;'
+title: 'Short Presentations from "Facts and Fallacies"'
 author: Greg Wilson
 permalink: /2013/04/short-presentations-from-facts-and-fallacies/
 tags:
 ---
-Please add a bullet to the list below with your name and the topic of your short presentation for Round 4.3.  (Greg&#8217;s is much longer than yours should be, but it gets the list started&#8230;)
+Please add a bullet to the list below with your name and the topic of your short presentation for Round 4.3.  (Greg's is much longer than yours should be, but it gets the list started...)
 
 1.  Greg Wilson: [Dark Matter, Public Health, and Scientific Computing][1]
 2.  Steven Koenig: [I Choose You, Fact 44!][2]

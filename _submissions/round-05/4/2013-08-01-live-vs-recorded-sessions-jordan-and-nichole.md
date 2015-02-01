@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p dir="ltr">
-  An eye tracking study to see where students are putting their visual attention. While this method won&#8217;t give an idea of where they are directing their auditory attention or the amount of attention they are paying it will give an idea of where they primarily look.
+  An eye tracking study to see where students are putting their visual attention. While this method won't give an idea of where they are directing their auditory attention or the amount of attention they are paying it will give an idea of where they primarily look.
 </p>
 
 <p dir="ltr">

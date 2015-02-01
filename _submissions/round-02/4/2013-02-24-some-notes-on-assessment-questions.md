@@ -6,7 +6,7 @@ author: Greg Wilson
 permalink: /2013/02/some-notes-on-assessment-questions/
 tags:
 ---
-I asked [Elizabeth Patitsas][1] (a grad student in Computer Science at the University of Toronto with an interest in CS education) to take a look at the questions I&#8217;d written for the Python section of the [Software Carpentry instructors&#8217; guide][2]. Her main comment was, &#8220;You need to have multiple styles of questions, probing multiple levels and types of understanding. Right now you just probe recognition of behavior.&#8221; This relates directly to the multiple-choice questions I asked people to write for [Round 2.4][3], so on the &#8220;better late than never&#8221; principle, here are her suggestions for improvements:
+I asked [Elizabeth Patitsas][1] (a grad student in Computer Science at the University of Toronto with an interest in CS education) to take a look at the questions I'd written for the Python section of the [Software Carpentry instructors' guide][2]. Her main comment was, "You need to have multiple styles of questions, probing multiple levels and types of understanding. Right now you just probe recognition of behavior." This relates directly to the multiple-choice questions I asked people to write for [Round 2.4][3], so on the "better late than never" principle, here are her suggestions for improvements:
 
 1.  Greg has the code: 
     <pre>x = 2 * y</pre>
@@ -18,7 +18,7 @@ I asked [Elizabeth Patitsas][1] (a grad student in Computer Science at the Unive
 &gt;&gt;&gt; carbon = 'C
 &gt;&gt;&gt; molecule = carbon + oxygen * 2</pre>
         
-        Why does molecule get the value &#8216;COCO&#8217;?  
+        Why does molecule get the value 'COCO'?  
         *Turns this into a reflection question (why) rather than a prediction question (what happens after it is run?)*</li> 
         *   Greg has the code: 
             <pre>pi = 3.14
@@ -33,7 +33,7 @@ handle.close()
 print result</pre>
                 
                 At the end of what line in the code does Python stop reading the content from square.txt?  
-                *This probes a &#8216;where&#8217; question (locating), another way of reflecting on code.*</li> 
+                *This probes a 'where' question (locating), another way of reflecting on code.*</li> 
                 *   Greg has this code: 
                     <pre>text = 'abc'
 for char in text:
@@ -65,7 +65,7 @@ results.write('second')
 results.close()</pre>
                                 
                                 What is another way to write this code so the same effect is accomplished, but in fewer lines?  
-                                *This tests a students&#8217; ability to generate different approaches. (In this case, opening the file as &#8216;rw&#8217; allows for less code.)*</li> 
+                                *This tests a students' ability to generate different approaches. (In this case, opening the file as 'rw' allows for less code.)*</li> 
                                 *   Greg has the code: 
                                     <pre>&gt;&gt;&gt; female = 'GGT'
 &gt;&gt;&gt; male = 'CAC'
@@ -81,8 +81,8 @@ results.close()</pre>
 &gt;&gt;&gt; print female
 <em>GGTGGTCAC</em></pre>
                                     
-                                    Both have the same effect. Why would use Elizabeth&#8217;s approach instead of Greg&#8217;s?  
-                                    *This tests a student&#8217;s ability to compare different solution approaches.*</li> </ol> 
+                                    Both have the same effect. Why would use Elizabeth's approach instead of Greg's?  
+                                    *This tests a student's ability to compare different solution approaches.*</li> </ol> 
                                     A final note from Elizabeth: procedural flexibility (transferring a problem to an isomorphic one, generating new ways of solving a problem, evaluating different ways of solving a problem) is something she found in her MSc thesis to be important for long-term learning of Python as well as to be highly correlated to conceptual knowledge. This is generally easier to probe in short answer/MCQ questions than conceptual knowledge.
 
  [1]: http://www.cs.utoronto.ca/~patitsas/

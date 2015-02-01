@@ -1,13 +1,13 @@
 ---
 date: 2013-04-10
 round: Round 4
-title: 'Assessment questions &#8211; Looping in R'
+title: 'Assessment questions --- Looping in R'
 author: Daniel Noble
 permalink: /2013/04/assessment-questions-looping-in-r/
 tags:
   - Proficiency
 ---
-These questions are based on Alex&#8217;s concept map about [looping in R][1].
+These questions are based on Alex's concept map about [looping in R][1].
 
 **Beginner or Competent**
 
@@ -15,7 +15,7 @@ These questions are based on Alex&#8217;s concept map about [looping in R][1].
 
 2)    Write a for loop in R, which prints every element of the following object if the element in greater than 5? Vec <- c(1:10)
 
-Here I would be looking more that they are capable of understanding the basic workings of loops and loop functions. In Q1, the &#8216;lapply&#8217; function would be used because the object is a list and they would need to know that &#8216;apply&#8217; families loop through elements of an object and apply a function and they would need to be familiar with these functions. Q2 just tests whether they understand how to use the loop function for a particular problem.
+Here I would be looking more that they are capable of understanding the basic workings of loops and loop functions. In Q1, the 'lapply' function would be used because the object is a list and they would need to know that 'apply' families loop through elements of an object and apply a function and they would need to be familiar with these functions. Q2 just tests whether they understand how to use the loop function for a particular problem.
 
 **Competent or Expert**
 
@@ -25,6 +25,6 @@ Here I would be looking more that they are capable of understanding the basic wo
 
 In Q1, I would anticipate an expert to identify the scale of the problem (even if rather simple) and understand that apply functions are more efficient for this task compared to making a standard loop. in Q2, this is a much more difficult task and experts would tackle this quickly and would make the looping within the function easier and simpler with fewer lines of code. I would recognize this by the differences in their use of apply functions and nested loops.
 
-Although these don&#8217;t necessarily get an &#8220;why&#8221; one would do things, which would better characterize an expert from a competent practitioner, I think I would be looking more for &#8216;experts&#8217; to identify faster more efficient ways of looping, which create cleaner and simpler to read code.
+Although these don't necessarily get an "why" one would do things, which would better characterize an expert from a competent practitioner, I think I would be looking more for 'experts' to identify faster more efficient ways of looping, which create cleaner and simpler to read code.
 
  [1]: http://teaching.software-carpentry.org/2013/03/26/concept-map-looping-in-r-alex-bush/

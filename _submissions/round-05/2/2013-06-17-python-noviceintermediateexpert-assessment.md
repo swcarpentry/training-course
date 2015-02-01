@@ -9,7 +9,7 @@ tags:
 Novice question:
 
 Select all of the following Python data structures that do NOT have guaranteed  
-order when looping with a standard &#8216;for&#8217; loop:
+order when looping with a standard 'for' loop:
 
 a) List  
 b) Set  
@@ -24,5 +24,5 @@ Python?
 
 a) To save memory for a custom object  
 b) To prevent dynamic attribute creation for an object  
-c) To simulate a C struct &#8216;type&#8217; when reading data from a binary file  
+c) To simulate a C struct 'type' when reading data from a binary file  
 d) To improve the speed of attribute lookup for an object

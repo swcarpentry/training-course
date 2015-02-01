@@ -11,7 +11,7 @@ tags:
 
 This is the version where I tried to follow the example in the text and use verbs on the arcs.
 
-The following version was the one I did first, which makes a little more sense to me. Looking forward to talking about what we&#8217;re attempting to get at with these.
+The following version was the one I did first, which makes a little more sense to me. Looking forward to talking about what we're attempting to get at with these.
 
 [<img class="alignnone size-medium wp-image-4756" alt="map1" src="http://files.software-carpentry.org/training-course/2013/10/map1-259x300.png" width="259" height="300" />][2]
 

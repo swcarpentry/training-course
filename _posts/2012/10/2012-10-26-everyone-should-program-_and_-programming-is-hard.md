@@ -8,9 +8,9 @@ categories:
   - Design
   - Noticed
 ---
-[Good post][1] from Mark Chu-Carroll that says, &#8220;Yes, everyone should learn to program, but yes, it really is hard.&#8221; It isn&#8217;t as compelling to read as Bret Victor&#8217;s demos are to watch (see points 1 and 2 in [this post][2]), but it resonates with what I&#8217;ve see in workshops.
+[Good post][1] from Mark Chu-Carroll that says, "Yes, everyone should learn to program, but yes, it really is hard." It isn't as compelling to read as Bret Victor's demos are to watch (see points 1 and 2 in [this post][2]), but it resonates with what I've see in workshops.
 
-> To write complicated programs is complicated. To write programs that manipulate symbolic data, you need to understand how the data symbolizes things. To write a computer that manipulates numbers, you need to understand how the numbers work, and how the computer represents them. To build a machine, you need to understand the machine that you&#8217;re building. It&#8217;s that simple.
+> To write complicated programs is complicated. To write programs that manipulate symbolic data, you need to understand how the data symbolizes things. To write a computer that manipulates numbers, you need to understand how the numbers work, and how the computer represents them. To build a machine, you need to understand the machine that you're building. It's that simple.
 
 Thoughts?
 

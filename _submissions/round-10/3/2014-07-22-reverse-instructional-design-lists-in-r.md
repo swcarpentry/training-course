@@ -1,7 +1,7 @@
 ---
 date: 2014-07-22
 round: Round 10
-title: 'Reverse Instructional Design &#8211; Lists in R'
+title: 'Reverse Instructional Design --- Lists in R'
 author: Aaron Erlich
 permalink: /2014/07/reverse-instructional-design-lists-in-r/
 tags:

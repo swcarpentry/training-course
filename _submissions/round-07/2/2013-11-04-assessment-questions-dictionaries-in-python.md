@@ -11,7 +11,7 @@ Multiple choice questions to assess students abilities in using Python dictionar
 
 novice vs. competent
 
-Given the following data structure which command would create a dictionary where &#8220;sequence_id&#8221; is the key and &#8220;abundance&#8221; and &#8220;annotation&#8221; are the values?
+Given the following data structure which command would create a dictionary where "sequence_id" is the key and "abundance" and "annotation" are the values?
 
 sequence_id    md5sum    annotation    abundance    length    e-value
 

@@ -1,7 +1,7 @@
 ---
 date: 2012-09-09
 round: Round 1
-title: 'Week 1 &#8211; Control Flow'
+title: 'Week 1 --- Control Flow'
 author: Katy Huff
 permalink: /2012/09/week-1-control-flow/
 tags:
@@ -26,13 +26,13 @@ for nation in nations :
     for city in nation :
         print "  " + city</pre>
 
-Of course, this information is better stored in a dictionary, isn&#8217;t it? The data makes more sense if the keys were the nation names and the values were lists of cities. Importantly, python has given us a tool specifically for dictionary looping.
+Of course, this information is better stored in a dictionary, isn't it? The data makes more sense if the keys were the nation names and the values were lists of cities. Importantly, python has given us a tool specifically for dictionary looping.
 
 The syntax for looping through the keys and values of a dictionary is :
 
 <pre>for key, value in dictionary.iteritems():</pre>
 
-Importantly, you don&#8217;t have to use the words key and value. That&#8217;s just what will fill those variables. Here, we rewrite the previous loop using this clever syntax.
+Importantly, you don't have to use the words key and value. That's just what will fill those variables. Here, we rewrite the previous loop using this clever syntax.
 
 <div>
   <pre>italy = ["Rome", "Pisa", "Florence", "Venice", "Trieste"]

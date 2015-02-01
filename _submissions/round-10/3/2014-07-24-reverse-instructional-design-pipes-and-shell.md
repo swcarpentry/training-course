@@ -1,6 +1,6 @@
 ---
 date: 2014-07-24
-title: 'Reverse Instructional Design &#8211; Pipes and Shell'
+title: 'Reverse Instructional Design --- Pipes and Shell'
 author: Sarah Edwards
 permalink: /2014/07/reverse-instructional-design-pipes-and-shell/
 round: Round 10

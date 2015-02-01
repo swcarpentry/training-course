@@ -1,7 +1,7 @@
 ---
 date: 2014-05-21
 round: Round 9
-title: 'Assessment &#8211; Python lists'
+title: 'Assessment --- Python lists'
 author: Tim McNamara
 permalink: /2014/05/assessment-python-lists/
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 Assessment drawn from [Christian Jacobs’ concept map][1].
 
-**What are some features of Python&#8217;s lists?**
+**What are some features of Python's lists?**
 
 a) Ordered sequence, arbitrary type, mutability  
 b) Arbitrary sequence, fixed type, mutability  

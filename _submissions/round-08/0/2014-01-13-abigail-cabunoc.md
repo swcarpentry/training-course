@@ -7,11 +7,11 @@ permalink: /2014/01/abigail-cabunoc/
 tags:
   - Biography
 ---
-Hi, I&#8217;m Abby.
+Hi, I'm Abby.
 
-I&#8217;m a developer at the [Ontario Institute for Cancer Research][1]. Currently, lead developer on the [WormBase][2] project &#8212; a web-based resource for *C. elegans* (worm) researchers. I regularly give talks and run workshops at worm research conferences. Studied computer science and bioinformatics at Waterloo.
+I'm a developer at the [Ontario Institute for Cancer Research][1]. Currently, lead developer on the [WormBase][2] project --- a web-based resource for *C. elegans* (worm) researchers. I regularly give talks and run workshops at worm research conferences. Studied computer science and bioinformatics at Waterloo.
 
-I&#8217;ve seen how useful computing skills can be to the scientific community, and how standards and best practices need to be more commonplace. Looking forward to learning and being part of this movement in scientific computing!
+I've seen how useful computing skills can be to the scientific community, and how standards and best practices need to be more commonplace. Looking forward to learning and being part of this movement in scientific computing!
 
 You can find me on [Twitter][3] and [Github][4].
 

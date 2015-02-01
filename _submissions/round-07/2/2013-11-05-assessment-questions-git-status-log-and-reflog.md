@@ -8,7 +8,7 @@ tags:
   - Assessment
 ---
 **Part A: Competent from Novice**  
-What&#8217;s the difference between *git log* and *git status*?
+What's the difference between *git log* and *git status*?
 
 a) Nothing, they are the same.
 
@@ -21,12 +21,12 @@ d) *git status* lets you view your last commit. *git log* lets you view your com
 &nbsp;
 
 **Part B: Expert from Competent**  
-What&#8217;s the difference between *git log* and *git reflog*?
+What's the difference between *git log* and *git reflog*?
 
 a) Nothing. They both show your history of commits.
 
-b) *git log* shows you your branch&#8217;s commit history.* git reflog* shows you the history of your branch&#8217;s HEAD since the branch started.
+b) *git log* shows you your branch's commit history.* git reflog* shows you the history of your branch's HEAD since the branch started.
 
-c) *git log* shows you your branch&#8217;s commit history. *git reflog* shows you the history of your branch&#8217;s HEAD for the last 30 days.
+c) *git log* shows you your branch's commit history. *git reflog* shows you the history of your branch's HEAD for the last 30 days.
 
-d) *git log* shows you your branch&#8217;s commit history. *git reflog* shows your branch&#8217;s commit history for the last 30 days.
+d) *git log* shows you your branch's commit history. *git reflog* shows your branch's commit history for the last 30 days.

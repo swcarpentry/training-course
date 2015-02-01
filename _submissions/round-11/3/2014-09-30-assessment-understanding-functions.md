@@ -23,4 +23,4 @@ C. 9
 D. False
 
 **Exercise 2: Understanding docstrings**  
-Replace the text &#8220;Type something here&#8221; in the function above with whatever you think is appropriate.
+Replace the text "Type something here" in the function above with whatever you think is appropriate.

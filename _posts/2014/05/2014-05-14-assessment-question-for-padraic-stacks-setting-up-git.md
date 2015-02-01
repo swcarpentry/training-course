@@ -1,5 +1,5 @@
 ---
-title: 'Assessment question for Padraic Stack&#8217;s &#8220;Setting up git&#8221;'
+title: 'Assessment question for Padraic Stack's "Setting up git"'
 author: Bror Fredrik Jonsson
 permalink: /2014/05/assessment-question-for-padraic-stacks-setting-up-git/
 categories:
@@ -9,11 +9,11 @@ categories:
 
 1. How would you setup your existing project to be under version control?
 
-a) git clone ProjectFolder NewProjectFolder; (cd NewProjectFolder); git commit -m &#8220;First commit&#8221;
+a) git clone ProjectFolder NewProjectFolder; (cd NewProjectFolder); git commit -m "First commit"
 
-b) git init NewProjectFolder; (copy files from ProjectFolder to NewProjectFolder); git add *; git commit -m &#8220;First commit&#8221;
+b) git init NewProjectFolder; (copy files from ProjectFolder to NewProjectFolder); git add *; git commit -m "First commit"
 
-c) (cd to the top folder of project); git init; git add *; git commit -m &#8220;First commit&#8221;
+c) (cd to the top folder of project); git init; git add *; git commit -m "First commit"
 
 d) git init ProjectName; (cd ProjectFolder); git add * ProjectName; (cd somewhere else); git checkout ProjectName NewProjectFolder
 

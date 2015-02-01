@@ -71,7 +71,7 @@ d) II, III, V
 e) III, IV, I, II, V  
 f) III, IV, II, V
 
-**Thoughts&#8230;**
+**Thoughts...**
 
 I had a hard time figuring out different pre vs. post lesson questions. I think with this particular task of making a commit, it is difficult to make the distinction between an expert-or-novice question and a did-you-learn-it question, at least with multiple choice. Ultimately I think the post lesson question is a little more difficult because there is less information provided by `git status`, so it perhaps more appropriate to gauge knowledge after a lesson.
 

@@ -1,7 +1,7 @@
 ---
 date: 2012-10-30
 round: Round 2
-title: 'Round 2.1 &#8211; How Functions Work'
+title: 'Round 2.1 --- How Functions Work'
 author: Aleksandra Pawlik
 permalink: /2012/10/round-2-1-how-functions-work/
 tags:
@@ -15,7 +15,7 @@ Functions can be compared to elements of a workflow. Scientists often have to re
 
 Here is an example of using functions: https://github.com/apawlik/SCW-Teaching-R2/blob/master/Teaching-R2/HowFunctionsWork.py
 
-In response to Greg&#8217;s comment about having too many concepts in the concept map, I updated the cmap. Still quite a few things in it but a bit better (at least that &#8220;stack&#8221; is not there).
+In response to Greg's comment about having too many concepts in the concept map, I updated the cmap. Still quite a few things in it but a bit better (at least that "stack" is not there).
 
 [<img class="alignnone size-large wp-image-1087" title="How Functions Work 2" src="http://files.software-carpentry.org/training-course/2012/10/functions2-1024x560.jpg" alt="" width="707" height="386" />][2]
 

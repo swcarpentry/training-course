@@ -11,7 +11,7 @@ From lesson here: http://software-carpentry.org/v5/novice/shell/03-pipefilter.h
 
 **MCQ:**
 
-****Which command would count the total number of lines from all files in a directory named &#8220;species&#8221;?
+****Which command would count the total number of lines from all files in a directory named "species"?
 
 a. wc -l species/*  
 b. wc -l (ls species)  

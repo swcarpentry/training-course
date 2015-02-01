@@ -9,4 +9,4 @@ tags:
 ---
 http://www.youtube.com/watch?v=Hw_NzTLi790
 
-How to make your own Python libraries. Sorry in advance for the super small screen &#8211; been a crazy week, and I promise for a much better product next time. <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+How to make your own Python libraries. Sorry in advance for the super small screen --- been a crazy week, and I promise for a much better product next time. <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />

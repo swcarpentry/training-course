@@ -11,6 +11,6 @@ My tutorial provides a look at two Linux command line tools that let you learn u
 
 
 
-For what it&#8217;s worth, I recorded it on Linux with [SimpleScreenRecorder][1]
+For what it's worth, I recorded it on Linux with [SimpleScreenRecorder][1]
 
  [1]: http://www.maartenbaert.be/simplescreenrecorder/ "SimpleScreenRecorder"

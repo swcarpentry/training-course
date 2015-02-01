@@ -9,7 +9,7 @@ tags:
 ---
 Made for <a href="http://teaching.software-carpentry.org/2013/02/15/concept-map-intro-to-sql-databases/" target="_blank">http://teaching.software-carpentry.org/2013/02/15/concept-map-intro-to-sql-databases/</a>
 
-I opted for not using yes/no questions because a novice could just guess and be correct 50% of the time, further aggravating their &#8220;false confidence&#8221; issue.
+I opted for not using yes/no questions because a novice could just guess and be correct 50% of the time, further aggravating their "false confidence" issue.
 
 **Distinguish novice from competent practitioner**
 
@@ -51,9 +51,9 @@ I opted for not using yes/no questions because a novice could just guess and be 
     ON Customers.Name = Orders.CustomerName  
     ORDER BY Orders.Date ASC
     
-    The SQL query is extremely slow. Your boss has hinted that if you can make this query take less than 5 minutes to execute, you&#8217;ll be allowed to attend the Catalina wine mixer this year at the company&#8217;s expense. Without changing the SQL query, how could you speed the query up?
+    The SQL query is extremely slow. Your boss has hinted that if you can make this query take less than 5 minutes to execute, you'll be allowed to attend the Catalina wine mixer this year at the company's expense. Without changing the SQL query, how could you speed the query up?
     
     (add a foreign key to Orders.CustomerName)  
     (change Customers.Name and Orders.CustomerName to an integer field instead) </li> 
-    *   You run a political campaign web site where supporters can sign up for a newsletter. They provide their name and email, which is saved into a SQL database on the backend. Someone is hacking into your web site&#8217;s SQL database and injecting malicious code. Your campaign&#8217;s security expert is already creating a GUI interface using Visual Basic to see if they can track an IP address. What&#8217;s the easiest way to prevent future SQL injection attacks? 
+    *   You run a political campaign web site where supporters can sign up for a newsletter. They provide their name and email, which is saved into a SQL database on the backend. Someone is hacking into your web site's SQL database and injecting malicious code. Your campaign's security expert is already creating a GUI interface using Visual Basic to see if they can track an IP address. What's the easiest way to prevent future SQL injection attacks? 
         (sanitize any data going into and out of the database using the mysql\_real\_escape_string() and htmlspecialchars() functions)</li> </ol>

@@ -11,6 +11,6 @@ tags:
 
 &nbsp;
 
-(I could make a concept map, with nodes being &#8220;variable&#8221;, &#8220;value&#8221; and &#8220;type&#8221; and edges being &#8220;assigned to&#8221; and &#8220;bound to&#8221; and a couple others&#8230; but I&#8217;m not sure why. It wouldn&#8217;t convey anything to anyone.)
+(I could make a concept map, with nodes being "variable", "value" and "type" and edges being "assigned to" and "bound to" and a couple others... but I'm not sure why. It wouldn't convey anything to anyone.)
 
  [1]: http://files.software-carpentry.org/training-course/2013/05/Python-variables.png

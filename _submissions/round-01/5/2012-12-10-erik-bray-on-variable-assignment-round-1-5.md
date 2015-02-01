@@ -1,7 +1,7 @@
 ---
 date: 2012-12-10
 round: Round 1
-title: 'Erik Bray on variable assignment &#8211; Round 1.5'
+title: 'Erik Bray on variable assignment --- Round 1.5'
 author: Erik Bray
 permalink: /2012/12/erik-bray-on-variable-assignment-round-1-5/
 tags:

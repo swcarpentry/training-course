@@ -26,7 +26,7 @@ Lex:
 *   second one: struggling to find more than two wrong ones
 *   found this a difficult exercise: hard to keep things simple (always tending toward complexity)
 *   Spent an hour to an hour and a half
-*   Karin&#8217;s comment: can crowdsource it
+*   Karin's comment: can crowdsource it
 
 Steve
 
@@ -37,23 +37,23 @@ Steve
 Ariel
 
 *   Q: does anonymity matter in asking questions in this context?
-*   A: yes &#8211; people feel shy
+*   A: yes --- people feel shy
 *   During recent workshop, had people post questions anonymously on a wall
 *   Requiring people to do things lowers the threshold on coming up with something
 
 Karin
 
 *   took longer than anticipated: an hour for Q1, several hours for Q2 (thinking, not doing)
-*   had to flip it over: couldn&#8217;t begin to think about question, but rather had to start with what I wanted to figure out/diagnose
-*   hard to remember &#8220;beginner&#8217;s mind&#8221;
-*   doesn&#8217;t scale done solo, would scale crowdsourcing
+*   had to flip it over: couldn't begin to think about question, but rather had to start with what I wanted to figure out/diagnose
+*   hard to remember "beginner's mind"
+*   doesn't scale done solo, would scale crowdsourcing
 
 Ted
 
 *   hard to come up with wrong answers
 *   first two was an hour and change, later questions would take more time (easy ones taken)
 
-*Homework: write a final post about this class. What did you learn? What worked well? What could we improve? What did you want to learn that we didn&#8217;t cover? Please post as &#8220;Round 2.5&#8243;, and thank you for taking part.  
+*Homework: write a final post about this class. What did you learn? What worked well? What could we improve? What did you want to learn that we didn't cover? Please post as "Round 2.5&#8243;, and thank you for taking part.  
 *
 
 &nbsp;

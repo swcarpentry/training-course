@@ -7,7 +7,7 @@ permalink: /2014/02/motivation-story-and-thoughts-on-how-to-enable-it-in-the-cla
 tags:
   - Motivation
 ---
-For my Bachelors&#8217; degree final project we implemented a mp3 player from  
+For my Bachelors' degree final project we implemented a mp3 player from  
 scratch, the whole thing: hardware, firmware and software. My tasks were to  
 implement part of the firmware that run in the micro-controller (Fat32 and USB  
 logic) and all the device drivers for different Operating Systems: Linux and  
@@ -20,8 +20,8 @@ features implemented by the BUS).
 
 I remember the struggle to understand the different pieces of the protocol to  
 implement the firmware and the software (device drivers). What motivated me at  
-that time &#8211;besides the fact that I had to complete the projected in order to  
-graduate&#8211; was the prospect of seeing the device working and doing what it was  
+that time ---besides the fact that I had to complete the projected in order to  
+graduate--- was the prospect of seeing the device working and doing what it was  
 suppose to do. I remember the satisfaction we had once the device was completed  
 and we were using it to play our own music: pretty rewarding.
 

@@ -7,7 +7,7 @@ round: Round 10
 tags:
   - Assessment
 ---
-You are working on a remote computer and have just found an anomaly in subject S15&#8217;s dataset. You wish to upload the subject&#8217;s data to your lab server so that a colleague can give a second opinion. The data of interest are stored in directories that start with &#8220;S15&#8243; and end in &#8220;.ds&#8221;
+You are working on a remote computer and have just found an anomaly in subject S15's dataset. You wish to upload the subject's data to your lab server so that a colleague can give a second opinion. The data of interest are stored in directories that start with "S15&#8243; and end in ".ds"
 
 Q1: Your colleague first would like to know the size of your files. Assuming the files are in the current working directory, which command would give you use to reveal their combined size in human readable format?
 

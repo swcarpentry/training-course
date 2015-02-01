@@ -1,7 +1,7 @@
 ---
 date: 2013-06-26
 round: Round 5
-title: 'Proposed screencast &#8211; &#8220;Why is connecting to this machine slow or timing out?&#8221;'
+title: 'Proposed screencast --- "Why is connecting to this machine slow or timing out?"'
 author: Itamar Turner-Trauring
 permalink: /2013/06/proposed-screencast-why-is-connecting-to-this-machine-slow-or-timing-out/
 tags:

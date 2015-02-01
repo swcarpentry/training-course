@@ -13,7 +13,7 @@ This would be following a lesson on regex (using perl syntax)
 
 In the following code snippet:
 
-&#8220;foo bar 123 bar23 foo baz&#8221; =~ /(.+?s){3}..(.+)s/;
+"foo bar 123 bar23 foo baz" =~ /(.+?s){3}..(.+)s/;
 
 what would be the result in $2 (the second captured group)?
 
@@ -25,6 +25,6 @@ c) r23
 
 d) bar23
 
-How would one capture the expression &#8220;123&#8221; from that same string?
+How would one capture the expression "123" from that same string?
 
 &nbsp;

@@ -28,7 +28,7 @@ Find the two bugs in the following code:
 
 cat list.txt > while read i  
 do  
-echo &#8220;$list.txt&#8221;;  
+echo "$list.txt";  
 done
 
 **Pilot test:**  

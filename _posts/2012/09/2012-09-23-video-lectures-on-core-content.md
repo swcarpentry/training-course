@@ -5,7 +5,7 @@ permalink: /2012/09/video-lectures-on-core-content/
 categories:
   - Content
 ---
-A few weeks ago, Tanya Murdoch recorded me delivering the Python, shell, database, and version control material from Software Carpentry.  As [I said][1] on the Software Carpentry blog, my presentation is a lot flatter than it usually is in front of a live audience. I&#8217;ll hold off publicizing these videos on the Software Carpentry site until I&#8217;ve had a chance to annotate each with the key points it covers, but I hope they&#8217;re useful for those of you who are going to be teaching this material yourselves.
+A few weeks ago, Tanya Murdoch recorded me delivering the Python, shell, database, and version control material from Software Carpentry.  As [I said][1] on the Software Carpentry blog, my presentation is a lot flatter than it usually is in front of a live audience. I'll hold off publicizing these videos on the Software Carpentry site until I've had a chance to annotate each with the key points it covers, but I hope they're useful for those of you who are going to be teaching this material yourselves.
 
 <table>
   <tr>

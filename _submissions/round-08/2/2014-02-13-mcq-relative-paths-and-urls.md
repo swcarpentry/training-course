@@ -7,9 +7,9 @@ permalink: /2014/02/mcq-relative-paths-and-urls/
 tags:
   - Assessment
 ---
-This is assuming a student who has minimal experience with the command-line, and moderate experience writing standalone HTML+CSS webpages that only contain links to absolute URLs. In other words, the learner doesn&#8217;t know how relative paths or URLs work.
+This is assuming a student who has minimal experience with the command-line, and moderate experience writing standalone HTML+CSS webpages that only contain links to absolute URLs. In other words, the learner doesn't know how relative paths or URLs work.
 
-Given that the hypothetical lesson is only supposed to be 10 minutes, I may be teaching/assessing way too much here&#8211;could be more prudent to solely focus on relative paths in the command-line, or relative URLs, but not both.
+Given that the hypothetical lesson is only supposed to be 10 minutes, I may be teaching/assessing way too much here---could be more prudent to solely focus on relative paths in the command-line, or relative URLs, but not both.
 
 **Pre-Lesson Novice vs. Practitioner MCQ**
 

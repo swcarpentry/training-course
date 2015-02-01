@@ -1,7 +1,7 @@
 ---
 date: 2013-10-28
 round: Round 7
-title: 'Multiple Choice Questions &#8211; C Programming'
+title: 'Multiple Choice Questions --- C Programming'
 author: Don Brown
 permalink: /2013/10/multiple-choice-questions-c-programming/
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 **Distinguishing Novice from Competent:**
 
-How many times will &#8220;Hello World&#8221; be printed?
+How many times will "Hello World" be printed?
 
 <pre style="padding-left: 30px;"><span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; line-height: 21px;">int x = 0;</span>
 while (x &lt;= 10) {

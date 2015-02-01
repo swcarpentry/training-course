@@ -15,7 +15,7 @@ C) cp -R images/ /shared/ 2>/dev/null
 D) cat a b > c  
 E) find / -name .profile 2>&1 | less
 
-Intermediate/Expert: Choose true? (Mark all that apply)(Btw, I&#8217;m not to say, if you are a master, you should have all the right answers, but at least have 50% of them.)
+Intermediate/Expert: Choose true? (Mark all that apply)(Btw, I'm not to say, if you are a master, you should have all the right answers, but at least have 50% of them.)
 
 A) On windows, you can use |, >, and >> too(like unix).  
 B) If your program want have features like Pipe&Redirect, you need to know Named pipe, BSD socket, shared memory.  

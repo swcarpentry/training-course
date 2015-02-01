@@ -11,9 +11,9 @@ tags:
 
 I plan to make code literacy a basic skill as common as literacy is today.
 
-I come from programming but lately I&#8217;ve been running a small startup, and before that I founded and managed a series of internal programming courses in a large organization.
+I come from programming but lately I've been running a small startup, and before that I founded and managed a series of internal programming courses in a large organization.
 
-I&#8217;m active in the [Israeli branch][2] of [OpenTechSchool][3].
+I'm active in the [Israeli branch][2] of [OpenTechSchool][3].
 
 Last year, for fun, I volunteered to teach tenth graders 8086 assembly language.
 

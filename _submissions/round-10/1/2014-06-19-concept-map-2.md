@@ -8,7 +8,7 @@ tags:
   - Concept Map
   - Uncategorized
 ---
-Here&#8217;s a description of the basics in using plyr to aggregate and summarise data in R.
+Here's a description of the basics in using plyr to aggregate and summarise data in R.
 
 Enjoy!
 

@@ -12,7 +12,7 @@ However, our assignment was to discuss specifically the things we would change,�
 
 **1. Give a better motivating example very early in introduction of why regular ****expressions are better than simple string matching.**
 
-I&#8217;m assuming that most of the students who watch these videos are capable of writing code that uses simple string matching. In fact, they might be very comfortable with this inferior technique. So, it would be much better to prove even earlier in the video series that regular expressions are worth learning.
+I'm assuming that most of the students who watch these videos are capable of writing code that uses simple string matching. In fact, they might be very comfortable with this inferior technique. So, it would be much better to prove even earlier in the video series that regular expressions are worth learning.
 
 This could be done by showing a real-world file format that is difficult and error-prone to parse without regular expressions. Then, one or two slides could be devoted to a deeply nested, difficult to read solution with string matching. Finally, this could be following by another slide that contains a solution with regular expressions. This very up-front example could then show viewers the value of what this video series will teach them and  
 hopefully motivate them very quickly.
@@ -21,7 +21,7 @@ In fact, I think the last example using LaTex might have been a good scenario t
 
 **2. Choose a more real-world example to use throughout the videos.**
 
-The running example of &#8216;evil&#8217; measurements was clever, but ultimately it would be more useful to pick a file format from the real-world. It would be even better to know the audience and pick a file format they would be familiar with in their daily work. However, it&#8217;s probably difficult to know such intricate details about your viewers daily work and normalize all the varied backgrounds into something useful for all viewers at once.
+The running example of 'evil' measurements was clever, but ultimately it would be more useful to pick a file format from the real-world. It would be even better to know the audience and pick a file format they would be familiar with in their daily work. However, it's probably difficult to know such intricate details about your viewers daily work and normalize all the varied backgrounds into something useful for all viewers at once.
 
 **3. Made each video less than 10 minutes in length.**
 
@@ -31,15 +31,15 @@ Most people could easily justify taking a few 10 minute breaks during a day or 
 
 **4. Teach more of the regular expression concepts and syntax before showing any ****usage of the Python re module.**
 
-I didn&#8217;t like how the videos interleaved the teaching of regular expressions themselves and the Python re module early on. These are subtly different concepts and teaching users regular expression syntax by itself would help users in any language they learn in the future.
+I didn't like how the videos interleaved the teaching of regular expressions themselves and the Python re module early on. These are subtly different concepts and teaching users regular expression syntax by itself would help users in any language they learn in the future.
 
 Then, teaching the Python re module would help them see how to apply regular expressions within a language.
 
 Furthermore, it would be useful to mention that regular expressions have slightly different syntax in most languages and that the videos only discuss the Python regular expression syntax.
 
-**5. Move &#8216;Mechanics&#8217; video to the end of the series.**
+**5. Move 'Mechanics' video to the end of the series.**
 
-I really enjoyed the &#8216;Mechanics&#8217; video, but it seemed to break the flow of the lectures. This particular video should have been last in the series and maybe marked as bonus material.
+I really enjoyed the 'Mechanics' video, but it seemed to break the flow of the lectures. This particular video should have been last in the series and maybe marked as bonus material.
 
 My background is Computer Science, so I enjoy going deeper into the concepts of \*how\* something is implemented. However, this topic has the potential to dive too deep for some viewers and result in them not continuing the video series.
 

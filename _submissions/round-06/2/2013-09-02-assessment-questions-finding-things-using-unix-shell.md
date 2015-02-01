@@ -17,7 +17,7 @@ a) grep *.fasta
 
 b) find . –name “*.fasta” –type f
 
-c) find -type f | grep &#8220;*.fasta&#8221;
+c) find -type f | grep "*.fasta"
 
 d) ls \* | grep “\*.fasta”
 

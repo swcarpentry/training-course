@@ -41,7 +41,7 @@ f) !ipython count-stdin.py | small.csv</pre>
 2,1,0</pre>
 
 <p style="text-align: justify;">
-  Debug the following script designed to create a function (readings.py) that could apply &#8211;min, &#8211;max and &#8211;mean actions to <strong>multiple</strong> &#8220;small&#8221; files:
+  Debug the following script designed to create a function (readings.py) that could apply ---min, ---max and ---mean actions to <strong>multiple</strong> "small" files:
 </p>
 
 <pre style="text-align: justify;">cat readings.py

@@ -7,7 +7,7 @@ categories:
 ---
 Hi!
 
-my name is Maciej and I&#8217;m a graduate in [Applied Computer Science][1] at [AGH University of Science and Technology][2] in Kraków, Poland.
+my name is Maciej and I'm a graduate in [Applied Computer Science][1] at [AGH University of Science and Technology][2] in Kraków, Poland.
 
 My hobby is Computer Science, technologies and also computer games <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 

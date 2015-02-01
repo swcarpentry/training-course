@@ -1,7 +1,7 @@
 ---
 date: 2013-04-11
 round: Round 4
-title: 'Assessment questions &#8211; looping in R'
+title: 'Assessment questions --- looping in R'
 author: John Blischak
 permalink: /2013/04/assessment-questions-looping-in-r-2/
 tags:
@@ -13,7 +13,7 @@ My apologies to Daniel for choosing the same topic, but I had already started wo
 
 1) Have you ever used an apply statement (or one of its family members) in one of your R scripts?
 
-Yes &#8211;> competent practitioner
+Yes ---> competent practitioner
 
 2) Do the following two commands performed on the matrix x return the same results?
 

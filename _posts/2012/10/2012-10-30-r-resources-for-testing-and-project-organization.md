@@ -13,6 +13,6 @@ To that end, I have started using the following two R packages which help automa
 
 **testthat** (http://bit.ly/St2pRd):  a formal testing environment developed by Hadley Wickham.
 
-**ProjectTepmlate** (http://bit.ly/d6NbOF): creates a hierarchy of folders within an R project to organize data, code, test cases, etc. Not exactly the same as the excellent &#8220;A Quick Guide to Organizing Computational Biology Projects,&#8221; (****http://bit.ly/AADX8F) but very much in the same spirit.
+**ProjectTepmlate** (http://bit.ly/d6NbOF): creates a hierarchy of folders within an R project to organize data, code, test cases, etc. Not exactly the same as the excellent "A Quick Guide to Organizing Computational Biology Projects," (****http://bit.ly/AADX8F) but very much in the same spirit.
 
 &nbsp;

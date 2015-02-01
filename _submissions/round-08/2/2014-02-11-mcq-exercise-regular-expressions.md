@@ -43,7 +43,7 @@ Where:
 5. You may only use the following standard libraries: sys, re  
 Post-exercise question:
 
-Which regular expression will match the string &#8220;JUL-28-87&#8243;:  
+Which regular expression will match the string "JUL-28-87&#8243;:  
 A. [a-z]+W[0-9]+W[0-9]+  
 B. ([a-z]+)W([0-9]+)W([0-9]+)  
 C. JUL-w-w  

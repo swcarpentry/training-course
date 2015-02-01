@@ -24,7 +24,7 @@ Below is the screencast I created about improving the behaviour of the up/down a
 
 The first screencast I recorded lasted over 6 minutes, so I removed extraneous examples. The second version lasted about 4 minutes, with lots of hhhhmmmms. This screencast shown below is the third and final version, lasting 2:59.
 
-I used QuickTime Player to record the screen, and didn&#8217;t edit the video at all (other than trimming the beginning and the end).
+I used QuickTime Player to record the screen, and didn't edit the video at all (other than trimming the beginning and the end).
 
 The two lines to add to the `$HOME/.inputrc` shown in the screencast are:  
 `"e[A":history-search-backward<br />

@@ -1,7 +1,7 @@
 ---
 date: 2014-06-03
 round: Round 9
-title: 'Motivation video &#8211; Perl Grep'
+title: 'Motivation video --- Perl Grep'
 author: Graham Etherington
 permalink: /2014/06/motivation-video-perl-grep/
 tags:
@@ -9,9 +9,9 @@ tags:
   - perl
   - Video
 ---
-Here&#8217;s my motivation video for Perl Grep. Sorry it&#8217;s a bit longer than the 3 minutes we were supposed to keep to &#8211; it seems like plenty of time until you come to do it!
+Here's my motivation video for Perl Grep. Sorry it's a bit longer than the 3 minutes we were supposed to keep to --- it seems like plenty of time until you come to do it!
 
-To watch the video, I&#8217;d recommend that you click on &#8216;YouTube&#8217;, wait for YouTube to launch. Then pause the video, select 720pHd from the settings and watch as &#8216;Large Player&#8217;.
+To watch the video, I'd recommend that you click on 'YouTube', wait for YouTube to launch. Then pause the video, select 720pHd from the settings and watch as 'Large Player'.
 
   
   

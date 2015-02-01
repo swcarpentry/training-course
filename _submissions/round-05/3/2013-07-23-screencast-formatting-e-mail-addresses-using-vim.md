@@ -11,7 +11,7 @@ I originally said that I would do a video on XML debugging ([teaching.software-c
 
 The video is at: [vimeo.com/70860893][2] or you can [download it][3].
 
-It took three takes and I think the second take was more professional in terms of speaking with fewer erm&#8217;s, it did take longer than I thought; for the 3-4 minutes of video it took about a few hours in total of thinking, planning, reading, researching what to do it on, blind alleys and building oneself up to it &#8211; so in some ways it&#8217;s embarrassing that I only have this short video to show for that and I feel like re-recording it &#8211; but I know we were told not to shine it too much.
+It took three takes and I think the second take was more professional in terms of speaking with fewer erm's, it did take longer than I thought; for the 3-4 minutes of video it took about a few hours in total of thinking, planning, reading, researching what to do it on, blind alleys and building oneself up to it --- so in some ways it's embarrassing that I only have this short video to show for that and I feel like re-recording it --- but I know we were told not to shine it too much.
 
 Thanks
 

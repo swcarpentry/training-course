@@ -22,7 +22,7 @@ I have a file (/tmp/foo.txt) that contains one word per each line.
 I am interested in finding lines that contain the substring abc.  
 Pick the option that is correct and efficient.
 
-a) cat /tmp/foo.txt | grep &#8220;abc&#8221;  
-b) grep -P &#8220;^abc$&#8221; /tmp/foo.txt  
-c) cat /tmp/foo.txt | grep -P &#8220;^abc$&#8221;  
-d) more /tmp/foo.txt | grep &#8220;abc&#8221;
+a) cat /tmp/foo.txt | grep "abc"  
+b) grep -P "^abc$" /tmp/foo.txt  
+c) cat /tmp/foo.txt | grep -P "^abc$"  
+d) more /tmp/foo.txt | grep "abc"

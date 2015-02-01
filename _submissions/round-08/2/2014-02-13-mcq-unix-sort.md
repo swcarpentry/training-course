@@ -19,7 +19,7 @@ Consider a tab delimited text file ***list.txt</b>*, containing the lines below:
 </pre>
 
 *One multiple-choice question to distinguish novices from competent practitioners*  
-**Which will be the first line returned by the unix command &#8216;*sort list.txt*&#8216;**?
+**Which will be the first line returned by the unix command '*sort list.txt*'**?
 
 <pre>a) 33    aardvark
 b) 2     ibex

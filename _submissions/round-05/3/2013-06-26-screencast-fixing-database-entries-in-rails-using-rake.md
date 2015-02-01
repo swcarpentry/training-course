@@ -1,13 +1,13 @@
 ---
 date: 2013-06-26
 round: Round 5
-title: 'Screencast &#8211; fixing database entries in Rails using rake'
+title: 'Screencast --- fixing database entries in Rails using rake'
 author: Philipp Bayer
 permalink: /2013/06/screencast-fixing-database-entries-in-rails-using-rake/
 tags:
 ---
-at openSNP we&#8217;ve got some old SNPs in the database that have a linebreak in their position, for example: &#8220;42184912n&#8221;. For the screencast, I thought of writing a tiny Rake-task that iterates over all SNPs and fixes their position.
+at openSNP we've got some old SNPs in the database that have a linebreak in their position, for example: "42184912n". For the screencast, I thought of writing a tiny Rake-task that iterates over all SNPs and fixes their position.
 
-The resulting script would be just around 5 lines, but already touch on a few &#8220;advanced&#8221; Rails-things: Usage of &#8220;find\_each&#8221; instead of &#8220;find&#8221; when many records are present, or why &#8220;update\_attributes&#8221; works the way it works, or the difference between &#8220;gsub&#8221; and &#8220;gsub!&#8221;
+The resulting script would be just around 5 lines, but already touch on a few "advanced" Rails-things: Usage of "find\_each" instead of "find" when many records are present, or why "update\_attributes" works the way it works, or the difference between "gsub" and "gsub!"
 
 Does that make sense?

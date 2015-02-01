@@ -7,7 +7,7 @@ round: Round 11
 tags:
   - Assessment
 ---
-1) You want to find out in which directory you are currently in. Which of the following commands would you use (Note: The dollar sign &#8216;$&#8217; (prompt) at each line indicates that the shell is ready to run a command&#8217;):
+1) You want to find out in which directory you are currently in. Which of the following commands would you use (Note: The dollar sign '$' (prompt) at each line indicates that the shell is ready to run a command'):
 
 (a) $ whereami  
 (b) $ whoami  

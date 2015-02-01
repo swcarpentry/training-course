@@ -31,7 +31,7 @@ tags:
 
 &nbsp;
 
-And an updated version based on suggestions to add &#8220;git diff&#8221;
+And an updated version based on suggestions to add "git diff"
 
 [<img class="alignnone size-medium wp-image-4088" alt="git-commits2" src="http://files.software-carpentry.org/training-course/2013/08/git-commits2-300x233.png" width="300" height="233" />][2]
 

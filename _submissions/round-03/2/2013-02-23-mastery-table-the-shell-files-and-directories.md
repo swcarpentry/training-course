@@ -7,16 +7,16 @@ permalink: /2013/02/mastery-table-the-shell-files-and-directories/
 tags:
   - Proficiency
 ---
-I don&#8217;t know that I&#8217;m an expert on the file system, but I figured since I&#8217;m pretty weak on shell scripting (I avoid it in favor of Python), I&#8217;d work on that.
+I don't know that I'm an expert on the file system, but I figured since I'm pretty weak on shell scripting (I avoid it in favor of Python), I'd work on that.
 
 ## Novice {#novice}
 
 *   Knows files exist
-*   Can create files using applications with GUIs and invoking the &#8220;Save&#8221; or &#8220;Save As&#8230;&#8221; commands
+*   Can create files using applications with GUIs and invoking the "Save" or "Save As..." commands
 *   Knows directories exist
 *   Uses graphical utilities to examine <span class="GRcorrect">contents</span> of directories
 *   Uses graphical utilities to navigate <span class="GRcorrect">file system</span>
-*   Has heard of &#8220;the command line&#8221; or &#8220;the shell&#8221;, but rarely uses it
+*   Has heard of "the command line" or "the shell", but rarely uses it
 *   Logs in via graphical user interface
 
 ## Intermediate (what someone would learn after taking the class) {#intermediate-after-taking-the-class}
@@ -27,11 +27,11 @@ I don&#8217;t know that I&#8217;m an expert on the file system, but I figured si
 *   Can check user ID
 *   Can print current working directory
 *   Has <span class="GRcorrect">big picture view</span> of <span class="GRcorrect">filesystem organization</span>; there is a root directory, and that there exist standard system locations for certain types of files
-*   Understands the &#8220;grammar&#8221; of file names (directory separators, <span class="GRcorrect">filename</span> extension may indicate file type, and so on)
+*   Understands the "grammar" of file names (directory separators, <span class="GRcorrect">filename</span> extension may indicate file type, and so on)
 *   Can use command line to examine <span class="GRcorrect">contents</span> of directories
 *   Can use command line to change directories
 *   Understands relative and absolute paths, the differences between the two, and some idea of the appropriate uses of each
-*   Understands the meaning of the special directories &#8220;.&#8221; and &#8220;..&#8221;
+*   Understands the meaning of the special directories "." and ".."
 *   Knows what search terms to use when a problem is encountered with navigating the file system
 
 ## Expert {#expert}

@@ -1,7 +1,7 @@
 ---
 date: 2014-10-13
 round: Round 11
-title: 'Demotivation: If you&#8217;re not trying, why should I?'
+title: 'Demotivation: If you're not trying, why should I?'
 author: Kate Hertweck
 permalink: /2014/10/demotivation-if-youre-not-trying-why-should-i/
 tags:
@@ -13,4 +13,4 @@ I started to feel excitement again at the prospect of learning a different side 
 
 I met with him in the third week of classes and started to describe what I was interested in pursuing. I barely had a sentence out of my mouth before he was telling me that the things I was saying were narrow-minded and wrong. I tried to continue the conversation, and he kept interjecting that there were more nuanced issues to the topic I needed to consider. I left the conversation in tears and dropped the class (and later found out that more than half the class did as well).
 
-Looking back, especially after teaching my own classes, I can understand the approach he was trying to take. In a class largely composed of science students, he was trying to challenge us to think in a dramatically different way. Unfortunately, he didn&#8217;t take the steps necessary to 1) find out anything about our educational backgrounds, and 2) gain the rapport with us that is necessary to engage in that type of discourse. The second issue was compounded by his seeming lack of interest in teaching the course and respecting us as people (like telling us which book to buy). I&#8217;m sure I could&#8217;ve made it through the rest of the semester, especially if I had let the initial shock of his rebuttal wear off. It simply wasn&#8217;t worth my time, though, especially given his apparent disinterest in helping me succeed.
+Looking back, especially after teaching my own classes, I can understand the approach he was trying to take. In a class largely composed of science students, he was trying to challenge us to think in a dramatically different way. Unfortunately, he didn't take the steps necessary to 1) find out anything about our educational backgrounds, and 2) gain the rapport with us that is necessary to engage in that type of discourse. The second issue was compounded by his seeming lack of interest in teaching the course and respecting us as people (like telling us which book to buy). I'm sure I could've made it through the rest of the semester, especially if I had let the initial shock of his rebuttal wear off. It simply wasn't worth my time, though, especially given his apparent disinterest in helping me succeed.

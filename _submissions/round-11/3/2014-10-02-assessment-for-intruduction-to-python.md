@@ -9,7 +9,7 @@ tags:
 ---
 1) What does this code print?
 
-> print &#8216;My brother is&#8217;, int(&#8216;6&#8242;)+3, &#8216;years&#8217;+&#8217;old&#8217;
+> print 'My brother is', int('6&#8242;)+3, 'years'+'old'
 
 a) My brother is 63 years old
 

@@ -1,7 +1,7 @@
 ---
 date: 2014-02-11
 round: Round 8
-title: 'MCQ and exercise, &#8216;find&#8217; command'
+title: 'MCQ and exercise, 'find' command'
 author: Jeramia Ory
 permalink: /2014/02/mcq-and-exercise-find-command/
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 Question for distinguishing novice from expert:
 
-Using the unix &#8216;find&#8217; command, a normal user can:
+Using the unix 'find' command, a normal user can:
 
 <ol type="A">
   <li>
@@ -28,13 +28,13 @@ Using the unix &#8216;find&#8217; command, a normal user can:
 
 Question to assess knowledge:
 
-Identify the scenario most appropriate to using the &#8216;find&#8217; command:
+Identify the scenario most appropriate to using the 'find' command:
 
 <ol type="A">
   <li>
     I have a file full of a certain word, and want to find and substitute another word for it inside that file. <li>
       There is a rogue process running on my machine, and I want to find it and terminate it. <li>
-        There is a file I created two weeks ago that I&#8217;m pretty sure I saved as &#8216;Nature_paper_rev_final.latex&#8217; but can&#8217;t find it in the usual places. <li>
+        There is a file I created two weeks ago that I'm pretty sure I saved as 'Nature_paper_rev_final.latex' but can't find it in the usual places. <li>
           I want to list all the files in my current directory that end with the extension *.latex </ol> <p>
             Exercise:
           </p>
@@ -72,5 +72,5 @@ Identify the scenario most appropriate to using the &#8216;find&#8217; command:
           </p>
           
           <p>
-            Give the command for finding all files in my Music directory with file extension .wav, larger than 50 megabytes, that I haven&#8217;t accessed in over a year.
+            Give the command for finding all files in my Music directory with file extension .wav, larger than 50 megabytes, that I haven't accessed in over a year.
           </p>

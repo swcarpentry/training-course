@@ -14,7 +14,7 @@ Cait Pickens (a grad student from Michigan State University) has written a great
 5.  [Day 2, Part 2][5]
 6.  [Day 2, Part 3][6]
 
-She also has a post describing how they used [HipChat in the classroom][7], which is *almost* what I think we need to do [peer instruction online][8]. There&#8217;s lots of good stuff to think about here—recommended.
+She also has a post describing how they used [HipChat in the classroom][7], which is *almost* what I think we need to do [peer instruction online][8]. There's lots of good stuff to think about here—recommended.
 
  [1]: http://michigancomputes.wordpress.com/2012/11/18/software-carpentry-the-preparation/
  [2]: http://michigancomputes.wordpress.com/2012/11/24/software-carpentry-day-1-part-1/

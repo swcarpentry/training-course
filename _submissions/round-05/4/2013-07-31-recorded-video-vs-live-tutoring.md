@@ -6,7 +6,7 @@ author: Martin Schilling
 permalink: /2013/07/recorded-video-vs-live-tutoring/
 tags:
 ---
-To us (Chris Holdgraf & Martin Schilling), it seems the main things you gain with real-time screensharing as opposed to an online video are A. you can ensure that the other person is engaged in the activity, and B. you can actively observe the way that they’re interacting with the material by noting their questions, comments etc.  To that extent, you could expect a &#8220;higher amount&#8221; of learning from a screencast than in most other teaching methods.
+To us (Chris Holdgraf & Martin Schilling), it seems the main things you gain with real-time screensharing as opposed to an online video are A. you can ensure that the other person is engaged in the activity, and B. you can actively observe the way that they’re interacting with the material by noting their questions, comments etc.  To that extent, you could expect a "higher amount" of learning from a screencast than in most other teaching methods.
 
 It was useful being able to have a direct conversation about how much background the other person had, and to see what kind of angle they were taking to this tutorial (e.g., have you heard of linear models before, have you used XXXX package before).  This allows you to think on-the-fly about what examples you can use to make the learning more quickly (e.g., “oh you know about YYYY?  Well this is kind of like YYYY only different in this way”.  In order to assess this, one could ask the other person to relate the topics that were covered in the tutorial to the connections that were made throughout the session (e.g., “so you could run a lot of the linear modeling we covered in session 2 using the Pandas framework of session 1?”)
 

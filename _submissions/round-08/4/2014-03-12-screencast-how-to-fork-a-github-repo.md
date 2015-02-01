@@ -13,4 +13,4 @@ My screencast goes over the process of forking a GitHub repo and setting up that
 
 I had originally intended to go over the entire workflow of contributing to a repo (forking + making your own changes and submitting a pull request), but three minutes goes by fast!
 
-This is a single take &#8211; the second time I made it through the whole thing. This actually took me much longer than expected &#8211; I found it really tough to go through the entire process without major technical difficulties or errors.
+This is a single take --- the second time I made it through the whole thing. This actually took me much longer than expected --- I found it really tough to go through the entire process without major technical difficulties or errors.

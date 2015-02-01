@@ -83,7 +83,7 @@ tags:
 </div>
 
 <div>
-  This took lots of effort. I potentially should have picked a new topic, but I wanted to follow through on the concept map from last  time. I&#8217;m not entirely sure there is 10 minutes worth of content to teach here. Thoughts?
+  This took lots of effort. I potentially should have picked a new topic, but I wanted to follow through on the concept map from last  time. I'm not entirely sure there is 10 minutes worth of content to teach here. Thoughts?
 </div>
 
 <span style="font-size: 12px;"></span>

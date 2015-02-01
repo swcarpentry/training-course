@@ -1,7 +1,7 @@
 ---
 date: 2014-09-18
 round: Round 11
-title: 'Concept Map &#8211; Unix Permissions'
+title: 'Concept Map --- Unix Permissions'
 author: Orion Buske
 permalink: /2014/09/concept-map-unix-permissions-3/
 tags:

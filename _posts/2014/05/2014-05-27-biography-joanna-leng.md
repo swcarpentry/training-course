@@ -1,5 +1,5 @@
 ---
-title: 'Biography &#8211; Joanna Leng'
+title: 'Biography --- Joanna Leng'
 author: Joanna Leng
 permalink: /2014/05/biography-joanna-leng/
 categories:

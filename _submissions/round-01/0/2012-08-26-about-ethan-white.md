@@ -7,7 +7,7 @@ permalink: /2012/08/about-ethan-white/
 tags:
   - Biography
 ---
-Ethan White is an Associate Professor at Utah State University. He has worked for over a decade in computational ecology with an emphasis on analyzing large, continental scale, datasets. He is an advocate for open and reproducible science, he serves on the editorial boards of [PLOS ONE][1] and [PeerJ][2], and he is the recipient of a National Science Foundation CAREER &#8216;Young Investigators&#8217; Award. Ethan received a Ph.D. in Biology from the University of New Mexico in 2005.
+Ethan White is an Associate Professor at Utah State University. He has worked for over a decade in computational ecology with an emphasis on analyzing large, continental scale, datasets. He is an advocate for open and reproducible science, he serves on the editorial boards of [PLOS ONE][1] and [PeerJ][2], and he is the recipient of a National Science Foundation CAREER 'Young Investigators' Award. Ethan received a Ph.D. in Biology from the University of New Mexico in 2005.
 
 Links:
 

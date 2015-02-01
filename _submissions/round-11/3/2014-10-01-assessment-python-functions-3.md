@@ -1,7 +1,7 @@
 ---
 date: 2014-10-01
 round: Round 11
-title: 'Assessment &#8211; Python functions'
+title: 'Assessment --- Python functions'
 author: Cody Hinchliff
 permalink: /2014/10/assessment-python-functions-3/
 tags:
@@ -11,7 +11,7 @@ I chose to use the discussion of Python functions for my assessments exercise.
 
 #### Question 1
 
-Given the following function definition, which of the code fragments below will print &#8220;the answer is 2&#8243; (without the quotes) to the screen, without producing any errors?
+Given the following function definition, which of the code fragments below will print "the answer is 2&#8243; (without the quotes) to the screen, without producing any errors?
 
 `def square(x=5):<br />
 &nbsp;&nbsp;&nbsp;&nbsp;temp = x * x<br />

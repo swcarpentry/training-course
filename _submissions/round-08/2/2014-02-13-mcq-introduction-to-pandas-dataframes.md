@@ -36,7 +36,7 @@ After
 
 <pre>results = pd.read_csv("results.csv").set_index("name")</pre>
 
-let&#8217;s say we want to get the maximum value for each student for each test, how should you define the \`maximum\` function in:
+let's say we want to get the maximum value for each student for each test, how should you define the \`maximum\` function in:
 
 <pre>print results.groupby(level=0).agg(maximum)</pre>
 

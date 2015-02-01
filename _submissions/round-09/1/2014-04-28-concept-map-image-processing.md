@@ -1,7 +1,7 @@
 ---
 date: 2014-04-28
 round: Round 9
-title: 'Concept Map &#8211; Image Processing'
+title: 'Concept Map --- Image Processing'
 author: Matthew Dimmock
 permalink: /2014/04/concept-map-image-processing/
 tags:

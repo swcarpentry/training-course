@@ -56,7 +56,7 @@ D. m[2, 3] + dim(m)[2]
 
 ## Lesson
 
-First let&#8217;s review creating and manipulating arrays, and a few built-in functions (`c`, `sum`, `min`, `max`, `mean`, `length`)
+First let's review creating and manipulating arrays, and a few built-in functions (`c`, `sum`, `min`, `max`, `mean`, `length`)
 
 <pre><code class="r">x = c(10, 20, 30, 40)
 x
@@ -65,7 +65,7 @@ x
     ## [1] 10 20 30 40
     
 
-R indexes arrays from 1, as opposed to zero, as in some other languages like Perl or Python. Let&#8217;s access the second element of `x`:
+R indexes arrays from 1, as opposed to zero, as in some other languages like Perl or Python. Let's access the second element of `x`:
 
 <pre><code class="r">x[2]
 </code></pre>
@@ -73,7 +73,7 @@ R indexes arrays from 1, as opposed to zero, as in some other languages like Per
     ## [1] 20
     
 
-Let&#8217;s now create a subset of x that contains only the second and third elements of x:
+Let's now create a subset of x that contains only the second and third elements of x:
 
 <pre><code class="r">xs = x[2:3]
 xs
@@ -82,7 +82,7 @@ xs
     ## [1] 20 30
     
 
-Now, let&#8217;s create a matrix (or, you can think of this as a two-dimensional vector). Remember, you can get help about this function with `?matrix`.
+Now, let's create a matrix (or, you can think of this as a two-dimensional vector). Remember, you can get help about this function with `?matrix`.
 
 <pre><code class="r">mat = matrix(1:20, nrow = 5)
 mat
@@ -110,7 +110,7 @@ mat
     ## [5,]   17   18   19   20
     
 
-We can access elements of the matrix just like accessing elements of an array, but this time using a comma to separate the row and column indices. For example, `M[r,c]` will return the element(s) in the `r`th row and `c`th column of matrix `M`. Let&#8217;s try it.
+We can access elements of the matrix just like accessing elements of an array, but this time using a comma to separate the row and column indices. For example, `M[r,c]` will return the element(s) in the `r`th row and `c`th column of matrix `M`. Let's try it.
 
 <pre><code class="r">mat[2, 4]
 </code></pre>

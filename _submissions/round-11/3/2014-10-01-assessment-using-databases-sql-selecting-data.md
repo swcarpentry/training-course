@@ -1,6 +1,6 @@
 ---
 date: 2014-10-01
-title: 'Assessment: Using Databases &#038; SQL &#8211; Selecting Data'
+title: 'Assessment: Using Databases &#038; SQL --- Selecting Data'
 author: Eric Youngson
 permalink: /2014/10/assessment-using-databases-sql-selecting-data/
 round: Round 11

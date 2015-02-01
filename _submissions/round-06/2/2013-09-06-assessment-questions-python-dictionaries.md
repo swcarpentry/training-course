@@ -11,13 +11,13 @@ These are related to my concept map on python dictionaries.
 
 1.  You have executed the following line of code in python to create a dictionary:
 
-d = {&#8216;name&#8217; : &#8216;Matthew&#8217;, &#8216;computer&#8217; : &#8216;Mac&#8217;, 1 : &#8216;complete&#8217;, 2 : &#8216;incomplete&#8217;}
+d = {'name' : 'Matthew', 'computer' : 'Mac', 1 : 'complete', 2 : 'incomplete'}
 
 Which of the following lines of code would give an error if you executed them?
 
-a)  print d[&#8216;name&#8217;]  
-b)  print d[&#8216;Mac&#8217;]  
-c)  print d[&#8216;computer&#8217;] + &#8216;book&#8217;  
+a)  print d['name']  
+b)  print d['Mac']  
+c)  print d['computer'] + 'book'  
 d)  print d[0]  
 e)  b and d  
 f)  b, c, and d

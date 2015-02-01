@@ -1,7 +1,7 @@
 ---
 date: 2013-04-03
 round: Round 4
-title: 'Concept map: ls &#8212; list directory contents'
+title: 'Concept map: ls --- list directory contents'
 author: Daniel Falster
 permalink: /2013/04/concept-map-ls-list-directory-contents/
 tags:
@@ -11,7 +11,7 @@ tags:
 
 &nbsp;
 
-Hi all, concept map of the ls shell function. Sorry for the late entry &#8211; just returned from holidays.
+Hi all, concept map of the ls shell function. Sorry for the late entry --- just returned from holidays.
 
 &nbsp;
 

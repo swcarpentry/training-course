@@ -16,7 +16,7 @@ permalink: /materials/
 *   [*Unlocking the Clubhouse*][6] (a good evidence-based discussion of the gender imbalance in computing—turns out that many of the factors that discourage women from going into computing also discourage scientists from learning how to code)
 *   [*How People Learn*][7] (also available [online][8], largely superseded by *How Learning Works*)
 *   [*What the Best College Teachers Do*][9] (brief and entertaining, if a bit gushy)
-*   [*Teaching What You Don&#8217;t Know*][10] (which describes many of us—also brief and entertaining)
+*   [*Teaching What You Don't Know*][10] (which describes many of us—also brief and entertaining)
 *   [*Design for How People Learn*][11] (for those with an artistic bent)
 *   [*Understanding by Design*][12] (three times slower than it needs to be, but a good description of a methodical way to design instructional materials)
 *   *[Making Software][13]* (a much larger and more up-to-date alternative to the *Facts and Fallacies* book)
@@ -25,11 +25,11 @@ permalink: /materials/
 
 *   Binkley et al: [The Effect of Identifier Style on Effort and Comprehension][14]
 *   Chen at al: [A Pattern Language for Screencasting][15]
-*   Cherubini et al: [Let&#8217;s Go to the Whiteboard: How and Why Software Developers Use Drawings][16]
+*   Cherubini et al: [Let's Go to the Whiteboard: How and Why Software Developers Use Drawings][16]
 *   Clark & Libarkin: [Designing a mixed-methods research instrument and scoring rubric to investigate individuals’ conceptions of plate tectonics][17]
 *   Crouch & Mazur: [Peer Instruction: Ten years of experience and results][18]
 *   Daniel: [Making Sense of MOOCs][19]
-*   Dunlosky et al: [Improving Students&#8217; Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology][20]
+*   Dunlosky et al: [Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology][20]
 *   Gioia: [The Aesthetics of Imperfection][21]
 *   Hake: [Interactive-engagement vs traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses][22]
 *   Hannay et al: [How Do Scientists Develop and Use Scientific Software?][23]
@@ -41,15 +41,15 @@ permalink: /materials/
 *   Porter et al: [Halving Fail Rates using Peer Instruction: A Study of Four Computer Science Courses][29]
 *   Porter et al: [Success in Introductory Programming: What Works?][30]
 *   Prabhu et al: [A Survey of the Practice of Computational Science][31]
-*   Rattan et al: [&#8220;It&#8217;s OK &#8211; Not everyone can be good at math&#8221;: Instructors with an entity theory comfort (and demotivate) students][32]
+*   Rattan et al: ["It's OK --- Not everyone can be good at math": Instructors with an entity theory comfort (and demotivate) students][32]
 *   Sorva: [Visual Program Simulation in Introductory Programming Education][33] (extract)
 *   Sweller: [Cognitive Load Theory, Learning Difficulty, and Instructional Design][34]
-*   Whitecraft and Williams: [Why Aren&#8217;t More Women in Computer Science?][35]
+*   Whitecraft and Williams: [Why Aren't More Women in Computer Science?][35]
 *   Wholey: [Formative and Summative Evaluation: Related Issues in Performance Measurement][36]
 
 ## Other Resources
 
-*   &#8220;[Understanding by Design][37]&#8221; template and examples (for those in a hurry)
+*   "[Understanding by Design][37]" template and examples (for those in a hurry)
 
  [1]: http://files.software-carpentry.org/training-course/2012/08/guzdial.pdf
  [2]: http://computinged.wordpress.com/

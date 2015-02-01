@@ -33,19 +33,19 @@ done
 
 Answers and analysis:
 
-Note: I&#8217;m only looking at line 1 here. The rest should be the same.
+Note: I'm only looking at line 1 here. The rest should be the same.
 
 a) Wrong. Have realised they need to use * to identify all directory entries but get the order mixed up with the variable.  
 b) Wrong. Have realise they need the list of all entries in the directory so use the ls command as they know this lists all entries in a directory.  
 c) Correct  
-d) Wrong. Know they need a variable ($i) to hold each element in one at a time but fail to remember that this isn&#8217;t a request for the contents of the variable.
+d) Wrong. Know they need a variable ($i) to hold each element in one at a time but fail to remember that this isn't a request for the contents of the variable.
 
-2) In an SQL database you have a table, called &#8220;People&#8221; with four items: Given_Name, Surname, Age, Postcode. Which of the following will correctly output only those people with Surname &#8220;Jones&#8221; who are older than 18?
+2) In an SQL database you have a table, called "People" with four items: Given_Name, Surname, Age, Postcode. Which of the following will correctly output only those people with Surname "Jones" who are older than 18?
 
-a) SELECT * FROM People WHERE Surname = &#8216;Jones&#8217; WHERE Age > 18  
-b) SELECT * FROM People WHERE Surname = &#8216;Jones&#8217; AND Age > 18  
+a) SELECT * FROM People WHERE Surname = 'Jones' WHERE Age > 18  
+b) SELECT * FROM People WHERE Surname = 'Jones' AND Age > 18  
 c) SELECT * FROM People WHERE Surname = Jones AND Age > 18  
-d) SELECT * FROM People WHERE Surname = &#8216;Jones&#8217; AND Age > &#8217;18&#8217;
+d) SELECT * FROM People WHERE Surname = 'Jones' AND Age > '18'
 
 Answers and analysis:
 

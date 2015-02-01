@@ -1,7 +1,7 @@
 ---
 date: 2014-10-02
 round: Round 11
-title: 'Assessment &#8211; Writing Tests'
+title: 'Assessment --- Writing Tests'
 author: Ashwin Srinath
 permalink: /2014/10/assesment-writing-tests/
 tags:
@@ -16,7 +16,7 @@ def is_palindrome(n):</p>
 <p>&nbsp; &nbsp; return str(n) == str(n)[::-1]<br />
 `
 
-Python functions will try to work with what you give them. Although the documentation for ` is_palindrome ` clearly says that it checks if an * integer * is palindromic, there&#8217;s nothing to stop you from doing the following:  
+Python functions will try to work with what you give them. Although the documentation for ` is_palindrome ` clearly says that it checks if an * integer * is palindromic, there's nothing to stop you from doing the following:  
 `<br />
 >>> is_palindrome(3.3)<br />
 True<br />
@@ -25,7 +25,7 @@ What do you think `is_palindrome` should do when you pass it a `float` instead o
 
 (a) Raise an error and stop the program  
 (b) Print a warning message, but continue anyway  
-(c) Nothing &#8211; extra functionality is a good thing  
+(c) Nothing --- extra functionality is a good thing  
 (d) Return ` None `  
 (e) Something else
 

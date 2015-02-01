@@ -17,7 +17,7 @@ Given the following code,
         side: "rice"
     };
 
-how would you output the &#8216;main&#8217; property from the &#8216;dinner&#8217; object?
+how would you output the 'main' property from the 'dinner' object?
 
 a) alert(dinner.main);  
 b) alert(dinner.main());  
@@ -49,7 +49,7 @@ d) Mittens says mew mew!
 
 ### Practical Exercise
 
-We&#8217;ve defined an object here for you. Follow the instructions below to practice working  
+We've defined an object here for you. Follow the instructions below to practice working  
 with objects and their properties and methods.
 
     var myVacation = {

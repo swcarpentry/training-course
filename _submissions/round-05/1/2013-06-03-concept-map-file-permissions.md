@@ -9,9 +9,9 @@ tags:
 ---
 [<img class="alignnone size-large wp-image-2968" alt="File Permissions Concept Map" src="http://files.software-carpentry.org/training-course/2013/06/FilePermissions-1024x853.jpg" width="707" height="588" />][1]
 
-Here is a relatively complex diagram of (hopefully) most of the concepts relating to (UNIX) file permissions. I don&#8217;t have too much knowledge about how things work in Windows or other environments.
+Here is a relatively complex diagram of (hopefully) most of the concepts relating to (UNIX) file permissions. I don't have too much knowledge about how things work in Windows or other environments.
 
-I was really surprised how complex file permissions are. As a learning experience, I found this extremely useful. When I thought &#8220;oh, I&#8217;ll do file permissions&#8221; initially, I thought it would be very basic. As it happens, everything is much more murky.
+I was really surprised how complex file permissions are. As a learning experience, I found this extremely useful. When I thought "oh, I'll do file permissions" initially, I thought it would be very basic. As it happens, everything is much more murky.
 
 Some things I was thinking about as I was going along:
 

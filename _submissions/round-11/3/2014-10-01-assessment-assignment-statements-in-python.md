@@ -24,5 +24,5 @@ Which of the following matches the output?
 (d) d = 17
 
 2. What is the output of this script? (make sure each character can be read clearly)  
-phrase = &#8216;the brown dog&#8217;  
-print &#8216;[&#8216; + phrase[2:-3] + &#8216;]&#8217;
+phrase = 'the brown dog'  
+print '[' + phrase[2:-3] + ']'

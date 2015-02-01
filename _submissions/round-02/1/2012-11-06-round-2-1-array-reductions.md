@@ -11,7 +11,7 @@ tags:
   <a href="http://files.software-carpentry.org/training-course/2012/11/concept_map.001.png"><img class="size-full wp-image-986 aligncenter" title="concept_map.001" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/11/concept_map.001.png" alt="" width="635" height="344" /></a>
 </p>
 
-Array reductions represent a extremely useful class of array operations that involves computing aggregate statistics over the array. Numpy ndarrays come with methods like &#8216;sum&#8217;, &#8216;mean&#8217;, &#8216;std&#8217;, and many other reductions that are convenient to use. Specifying an argument for the &#8216;axis&#8217; parameter means computing the reduction along the given dimension, while omitting the &#8216;axis&#8217; parameter means computing the reduction over all elements in the array.
+Array reductions represent a extremely useful class of array operations that involves computing aggregate statistics over the array. Numpy ndarrays come with methods like 'sum', 'mean', 'std', and many other reductions that are convenient to use. Specifying an argument for the 'axis' parameter means computing the reduction along the given dimension, while omitting the 'axis' parameter means computing the reduction over all elements in the array.
 
 ### **Prerequisite Knowledge**
 
@@ -19,7 +19,7 @@ Assume user knows basic mathematical operations like sum, mean, and standard dev
 
 ### **Example**
 
-Suppose we&#8217;re conducting a scientific experiment measuring repeated samples of several variables. We can record the data in a 2-dimensional array where each row represent one sample for all variables and each column represent all samples for one variable:
+Suppose we're conducting a scientific experiment measuring repeated samples of several variables. We can record the data in a 2-dimensional array where each row represent one sample for all variables and each column represent all samples for one variable:
 
 <pre>In [52]: import numpy as np
 
@@ -42,7 +42,7 @@ Out[55]: array([ 0.5   ,  0.1125,  0.05  ])
 In [56]: arr.std(axis=0)
 Out[56]: array([ 0.5       ,  0.46418612,  2.75816968])</pre>
 
-Let&#8217;s spot check our results for mean by computing the mean for column 1 (second variable) explicitly using a for-loop:
+Let's spot check our results for mean by computing the mean for column 1 (second variable) explicitly using a for-loop:
 
 <pre>In [63]: column1 = arr[:, 1]
 
@@ -55,7 +55,7 @@ In [65]: for x in column1:
 In [66]: sum / len(column1)
 Out[66]: 0.11250000000000002</pre>
 
-The result is the same as the second entry in the returned array from &#8220;arr.mean(axis=0)&#8221;.
+The result is the same as the second entry in the returned array from "arr.mean(axis=0)".
 
 Suppose the variables are all parts of an integrated whole. It might be interesting to see the total value for each observation:
 
@@ -64,14 +64,14 @@ Out[57]: array([ 0.7 , -0.25,  4.3 , -2.1 ])</pre>
 
 Here the return value has 4 entries because we have taken 4 samples for all the variables.
 
-If we omit the &#8216;axis&#8217; parameter then the computation is performed on the entire array:
+If we omit the 'axis' parameter then the computation is performed on the entire array:
 
 <pre>In [58]: arr.sum()
 Out[58]: 2.6500000000000004</pre>
 
 ### 
 
-Q1. How do I test whether &#8220;arr.sum()&#8221; returns the correct value?  
+Q1. How do I test whether "arr.sum()" returns the correct value?  
 A1.
 
 <pre>sum = 0

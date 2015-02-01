@@ -21,17 +21,17 @@ I wrote an [R script][4] that walked exactly through the lesson. For the present
 
 *   My public speaking voice. I mumble when I speak casually. Also, I do not have a booming voice.
 *   Too fast paced. Many students felt like the lesson was far too fast to absorb all the material. This was somewhat out of my control because the time allotted for my lesson was shortened since previous sections went over. However, it is important for me to remember that even straightforward concepts will take a little time to absorb since it is the first time students are being exposed to them, and that I should always go slower if possible. One good suggestion one of the students gave me was to incorporate more live coding into my presentation since that would have forced me to go slower. In the future, I want to try a mix of documented and live coding to see how that goes.
-*   Ask leading questions. Only one student pointed this out, but I found it to be extremely insightful. When I ask a question that I do not think should be difficult and don&#8217;t get a quick response, I get flustered since I do not want to spend much time on a simple &#8220;are you following&#8221; type question. S/he suggested that I ask leading questions since it was not always obvious to them the exact answer I was looking for.
+*   Ask leading questions. Only one student pointed this out, but I found it to be extremely insightful. When I ask a question that I do not think should be difficult and don't get a quick response, I get flustered since I do not want to spend much time on a simple "are you following" type question. S/he suggested that I ask leading questions since it was not always obvious to them the exact answer I was looking for.
 
 **Was the concept map useful?**
 
-The concept map was the main new teaching tool that I implemented in this lesson after having learned about them in the instructor training. I found that creating the concept map was an extremely beneficial method for organizing my thoughts and planning my lesson. When I read Hadley Wickham&#8217;s book on ggplot2, I was often confused at first with all the vocabulary since it was unclear how it all fit together. Creating the concept map forced me to solidify my understanding. Thus, as an effective way to plan a lesson, I think the concept map was definitely useful.
+The concept map was the main new teaching tool that I implemented in this lesson after having learned about them in the instructor training. I found that creating the concept map was an extremely beneficial method for organizing my thoughts and planning my lesson. When I read Hadley Wickham's book on ggplot2, I was often confused at first with all the vocabulary since it was unclear how it all fit together. Creating the concept map forced me to solidify my understanding. Thus, as an effective way to plan a lesson, I think the concept map was definitely useful.
 
-However, the student response to the concept map was a mixed bag. I wanted the students to have a bird&#8217;s eye view of the all the components so that would make more sense as we walked through each component in a linear fashion through the lesson. Five students mentioned the concept map in their feedback:
+However, the student response to the concept map was a mixed bag. I wanted the students to have a bird's eye view of the all the components so that would make more sense as we walked through each component in a linear fashion through the lesson. Five students mentioned the concept map in their feedback:
 
 > Great conceptual graphic.
 > 
-> Awesome graphic page&#8230;
+> Awesome graphic page...
 > 
 > Concept map is confusing!
 > 
@@ -39,7 +39,7 @@ However, the student response to the concept map was a mixed bag. I wanted the s
 > 
 > It is too quick to really understand the separate characteristics on the concept map.
 
-So I think part of the trouble with the concept map had to do with the limited time of the lesson and the high-level nature of the concept map. ggplot2 takes some time to get used to, so I guess I shouldn&#8217;t be so surprised that the students felt frustrated that they could not fully comprehend the concept map.
+So I think part of the trouble with the concept map had to do with the limited time of the lesson and the high-level nature of the concept map. ggplot2 takes some time to get used to, so I guess I shouldn't be so surprised that the students felt frustrated that they could not fully comprehend the concept map.
 
 **Take-away**
 

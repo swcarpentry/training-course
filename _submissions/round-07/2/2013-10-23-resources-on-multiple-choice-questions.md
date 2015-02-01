@@ -17,6 +17,6 @@ Here are a couple of short handouts on things to watch out for when writing mult
   <a href="http://ctl.ualberta.ca/instructional-resources/instructional-techniques-assessment-guides/creating-multiple-choice">Creating multiple choice</a>
 </div>
 
-and a plug for [PeerWise][1], a system which has students construct their own questions for their classmates&#8217; use.
+and a plug for [PeerWise][1], a system which has students construct their own questions for their classmates' use.
 
  [1]: http://peerwise.cs.auckland.ac.nz/

@@ -11,7 +11,7 @@ Main text is *How Learning Works* <http://www.amazon.com/How-Learning-Works-Rese
 
 *Understanding by Design* <http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843> is also useful
 
-Mark Guzdial&#8217;s blog: <http://computinged.wordpress.com/>
+Mark Guzdial's blog: <http://computinged.wordpress.com/>
 
 **Group 2 Round 1**
 
@@ -29,13 +29,13 @@ Mark Guzdial&#8217;s blog: <http://computinged.wordpress.com/>
         *   If there are more than half a dozen bubbles or arrows, your topic is too big
     *   Make up one example to illustrate the concept
     *   Make up half a dozen variations on that example with a few blanks in each 
-        *   &#8220;Worked examples&#8221;, &#8220;cognitive load&#8221;
+        *   "Worked examples", "cognitive load"
     *   Explain how this concept relates to something a scientist might actually want to do 
         *   <http://software-carpentry.org/2012/10/25-questions/> is from <http://teaching.software-carpentry.org/category/round-1-3/> 
-            *   The &#8220;combined&#8221; posts in that category are all worth reading
+            *   The "combined" posts in that category are all worth reading
     *   Post result to blog 
         *   Also report time taken
-    *   Comment on two other people&#8217;s posts
+    *   Comment on two other people's posts
 
 Our audience: <http://software-carpentry.org/about/audience/>
 
@@ -43,11 +43,11 @@ Graduation exercise: <http://www.beasmartercookie.com/>
 
 *   Post video of you teaching to youtube and get feedback from community
 *   Musicians have been doing this for years
-*   Will post examples and get feedback as part of &#8220;graduation&#8221; from this course
+*   Will post examples and get feedback as part of "graduation" from this course
 
 **Notes**
 
-Hopefully you&#8221;ve all posted biographies by now
+Hopefully you"ve all posted biographies by now
 
 *   Figure out what we know about learning and teaching
 *   Apply these to Software Carpentry
@@ -60,7 +60,7 @@ We know a great deal about learning
 
 We cannot teach people to program in 2 days. We need to teach them how to think like programmers so that they can fill in the details.
 
-*   Our learners don&#8217;t have the conceptual framework they need
+*   Our learners don't have the conceptual framework they need
 *   So they put the information in whatever framework they have
 *   Book: <http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/>
 
@@ -70,13 +70,13 @@ Existing Software Carpentry (SWC) material is being placed in a book as a teachi
 
 <pre>svn checkout http://svn.software-carpentry.org/swc/book</pre>
 
-*   Pick one small topic (e.g., &#8220;what is happening to the variable in a for loop&#8221;)
-*   Make a &#8220;concept map&#8221; of the other ideas this topic depends on
+*   Pick one small topic (e.g., "what is happening to the variable in a for loop")
+*   Make a "concept map" of the other ideas this topic depends on
 *   Experts have richer set of connections among topics than novices
 *   Can use pen & paper, drawing tool, etc.
 *   If you need more than ~6 boxes your topic is too large
 *   Part of instructional design is figuring out dependency chains so things go in order
-*   When you say &#8220;we&#8217;ll get to this later&#8221; lose ~1/2 learners
+*   When you say "we'll get to this later" lose ~1/2 learners
 *   Few lines of codes for demonstrating concept
 
 Cognitive load
@@ -84,7 +84,7 @@ Cognitive load
 *   There are things we need to learn
 *   And then there is lots of other stuff that is confusing
 *   This is accidental cognitive load that gets in the way of learning
-*   for line in file: &#8211; makes people think that &#8216;line&#8217; and &#8216;file&#8217; are important key words
+*   for line in file: --- makes people think that 'line' and 'file' are important key words
 *   this is why Greg uses pet names for demonstrations in workshops
 *   fastest way to learn is to show an example, then show them a couple of very similar examples with small gaps to fill in
 *   This helps reinforce the pattern
@@ -101,7 +101,7 @@ Assignment
 
 We are going to communicate primarily through the blog
 
-*   Once you&#8217;ve decided on the concept, start your round 1 blog post
+*   Once you've decided on the concept, start your round 1 blog post
 *   Then edit as you develop the map, examples, etc.
 *   Develop pairwise interactions during this process, interacting with other folks in the group
 *   First round participants will also be watching and potentially interacting
@@ -121,7 +121,7 @@ Greg will post an initial blog post shortly
 
 Subscribe to both SWC blog and teaching group blog
 
-Having examples for teaching isn&#8217;t enough
+Having examples for teaching isn't enough
 
 *   need to know why those examples
 
@@ -137,7 +137,7 @@ Having examples for teaching isn&#8217;t enough
         result.append(len(w))
     return result</pre>
 
-*Explain this function&#8217;s operation.*
+*Explain this function's operation.*
 
 This function creates and returns a list containing the lengths of a series of strings. The list of strings is passed in as the argument `words`, and the local variable `result` is initialized to an empty list. The loop iterates over each string in the list. Each loop iteration determines the length of a single string using the function `len()` and then appends that length to the list `result`. The final `result` list is returned. An example of using it is:
 

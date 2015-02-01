@@ -30,7 +30,7 @@ What is the output of the program snippet?
 A “multiple-choice question to tell whether your audience has actually learned what you set out to teach”
 
 Code snippet:  
-f1 = open(&#8220;somefile.txt “, &#8220;r+&#8221;)  
+f1 = open("somefile.txt “, "r+")  
 print  f1.name  
 print f1.readline()  
 f1.write(“New line 1”)  

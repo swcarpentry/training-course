@@ -1,7 +1,7 @@
 ---
 date: 2014-02-13
 round: Round 8
-title: 'Round 8.2 MCQ &#8212; List Comprehensions'
+title: 'Round 8.2 MCQ --- List Comprehensions'
 author: David Schryer
 permalink: /2014/02/round-8-2-mcq-list-comprehensions/
 tags:

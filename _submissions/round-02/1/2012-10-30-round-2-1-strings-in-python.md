@@ -1,7 +1,7 @@
 ---
 date: 2012-10-30
 round: Round 2
-title: 'Round 2.1 &#8211; Strings (in Python)'
+title: 'Round 2.1 --- Strings (in Python)'
 author: Jason Pell
 permalink: /2012/10/round-2-1-strings-in-python/
 tags:
@@ -11,19 +11,19 @@ tags:
 
 **What is a string?**
 
-A string is a datatype in Python used for storing a sequence of characters (e.g. &#8216;hello world&#8217; or &#8216;e equals 2.71&#8230;&#8217; or &#8216;50% of 20% is 10%&#8217;) where a character can be a letter, number, or a variety of other symbols including a space or new line character.
+A string is a datatype in Python used for storing a sequence of characters (e.g. 'hello world' or 'e equals 2.71...' or '50% of 20% is 10%') where a character can be a letter, number, or a variety of other symbols including a space or new line character.
 
->>> my_str = &#8216;the quick fox jumps over the lazy dog&#8217;  
+>>> my_str = 'the quick fox jumps over the lazy dog'  
 >>> print my_str  
 the quick fox jumps over the lazy dog
 
-Above, we created a variable called my_str that contains the string, &#8220;the quick fox jumps over the lazy dog.&#8221; The single quote is used to denote the beginning and end of the string.
+Above, we created a variable called my_str that contains the string, "the quick fox jumps over the lazy dog." The single quote is used to denote the beginning and end of the string.
 
 **Indexing**
 
-It is possible to access an character/element in a string with the notation my\_str[i] where my\_str is the variable name of the string and i is the index of the element. The index is a number from 0 to one less than the length of the string where the first element is accessed with 0, the 2nd element with 1, 3rd element with 2, and so on (so don&#8217;t forget to start counting at 0!) See the example below:
+It is possible to access an character/element in a string with the notation my\_str[i] where my\_str is the variable name of the string and i is the index of the element. The index is a number from 0 to one less than the length of the string where the first element is accessed with 0, the 2nd element with 1, 3rd element with 2, and so on (so don't forget to start counting at 0!) See the example below:
 
->>> the_str = &#8220;software carpentry&#8221;  
+>>> the_str = "software carpentry"  
 >>> print the_str[3]  
 t
 
@@ -33,21 +33,21 @@ In the first line, we created a variable called the\_str that contains the strin
 
 You can also grab a substring, or an ordered part of a string, by doing string slicing.
 
->>> abc = &#8220;the value of pi is 3.141592&#8230;&#8221;  
+>>> abc = "the value of pi is 3.141592..."  
 >>> print abc[13:15]  
 pi  
 >>> some_slice = abc[19:]  
 >>> print some_slice  
-3.141592&#8230;
+3.141592...
 
-In the top line, we created a string called abc. Next, we used string slicing to print the characters in the string abc from index 13 up to (**but not including!**) 15, which happens to be the substring &#8220;pi.&#8221; There are other variations of string slicing, one example of which is to grab a substring at the end of a string (i.e. a suffix) beginning at a given index. In the example above, we obtain the substring beginning at index 19 up to the end of the string and store the result in some_slice. Finally, we print out our result (3.141592&#8230;).
+In the top line, we created a string called abc. Next, we used string slicing to print the characters in the string abc from index 13 up to (**but not including!**) 15, which happens to be the substring "pi." There are other variations of string slicing, one example of which is to grab a substring at the end of a string (i.e. a suffix) beginning at a given index. In the example above, we obtain the substring beginning at index 19 up to the end of the string and store the result in some_slice. Finally, we print out our result (3.141592...).
 
 **Caveat about Numbers**
 
 Note that a number can be a string rather than an integer, which means that in those cases you cannot do any numeric processing with them.
 
->>> num_one = &#8216;100&#8217;  
->>> num_two = &#8216;200&#8217;  
+>>> num_one = '100'  
+>>> num_two = '200'  
 >>> print num\_one + num\_two  
 100200
 
@@ -55,7 +55,7 @@ In the first two lines above, we created variables num\_one and num\_two that ho
 
 **Fill in the Blank**
 
->>> a = &#8220;the quick fox jumps over the lazy dog&#8221;  
+>>> a = "the quick fox jumps over the lazy dog"  
 >>> print a  
 the quick fox jumps over the lazy dog  
 >>> some\_char = \___[12] # fill the blank to access element 12 in variable a  

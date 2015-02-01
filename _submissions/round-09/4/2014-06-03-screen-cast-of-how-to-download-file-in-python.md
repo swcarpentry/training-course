@@ -8,7 +8,7 @@ tags:
   - Motivation
   - Video
 ---
-The idea was to show something that&#8217;s easy to do in Python but hard in for example Matlab&#8230;
+The idea was to show something that's easy to do in Python but hard in for example Matlab...
 
 [Youtube clip][1]
 

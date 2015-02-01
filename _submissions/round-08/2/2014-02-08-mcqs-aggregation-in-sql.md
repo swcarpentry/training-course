@@ -24,9 +24,9 @@ Consider the following database table, called observations:
 Which of the following would return the total number of sightings of woodpeckers?
 
 a) SELECT COUNT(sightings) FROM observations GROUP BY species;  
-b) SELECT SUM(*) FROM observations WHERE species = &#8216;woodpecker';  
-c) SELECT SUM(sightings) FROM observations WHERE species = &#8216;woodpecker&#8217; GROUP BY species;  
-d) SELECT COUNT(species) FROM observations WHERE species = &#8216;woodpecker&#8217; GROUP BY sightings;
+b) SELECT SUM(*) FROM observations WHERE species = 'woodpecker';  
+c) SELECT SUM(sightings) FROM observations WHERE species = 'woodpecker' GROUP BY species;  
+d) SELECT COUNT(species) FROM observations WHERE species = 'woodpecker' GROUP BY sightings;
 
 ## Teaching Excercise:
 
@@ -47,11 +47,11 @@ Complete the following SQL queries to achieve the desired result:
 
 1) Obtain a list of dates on which woodpeckers were seen:
 
-SELECT date FROM observations WHERE species = &#8216;woodpecker&#8217; AND \___\___\___;
+SELECT date FROM observations WHERE species = 'woodpecker' AND \___\___\___;
 
 2) Get the total number of thrushes seen at Bude:
 
-SELECT \_____ WHERE site = &#8216;Bude';
+SELECT \_____ WHERE site = 'Bude';
 
 3) Get the mean number of woodpeckers seen for each day:
 
@@ -76,7 +76,7 @@ Consider the following database table, called observations:
 
 Which of the following would return the number of days on which more than five thrushes were spotted?
 
-a) SELECT COUNT(*) FROM observations WHERE species = &#8216;thrush&#8217; AND sightings > 5;  
-b) SELECT * FROM observations WHERE species = &#8216;thrush&#8217; AND sightings > 5;  
-c) SELECT SUM(*) FROM observations IF species = &#8216;thrush&#8217; AND sightings > 5;  
-d) SELECT COUNT(date) FROM observations IF species = &#8216;thrush&#8217; AND sightings > 5;
+a) SELECT COUNT(*) FROM observations WHERE species = 'thrush' AND sightings > 5;  
+b) SELECT * FROM observations WHERE species = 'thrush' AND sightings > 5;  
+c) SELECT SUM(*) FROM observations IF species = 'thrush' AND sightings > 5;  
+d) SELECT COUNT(date) FROM observations IF species = 'thrush' AND sightings > 5;

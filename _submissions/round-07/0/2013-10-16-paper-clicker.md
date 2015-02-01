@@ -7,7 +7,7 @@ permalink: /2013/10/paper-clicker/
 tags:
   - Teaching
 ---
-I mentioned this during last week&#8217;s session &#8212; hopefully it is useful to a few folks.
+I mentioned this during last week's session --- hopefully it is useful to a few folks.
 
 [paper_clicker][1]
 

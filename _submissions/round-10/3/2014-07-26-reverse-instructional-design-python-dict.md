@@ -25,4 +25,4 @@ e) `['ocean', 'scarf', 'sky']`
 
 **Written question:**
 
-Write down the code you would use to add a new key &#8216;green&#8217; to the dictionary and give it the value &#8216;emeralds&#8217;.
+Write down the code you would use to add a new key 'green' to the dictionary and give it the value 'emeralds'.

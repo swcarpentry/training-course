@@ -23,18 +23,18 @@ Intermediate/Expert
 
 2. Consider the following Java snippet
 
-StringBuffer sb = new StringBuffer(&#8220;123&#8243;);  
+StringBuffer sb = new StringBuffer("123&#8243;);  
 doSomething(sb);  
 doSomethingElse(sb);
 
 private void doSomething(StringBuffer s)  
 {  
-s.append(&#8220;4&#8243;);  
+s.append("4&#8243;);  
 }
 
 private void doSomethingElse(StringBuffer s)  
 {  
-s = new StringBuffer(&#8220;abc&#8221;);  
+s = new StringBuffer("abc");  
 }
 
 what will be contained in sb before doSomething, after doSomething, and after doSomethingElse

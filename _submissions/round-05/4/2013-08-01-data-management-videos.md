@@ -26,13 +26,13 @@ The second video was about Bein http://software-carpentry.org/v4/data/bein.html 
 
 This was a short video and I got the flavour of what could be done but 5 more minutes show a Bein based programme running and what it does with shell outputs and what is inside the miniLIMS directory would have made me more empowered to try this out myself.
 
-The presenter in neither video said their name or affiliation, while the first one was clearly Greg Wilson, who was the chap in the second video ? was he the person who developed Bein ? or was he an enthusiastic user ? I think it&#8217;s useful to know who is speaking and where they are based &#8211; as one can look them up afterwards and perhaps ask a follow-up question.
+The presenter in neither video said their name or affiliation, while the first one was clearly Greg Wilson, who was the chap in the second video ? was he the person who developed Bein ? or was he an enthusiastic user ? I think it's useful to know who is speaking and where they are based --- as one can look them up afterwards and perhaps ask a follow-up question.
 
-It was interesting to note that there were no comments on either page &#8211; was this due to the website change or was it always like this ?
+It was interesting to note that there were no comments on either page --- was this due to the website change or was it always like this ?
 
-I know SWC is about novice to competent but I think some introduction to Cloud computing and some discussion about moving the compute to big data rather than the other way around would have been interesting, even if just describing using a centralised data store like iRods from https://www.irods.org would have been useful or natural in a section on data management as it&#8217;s quite widely used in research or perhaps as further reading.
+I know SWC is about novice to competent but I think some introduction to Cloud computing and some discussion about moving the compute to big data rather than the other way around would have been interesting, even if just describing using a centralised data store like iRods from https://www.irods.org would have been useful or natural in a section on data management as it's quite widely used in research or perhaps as further reading.
 
-I am also surprised that there was no mention of catalogues (of data) &#8211; e.g. whether from Astronomy, Bioinformatics or Biodiversity as knowing where to get data from for your domain and where to put data for publication is surely part of data management ?
+I am also surprised that there was no mention of catalogues (of data) --- e.g. whether from Astronomy, Bioinformatics or Biodiversity as knowing where to get data from for your domain and where to put data for publication is surely part of data management ?
 
 So a good section that needs updating and expanding; I guess the novice to competent aim will govern what should be on the syllabus.
 

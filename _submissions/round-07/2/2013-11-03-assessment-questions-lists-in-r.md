@@ -27,14 +27,14 @@ Competent from Expert
 
 Given the following list:
 
-children <- list(name=c(&#8216;Willem&#8217;, &#8216;Ella&#8217;), age=c(12, 8), male=c(TRUE, FALSE))
+children <- list(name=c('Willem', 'Ella'), age=c(12, 8), male=c(TRUE, FALSE))
 
-which statement will return &#8216;Ella&#8217; as a character vector?
+which statement will return 'Ella' as a character vector?
 
-a) children\[&#8216;name&#8217;\] \[ !children[&#8216;male&#8217;\] ]
+a) children\['name'\] \[ !children['male'\] ]
 
-b) children\[&#8216;name&#8217;\] \[ !children[[&#8216;male&#8217;\]] ]
+b) children\['name'\] \[ !children[['male'\]] ]
 
-c) children\[[&#8216;name&#8217;]\] \[ !children[&#8216;male&#8217;\] ]
+c) children\[['name']\] \[ !children['male'\] ]
 
-d) children\[[&#8216;name&#8217;]\] \[ !children[[&#8216;male&#8217;\]] ]
+d) children\[['name']\] \[ !children[['male'\]] ]

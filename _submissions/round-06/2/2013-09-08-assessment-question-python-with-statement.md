@@ -8,9 +8,9 @@ tags:
   - Assessment
 ---
 Entry level:  
-You want to read data from a file. What&#8217;s the recommended way to do it:
+You want to read data from a file. What's the recommended way to do it:
 
-A) Use the open(&#8230;) function  
+A) Use the open(...) function  
 B) Check if the file exists, then open it  
 C) Use the with statement  
 D) Open the file inside a try block and catch IO exceptions

@@ -32,10 +32,10 @@ What will be produced by the following statement:
 
 <pre>print check_pythagoros([9, 15, 15.0 , ]) ?</pre>
 
-a. Assertion raised &#8216;Must specify 3 values&#8217;  
-b. Assertion raised &#8216;Third parameter must be positive integer&#8217;  
+a. Assertion raised 'Must specify 3 values'  
+b. Assertion raised 'Third parameter must be positive integer'  
 c. False  
-d. Assertion raised &#8216;Parameters must be provided in increasing order&#8217;
+d. Assertion raised 'Parameters must be provided in increasing order'
 
 #2 The following code should print the set of prime numbers up to 100. However, due to a bug it only prints 2 and 3. Using ONLY assert statements, insert a number of assertions to find the source of the bug.
 

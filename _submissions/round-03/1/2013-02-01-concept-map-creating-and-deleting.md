@@ -39,4 +39,4 @@ tags:
 
 &nbsp;
 
-Thanks for reading &#8211; I look forward to your feedback!
+Thanks for reading --- I look forward to your feedback!

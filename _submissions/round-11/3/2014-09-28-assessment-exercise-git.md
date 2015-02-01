@@ -11,11 +11,11 @@ tags:
 
 a) git checkout sort.py
 
-b) git rm &#8211;cached sort.py
+b) git rm ---cached sort.py
 
 c) git revert sort.py
 
-d) git reset &#8211;soft HEAD~1
+d) git reset ---soft HEAD~1
 
 **2. Bring the following 4 Git commands in the correct order so that none of them produces an error:**
 

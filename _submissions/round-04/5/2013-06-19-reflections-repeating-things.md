@@ -12,13 +12,13 @@ tags:
 
 We (Daniel Falster and Rich FitzJohn) are co-teaching an R-based programming-skills course to ~20 PhD students and postdocs at Macquarie University. The class that this reflection is based on was a two-hour long session as part of that course, for which 17 students came. (Previously we had been doing 1 hour classes, but that had not felt like enough time, so this week was a bit of an experiment).
 
-The topic we covered was &#8220;repeating things&#8221;, where we were trying to give a tour through several of the basic ways of avoiding repetition by using R&#8217;s looping constructs. Many of our students currently repeat things through copy and paste, and all were keen to learn clearer and more efficient approaches. There are a large number of possible looping methods in R, and we wanted to give the students a flavour for the main ones, and some guidance as to which to use in different situations.
+The topic we covered was "repeating things", where we were trying to give a tour through several of the basic ways of avoiding repetition by using R's looping constructs. Many of our students currently repeat things through copy and paste, and all were keen to learn clearer and more efficient approaches. There are a large number of possible looping methods in R, and we wanted to give the students a flavour for the main ones, and some guidance as to which to use in different situations.
 
-For this class, we alternated between displaying a [webpage with the main content][1] (that the students also had access to) and a copy of [Rstudio][2] for typing in code. We had told students that we would be encouraging everyone to code along in the class, though because of the time constraints, we didn&#8217;t have specific exercises.
+For this class, we alternated between displaying a [webpage with the main content][1] (that the students also had access to) and a copy of [Rstudio][2] for typing in code. We had told students that we would be encouraging everyone to code along in the class, though because of the time constraints, we didn't have specific exercises.
 
 Where we were covering broader concepts, we had the blog post projected and spoke around that. Because we were co-teaching, we alternated speaking here, which helped keep the energy levels up.
 
-For about half of the time (perhaps more) we were writing code and discussing it as we wrote it. For this class, Rich wrote code while Daniel discussed what was being written. At the same time, we had students follow along so that they hit errors, and as they found surprising results we&#8217;d replicate them on the projected screen so that everyone could see.
+For about half of the time (perhaps more) we were writing code and discussing it as we wrote it. For this class, Rich wrote code while Daniel discussed what was being written. At the same time, we had students follow along so that they hit errors, and as they found surprising results we'd replicate them on the projected screen so that everyone could see.
 
 We tried to get the students to question what was going on as much as possible to try and get them to develop an intuitive understanding of the different approaches.
 
@@ -26,14 +26,14 @@ We tried to get the students to question what was going on as much as possible t
 
 ### Initial thoughts {#initial-thoughts}
 
-We debriefed immediately after the lesson, and before we had received any of the survey responses. Here are some of our initial thoughts, followed by the feedback from the students, and then a more general assessment of what worked and what didn&#8217;t.
+We debriefed immediately after the lesson, and before we had received any of the survey responses. Here are some of our initial thoughts, followed by the feedback from the students, and then a more general assessment of what worked and what didn't.
 
 *   Overall we felt the lesson well very well, especially given that we felt a bit unprepared going into the lesson. We knew we had a good topic and content, but did not have much time to revise before the lesson, because we left it a bit late to post our material online, and then encountered some technical hitches (turns out that while Octopress/Jekyll is a really neat blogging framework/static website generator, it is fragile and *really* hard to debug when you break something).
 *   The choice to shift to a two hour format felt good. Compared to the previous lesson:
 *   We got lots more questions
 *   The participants were actually writing code
 *   Because people worked through code, they got through hurdles then, rather than being off-put later.
-*   It didn&#8217;t feel as rushed
+*   It didn't feel as rushed
 *   The lesson was also student driven, which ensured we targeted their needs
 *   good questions
 *   we able to adapt lesson plan on the fly, i.e. not too scripted
@@ -55,12 +55,12 @@ not so good, 0 neutral, 0 good, 1 very good, 9 excellent, 3
 
 #### 2. Please identify something you liked about this lesson {#please-identify-something-you-liked-about-this-lesson}
 
-*   Covering an area that very few other programming course cover &#8211; i.e concepts of nice code rather than just the generic how to code.
+*   Covering an area that very few other programming course cover --- i.e concepts of nice code rather than just the generic how to code.
 *   Building scripts as the class progressed. Providing nice examples on how to make clean and concise code.
 *   First time I see R approached in term of quality of script for sake of clarity and robustness
-*   I liked the way concepts are continually reinforced. I actually think that today&#8217;s session on the apply family was excellent. Rather than just going through a single example, multiple problems were tackled which used the same sets of functions. This &#8220;reinforcement&#8221; helps more thoroughly understand how a function is working given that the same functions are applied to different problems
+*   I liked the way concepts are continually reinforced. I actually think that today's session on the apply family was excellent. Rather than just going through a single example, multiple problems were tackled which used the same sets of functions. This "reinforcement" helps more thoroughly understand how a function is working given that the same functions are applied to different problems
 *   This lessons are quite useful, Daniel and Rich gave the classes based on what people need, what they want to learn, what are necessary knowledge during data analysis.
-*   Having the blog to have a record of everything was essential for me. I&#8217;d try to follow what we were doing in the course but would often miss one thing that would throw me off but being able to look back at the blog ensured that I&#8217;d get it.
+*   Having the blog to have a record of everything was essential for me. I'd try to follow what we were doing in the course but would often miss one thing that would throw me off but being able to look back at the blog ensured that I'd get it.
 *   Hands on coding
 *   examples, comparison
 *   I liked how we went from the longest way to the shortest way to make a loop.
@@ -69,20 +69,20 @@ not so good, 0 neutral, 0 good, 1 very good, 9 excellent, 3
 *   Working through examples
 *   hands on help
 
-#### 3. Please identify something you didn&#8217;t like about this lesson {#please-identify-something-you-didnt-like-about-this-lesson}
+#### 3. Please identify something you didn't like about this lesson {#please-identify-something-you-didnt-like-about-this-lesson}
 
-*   Not enough classes &#8211; could do with 20 hours, not 10. Too useful for such a short course
+*   Not enough classes --- could do with 20 hours, not 10. Too useful for such a short course
 *   Nothing, it was great.
 *   I would prefer one full day course than short 1-2hr course.
 *   Little fast at times
 *   Class time is so short
-*   Sometimes the speed was too fast for me. I think I&#8217;m on the newer end of the spectrum of those in the course so it took a bit of time for me to really make sure that I comprehended what was actually happening.
+*   Sometimes the speed was too fast for me. I think I'm on the newer end of the spectrum of those in the course so it took a bit of time for me to really make sure that I comprehended what was actually happening.
 *   Jumped around a bit, need stronger direction throughout lesson, you change between going to slow and racing through bits
 *   Nothing currently
 *   That we had to rush at the end. Understandable but it would be good to have more time to explore each function
 *   Sometimes a bit too fast
 *   No biscuits
-*   Really fast in some parts &#8211; hard to keep up
+*   Really fast in some parts --- hard to keep up
 *   Sometimes we go off track but this is not so bad because we learn tips and tricks
 
 #### 4. Do you have any other general feedback about the module? (e.g. do you like or use the blog, feedback about presentation styles, complexity of material etc.) {#do-you-have-any-other-general-feedback-about-the-module-e.g.-do-you-like-or-use-the-blog-feedback-about-presentation-styles-complexity-of-material-etc.}
@@ -93,10 +93,10 @@ not so good, 0 neutral, 0 good, 1 very good, 9 excellent, 3
 *   No
 *   You guys are very engaging which helps a ton. Asking questions back to the group helps keep the whole group involved.
 *   Blog is great, good with one of you typing code while the other is explaining what is being typed
-*   It&#8217;s very helpful and effective
+*   It's very helpful and effective
 *   The blog is a really good idea, because it is possible to concentrate on the class, rather than on typing.
 *   Overall very useful and the blog is good to go back to in case you get lost!
-*   Very relevant &#8211; works really well when going through examples, however when working really fast is hard to know what is relevant
+*   Very relevant --- works really well when going through examples, however when working really fast is hard to know what is relevant
 *   Love the blog and putting the material online.
 
 ### What worked {#what-worked}
@@ -105,7 +105,7 @@ Our assessment of what worked well was in good agreement with the feedback we re
 
 #### Focus on coding skills rather than specific statistical techniques {#focus-on-coding-skills-rather-than-specific-statistical-techniques}
 
-We were motivated by swc&#8217;s mission, to teach basic coding skills, and feel this is paying off for the students. None of our students have ever had any formal training in coding, and few (if any) have supervisors capable of giving adequate feedback on the quality of their code. Showing them how to use all the different techniques for repeating things was much appreciated.
+We were motivated by swc's mission, to teach basic coding skills, and feel this is paying off for the students. None of our students have ever had any formal training in coding, and few (if any) have supervisors capable of giving adequate feedback on the quality of their code. Showing them how to use all the different techniques for repeating things was much appreciated.
 
 #### Blog {#blog}
 
@@ -131,13 +131,13 @@ With a bit of experimentation, we have found a teaching style that seems to real
 We think this works for the following reasons:
 
 *   Gives two different perspectives on what is being achieved, and why it is useful.
-*   Reduces the duration of &#8216;dead&#8217; periods in the class, which can happen when someone has their head down writing code, because the commentator can fill in the gaps.
+*   Reduces the duration of 'dead' periods in the class, which can happen when someone has their head down writing code, because the commentator can fill in the gaps.
 
 #### Demonstrating elegance, by doing it the hard way first {#demonstrating-elegance-by-doing-it-the-hard-way-first}
 
-One thing that we tried was to build up to writing our own version of one of the more confusing looping constructs (`tapply`) by writing our own version out of pieces that the students already knew about, or were easy to teach. This idea was borrowed from [this chapter][4] of &#8220;Learn Yourself a Haskell&#8221;. Greg also used a similar technique in the swc bootcamp we attended.
+One thing that we tried was to build up to writing our own version of one of the more confusing looping constructs (`tapply`) by writing our own version out of pieces that the students already knew about, or were easy to teach. This idea was borrowed from [this chapter][4] of "Learn Yourself a Haskell". Greg also used a similar technique in the swc bootcamp we attended.
 
-### What didn&#8217;t work {#what-didnt-work}
+### What didn't work {#what-didnt-work}
 
 #### Pace was a little fast at times {#pace-was-a-little-fast-at-times}
 
@@ -163,9 +163,9 @@ A downside of letting the class wander with the students questions is that we ge
 
 ## Conclusion {#conclusion}
 
-We feel like we&#8217;re on to a good thing. The lesson went well and we&#8217;re taking the hurdles in our stride. It&#8217;s clear to us that we made a good choice in teaching biologist about coding, using the tool which is most prevalent in that research community (R), because they are screaming out for help and are very attentive. We&#8217;re both feeling more confident about our teaching skills and gradually identifying effective techniques for getting concepts across.
+We feel like we're on to a good thing. The lesson went well and we're taking the hurdles in our stride. It's clear to us that we made a good choice in teaching biologist about coding, using the tool which is most prevalent in that research community (R), because they are screaming out for help and are very attentive. We're both feeling more confident about our teaching skills and gradually identifying effective techniques for getting concepts across.
 
-At the same time, we feel that there are some basic concepts around abstraction that we&#8217;re not able to get across. We surveyed the students at the beginning of class to find out who&#8217;d been starting to write functions, and few people had (though this was partly because people hadn&#8217;t been writing much code on average). Getting across that good programming practice isn&#8217;t just like eating your vegetables and will actually make programming more enjoyable is something that we feel we&#8217;re not getting across well enough yet.
+At the same time, we feel that there are some basic concepts around abstraction that we're not able to get across. We surveyed the students at the beginning of class to find out who'd been starting to write functions, and few people had (though this was partly because people hadn't been writing much code on average). Getting across that good programming practice isn't just like eating your vegetables and will actually make programming more enjoyable is something that we feel we're not getting across well enough yet.
 
  [1]: http://nicercode.github.io/guides/repeating-things
  [2]: http://rstudio.com

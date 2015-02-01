@@ -27,32 +27,32 @@ The first step is to open your file in python
 
 <pre>reader=open("tomato.txt",'r')</pre>
 
-The &#8216;r&#8217; in the open command tells it to read the file, i.e. that it already exists.
+The 'r' in the open command tells it to read the file, i.e. that it already exists.
 
 take a look:
 
 `reader`
 
-There&#8217;s a file, but that&#8217;s not your data.  
-In python, unlike word processing programs like MSWord, opening your file makes it accessible, but doesn&#8217;t read it in. To do that that you need to use readlines().
+There's a file, but that's not your data.  
+In python, unlike word processing programs like MSWord, opening your file makes it accessible, but doesn't read it in. To do that that you need to use readlines().
 
 `tomatoes=reader.readlines()`
 
 tomatoes
 
-Looks good, but we don&#8217;t need the &#8216;n&#8217; newline character. Using .strip removes the newline
+Looks good, but we don't need the 'n' newline character. Using .strip removes the newline
 
 `for line in tomatoes:<br />
 print line.strip()`
 
-However, our data isn&#8217;t functionally just long strings. We want to break it up into it  
+However, our data isn't functionally just long strings. We want to break it up into it  
 its component parts, the name and the number. Conveniently, python has a function to split up lines of text and make them into lists
 
 `for line in tomatoes:<br />
 print line.strip().split()`
 
 This goes through each line, strips on the newline, and splits it.  
-In this case python guesses, correctly, that your delimiter between distinct pieces of information is a space. However, you can give split any delimiter you like (e.g. line.split(&#8216;,&#8217;)
+In this case python guesses, correctly, that your delimiter between distinct pieces of information is a space. However, you can give split any delimiter you like (e.g. line.split(',')
 
 to pull out the #, you can read the second element of that list:
 
@@ -65,7 +65,7 @@ tomatoes cost $1.50, so you can multiply the number of tomatoes by that to get t
 print line.split()<br />
 print line.split()[1]*1.50`
 
-Whoops! Readlines reads in all of our data as a string, and although we broke up the string into chunks, it is still being treated as text, so we can&#8217;t multiply. By casting our number of tomatoes per plant as an integer we can perform mathematical operations on it.
+Whoops! Readlines reads in all of our data as a string, and although we broke up the string into chunks, it is still being treated as text, so we can't multiply. By casting our number of tomatoes per plant as an integer we can perform mathematical operations on it.
 
 `for line in tomatoes:<br />
 print line.split()<br />
@@ -80,7 +80,7 @@ tomcash.append([line.split()[0],int(line.split()[1])*1.50])`
 tomcash
 
 OK! So now we can print the $ earned by each plant. Lets write it out to a file.  
-First we need to open our output file, using the same open command seen above, but this time we need to write, so we will use a &#8216;w&#8217;.
+First we need to open our output file, using the same open command seen above, but this time we need to write, so we will use a 'w'.
 
 `output=open('tomcash.txt','w')<br />
 `
@@ -89,7 +89,7 @@ Be careful, when you tell python to write to a file it will create that file, ev
 
 In order to write to a file we need to reverse the process we just went through of splitting up our data and removing the newline characters.
 
-We can explicitly write out all the components we want in our output file using output.write, and join them together using plus signs. Don&#8217;t forget the newline, or it will end up all smushed together.
+We can explicitly write out all the components we want in our output file using output.write, and join them together using plus signs. Don't forget the newline, or it will end up all smushed together.
 
 `for line in tomcash:<br />
 output.write(line[0]+' $'+line[1]+'n')<br />
@@ -113,10 +113,10 @@ An understanding of loops
 Familiarity with data types in Python
 
 Boundary cases:  
-My boundary cases was that of strings vs integers, and is nested within my example. I wanted to emphasize the differences between data types when reading in and writing files, and how you need to get from reading in as strings to manipulable data components. Also I thought it was important to differentiate between the meaning of &#8220;open&#8221; in python vs what students may be used to i.e. Word.
+My boundary cases was that of strings vs integers, and is nested within my example. I wanted to emphasize the differences between data types when reading in and writing files, and how you need to get from reading in as strings to manipulable data components. Also I thought it was important to differentiate between the meaning of "open" in python vs what students may be used to i.e. Word.
 
 Notes:  
-I went very general in my concept map &#8211;  I did not specific commands.  
+I went very general in my concept map ---  I did not specific commands.  
 I found it hard to capture in a short example much of the intricacy of I/O but re-reading parts of the chapter cause me to add in several more explicit parallels between reading and writing that I think made the whole operation much more logic driven.  
 I spent about an hour reading and two and a half hours on the concept map and example. But then I had to shut down my laptop, for the plane to land and am quickly posting as is. Hope I caught my typos!
 

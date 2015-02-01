@@ -7,15 +7,15 @@ permalink: /2013/04/assessment-questions-conditional-statements/
 tags:
   - Proficiency
 ---
-My questions are based on the concept map [about conditional statements in python][1]. Because the original is written in Python, I&#8217;ve kept that here, but I think that these questions would apply equally to R.
+My questions are based on the concept map [about conditional statements in python][1]. Because the original is written in Python, I've kept that here, but I think that these questions would apply equally to R.
 
 **Novice-vs-competent-practitioner questions:**
 
-Aiming for a yes/no or objective answer correctly from an competent practitioner, with an incorrect answer or a don&#8217;t know from a novice.
+Aiming for a yes/no or objective answer correctly from an competent practitioner, with an incorrect answer or a don't know from a novice.
 
 **N1:**
 
-> Why won&#8217;t this run:
+> Why won't this run:
 > 
 > <pre>if 1 > 2:
 print "greater than"
@@ -37,9 +37,9 @@ else:
 > 
 > what will be printed? What if the statement was `False and x`? 
 
-This one is a bit mean. I would expect a novice to not know and ask what &#8220;x&#8221; was, while an competent practitioner would correctly answer &#8220;a&#8221; and &#8220;b&#8221;. (For an R version, the conditionals become `TRUE || x` and `FALSE &#038;&#038; x`). I think that there is a chance that some competent practitioners might stumble on this question though.
+This one is a bit mean. I would expect a novice to not know and ask what "x" was, while an competent practitioner would correctly answer "a" and "b". (For an R version, the conditionals become `TRUE || x` and `FALSE &#038;&#038; x`). I think that there is a chance that some competent practitioners might stumble on this question though.
 
-*Edit for clarity: By &#8220;correctly answer &#8216;a&#8217; and &#8216;b'&#8221;, I mean &#8220;a given the condition True or x&#8221; and &#8220;b given the condition False and x&#8221;.*
+*Edit for clarity: By "correctly answer 'a' and 'b'", I mean "a given the condition True or x" and "b given the condition False and x".*
 
 **Competent-practitioner-vs-expert questions:**
 
@@ -55,7 +55,7 @@ else:
   expr2
 </pre>
 
-Perhaps cheating because more of a floating point question. If `x` is `nan`, then `x == x` is `False` in Python, so the second expression would be run. But I think that an competent practitioner would answer &#8220;no&#8221;, while an expert user would start by thinking about issues around when they ran into issues with comparing numbers with `==`, even if they didn&#8217;t pick the exact situation (`nan`s seem hard to come by in base Python, but are perhaps more common in NumPy/SciPy?).
+Perhaps cheating because more of a floating point question. If `x` is `nan`, then `x == x` is `False` in Python, so the second expression would be run. But I think that an competent practitioner would answer "no", while an expert user would start by thinking about issues around when they ran into issues with comparing numbers with `==`, even if they didn't pick the exact situation (`nan`s seem hard to come by in base Python, but are perhaps more common in NumPy/SciPy?).
 
 In an R context, I would rephrase to ask when this would *fail* (as `NaN == NaN` is `NA`, which causes an error).
 
@@ -90,6 +90,6 @@ I think the competent practitioner would be inclined to see these as equivalent,
 
 **Other notes**
 
-I found it hard when writing this not to feel like I was writing &#8220;trick&#8221; questions. I also found myself thinking more of questions that *involved* conditionals more than *focussed* on them.
+I found it hard when writing this not to feel like I was writing "trick" questions. I also found myself thinking more of questions that *involved* conditionals more than *focussed* on them.
 
  [1]: http://teaching.software-carpentry.org/2013/03/28/concept-map-conditional-statements-python/ "Conditional statements in python"

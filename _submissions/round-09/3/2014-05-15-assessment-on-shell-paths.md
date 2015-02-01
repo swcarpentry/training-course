@@ -7,7 +7,7 @@ permalink: /2014/05/assessment-on-shell-paths/
 tags:
   - Assessment
 ---
-These questions are based on Devasena&#8217;s [map on shell paths][1].
+These questions are based on Devasena's [map on shell paths][1].
 
 **Question 1**
 
@@ -28,9 +28,9 @@ You have a directory tree that looks like this:
 │           └── 1  
 └── 4
 
-The directory that you&#8217;re currently in is marked with an asterisk.
+The directory that you're currently in is marked with an asterisk.
 
-You want to create several new files, called &#8220;test1.txt&#8221;, &#8220;test2.txt&#8221;, and &#8220;test3.txt&#8221;, using the `touch` command, which works like this: `touch filename1.txt filename2.txt`. The files should be in the following locations in the tree:
+You want to create several new files, called "test1.txt", "test2.txt", and "test3.txt", using the `touch` command, which works like this: `touch filename1.txt filename2.txt`. The files should be in the following locations in the tree:
 
 /  
 ├── 1  
@@ -60,6 +60,6 @@ You want to create several new files, called &#8220;test1.txt&#8221;, &#8220;tes
 
 **Question 2**
 
-The `pwd` (&#8220;present working directory&#8221;) command tells you your current location in the directory tree. Find and navigate to your user account&#8217;s Desktop folder with `cd` using two different routes. Then run `pwd` and show the output.
+The `pwd` ("present working directory") command tells you your current location in the directory tree. Find and navigate to your user account's Desktop folder with `cd` using two different routes. Then run `pwd` and show the output.
 
  [1]: http://teaching.software-carpentry.org/2014/05/06/concept-map-shell-paths "Shell Paths Concept Map"

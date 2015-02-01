@@ -74,7 +74,7 @@ tags:
 </div>
 
 <div>
-  3. Which are available in bash but not base &#8216;sh&#8217; shell (choose all that apply):
+  3. Which are available in bash but not base 'sh' shell (choose all that apply):
 </div>
 
 <div>

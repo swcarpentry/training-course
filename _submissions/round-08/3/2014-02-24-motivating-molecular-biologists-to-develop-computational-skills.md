@@ -29,7 +29,7 @@ Many participants had trouble seeing the usefulness of version control before un
 
 ### Automated testing:
 
-After going through the exercises above I will try to motivate the usefulness of automated testing by evaluating and repairing the same erroneous code using a different approach &#8212; writing tests and running them to evaluate the code.  Hopefully, they will see that this approach is a huge time saver.  After writing tests for their own code I would introduce new programming approaches by refactoring their solutions and proving that they still provide the same answers by running the tests they wrote.  In addition I would tell a real-world story about the pitfalls of trusting third-party scientific code that did not contain tests, but did contain bugs.  This story highlights that automated testing saves time.
+After going through the exercises above I will try to motivate the usefulness of automated testing by evaluating and repairing the same erroneous code using a different approach --- writing tests and running them to evaluate the code.  Hopefully, they will see that this approach is a huge time saver.  After writing tests for their own code I would introduce new programming approaches by refactoring their solutions and proving that they still provide the same answers by running the tests they wrote.  In addition I would tell a real-world story about the pitfalls of trusting third-party scientific code that did not contain tests, but did contain bugs.  This story highlights that automated testing saves time.
 
 ## 
 

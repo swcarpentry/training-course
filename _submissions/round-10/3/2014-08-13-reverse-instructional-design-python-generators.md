@@ -1,7 +1,7 @@
 ---
 date: 2014-08-13
 round: Round 10
-title: 'Reverse Instructional Design &#8211; Python Generators'
+title: 'Reverse Instructional Design --- Python Generators'
 author: Francisco Palm
 permalink: /2014/08/reverse-instructional-design-python-generators/
 tags:
@@ -11,11 +11,11 @@ tags:
   - Python
   - reverse instructional design
 ---
-Sometimes you want functions that &#8220;save&#8221; its current state.
+Sometimes you want functions that "save" its current state.
 
 It is specially useful for implementing sequences like the famous[ Fibonacci Sequence][1].
 
-In the Fibonacci sequence the next number is the sum of the two numbers before it. It starts with 0 and `1`. i.e. 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, &#8230;
+In the Fibonacci sequence the next number is the sum of the two numbers before it. It starts with 0 and `1`. i.e. 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 
 For example, consider this generator:
 
@@ -25,7 +25,7 @@ For example, consider this generator:
     print('bye')
     yield("last word")</pre>
 
-Note, that&#8217;s only a typical `def` function definition which uses `yield` instead of  `return`. Then you get:
+Note, that's only a typical `def` function definition which uses `yield` instead of  `return`. Then you get:
 
 <pre>&gt;&gt;&gt; i = spam()
 &gt;&gt;&gt; i.next()

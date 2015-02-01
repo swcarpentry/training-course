@@ -17,7 +17,7 @@ Novice from Competent
 becomes:  
 [0.0, 0.0, 0.0, 0.5, 1.0, 1.5, 1.5, 2.0, 5.5]
 
-2) Write a function that takes numbers in the range 0.0 &#8211; 2.0 and puts them in the range -100 to 100.
+2) Write a function that takes numbers in the range 0.0 --- 2.0 and puts them in the range -100 to 100.
 
 Expert
 

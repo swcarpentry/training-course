@@ -7,7 +7,7 @@ permalink: /2014/10/demotivation-remediation-for-all/
 tags:
   - Motivation
 ---
-I found it quite challenging to think of an appropriate story for this post. I&#8217;ve been incredibly lucky to have wonderful, supportive teachers at almost every turn. I&#8217;m sure I&#8217;ve had demotivating educational experiences, but there aren&#8217;t any that have really stuck with me.
+I found it quite challenging to think of an appropriate story for this post. I've been incredibly lucky to have wonderful, supportive teachers at almost every turn. I'm sure I've had demotivating educational experiences, but there aren't any that have really stuck with me.
 
 One situation that I do recall was in math class the first year of middle school. The teacher was disgusted by the average level of competence, and so I remember spending weeks and weeks going over times tables instead of the algebra that we were supposed to be covering.
 

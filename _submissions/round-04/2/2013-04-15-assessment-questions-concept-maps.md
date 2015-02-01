@@ -14,7 +14,7 @@ Based on http://teaching.software-carpentry.org/2013/04/01/concept-map-concept-m
 1.  <span style="line-height: 16px;">What is a concept map and what do you use it for?</span>
 2.  What do arrows and arrow labels indicate?
 3.  What is the difference between a mind map and a concept map?
-4.  Consider the question: &#8220;How does e-mail get from my laptop in the coffee shop to its final destination?&#8221;.  Draw a concept map to outline the answer you would give a teenager.
+4.  Consider the question: "How does e-mail get from my laptop in the coffee shop to its final destination?".  Draw a concept map to outline the answer you would give a teenager.
 
 **Competent practitioner vs expert:**
 

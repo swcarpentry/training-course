@@ -7,7 +7,7 @@ permalink: /2014/05/francisco-palm/
 tags:
   - Biography
 ---
-Hi everybody, I teach (and learn) operations research and simulation at the University of The Andes, Mérida, Venezuela. I&#8217;ve been Python activist for 10 years, and Venezuela Python community founder. I have a Masters Degree in Applied Mathematics for Engineering and a Advanced Studies Diploma in Cartography, GIS and Remote Sensing.
+Hi everybody, I teach (and learn) operations research and simulation at the University of The Andes, Mérida, Venezuela. I've been Python activist for 10 years, and Venezuela Python community founder. I have a Masters Degree in Applied Mathematics for Engineering and a Advanced Studies Diploma in Cartography, GIS and Remote Sensing.
 
 I have taught python programming to children between 8 and 9 years old and Phds in physics. I have also offered R in my classes of stochastic processes.
 

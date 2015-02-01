@@ -9,7 +9,7 @@ tags:
   - R
   - round-09-2
 ---
-The following assessment questions are based upon [Ahmadou Dicko&#8217;s concept map ][1]of Data Structures in R (assuming edits made suggested in the comments).
+The following assessment questions are based upon [Ahmadou Dicko's concept map ][1]of Data Structures in R (assuming edits made suggested in the comments).
 
 **Question 1:** Which of the following data structures must have the same atomic data type
 

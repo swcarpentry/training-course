@@ -28,7 +28,7 @@ d) `print([if x % 2 then x ** 2 for x in range(10)])`
 **Question 2** Experts  
 This code sample:  
 `sum(x for x in range(1,1000) if x % 5 == 0 or x % 3 == 0)`  
-could be expressed using &#8220;functional&#8221; python by using:
+could be expressed using "functional" python by using:
 
 Answers (select all that apply):  
 a) map() and filter():

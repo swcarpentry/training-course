@@ -1,10 +1,10 @@
 ---
-title: 'Updates to the Instructor&#8217;s Guide'
+title: 'Updates to the Instructor's Guide'
 author: Greg Wilson
 permalink: /2012/11/updates-to-the-instructors-guide/
 categories:
   - Content
 ---
-I have updated the [instructor&#8217;s guide][1] (though I&#8217;m still wondering if the possessive should be pluralized, i.e., &#8220;instructors'&#8221; instead of &#8220;instructor&#8217;s&#8221;). Comments would be greatly appreciated.
+I have updated the [instructor's guide][1] (though I'm still wondering if the possessive should be pluralized, i.e., "instructors'" instead of "instructor's"). Comments would be greatly appreciated.
 
  [1]: /instructors-guide/

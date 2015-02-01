@@ -7,7 +7,7 @@ permalink: /2014/02/an-introduction-to-web-apis/
 tags:
   - Assessment
 ---
-I’m embarrassed I put this off so long. I must have sat down to do it half a dozen times. I think this means I found it hard. I think I felt like I suddenly didn’t know anything well enough to write tests, but it was easier once I got started. In fact, I think I may have got carried away&#8230;
+I’m embarrassed I put this off so long. I must have sat down to do it half a dozen times. I think this means I found it hard. I think I felt like I suddenly didn’t know anything well enough to write tests, but it was easier once I got started. In fact, I think I may have got carried away...
 
 *1. A question to discriminate beginners from competent practitioners.  
 ***Which of the following most accurately describes a server-side web API?**

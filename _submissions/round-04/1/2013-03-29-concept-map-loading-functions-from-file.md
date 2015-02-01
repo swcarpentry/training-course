@@ -8,6 +8,6 @@ tags:
   - Concept Map
 ---
 <figure id="attachment_1989" style="width: 300px;" class="wp-caption alignnone">[<img class="size-medium wp-image-1989" alt="Concept map: loading functions from a file" src="http://files.software-carpentry.org/training-course/2013/03/swc-300x193.jpg" width="300" height="193" />][1]<figcaption class="wp-caption-text">Concept map: loading functions from a file</figcaption></figure> 
-I hope this is legible (and can transcribe bits if not).  Travelling out of the country at present&#8230;
+I hope this is legible (and can transcribe bits if not).  Travelling out of the country at present...
 
  [1]: http://files.software-carpentry.org/training-course/2013/03/swc.jpg

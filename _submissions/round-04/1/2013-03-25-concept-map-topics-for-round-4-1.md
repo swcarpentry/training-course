@@ -6,7 +6,7 @@ author: Greg Wilson
 permalink: /2013/03/concept-map-topics-for-round-4-1/
 tags:
 ---
-These are what I&#8217;ve recorded so far: please let me know if any are missing (or choose one if you haven&#8217;t done so already).
+These are what I've recorded so far: please let me know if any are missing (or choose one if you haven't done so already).
 
 Missing:
 
@@ -87,7 +87,7 @@ Missing:
     </td>
     
     <td>
-      The &#8216;find&#8217; utility in Linux
+      The 'find' utility in Linux
     </td>
   </tr>
   

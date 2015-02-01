@@ -41,7 +41,7 @@ tags:
 
 ****I gave my presentation to April Wright and Emily McTavish, both Software Carpentry Instructors. Overall, they said that the presentation went smoothly and they liked it, but they had some helpful advice to polish it up.
 
-*   don&#8217;t use &#8220;data&#8221; as a variable in an example&#8211;although it&#8217;s not a reserved case in R, it is in other languages
+*   don't use "data" as a variable in an example---although it's not a reserved case in R, it is in other languages
 *   emphasis getwd() to check for current working directory, as this is a common problem with beginning students: emphasis that they should check where they are and demonstrate that the working directory is changed after I change it
 *   explain in more detail why spaces are problematic with how R reads in files
 *   explain in more detail why experimental units need to be in their own row (in terms of how R reads in data)

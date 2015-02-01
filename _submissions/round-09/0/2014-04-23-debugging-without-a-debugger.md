@@ -9,14 +9,14 @@ tags:
 ---
 Hi all,
 
-Here&#8217;s a chart that I drew which tries to explain the fundamental idea of debugging.  It excludes complex tools found in professional debuggers like stacks traces, register/variable dumps, breakpoints, etc&#8230;<figure id="attachment_6709" style="width: 707px;" class="wp-caption aligncenter">
+Here's a chart that I drew which tries to explain the fundamental idea of debugging.  It excludes complex tools found in professional debuggers like stacks traces, register/variable dumps, breakpoints, etc...<figure id="attachment_6709" style="width: 707px;" class="wp-caption aligncenter">
 
 [<img class="size-large wp-image-6709" alt="Debugging without a debugger, a concept chart." src="http://files.software-carpentry.org/training-course/2014/04/swc_chart-945x1024.jpg" width="707" height="766" />][1]<figcaption class="wp-caption-text">Debugging without a debugger, a concept chart.</figcaption></figure> 
 &nbsp;
 
 Edit:
 
-So I couldn&#8217;t resist and I went ahead and simplified the diagram.  I think the following conveys the same message and is still concise:
+So I couldn't resist and I went ahead and simplified the diagram.  I think the following conveys the same message and is still concise:
 
 &nbsp;<figure id="attachment_6715" style="width: 707px;" class="wp-caption aligncenter">
 

@@ -20,9 +20,9 @@ f) b and d
 
 Expert question
 
-You&#8217;re working on a project at a new employer, you&#8217;re seeing a problem where your group by sums from your GIS census data aren&#8217;t rolling up correctly in a query written by the previous employee. Some counties are reporting multiple times when you run your query. 
+You're working on a project at a new employer, you're seeing a problem where your group by sums from your GIS census data aren't rolling up correctly in a query written by the previous employee. Some counties are reporting multiple times when you run your query. 
 
-The query you&#8217;ve inherited is: 
+The query you've inherited is: 
 
 <pre>select county_fips, sum(population), sum(college_grads) from census_data group by tractid, county_fips;</pre>
 

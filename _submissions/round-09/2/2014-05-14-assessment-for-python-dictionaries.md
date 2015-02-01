@@ -12,7 +12,7 @@ tags:
   - dictionary
   - Python
 ---
-This is an assessment based on Jeremiah Lant&#8217;s [Concept map for Python dictionaries][1].
+This is an assessment based on Jeremiah Lant's [Concept map for Python dictionaries][1].
 
 1.  Suppose a dictionary `fruit` was created as follows:  
     `<br />

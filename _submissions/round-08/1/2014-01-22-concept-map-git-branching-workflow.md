@@ -10,7 +10,7 @@ tags:
 I preferred to use a software tool, instead of paper, it took no time.  
 The target are people that have already a basic understanding of git and want to learn how to use branches to implement a new feature.
 
-<!--more-->Something went quite wrong&#8230;the concept map doesn&#8217;t have many interconnections, I probably chose a topic which is linear, not particularly suitable for a representation as a concept map&#8230;
+<!--more-->Something went quite wrong...the concept map doesn't have many interconnections, I probably chose a topic which is linear, not particularly suitable for a representation as a concept map...
 
 [<img class="alignnone  wp-image-5559" alt="git-feature-branch-workflow_2y3ui8xr" src="http://files.software-carpentry.org/training-course/2014/01/git-feature-branch-workflow_2y3ui8xr.jpg" width="743" height="359" />][1]
 

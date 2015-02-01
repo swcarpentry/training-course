@@ -1,12 +1,12 @@
 ---
 date: 2013-07-30
 round: Round 5
-title: 'Live real-time vs recorded &#8211; a way to measure effectiveness?'
+title: 'Live real-time vs recorded --- a way to measure effectiveness?'
 author: David Perez-Suarez
 permalink: /2013/07/live-real-time-vs-recorded-a-way-to-measure-effectiveness/
 tags:
 ---
-*Sincerely I don&#8217;t think there&#8217;s much difference in effectiveness between both techniques.  One thing is clear, in the live class you feel more special and you may be more focussed in what the other person is teaching at you.  On a recorded video you can get distracted by something else and then rewind (can we still use this word when talking about youtube?) and play it again.*
+*Sincerely I don't think there's much difference in effectiveness between both techniques.  One thing is clear, in the live class you feel more special and you may be more focussed in what the other person is teaching at you.  On a recorded video you can get distracted by something else and then rewind (can we still use this word when talking about youtube?) and play it again.*
 
 How to mesure a difference in learning? This is highly dependant on what you want to achieve. Someone who is able to repeat a task or someone who besides repeating the task is able to overcome problems.  Probably we prefer the later.
 

@@ -15,7 +15,7 @@ A Concept map for teaching the basics of \`data.tables\` to a novice in R. What 
 2.  How to access a column.
 3.  How to extract rows.
 
-The rest of the bubbles are related concepts not necessarily on the critical path for the lesson, but discussion may diverge depending on the learner&#8217;s prior knowledge (especially if they&#8217;ve had some exposure to R, and know what a \`data.frame\` is).
+The rest of the bubbles are related concepts not necessarily on the critical path for the lesson, but discussion may diverge depending on the learner's prior knowledge (especially if they've had some exposure to R, and know what a \`data.frame\` is).
 
 [<img class="alignnone size-medium wp-image-7722" alt="Something witty like Randall Munroe would write." src="http://files.software-carpentry.org/training-course/2014/06/Concept-map-300x266.jpeg" width="300" height="266" />][1]
 

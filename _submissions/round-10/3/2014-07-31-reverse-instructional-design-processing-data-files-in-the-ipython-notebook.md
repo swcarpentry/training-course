@@ -1,7 +1,7 @@
 ---
 date: 2014-07-31
 round: Round 10
-title: 'Reverse Instructional Design &#8211; Processing data files in the IPython Notebook'
+title: 'Reverse Instructional Design --- Processing data files in the IPython Notebook'
 author: Brian Forst
 permalink: /2014/07/reverse-instructional-design-processing-data-files-in-the-ipython-notebook/
 tags:
@@ -33,6 +33,6 @@ os.listdir('Class')`
 &nbsp;
 
 Q2  
-Using glob and pandas, for each CSV file in the &#8216;Class&#8217; directory, print out the filename, and the average and median of the &#8216;Score&#8217; column.
+Using glob and pandas, for each CSV file in the 'Class' directory, print out the filename, and the average and median of the 'Score' column.
 
  [1]: http://files.software-carpentry.org/training-course/2014/07/directory_structure.png

@@ -1,6 +1,6 @@
 ---
 date: 2014-09-28
-title: 'Assessment exercise: The Unix Shell &#8211; Files and Directories'
+title: 'Assessment exercise: The Unix Shell --- Files and Directories'
 author: Tiffany Timbers
 permalink: /2014/09/assessment-exercise-the-unix-shell-files-and-directories/
 round: Round 11

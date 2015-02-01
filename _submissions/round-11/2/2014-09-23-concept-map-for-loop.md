@@ -1,7 +1,7 @@
 ---
 date: 2014-09-23
 round: Round 11
-title: 'Concept Map &#8211; For Loop'
+title: 'Concept Map --- For Loop'
 author: Dureid El-Moghraby
 permalink: /2014/09/concept-map-for-loop/
 tags:

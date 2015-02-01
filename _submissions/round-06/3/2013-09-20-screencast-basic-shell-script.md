@@ -11,4 +11,4 @@ How to save + run a basic shell script.
 
 
 
-Among various spoken mistakes, I inadvertently recorded not-so-great quality, but I don&#8217;t want to go back and re-do, so hopefully the zooming in makes the text sufficiently readable. <img src="http://localhost:8080/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+Among various spoken mistakes, I inadvertently recorded not-so-great quality, but I don't want to go back and re-do, so hopefully the zooming in makes the text sufficiently readable. <img src="http://localhost:8080/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />

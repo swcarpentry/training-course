@@ -22,7 +22,7 @@ What are the final values respectively of `list2` and `string2`?
 2.  `[1, 2, 3, 4]` and `"abc"`
 3.  `[1, 2]` and `"abcdef"`
 4.  `[1, 2, 3, 4]` and `"abcdef"`
-5.  I don&#8217;t know.
+5.  I don't know.
 
 **Question B (competent vs. expert):** Consider the following Python interpreter session:
 

@@ -9,10 +9,10 @@ tags:
 ---
 I based my questions on what I find most important in my work. I think this can generalize to most science. I would love to know the expert answer to these.
 
-1. How do I document what I&#8217;ve done so that my work is repeatable by someone else?
+1. How do I document what I've done so that my work is repeatable by someone else?
 
 <p style="padding-left: 30px;">
-  <strong>Novice:</strong> Don&#8217;t
+  <strong>Novice:</strong> Don't
 </p>
 
 <p style="padding-left: 30px;">
@@ -20,13 +20,13 @@ I based my questions on what I find most important in my work. I think this can 
 </p>
 
 <p style="padding-left: 30px;">
-  <strong>Expert: </strong>All of the above. Write a readme file. Keep examples of how to run the code. Version control the code and output as an example. <em>I haven&#8217;t ever used make files, but would this be an appropriate place for one?</em>
+  <strong>Expert: </strong>All of the above. Write a readme file. Keep examples of how to run the code. Version control the code and output as an example. <em>I haven't ever used make files, but would this be an appropriate place for one?</em>
 </p>
 
 2. How do I write programs which I can reuse? How do I organize my work so that I can reuse it?
 
 <p style="padding-left: 30px;">
-  <strong>Novice: </strong>Don&#8217;t write reusable programs.
+  <strong>Novice: </strong>Don't write reusable programs.
 </p>
 
 <p style="padding-left: 30px;">
@@ -40,7 +40,7 @@ I based my questions on what I find most important in my work. I think this can 
 3. How do I test my code in a time efficient manner (I know this is very context specific)?
 
 <p style="padding-left: 30px;">
-  <strong>Novice:</strong> Test everything once you&#8217;ve finished the whole program. Make sure you get the reasonable results on the analysis you wrote your program for.
+  <strong>Novice:</strong> Test everything once you've finished the whole program. Make sure you get the reasonable results on the analysis you wrote your program for.
 </p>
 
 <p style="padding-left: 30px;">
@@ -65,10 +65,10 @@ I based my questions on what I find most important in my work. I think this can 
   <strong>Expert:</strong> Use a version controlled repository
 </p>
 
-5. How do I track things I&#8217;ve tried that haven&#8217;t worked?
+5. How do I track things I've tried that haven't worked?
 
 <p style="padding-left: 30px;">
-  <strong>Novice:</strong> Don&#8217;t
+  <strong>Novice:</strong> Don't
 </p>
 
 <p style="padding-left: 30px;">

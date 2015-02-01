@@ -6,7 +6,7 @@ author: Kirsten Fagnan
 permalink: /2013/06/beginner-and-intermediate-questions-about-bears/
 tags:
 ---
-I decided to post some fun questions about bears&#8230; since the questions could be on any topic.  Note: I am not an expert on bears, but I do love pandas.
+I decided to post some fun questions about bears... since the questions could be on any topic.  Note: I am not an expert on bears, but I do love pandas.
 
 **Novice:**
 

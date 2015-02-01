@@ -27,7 +27,7 @@ d) #
 
 In the following line of perl, what ends up stored in $1?
 
-&#8220;testing the code&#8221; =~ m/c(w{2})/;
+"testing the code" =~ m/c(w{2})/;
 
 a) true  
 b) 1  

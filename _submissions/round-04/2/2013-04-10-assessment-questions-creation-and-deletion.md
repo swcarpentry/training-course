@@ -13,12 +13,12 @@ rm /Documents/projectA
 rm -r /Documents  
 rmdir /Documents/projectA/notes.txt
 
-**Basic 2)** What&#8217;s the difference between the following commands?
+**Basic 2)** What's the difference between the following commands?
 
 nano myfile.txt  
 touch myfile.txt
 
-**Advanced 1)** Assume you accidentally ran the following commands on your superior&#8217;s personal computer, but don&#8217;t know any passwords. Which one(s) will delete personal write-protected files?
+**Advanced 1)** Assume you accidentally ran the following commands on your superior's personal computer, but don't know any passwords. Which one(s) will delete personal write-protected files?
 
 A) rmdir /  
 B) sudo rmdir /  

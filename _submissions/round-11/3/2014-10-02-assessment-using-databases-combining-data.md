@@ -1,7 +1,7 @@
 ---
 date: 2014-10-02
 round: Round 11
-title: 'Assessment: Using Databases &#8211; Combining Data'
+title: 'Assessment: Using Databases --- Combining Data'
 author: Thomas Guignard
 permalink: /2014/10/assessment-using-databases-combining-data/
 tags:
@@ -35,9 +35,9 @@ Now, if from the same two tables we wanted to return the radiation (**rad** in t
 
 *   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">Survey.reading</span>
 *   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">Survey.person = Person.ident</span>
-*   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">Person.family LIKE &#8220;%e&#8221;</span>
+*   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">Person.family LIKE "%e"</span>
 *   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">Person</span>
-*   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">quant=&#8221;rad&#8221;;</span>
+*   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">quant="rad";</span>
 *   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">Survey</span>
 *   <span style="color: #222222; font-family: 'Courier 10 Pitch', Courier, monospace; font-size: 15px; line-height: 21px;">AND</span>
 

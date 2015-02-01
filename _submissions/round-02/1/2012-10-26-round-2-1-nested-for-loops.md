@@ -1,13 +1,13 @@
 ---
 date: 2012-10-26
 round: Round 2
-title: 'Round 2.1 &#8211; nested for loops'
+title: 'Round 2.1 --- nested for loops'
 author: Lex Nederbragt
 permalink: /2012/10/round-2-1-nested-for-loops/
 tags:
   - Concept Map
 ---
-I picked &#8216;nested for loops&#8217; as my topic (book/python.html#s:nestloop and <http://software-carpentry.org/2012/10/key-points/>). Thanks a lot Ross, for pointing to cmap, it is a great little program. Here is my first throw at a concept map.
+I picked 'nested for loops' as my topic (book/python.html#s:nestloop and <http://software-carpentry.org/2012/10/key-points/>). Thanks a lot Ross, for pointing to cmap, it is a great little program. Here is my first throw at a concept map.
 
 [<img class="alignnone size-large wp-image-773" title="lex - swcarpentry_2.1 - nested for loops" src="http://files.software-carpentry.org/training-course/2012/10/lex-swcarpentry_2.1-nested-for-loops-1024x477.jpg" alt="" width="707" height="329" />][1]
 
@@ -71,7 +71,7 @@ Solution:
 
 <pre>print i*j</pre>
 
-3) without running it, what will this code&#8217;s output be:
+3) without running it, what will this code's output be:
 
 <pre>dinuc = []
 for first_base in 'ACGT':
@@ -99,7 +99,7 @@ Solution: returns elements common between list1 and list2. Alternative: use sets
 
 &nbsp;
 
-Real world example: exercise 3, &#8211;> all permutations of dinucleotide (two-character) DNA sequences
+Real world example: exercise 3, ---> all permutations of dinucleotide (two-character) DNA sequences
 
 Explain how this concept relates to something a scientist might actually want to do:  
 relates to 15-17:. How can I analyze/manage/reformat data, and 19, how to find something in data.

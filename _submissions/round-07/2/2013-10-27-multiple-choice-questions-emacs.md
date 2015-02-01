@@ -7,7 +7,7 @@ permalink: /2013/10/multiple-choice-questions-emacs/
 tags:
   - Assessment
 ---
-Apologies to [David Worth][1]; I couldn&#8217;t resist making questions for Emacs.
+Apologies to [David Worth][1]; I couldn't resist making questions for Emacs.
 
 **Distinguishing novice and competent:**
 

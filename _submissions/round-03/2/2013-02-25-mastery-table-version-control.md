@@ -13,7 +13,7 @@ Has likely never heard the term used in the software context but used it in a ad
 
 Saves various copies of scripts in folders just in case things break and they have to revert to an older copy.
 
-A more advanced novice (one who really needs a VCS but doesn&#8217;t know of its existence and invents their own workflow) will likely save versions as zipped archives with dated file names.
+A more advanced novice (one who really needs a VCS but doesn't know of its existence and invents their own workflow) will likely save versions as zipped archives with dated file names.
 
 # What does a competent person know leaving the workshop
 
@@ -25,7 +25,7 @@ Knows how to browse through commit logs when handed a versioned repository and a
 
 # What does an expert know
 
-Can effortlessly navigate a versioned repository and fetch code from any commit or branch (assuming it&#8217;s a dvcs). This includes being able to fetch specific files from various branches into the current one, knowing how/when to rebase and also being aware of the implications.
+Can effortlessly navigate a versioned repository and fetch code from any commit or branch (assuming it's a dvcs). This includes being able to fetch specific files from various branches into the current one, knowing how/when to rebase and also being aware of the implications.
 
 Knows how to participate in a collaborative effort and participate via pull requests. This means that a user will know how to fork a repository, commit changes (either in the master branch or to a new branch if requested by the original authors), and then send a pull request back.
 

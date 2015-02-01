@@ -1,13 +1,13 @@
 ---
 date: 2014-05-07
 round: Round 9
-title: 'Concept Map &#8211; Setting up git'
+title: 'Concept Map --- Setting up git'
 author: Padraic Stack
 permalink: /2014/05/concept-map-setting-up-git/
 tags:
   - Concept Map
 ---
-This is supposed to show how you can set up git for an existing project. I wanted to show  that there is a linear &#8216;normal&#8217; workflow without git, and that using git allows you to make interventions in that workflow.
+This is supposed to show how you can set up git for an existing project. I wanted to show  that there is a linear 'normal' workflow without git, and that using git allows you to make interventions in that workflow.
 
 &nbsp;
 

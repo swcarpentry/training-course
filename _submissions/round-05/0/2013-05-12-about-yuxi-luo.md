@@ -8,7 +8,7 @@ tags:
   - Biography
 ---
 <div>
-  Currently, I&#8217;m a graduate student at <a title="LanZhou University" href="http://en.wikipedia.org/wiki/Lanzhou_University" target="_blank">LanZhou University</a>, <a title="my major" href="http://havef.github.io/" target="_blank">my major</a> is mainly related with machine learning,
+  Currently, I'm a graduate student at <a title="LanZhou University" href="http://en.wikipedia.org/wiki/Lanzhou_University" target="_blank">LanZhou University</a>, <a title="my major" href="http://havef.github.io/" target="_blank">my major</a> is mainly related with machine learning,
 </div>
 
 <div>

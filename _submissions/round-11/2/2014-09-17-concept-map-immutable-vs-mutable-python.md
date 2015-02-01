@@ -11,6 +11,6 @@ Although simple, I think that this concept map might be useful for non-programme
 
 <img class="alignnone size-large wp-image-8764" style="font-size: 12px; line-height: 18px;" alt="tupla-vs-list-python" src="http://files.software-carpentry.org/training-course/2014/09/foto-2-1024x939.jpg" width="707" height="648" />
 
-P.S.: I&#8217;ve got inspired by <a href="http://stackoverflow.com/questions/1708510/python-list-vs-tuple-when-to-use-each#comment22973344_1708610" target="_blank">this answer in SO</a>
+P.S.: I've got inspired by <a href="http://stackoverflow.com/questions/1708510/python-list-vs-tuple-when-to-use-each#comment22973344_1708610" target="_blank">this answer in SO</a>
 
 &nbsp;

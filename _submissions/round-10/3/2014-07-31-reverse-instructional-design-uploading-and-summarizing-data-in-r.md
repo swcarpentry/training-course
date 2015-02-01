@@ -23,8 +23,8 @@ d) none of the above
 
 &nbsp;
 
-2) The dataset *kittens* is currently located on your computer&#8217;s desktop.  You move this file to your documents.  How would you change the line of code below to reflect this move?  What other method can you use to access this data in a new location without changing the read.csv line?
+2) The dataset *kittens* is currently located on your computer's desktop.  You move this file to your documents.  How would you change the line of code below to reflect this move?  What other method can you use to access this data in a new location without changing the read.csv line?
 
-read.csv(&#8220;~Desktop/kittens.csv&#8221;)
+read.csv("~Desktop/kittens.csv")
 
 &nbsp;

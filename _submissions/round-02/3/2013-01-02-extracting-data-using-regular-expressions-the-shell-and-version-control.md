@@ -8,7 +8,7 @@ tags:
   - Connections
   - Teaching
 ---
-Research in my lab often requires acquiring and cleaning up other people&#8217;s data. One of the most difficult forms of data to work with is data stored in PDFs. On a recent project a graduate student was trying to extract a list of species names from a list in a PDF.
+Research in my lab often requires acquiring and cleaning up other people's data. One of the most difficult forms of data to work with is data stored in PDFs. On a recent project a graduate student was trying to extract a list of species names from a list in a PDF.
 
 The data looked like 15 pages of this:
 

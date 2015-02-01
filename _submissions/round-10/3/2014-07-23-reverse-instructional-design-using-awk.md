@@ -1,7 +1,7 @@
 ---
 date: 2014-07-23
 round: Round 10
-title: 'Reverse Instructional Design &#8212; Data extraction and manipulation with awk'
+title: 'Reverse Instructional Design --- Data extraction and manipulation with awk'
 author: Leonor Garcia-Gutierrez
 permalink: /2014/07/reverse-instructional-design-using-awk/
 tags:
@@ -20,23 +20,23 @@ We have a tab-separated datafile (**<a href="http://files.software-carpentry.org
 **(1) Multiple Choice Question.** Which of the following commands prints the names of all the patients who have high blood pressure? (DBP greater than 80 mmHg and SBP greater than 120 mmHg)?
 
 <p style="text-align: left;">
-  A)   awk -F&#8217;t&#8217; $2>80 && $3>120 &#8216;{ print $1 }&#8217; patient_data.txt
+  A)   awk -F't' $2>80 && $3>120 '{ print $1 }' patient_data.txt
 </p>
 
 <p style="text-align: left;">
-  B)   awk -F&#8217;t&#8217; &#8216;$2>80 && $3>120 { print $1 }&#8217; patient_data.txt
+  B)   awk -F't' '$2>80 && $3>120 { print $1 }' patient_data.txt
 </p>
 
 <p style="text-align: left;">
-  C)   awk -F&#8217;t&#8217; &#8216;$1>80 && $2>120 { print $0 }&#8217; patient_data.txt
+  C)   awk -F't' '$1>80 && $2>120 { print $0 }' patient_data.txt
 </p>
 
 <p style="text-align: left;">
-  D)   awk -F&#8217;t&#8217; &#8216;{ $2>80 && $3>120, print $1 }&#8217; patient_data.txt
+  D)   awk -F't' '{ $2>80 && $3>120, print $1 }' patient_data.txt
 </p>
 
 &nbsp;
 
-**(2) Exercise.** Pulse pressure is the difference between the SBP and DBP. If it is greater than 60 mmHg, the risk of heart disease increases (even if the patient&#8217;s blood pressure is normal). Use awk to find the name and phone number of those patients whose pulse pressure is over 60 mmHg and are not already under treatment… We want to invite them to come for a checkup!
+**(2) Exercise.** Pulse pressure is the difference between the SBP and DBP. If it is greater than 60 mmHg, the risk of heart disease increases (even if the patient's blood pressure is normal). Use awk to find the name and phone number of those patients whose pulse pressure is over 60 mmHg and are not already under treatment… We want to invite them to come for a checkup!
 
 **(3) Alternative exercise for those who find (2) too easy** (because *in addition* it tests something unrelated to awk basics). Use awk to find the names of those hypertensive patients who are not under treatment and have visited their doctor more than 6 months ago.

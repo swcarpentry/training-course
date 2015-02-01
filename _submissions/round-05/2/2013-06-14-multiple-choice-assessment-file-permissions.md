@@ -7,9 +7,9 @@ permalink: /2013/06/multiple-choice-assessment-file-permissions/
 tags:
   - Proficiency
 ---
-**1.-** You(evil) have created a malicious script called plan.sh with the strategy to dominate the world.  You want that the other people of your team (team-a) can see it and edit it. But you don&#8217;t want the other teams could see your plans! When you list the properties of that file you see the following:
+**1.-** You(evil) have created a malicious script called plan.sh with the strategy to dominate the world.  You want that the other people of your team (team-a) can see it and edit it. But you don't want the other teams could see your plans! When you list the properties of that file you see the following:
 
--rw&#8212;&#8212;-. 1 evil  team-a    100 Jun 14 19:41 plan.sh
+-rw-------. 1 evil  team-a    100 Jun 14 19:41 plan.sh
 
 Which of the following commands you will execute
 

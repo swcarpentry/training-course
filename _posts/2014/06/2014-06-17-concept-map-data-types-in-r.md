@@ -9,7 +9,7 @@ categories:
 
 [<img class="alignnone size-medium wp-image-7705" alt="IMG_20140617_082512_555" src="http://files.software-carpentry.org/training-course/2014/06/IMG_20140617_082512_555-300x234.jpg" width="300" height="234" />][1]
 
-I&#8217;ve decided to go with a concept map on data types in R. This is my first time doing a concept map since I was in elementary school! I hope I&#8217;m doing it right. Cheers. Andy
+I've decided to go with a concept map on data types in R. This is my first time doing a concept map since I was in elementary school! I hope I'm doing it right. Cheers. Andy
 
 &nbsp;
 

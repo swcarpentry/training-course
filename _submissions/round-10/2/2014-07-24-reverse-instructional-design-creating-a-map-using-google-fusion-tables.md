@@ -1,7 +1,7 @@
 ---
 date: 2014-07-24
 round: Round 10
-title: 'Reverse instructional design &#8211; creating a map using Google Fusion Tables'
+title: 'Reverse instructional design --- creating a map using Google Fusion Tables'
 author: Catherine McGoveran
 permalink: /2014/07/reverse-instructional-design-creating-a-map-using-google-fusion-tables/
 tags:

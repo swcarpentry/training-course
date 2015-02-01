@@ -15,6 +15,6 @@ I graduated in 2003 from Kingston University with a 2:1 for BSc Computer Science
 
 Why am I here? I attended one of the Software Carpentry Bootcamps organised by some of my UCL colleagues and thouht it worked really well and that it was something the training team could do, or I could do in the community in addition to aiding my understanding of the process so that I can better support in Bootcamp sessions at UCL.
 
-Think that&#8217;s about it. Looking forward to reading your posts.
+Think that's about it. Looking forward to reading your posts.
 
 Sam <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" />

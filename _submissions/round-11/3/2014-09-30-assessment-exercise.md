@@ -41,7 +41,7 @@ Given that the matrix is formatted as follows, how would you create a line plot 
     </td>
     
     <td>
-      &#8230;
+      ...
     </td>
   </tr>
   

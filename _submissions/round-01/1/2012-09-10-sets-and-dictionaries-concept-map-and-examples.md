@@ -13,16 +13,16 @@ tags:
 
 ## Example:
 
-****You are teaching a class and wish to store homework and test scores in an easily accessible way. You make a dictionary with student names as keys. For each key (student&#8217;s name) you create another dictionary with keys: &#8216;test&#8217; and &#8216;homework&#8217;. Both test and homework reference lists with the student&#8217;s test scores and homework scores. The dictionary looks like this:
+****You are teaching a class and wish to store homework and test scores in an easily accessible way. You make a dictionary with student names as keys. For each key (student's name) you create another dictionary with keys: 'test' and 'homework'. Both test and homework reference lists with the student's test scores and homework scores. The dictionary looks like this:
 
->>>  student\_scores\_dict = {&#8216;Adele': {&#8216;test': [70.0, 75.0], &#8216;homework': [90.0, 91.5, 90.2, 89.0, 95.0]}, 
+>>>  student\_scores\_dict = {'Adele': {'test': [70.0, 75.0], 'homework': [90.0, 91.5, 90.2, 89.0, 95.0]}, 
 
 <p style="padding-left: 30px;">
-  &#8216;James': {&#8216;test': [60.0, 80.1], &#8216;homework': [80.0, 85.0, 83.0, 89.0, 82.5]},
+  'James': {'test': [60.0, 80.1], 'homework': [80.0, 85.0, 83.0, 89.0, 82.5]},
 </p>
 
 <p style="padding-left: 30px;">
-  &#8216;Martha': {&#8216;test': [90.0, 95.0], &#8216;homework': [90.0, 91.0, 92.0, 95.0, 92.5]}}
+  'Martha': {'test': [90.0, 95.0], 'homework': [90.0, 91.0, 92.0, 95.0, 92.5]}}
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ Now it is easy to get information on the test and homework scores. For instance,
 >>> for student\_name in student\_scores_dict.keys():
 
 <p style="padding-left: 60px;">
-  print student_name, mean(student_scores_dict[student_name][&#8216;homework&#8217;])
+  print student_name, mean(student_scores_dict[student_name]['homework'])
 </p>
 
 &nbsp;
@@ -43,25 +43,25 @@ Now it is easy to get information on the test and homework scores. For instance,
 
 Another way to keep track of groups of items is a tuple. In this case the first element of the tuple would be the students name, the second element the list of test scores, and the third element the list of homework scores. You can store the same information you stored in your dictionary in a list of tuples:
 
->>> student\_scores\_tup = [(&#8216;Adele&#8217;, [70.0, 75.0],[90.0, 91.5, 90.2, 89.0, 95.0]),  
+>>> student\_scores\_tup = [('Adele', [70.0, 75.0],[90.0, 91.5, 90.2, 89.0, 95.0]),  
 
 <p style="padding-left: 30px;">
-  (&#8216;James&#8217;, [60.0, 80.1],  [80.0, 85.0, 83.0, 89.0, 82.5]),
+  ('James', [60.0, 80.1],  [80.0, 85.0, 83.0, 89.0, 82.5]),
 </p>
 
 <p style="padding-left: 30px;">
-  (Martha&#8217;, [90.0, 95.0], [90.0, 91.0, 92.0, 95.0, 92.5])]
+  (Martha', [90.0, 95.0], [90.0, 91.0, 92.0, 95.0, 92.5])]
 </p>
 
 &nbsp;
 
-While this is a valid way to store information, it has three distinct disadvantages: first, you have to remember what order you stored things in (i.e. that test scores are first then homework scores), second, you can&#8217;t add to your tuple: you have to create a new tuple, and third, you can&#8217;t easily access the record of one student.
+While this is a valid way to store information, it has three distinct disadvantages: first, you have to remember what order you stored things in (i.e. that test scores are first then homework scores), second, you can't add to your tuple: you have to create a new tuple, and third, you can't easily access the record of one student.
 
 For example, the class is given 2 quizzes which were not originally planned and which you want to add to your record keeping scheme.
 
-When you originally gave the quizes, you didn&#8217;t have time to integrate them into your data storage structure so you stored the scores in a separate dictionary with the student names as keys and the quiz scores as a list for the value of each key:
+When you originally gave the quizes, you didn't have time to integrate them into your data storage structure so you stored the scores in a separate dictionary with the student names as keys and the quiz scores as a list for the value of each key:
 
->>> student\_quiz\_scores = {&#8216;Adele':[80.0, 82.0], &#8216;James': [70.0, 75.0], &#8216;Martha': [95.0, 96.0]}
+>>> student\_quiz\_scores = {'Adele':[80.0, 82.0], 'James': [70.0, 75.0], 'Martha': [95.0, 96.0]}
 
 You now want to combine all of the scores into a single data structure.
 
@@ -81,47 +81,47 @@ In this case you had to create a new list of new tuples: student\_scores\_tup2. 
 
 Your new tuple looks like this:
 
->>> student\_scores\_tup2 = [(&#8216;Adele&#8217;, [70.0, 75.0],[90.0, 91.5, 90.2, 89.0, 95.0], [80.0, 82.0]),  
+>>> student\_scores\_tup2 = [('Adele', [70.0, 75.0],[90.0, 91.5, 90.2, 89.0, 95.0], [80.0, 82.0]),  
 
 <p style="padding-left: 30px;">
-  (&#8216;James&#8217;, [60.0, 80.1],  [80.0, 85.0, 83.0, 89.0, 82.5], [70.0, 75.0]),
+  ('James', [60.0, 80.1],  [80.0, 85.0, 83.0, 89.0, 82.5], [70.0, 75.0]),
 </p>
 
 <p style="padding-left: 30px;">
-  (Martha&#8217;, [90.0, 95.0], [90.0, 91.0, 92.0, 95.0, 92.5], [95.0, 96.0])]
+  (Martha', [90.0, 95.0], [90.0, 91.0, 92.0, 95.0, 92.5], [95.0, 96.0])]
 </p>
 
  It is now easy to see that test scores and quiz scores could easily be mixed up.
 
 * Dictionary Case:*
 
-To put the new quiz scores into your dictionary, you can add a new key to your inner dictionary (so you now have keys: &#8216;test&#8217;, &#8216;homework&#8217;, and &#8216;quiz&#8217;).
+To put the new quiz scores into your dictionary, you can add a new key to your inner dictionary (so you now have keys: 'test', 'homework', and 'quiz').
 
 >>> for student\_name in student\_quiz_scores.keys():
 
 <p style="padding-left: 60px;">
-  student_scores_dict[student_name][&#8216;quiz&#8217;] = student_quiz_scores[student_name]
+  student_scores_dict[student_name]['quiz'] = student_quiz_scores[student_name]
 </p>
 
 &nbsp;
 
-In this case you don&#8217;t have to worry about accidentally placing a student&#8217;s quiz scores with another student&#8217;s name and there is no requirement that the either dictionary have any order. Additionally, you can keep your original data structure by just adding a key. Your new dictionary looks like this:
+In this case you don't have to worry about accidentally placing a student's quiz scores with another student's name and there is no requirement that the either dictionary have any order. Additionally, you can keep your original data structure by just adding a key. Your new dictionary looks like this:
 
->>> student\_scores\_dict = {&#8216;Adele': {&#8216;test': [70.0, 75.0], &#8216;homework': [90.0, 91.5, 90.2, 89.0, 95.0], &#8216;quiz': [80.0, 82.0]}, 
+>>> student\_scores\_dict = {'Adele': {'test': [70.0, 75.0], 'homework': [90.0, 91.5, 90.2, 89.0, 95.0], 'quiz': [80.0, 82.0]}, 
 
 <p style="padding-left: 30px;">
-  &#8216;James': {&#8216;test': [60.0, 80.1], &#8216;homework': [80.0, 85.0, 83.0, 89.0, 82.5], &#8216;quiz': [70.0, 75.0]},
+  'James': {'test': [60.0, 80.1], 'homework': [80.0, 85.0, 83.0, 89.0, 82.5], 'quiz': [70.0, 75.0]},
 </p>
 
 <p style="padding-left: 30px;">
-  &#8216;Martha': {&#8216;test': [90.0, 95.0], &#8216;homework': [90.0, 91.0, 92.0, 95.0, 92.5], &#8216;quiz': [95.0, 90.0]}}
+  'Martha': {'test': [90.0, 95.0], 'homework': [90.0, 91.0, 92.0, 95.0, 92.5], 'quiz': [95.0, 90.0]}}
 </p>
 
 &nbsp;
 
 **Part 2**
 
-Finally, you want to find Adele&#8217;s lowest homework score.
+Finally, you want to find Adele's lowest homework score.
 
 *Tuple Case:*
 
@@ -133,9 +133,9 @@ For the tuple data structure you have to know which tuple in the list belongs to
 
 *Dictionary Case:*
 
-For the dictionary data structure, you can reference Adele&#8217;s homework data by using her name and &#8216;homework&#8217; as keys:
+For the dictionary data structure, you can reference Adele's homework data by using her name and 'homework' as keys:
 
->>> print min(student\_scores\_dict\[&#8216;Adele&#8217;\]\[&#8216;homework&#8217;\])
+>>> print min(student\_scores\_dict\['Adele'\]\['homework'\])
 
 &nbsp;
 

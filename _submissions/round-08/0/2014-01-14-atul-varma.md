@@ -11,7 +11,7 @@ Hello! My name is Atul, and I work on the design and engineering of educational 
 
 My blog is at [toolness.com][4], and I go by *toolness* on [Twitter][5], [Github][6], and most other services.
 
-If you&#8217;d like to know more, you can check out the [mini resume][7] I recently wrote for applying to mentor at [mouse][8].
+If you'd like to know more, you can check out the [mini resume][7] I recently wrote for applying to mentor at [mouse][8].
 
  [1]: http://www.mozilla.org/en-US/lightbeam/
  [2]: https://goggles.webmaker.org/

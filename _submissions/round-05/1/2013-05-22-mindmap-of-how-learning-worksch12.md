@@ -1,7 +1,7 @@
 ---
 date: 2013-05-22
 round: Round 5
-title: 'mindmap of &#8220;how learning works&#8221;(ch1/2)'
+title: 'mindmap of "how learning works"(ch1/2)'
 author: Yuxi Luo
 permalink: /2013/05/mindmap-of-how-learning-worksch12/
 tags:
@@ -14,19 +14,19 @@ tags:
 
 
 <div>
-  When I first touch the book &#8212;  &#8220;How learning works&#8221;, I always mix my identity.
+  When I first touch the book ---  "How learning works", I always mix my identity.
 </div>
 
 <div>
-  Sometimes, I think I&#8217;ll be an instructor who are applying the methods or
+  Sometimes, I think I'll be an instructor who are applying the methods or
 </div>
 
 <div>
-  strategies to the future students&#8217; learning, sometimes, I think I&#8217;m a student who
+  strategies to the future students' learning, sometimes, I think I'm a student who
 </div>
 
 <div>
-  are studying the learning theory&#8230; <img src="http://localhost:8080/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+  are studying the learning theory... <img src="http://localhost:8080/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
 </div>
 
 
@@ -89,7 +89,7 @@ tags:
   </p>
   
   <div>
-    &#8212;
+    ---
   </div>
   
   <div>

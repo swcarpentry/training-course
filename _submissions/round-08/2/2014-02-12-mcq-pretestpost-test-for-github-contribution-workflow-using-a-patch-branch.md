@@ -46,7 +46,7 @@ $ cd src/
 
 <ENTER How to get the code from Github?>
 
-4.Go into the working folder and check that your remote matches your github info and that you&#8217;re on the right branch.
+4.Go into the working folder and check that your remote matches your github info and that you're on the right branch.
 
 $ cd swcarpentrybc/
 
@@ -54,14 +54,14 @@ $ git remote -v
 origin    https://github.com/YOURUSERNAME/bc (fetch)  
 origin    https://github.com/YOURUSERNAME/bc (push)
 
-<ENTER How to see what branch you&#8217;re on?>
+<ENTER How to see what branch you're on?>
 
 5.Make a nice new branch that references the ticket number and simultaneously check it out.
 
 $ git checkout -b issue-300-etherpad-howto  
-Switched to a new branch &#8216;issue-300-etherpad-howto&#8217;
+Switched to a new branch 'issue-300-etherpad-howto'
 
-$ git branch &#8211;all  
+$ git branch ---all  
 * issue-300-etherpad-howto  
 master  
 remotes/origin/HEAD -> origin/master  
@@ -75,24 +75,24 @@ nothing to commit, working directory clean
 6.Do your work, commit it locally, and check your patch with diff.  
 $ bbedit etherpad.txt  
 $ git add -A  
-$ git commit -m &#8220;#300 Etherpad file added.&#8221;
+$ git commit -m "#300 Etherpad file added."
 
 $ git diff HEAD HEAD~1  
-diff &#8211;git a/etherpad.txt b/etherpad.txt  
+diff ---git a/etherpad.txt b/etherpad.txt  
 deleted file mode 100644  
 index 566dc1c..0000000  
-&#8212; a/etherpad.txt  
+--- a/etherpad.txt  
 +++ /dev/null  
 @@ -1,11 +0,0 @@  
 -Etherpad.txt  
-&#8211;  
+---  
 -Instructions for Students.  
-&#8211;  
+---  
 -Go to the URL given by your instructor.  
-&#8211;  
+---  
 -The page displays a screen with three major parts.  
-&#8211;  
--1.The left side holds the wiki with today&#8217;s notes written by the instructor.  
+---  
+-1.The left side holds the wiki with today's notes written by the instructor.  
 -2.The top right side shows the names of users who are logged in.  
 -3.The bottom right is a real time chat window for asking questions of the instr  
 No newline at end of file
@@ -105,8 +105,8 @@ No newline at end of file
 
 https://github.com/YOURUSERNAME/bc/tree/issue-300-etherpad-howto
 
-Click &#8216;compare and pull request&#8217;  
-Ensure you see the green &#8216;able to merge&#8217; sticker.  
+Click 'compare and pull request'  
+Ensure you see the green 'able to merge' sticker.  
 Check the diff and write your comment. Include the ticket number in the comment with a hash sign!
 
 9.Upon success, note that there is now both a ticket and a pull request, and each are separately commentable.  
@@ -115,7 +115,7 @@ Check the diff and write your comment. Include the ticket number in the comment 
 
 Notice how Github automatically linked the two.
 
-Refs; Others&#8217; Posts  
+Refs; Others' Posts  
 [] Jessica Hamrick Git Commit
 
 http://teaching.software-carpentry.org/2014/02/12/mcq-making-a-git-commit/

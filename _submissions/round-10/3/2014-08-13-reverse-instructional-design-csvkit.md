@@ -1,7 +1,7 @@
 ---
 date: 2014-08-13
 round: Round 10
-title: 'Reverse Instructional Design &#8211; csvkit'
+title: 'Reverse Instructional Design --- csvkit'
 author: David Kua
 permalink: /2014/08/reverse-instructional-design-csvkit/
 tags:
@@ -9,32 +9,32 @@ tags:
 ---
 These questions pertain to the CSV toolkit http://csvkit.readthedocs.org/.
 
-&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;
+------------------------------
 
 You will be working with an open dataset from the City of Toronto containing the number marriage registrations that occurred per month at different civic centres. The data looks like the following:
 
-&#8220;TIME\_PERIOD&#8221;,&#8221;CIVIC\_CENTRE&#8221;,&#8221;MARRIAGE_LICENSES&#8221;  
-&#8220;2011-01&#8243;,&#8221;ET&#8221;,80  
-&#8220;2011-01&#8243;,&#8221;NY&#8221;,136  
-&#8220;2011-01&#8243;,&#8221;SC&#8221;,159  
-&#8220;2011-01&#8243;,&#8221;TO&#8221;,367  
-&#8220;2011-02&#8243;,&#8221;ET&#8221;,109  
-&#8220;2011-02&#8243;,&#8221;NY&#8221;,150  
-&#8220;2011-02&#8243;,&#8221;SC&#8221;,154  
-&#8220;2011-02&#8243;,&#8221;TO&#8221;,383  
-&#8220;2011-03&#8243;,&#8221;ET&#8221;,177  
-&#8220;2011-03&#8243;,&#8221;NY&#8221;,231  
-&#8220;2011-03&#8243;,&#8221;SC&#8221;,213  
-&#8220;2011-03&#8243;,&#8221;TO&#8221;,589  
-&#8220;2011-04&#8243;,&#8221;ET&#8221;,178  
-&#8220;2011-04&#8243;,&#8221;NY&#8221;,277  
-&#8220;2011-04&#8243;,&#8221;SC&#8221;,261  
-&#8220;2011-04&#8243;,&#8221;TO&#8221;,660  
-&#8220;2011-05&#8243;,&#8221;ET&#8221;,263  
-&#8220;2011-05&#8243;,&#8221;NY&#8221;,376  
-&#8220;2011-05&#8243;,&#8221;SC&#8221;,375  
-&#8220;2011-05&#8243;,&#8221;TO&#8221;,871  
-&#8220;2011-06&#8243;,&#8221;ET&#8221;,255
+"TIME\_PERIOD","CIVIC\_CENTRE","MARRIAGE_LICENSES"  
+"2011-01&#8243;,"ET",80  
+"2011-01&#8243;,"NY",136  
+"2011-01&#8243;,"SC",159  
+"2011-01&#8243;,"TO",367  
+"2011-02&#8243;,"ET",109  
+"2011-02&#8243;,"NY",150  
+"2011-02&#8243;,"SC",154  
+"2011-02&#8243;,"TO",383  
+"2011-03&#8243;,"ET",177  
+"2011-03&#8243;,"NY",231  
+"2011-03&#8243;,"SC",213  
+"2011-03&#8243;,"TO",589  
+"2011-04&#8243;,"ET",178  
+"2011-04&#8243;,"NY",277  
+"2011-04&#8243;,"SC",261  
+"2011-04&#8243;,"TO",660  
+"2011-05&#8243;,"ET",263  
+"2011-05&#8243;,"NY",376  
+"2011-05&#8243;,"SC",375  
+"2011-05&#8243;,"TO",871  
+"2011-06&#8243;,"ET",255
 
 **Question 1**
 
@@ -48,4 +48,4 @@ What command would you use to list out the fields of the above CSV file?
 
 **Question 2**
 
-What command(s) would you use to create a csv file named &#8220;ny_marriage.csv&#8221; that contains only the lines pertaining to the civic centre &#8220;NY&#8221;?
+What command(s) would you use to create a csv file named "ny_marriage.csv" that contains only the lines pertaining to the civic centre "NY"?

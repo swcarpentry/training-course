@@ -32,5 +32,5 @@ e) Model(0, 1).run(Model(1, 2), 0)
 a) m.restart = restart  
 b) Model.restart = restart.\_\_get\_\_(None, Model)  
 c) m.restart = restart.\_\_get\_\_(m)  
-d) m.\_\_dict\_\_[&#8216;restart&#8217;] = restart  
-e) m.\_\_setattr\_\_(&#8216;restart&#8217;, restart)
+d) m.\_\_dict\_\_['restart'] = restart  
+e) m.\_\_setattr\_\_('restart', restart)

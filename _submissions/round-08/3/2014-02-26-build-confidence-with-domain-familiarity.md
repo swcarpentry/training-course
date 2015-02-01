@@ -36,7 +36,7 @@ tags:
 </p>
 
 <p dir="ltr">
-  In the few occasions that I have asked people about their motivation, I find their curiosity is a misguided. &#8220;I&#8217;m interested to what what kind of features Python has&#8221;, as in it has a fixed set of buttons on the user interface. The person has only served as a passive witness to technology, not actively participating in it.
+  In the few occasions that I have asked people about their motivation, I find their curiosity is a misguided. "I'm interested to what what kind of features Python has", as in it has a fixed set of buttons on the user interface. The person has only served as a passive witness to technology, not actively participating in it.
 </p>
 
 <p dir="ltr">

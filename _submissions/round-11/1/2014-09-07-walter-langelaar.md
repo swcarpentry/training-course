@@ -7,7 +7,7 @@ permalink: /2014/09/walter-langelaar/
 tags:
   - Biography
 ---
-hi I&#8217;m Walter, an artist and educator based in Wellington, New Zealand. I work as a lecturer in Media Design at Victoria University of Wellington&#8217;s School of Design, where I currently teach Physical Computing, Internet Design and the Introduction to Game Design papers. Also I supervise two MDI (postgrad) research streams dubbed &#8216;Data.Mine&#8217; (experimental data gathering and representation) and &#8216;Networked Performance&#8217;.
+hi I'm Walter, an artist and educator based in Wellington, New Zealand. I work as a lecturer in Media Design at Victoria University of Wellington's School of Design, where I currently teach Physical Computing, Internet Design and the Introduction to Game Design papers. Also I supervise two MDI (postgrad) research streams dubbed 'Data.Mine' (experimental data gathering and representation) and 'Networked Performance'.
 
 My background is in Fine Arts, also in terms of teaching experience as I was previously working at a Liberal Arts College in the Netherlands. Most of my personal work and research revolves around contemporary digital cultures and Internet related topics, some (slightly dated) outputs of which you can find at [http://moddr.net][1]
 

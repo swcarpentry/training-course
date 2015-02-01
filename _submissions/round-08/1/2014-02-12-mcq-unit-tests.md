@@ -11,7 +11,7 @@ Novices vs competent practitioners:
 
 What should you always do when writing a unit test?
 
-a. Test all classes and methods involved, not just the specific piece of code you&#8217;re testing
+a. Test all classes and methods involved, not just the specific piece of code you're testing
 
 b. See that the unit test can fail and does not always pass
 
@@ -37,7 +37,7 @@ The code we want to test:
 
 @implementation OddNumbersModel
 
-&#8211; (NSArray *)oddIntegersFrom:(NSInteger)fromInteger to:(NSInteger)toInteger {
+--- (NSArray *)oddIntegersFrom:(NSInteger)fromInteger to:(NSInteger)toInteger {
 
 NSInteger isEven = (fromInteger % 2 == 0);  
 if (isEven) {  
@@ -62,7 +62,7 @@ The associated unit tests:
 
 @implementation OddNumbersModelTests
 
-&#8211; (void)testListNumberOfOddValuesBetween1And10 {  
+--- (void)testListNumberOfOddValuesBetween1And10 {  
 //assemble  
 self.testObject = [[OddNumbersModel alloc] init];
 
@@ -71,10 +71,10 @@ NSArray *listOfNumbers = [self.testObject oddIntegersFrom:1 to:10];
 NSInteger countOfNumbers = [listOfNumbers count];
 
 //assert  
-GHAssertTrue(countOfNumbers > 0, @&#8221;We should have more than zero numbers.&#8221;);  
+GHAssertTrue(countOfNumbers > 0, @"We should have more than zero numbers.");  
 }
 
-&#8211; (void)testOddIntegersFrom14To22Returns4SpecificOddValues {  
+--- (void)testOddIntegersFrom14To22Returns4SpecificOddValues {  
 //assemble  
 self.testObject = [[OddNumbersModel alloc] init];  
 NSArray *expectedOddValues = @[@15,@17,@19,@21];

@@ -13,9 +13,9 @@ Pertaining to the [Files and Directories][1] section of [Unix Shell][2].
 
 **Question 1**
 
-From a user&#8217;s home directory of **/home/user**, &#8220;**/**&#8221; represents \___\_____ , and &#8220;**..**&#8221; represents \___\___\____.
+From a user's home directory of **/home/user**, "**/**" represents \___\_____ , and "**..**" represents \___\___\____.
 
-A)  the top or &#8220;root&#8221; of the filesystem; the present working directory  
+A)  the top or "root" of the filesystem; the present working directory  
 B)  a relative path; a relative path  
 C)  an absolute path; the present working directory  
 D)  an absolute path; a relative path
@@ -38,7 +38,7 @@ For a hypothetical filesystem location of **/home/amanda/data/**, select each of
 
 &nbsp;
 
-**Update &#8211; Answers**
+**Update --- Answers**
 
 Q1) D
 

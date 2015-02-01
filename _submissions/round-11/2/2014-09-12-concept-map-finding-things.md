@@ -9,7 +9,7 @@ tags:
 ---
 From here: [Finding things][1]
 
-I struggled with representing actions and options for commands, so if there are parts that are clearer than others I&#8217;d love to know it so I can improve consistency!
+I struggled with representing actions and options for commands, so if there are parts that are clearer than others I'd love to know it so I can improve consistency!
 
 [<img class="alignnone size-medium wp-image-8606" alt="shell finding things concept map" src="http://files.software-carpentry.org/training-course/2014/09/photo-300x225.jpg" width="300" height="225" />][2]
 

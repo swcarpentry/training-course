@@ -19,4 +19,4 @@ tags:
   a. hypomorph<br /> b. hypermorph<br /> c. antimorph<br /> d. neomorph<br /> e. deficiency<br /> f. duplication<br /> g. dominant<br /> h. recessive
 </p>
 
-(I&#8217;m not particularly happy with my second question, as it&#8217;s still basically a vocabulary question, but it requires knowing the definition of all of the terms, and knowing&#8211;or reasoning&#8211;the correct test to use. I may add a third question later.)
+(I'm not particularly happy with my second question, as it's still basically a vocabulary question, but it requires knowing the definition of all of the terms, and knowing---or reasoning---the correct test to use. I may add a third question later.)

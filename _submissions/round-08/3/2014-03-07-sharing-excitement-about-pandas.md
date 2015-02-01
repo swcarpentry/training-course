@@ -7,13 +7,13 @@ permalink: /2014/03/sharing-excitement-about-pandas/
 tags:
   - Motivation
 ---
-I&#8217;ve written on my thoughts regarding student motivation a few months ago on my blog <a href="http://drlabratory.com/student-motivation/" title="Student Motivation" target="_blank">here</a> if anyone is interested. I&#8217;m curious if any of my approaches in sophomore bio would apply to a Software Carpentry boot camp.
+I've written on my thoughts regarding student motivation a few months ago on my blog <a href="http://drlabratory.com/student-motivation/" title="Student Motivation" target="_blank">here</a> if anyone is interested. I'm curious if any of my approaches in sophomore bio would apply to a Software Carpentry boot camp.
 
 I can imagine the story I would share motivate students as part of an intro to IPython notebooks and pandas. I would talk about the tutorial on pandas I attended as part of SciPy 2013 last summer. It was a nice intersection of a thorny/boring problem I was having in lab with an easy solution provided by pandas. 
 
 A collaborator had collected data from a number of samples using Biolog Ecoplates. These plates measure how well the microbes in soil can grow on different carbon sources. They are fairly cheap, and can give you lots of data to work with. In fact they give you a little too much data to work with simply, each plate producing an Excel workbook for each plate you read. Getting the data into a usable form is tedious and prone to copy/paste errors. I have done it before, but screw ups are highly probable.
 
-In the years since first collecting data on Ecoplates, IPython notebooks came on the scene. I started using them for various projects and trying things out enough that I went to SciPy 2013. I attended a tutorial on pandas, and I was struck by how much it seemed to &#8220;just work.&#8221; Furthermore, I learned the command that made my eyes widen:  
+In the years since first collecting data on Ecoplates, IPython notebooks came on the scene. I started using them for various projects and trying things out enough that I went to SciPy 2013. I attended a tutorial on pandas, and I was struck by how much it seemed to "just work." Furthermore, I learned the command that made my eyes widen:  
 `<br />
 import pandas as pd</p>
 <p>pd.read_excel('Condition_1.xls', 'Sheet1', index_col=None, na_values=['NA'])<br />
