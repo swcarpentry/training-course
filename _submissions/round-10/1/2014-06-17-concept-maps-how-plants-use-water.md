@@ -9,6 +9,6 @@ tags:
 ---
 This isn&#8217;t related to computing in any way, but I was recently trying to explain how plants use water to a black-thumbed friend of mine, and I thought that attempting to draw out what I tried to tell her would be useful.
 
-[<img class="alignnone size-medium wp-image-7732" alt="watering plants concept map" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/IMG_1992-225x300.jpg" width="225" height="300" />][1]
+[<img class="alignnone size-medium wp-image-7732" alt="watering plants concept map" src="http://files.software-carpentry.org/training-course/2014/06/IMG_1992-225x300.jpg" width="225" height="300" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/06/IMG_1992.jpg
+ [1]: http://files.software-carpentry.org/training-course/2014/06/IMG_1992.jpg

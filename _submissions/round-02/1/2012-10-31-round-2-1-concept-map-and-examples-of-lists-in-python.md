@@ -7,7 +7,7 @@ permalink: /2012/10/round-2-1-concept-map-and-examples-of-lists-in-python/
 tags:
   - Concept Map
 ---
-<figure id="attachment_844" style="width: 608px;" class="wp-caption aligncenter">[<img class=" wp-image-844 " title="List-cm" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/10/Screen-Shot-2012-10-31-at-9.22.21-AM.png" alt="" width="608" height="432" />][1]<figcaption class="wp-caption-text">A concept map for lists (in Python).</figcaption></figure> 
+<figure id="attachment_844" style="width: 608px;" class="wp-caption aligncenter">[<img class=" wp-image-844 " title="List-cm" src="http://files.software-carpentry.org/training-course/2012/10/Screen-Shot-2012-10-31-at-9.22.21-AM.png" alt="" width="608" height="432" />][1]<figcaption class="wp-caption-text">A concept map for lists (in Python).</figcaption></figure> 
 &nbsp;
 
 &nbsp;
@@ -87,4 +87,4 @@ print &#8216;Total all proteins =&#8217;, len(all_proteins)
 
 Time taken:  2 hours
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/10/Screen-Shot-2012-10-31-at-9.22.21-AM.png
+ [1]: http://files.software-carpentry.org/training-course/2012/10/Screen-Shot-2012-10-31-at-9.22.21-AM.png

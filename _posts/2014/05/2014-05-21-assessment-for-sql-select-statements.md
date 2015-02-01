@@ -17,4 +17,4 @@ c. where
 
 Question 2: How to select information from two or more relational tables?
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/05/2014-04-30-Concept_Map_Assignment_Cropped.png
+ [1]: http://files.software-carpentry.org/training-course/2014/05/2014-04-30-Concept_Map_Assignment_Cropped.png

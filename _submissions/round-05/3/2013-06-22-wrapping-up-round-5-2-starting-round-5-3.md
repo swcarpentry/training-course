@@ -91,10 +91,10 @@ Work backwards: what I want to assess, what they need to know/do to pass that as
       Take a week to think about it and post next week (Wed) about your thoughts
     </li>
     <li>
-      Check out: Chen at al: &#8220;<a href="http://teaching.software-carpentry.org/wp-content/uploads/2012/08/chen-pattern-language-screencasting-2009.pdf">A Pattern Language for Screencasting</a>&#8221; for tips.
+      Check out: Chen at al: &#8220;<a href="http://files.software-carpentry.org/training-course/2012/08/chen-pattern-language-screencasting-2009.pdf">A Pattern Language for Screencasting</a>&#8221; for tips.
     </li>
     <li>
-      Please also read <a href="http://teaching.software-carpentry.org/wp-content/uploads/2012/08/mayer-reduce-cognitive-load.pdf">Mayer and Moreno</a> on reducing cognitive load
+      Please also read <a href="http://files.software-carpentry.org/training-course/2012/08/mayer-reduce-cognitive-load.pdf">Mayer and Moreno</a> on reducing cognitive load
     </li>
   </ul>
   

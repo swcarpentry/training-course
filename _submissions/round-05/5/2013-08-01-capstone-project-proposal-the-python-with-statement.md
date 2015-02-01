@@ -11,7 +11,7 @@ I am about to give a ten-minute lesson on the Python &#8220;with&#8221; statemen
 
 ## Concept map
 
-[<img src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/Python-with-stmt-concept-map.jpg" alt="Python-with-stmt-concept-map" class="alignnone size-medium wp-image-3767" />][1]
+[<img src="http://files.software-carpentry.org/training-course/2013/08/Python-with-stmt-concept-map.jpg" alt="Python-with-stmt-concept-map" class="alignnone size-medium wp-image-3767" />][1]
 
 ## Teaching materials
 
@@ -74,5 +74,5 @@ f.close()
     
     I think Hangout is the only tool that allows screen sharing in the non-payment version. Skype&#8217;s screensharing seems to only be available with the Premium version.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/Python-with-stmt-concept-map.jpg
+ [1]: http://files.software-carpentry.org/training-course/2013/08/Python-with-stmt-concept-map.jpg
  [2]: https://github.com/tedkirkpatrick/python-with/blob/master/Python-with-statement.ipynb

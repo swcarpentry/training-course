@@ -7,10 +7,10 @@ permalink: /2013/03/numpy-array-creation-concept-map/
 tags:
   - Concept Map
 ---
-[<img class="alignnone size-medium wp-image-1885" alt="ArrayFlowChart" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/03/ArrayFlowChart-300x225.jpg" width="300" height="225" />][1]
+[<img class="alignnone size-medium wp-image-1885" alt="ArrayFlowChart" src="http://files.software-carpentry.org/training-course/2013/03/ArrayFlowChart-300x225.jpg" width="300" height="225" />][1]
 
 A concept map for the basic creation of new numpy arrays.  I created this in power point.  I thought about doing it using matplotlib, but that would take a bit more time!
 
 &nbsp;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/03/ArrayFlowChart.jpg
+ [1]: http://files.software-carpentry.org/training-course/2013/03/ArrayFlowChart.jpg

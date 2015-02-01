@@ -43,5 +43,5 @@ The only answer I&#8217;m left with is, &#8220;I don&#8217;t know.&#8221; What I
  [2]: http://software-carpentry.org/v4/setdict/phylogen/032.png
  [3]: http://software-carpentry.org/blog/2014/03/collaborative-lesson-development.html
  [4]: http://en.wikipedia.org/wiki/Causes_of_the_American_Civil_War
- [5]: http://teaching.software-carpentry.org/wp-content/uploads/2014/03/The-Aesthetics-of-Imperfection.pdf
+ [5]: http://files.software-carpentry.org/training-course/2014/03/The-Aesthetics-of-Imperfection.pdf
  [6]: http://blog.jonudell.net/2011/01/24/seven-ways-to-think-like-the-web/

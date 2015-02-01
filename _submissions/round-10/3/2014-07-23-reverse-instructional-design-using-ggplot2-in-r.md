@@ -10,7 +10,7 @@ tags:
 ---
 Consider the following dataset named &#8220;temp&#8221; of the goals and assists scored by 10 hockey players from the USA and Canada:
 
-[<img class="alignnone size-full wp-image-8173" alt="screenshot" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/07/screenshot.png" width="233" height="174" />][1]
+[<img class="alignnone size-full wp-image-8173" alt="screenshot" src="http://files.software-carpentry.org/training-course/2014/07/screenshot.png" width="233" height="174" />][1]
 
 **Q1**. Using ggplot2 in R, how would you make a scatter plot of the number of goals against number of assists, coloured by the country?
 
@@ -32,4 +32,4 @@ d) ggplot(data=temp, aes(x=goals, y=assists, col=country)) + geom_point()
 
 &nbsp;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/07/screenshot.png
+ [1]: http://files.software-carpentry.org/training-course/2014/07/screenshot.png

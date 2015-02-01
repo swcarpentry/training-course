@@ -10,13 +10,13 @@ tags:
 Regular expressions are extremely useful for manipulating and parsing text, which is something I find I need to do quite often when working with large data files in biology. This got a little out of hand as I was putting it together, but hopefully it is still simple enough to be useful. [  
 ][1]
 
-[<img class="alignnone size-medium wp-image-3926" alt="regex-landscape" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/regex-landscape-300x231.jpg" width="300" height="231" />][2]
+[<img class="alignnone size-medium wp-image-3926" alt="regex-landscape" src="http://files.software-carpentry.org/training-course/2013/08/regex-landscape-300x231.jpg" width="300" height="231" />][2]
 
 &nbsp;
 
 After feedback that this was way too much information, I simplified it some:
 
-[<img class="alignnone size-medium wp-image-4071" alt="2013_08_22_12_58_37" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/08/2013_08_22_12_58_37-300x177.jpg" width="300" height="177" />][3]
+[<img class="alignnone size-medium wp-image-4071" alt="2013_08_22_12_58_37" src="http://files.software-carpentry.org/training-course/2013/08/2013_08_22_12_58_37-300x177.jpg" width="300" height="177" />][3]
 
 &nbsp;
 
@@ -26,6 +26,6 @@ I still agree that this was probably an ambitious topic for 10 minutes, I&#8217;
 
 &nbsp;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/regex.pdf
- [2]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/regex-landscape.jpg
- [3]: http://teaching.software-carpentry.org/wp-content/uploads/2013/08/2013_08_22_12_58_37.jpg
+ [1]: http://files.software-carpentry.org/training-course/2013/08/regex.pdf
+ [2]: http://files.software-carpentry.org/training-course/2013/08/regex-landscape.jpg
+ [3]: http://files.software-carpentry.org/training-course/2013/08/2013_08_22_12_58_37.jpg

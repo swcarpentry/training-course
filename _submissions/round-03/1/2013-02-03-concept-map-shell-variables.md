@@ -11,7 +11,7 @@ tags:
 
 &nbsp;
 
-[<img class="size-medium wp-image-1610 aligncenter" alt="shell variables concept map" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/02/shell-var-concept-map-300x215.png" width="300" height="215" />][1]
+[<img class="size-medium wp-image-1610 aligncenter" alt="shell variables concept map" src="http://files.software-carpentry.org/training-course/2013/02/shell-var-concept-map-300x215.png" width="300" height="215" />][1]
 
 &nbsp;
 
@@ -37,4 +37,4 @@ Which of these commands lists the value(s) assigned to the PATH variable?
 
 Sorry for being a bit late on this guys, life decided to be a bit unreasonable this weekend. I hope the diagram covers the basic concept of environment variables. I would have gone further to explain PATH, but I thought that would make the diagram too big.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/02/shell-var-concept-map.png
+ [1]: http://files.software-carpentry.org/training-course/2013/02/shell-var-concept-map.png

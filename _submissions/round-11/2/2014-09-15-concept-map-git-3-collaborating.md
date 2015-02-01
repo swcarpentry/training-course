@@ -9,9 +9,9 @@ tags:
 ---
 This chart is based on [the Collaborating][1] section of the Git lesson, which covers push, pull, clone, and github.
 
-[<img src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/IMAG0630-300x169.jpg" alt="concept map for the git lesson on collaboration" width="300" height="169" class="alignnone size-medium wp-image-8658" />][2]
+[<img src="http://files.software-carpentry.org/training-course/2014/09/IMAG0630-300x169.jpg" alt="concept map for the git lesson on collaboration" width="300" height="169" class="alignnone size-medium wp-image-8658" />][2]
 
 Apologies if the image is unclear, I was limited in my paper and photography choices.
 
  [1]: http://software-carpentry.org/v5/novice/git/02-collab.html
- [2]: http://teaching.software-carpentry.org/wp-content/uploads/2014/09/IMAG0630.jpg
+ [2]: http://files.software-carpentry.org/training-course/2014/09/IMAG0630.jpg

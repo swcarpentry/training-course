@@ -9,7 +9,7 @@ tags:
 ---
 &nbsp;
 
-[<img class="alignnone size-medium wp-image-7840" alt="Concept_Map_Unix_Shell" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/Concept_Map_Unix_Shell-300x217.jpg" width="300" height="217" />][1]
+[<img class="alignnone size-medium wp-image-7840" alt="Concept_Map_Unix_Shell" src="http://files.software-carpentry.org/training-course/2014/06/Concept_Map_Unix_Shell-300x217.jpg" width="300" height="217" />][1]
 
 &nbsp;
 
@@ -17,4 +17,4 @@ I tried to summarize the Unix Shell concepts and commands from the boot camp I a
 
 &nbsp;
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/06/Concept_Map_Unix_Shell.jpg
+ [1]: http://files.software-carpentry.org/training-course/2014/06/Concept_Map_Unix_Shell.jpg

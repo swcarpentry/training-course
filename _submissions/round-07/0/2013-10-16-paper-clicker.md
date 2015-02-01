@@ -11,4 +11,4 @@ I mentioned this during last week&#8217;s session &#8212; hopefully it is useful
 
 [paper_clicker][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/10/paper_clicker.pdf
+ [1]: http://files.software-carpentry.org/training-course/2013/10/paper_clicker.pdf

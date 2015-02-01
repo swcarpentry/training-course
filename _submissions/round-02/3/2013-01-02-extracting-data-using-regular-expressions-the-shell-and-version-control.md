@@ -12,7 +12,7 @@ Research in my lab often requires acquiring and cleaning up other people&#8217;s
 
 The data looked like 15 pages of this:
 
-<a href="http://teaching.software-carpentry.org/2013/01/02/extracting-data-using-regular-expressions-the-shell-and-version-control/data_example/" rel="attachment wp-att-1372"><img class="alignnone size-full wp-image-1372" alt="data_example" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/01/data_example.png" width="650" height="604" /></a>
+<a href="http://teaching.software-carpentry.org/2013/01/02/extracting-data-using-regular-expressions-the-shell-and-version-control/data_example/" rel="attachment wp-att-1372"><img class="alignnone size-full wp-image-1372" alt="data_example" src="http://files.software-carpentry.org/training-course/2013/01/data_example.png" width="650" height="604" /></a>
 
 Typing it in by hand would have taken days and would have almost certainly introduced numerous errors. So, the student used cut and paste to put the data into a text file and was using regular expressions to extract the species names. Regular expressions allow us to write patterns to match against lines in the file to identify genus-species combinations, thus automating the process of extracting the data.
 

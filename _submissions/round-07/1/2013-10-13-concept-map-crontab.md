@@ -9,6 +9,6 @@ tags:
 ---
 This concept map teaches about crobtab &#8211; a unix uility. Comments are welcome!
 
-[<img class="alignnone size-medium wp-image-4758" alt="image" src="http://teaching.software-carpentry.org/wp-content/uploads/2013/10/viewer-300x211.png" width="300" height="211" />][1]
+[<img class="alignnone size-medium wp-image-4758" alt="image" src="http://files.software-carpentry.org/training-course/2013/10/viewer-300x211.png" width="300" height="211" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/10/viewer.png
+ [1]: http://files.software-carpentry.org/training-course/2013/10/viewer.png

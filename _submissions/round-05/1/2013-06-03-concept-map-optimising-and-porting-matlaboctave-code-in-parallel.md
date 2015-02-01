@@ -11,4 +11,4 @@ Concepts and steps for optimising and/or parallelising some Matlab/Octave code. 
 
 [Concept\_map\_Optimizing_porting][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/06/Concept_map_Optimizing_porting.pdf
+ [1]: http://files.software-carpentry.org/training-course/2013/06/Concept_map_Optimizing_porting.pdf

@@ -72,7 +72,7 @@ Few used questions/question marks in their concept maps
 *   Please make sure you have a copy of <cite>Facts and Fallacies of Software Engineering</cite> by April 17
 *   If you are not already on the Software Carpentry &#8216;discuss&#8217; list, please join
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2013/03/photo.jpg
+ [1]: http://files.software-carpentry.org/training-course/2013/03/photo.jpg
  [2]: http://teaching.software-carpentry.org/2012/09/06/week-1-shell-pipes-and-filters/
  [3]: http://software-carpentry.org/blog/2013/03/testing-image-processing.html
  [4]: http://teaching.software-carpentry.org/2013/03/26/concept-map-floating-point-representations/)

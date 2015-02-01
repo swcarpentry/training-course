@@ -9,7 +9,7 @@ tags:
 ---
 ## Concept Map:
 
-[<img class="aligncenter size-large wp-image-264" title="dict_set_concept_map" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/dict_set_concept_map-1024x547.png" alt="" width="707" height="377" />][1]
+[<img class="aligncenter size-large wp-image-264" title="dict_set_concept_map" src="http://files.software-carpentry.org/training-course/2012/09/dict_set_concept_map-1024x547.png" alt="" width="707" height="377" />][1]
 
 ## Example:
 
@@ -157,4 +157,4 @@ The reading took me about 2.5 hours and creating the concept map and the write u
 
 Tuples, lists, enumerate, for loop, line continuation
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/09/dict_set_concept_map.png
+ [1]: http://files.software-carpentry.org/training-course/2012/09/dict_set_concept_map.png

@@ -25,9 +25,9 @@ As you&#8217;ll have learned from Chapter 3 of *How Learning Works*, motivation 
 
 Separately, please have a look at these three papers from the web site (and any others from our [materials page][3] that catch your eye as well):
 
-*   <http://teaching.software-carpentry.org/wp-content/uploads/2012/08/crouch-mazur-peer-instruction-ten-years-2001.pdf>
-*   <http://teaching.software-carpentry.org/wp-content/uploads/2012/08/porter-halving-fail-peer-instruction-2013.pdf>
-*   <http://teaching.software-carpentry.org/wp-content/uploads/2012/08/mayer-reduce-cognitive-load.pdf>
+*   <http://files.software-carpentry.org/training-course/2012/08/crouch-mazur-peer-instruction-ten-years-2001.pdf>
+*   <http://files.software-carpentry.org/training-course/2012/08/porter-halving-fail-peer-instruction-2013.pdf>
+*   <http://files.software-carpentry.org/training-course/2012/08/mayer-reduce-cognitive-load.pdf>
 
 **19:00 Eastern**
 
@@ -184,6 +184,6 @@ Separately, please have a look at these three papers from the web site (and any 
     *   I get the impression that patterns of right/wrong answers would be very useful for guageing what people had understood &#8211; but should maybe be an iterative process. Wrong answers can inform better MCQs
 
  [1]: http://en.wikipedia.org/wiki/Concept_inventory
- [2]: http://teaching.software-carpentry.org/wp-content/uploads/2014/02/p97.pdf
+ [2]: http://files.software-carpentry.org/training-course/2014/02/p97.pdf
  [3]: http://teaching.software-carpentry.org/materials/
  [4]: http://teaching.software-carpentry.org/2014/02/11/mcq-python-flow-control/

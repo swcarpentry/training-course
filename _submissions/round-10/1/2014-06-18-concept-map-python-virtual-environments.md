@@ -15,6 +15,6 @@ tags:
 ---
 Concept map for Python Virtual Environments, designed for a crash course.<figure id="attachment_7744" style="width: 300px;" class="wp-caption alignnone">
 
-[<img class="size-medium wp-image-7744" alt="Python virtual environments" src="http://teaching.software-carpentry.org/wp-content/uploads/2014/06/virtualenv_concept_map-300x235.png" width="300" height="235" />][1]<figcaption class="wp-caption-text">Concept map for Python Virtual Environments</figcaption></figure>
+[<img class="size-medium wp-image-7744" alt="Python virtual environments" src="http://files.software-carpentry.org/training-course/2014/06/virtualenv_concept_map-300x235.png" width="300" height="235" />][1]<figcaption class="wp-caption-text">Concept map for Python Virtual Environments</figcaption></figure>
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/06/virtualenv_concept_map.png
+ [1]: http://files.software-carpentry.org/training-course/2014/06/virtualenv_concept_map.png

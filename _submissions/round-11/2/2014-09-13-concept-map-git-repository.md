@@ -17,6 +17,6 @@ This would be part of the Introducing Version Control lesson at
 
 http://software-carpentry.org/v5/novice/git/00-intro.html
 
-[<img src="http://teaching.software-carpentry.org/wp-content/uploads/2014/09/concept_map-211x300.jpg" alt="concept_map" width="211" height="300" class="alignnone size-medium wp-image-8633" />][1]
+[<img src="http://files.software-carpentry.org/training-course/2014/09/concept_map-211x300.jpg" alt="concept_map" width="211" height="300" class="alignnone size-medium wp-image-8633" />][1]
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2014/09/concept_map.jpg
+ [1]: http://files.software-carpentry.org/training-course/2014/09/concept_map.jpg

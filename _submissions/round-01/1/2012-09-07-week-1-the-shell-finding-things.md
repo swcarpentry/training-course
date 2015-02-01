@@ -7,7 +7,7 @@ permalink: /2012/09/week-1-the-shell-finding-things/
 tags:
   - Concept Map
 ---
-# [<img class="alignnone size-large wp-image-223" title="shell_finding_concept_map" src="http://teaching.software-carpentry.org/wp-content/uploads/2012/09/shell_finding_concept_map-1024x679.jpg" alt="" width="707" height="468" />][1]
+# [<img class="alignnone size-large wp-image-223" title="shell_finding_concept_map" src="http://files.software-carpentry.org/training-course/2012/09/shell_finding_concept_map-1024x679.jpg" alt="" width="707" height="468" />][1]
 
 &nbsp;
 
@@ -160,4 +160,4 @@ This will display the help page (or **man**ual) for the &#8220;grep&#8221; comma
 
 Overall, I spent around 3 1/2 to 4 hours (including reading). I&#8217;m very familiar with Inkscape, so it was easy for me to build my concept map.
 
- [1]: http://teaching.software-carpentry.org/wp-content/uploads/2012/09/shell_finding_concept_map.jpg
+ [1]: http://files.software-carpentry.org/training-course/2012/09/shell_finding_concept_map.jpg

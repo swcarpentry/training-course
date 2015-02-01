@@ -29,4 +29,4 @@ I found the Pedagogy part of &#8220;The Bigger Issues&#8221; a little dishearten
 
  [1]: http://computinged.wordpress.com/2012/12/21/the-bigger-issues-in-learning-to-code-culture-and-pedagogy/
  [2]: http://computinged.wordpress.com/2013/01/04/moocs-are-a-fundamental-misperception-of-how-learning-works/
- [3]: http://teaching.software-carpentry.org/wp-content/uploads/2012/08/guzdial.pdf
+ [3]: http://files.software-carpentry.org/training-course/2012/08/guzdial.pdf
