@@ -25,4 +25,4 @@ make serve
 ```
 
 You can then preview the site at
-[http://0.0.0.0:4000/software-carpentry-training-course/](http://0.0.0.0:4000/software-carpentry-training-course/).
+[http://0.0.0.0:4000/training-course/](http://0.0.0.0:4000/training-course/).
