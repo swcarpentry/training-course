@@ -34,6 +34,12 @@ and then, please do the following:
     required to show respect and courtesy throughout our workshops,
     online, and this training course.
 
+5.  If you weren't able to make yesterday's meeting, or have *not* had
+    mail from me either pairing you up with someone for Git tutoring
+    or telling you to just go ahead and write your bio, please mail
+    me: the Etherpad didn't record a couple of people's GitHub
+    usernames, and a few people weren't able to make the meeting.
+
 **Writing a Blog Post**
 
 Previous rounds of instructor training used a WordPress blog.  As the
