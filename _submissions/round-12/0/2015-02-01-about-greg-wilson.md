@@ -3,7 +3,7 @@ date: 2014-02-01
 round: Round 12
 title: About Greg Wilson
 author: Greg Wilson
-permalink: /2014/02/greg-wilson/
+permalink: /2015/02/greg-wilson/
 tags:
   - Biography
 ---
