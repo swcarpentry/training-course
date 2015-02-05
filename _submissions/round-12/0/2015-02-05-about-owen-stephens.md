@@ -11,4 +11,4 @@ tags:
 
 Owen organised the first [Mashed Library](http://www.mashedlibrary.com) - a series of unconferences for people interested in libraries and technology.
 
-He feels awkward writing about himself in the third person and I blog at [Overdue Ideas](http://www.meanboyfriend.com/overdue_ideas)
+He feels awkward writing about himself in the third person and I blog at [Overdue Ideas](http://www.meanboyfriend.com/overdue_ideas).
