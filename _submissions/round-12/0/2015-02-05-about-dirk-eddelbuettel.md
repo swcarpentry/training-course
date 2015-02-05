@@ -11,6 +11,6 @@ tags:
 [Dirk Eddelbuettel](http://dirk.eddelbuettel.com) has been contributing to
 [Debian](http://www.debian.org) as a developer / maintainer for almost two
 decades. Most of his open source focus these days centers around
-[R}(http://www.r-project.org) to which he has been contributing for well
+[R](http://www.r-project.org) to which he has been contributing for well
 over a decade. He works in Chicago as a senior quantitative analyst, and
 holds a PhD in Mathematical Economics from [EHESS](http://www.ehess.fr/en/ehess).
