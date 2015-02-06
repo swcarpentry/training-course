@@ -9,5 +9,5 @@ tags:
 ---
 Kyler Brown is a PhD candidate in neuroscience at the University of Chicago,
 where he studies motor control, using birdsong as a model system. 
-He uses the scientific Python stack for data analysis, and interested in creating a 
+He uses the scientific Python stack for data analysis, and is interested in creating a 
 Software Carpentry Workshop for his department.
