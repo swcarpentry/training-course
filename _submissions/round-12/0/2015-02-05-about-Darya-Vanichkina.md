@@ -1,5 +1,5 @@
 ---
-date: 2014-02-01
+date: 2015-02-07
 round: Round 12
 title: About Darya Vanichkina
 author: Darya Vanichkina
