@@ -1,4 +1,3 @@
-#Javier García Algarra
 ---
 date: 2015-02-07
 round: Round 12
