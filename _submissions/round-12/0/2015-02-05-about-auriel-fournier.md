@@ -1,7 +1,12 @@
-### Auriel M.V. Fournier
-#### PhD Candidate 
-#### Arkasas Cooperative Fish and Wildlife Research Unit
-#### University of Arkansas
+---
+date: 2015-02-09
+round: Round 12
+title: About Auriel Fournier
+author: Auriel Fournier
+permalink: /2015/02/auriel-fournier/
+tags:
+  - Biography
+---
 
 I'm a PhD Candidate with the Arkansas Cooperative Fish and Wildlife Research Unit. My project is trying to tease apart the fall migration ecology of [rails](http://aurielmvfournier.com/2013/07/field-season-2013-five-rails-the-who-behind-the-why/) and how wetland management in Missouri impacts them. So I spent three months of the year on an ATV in Missouri counting/following and other wise looking for rails. more info [here](http://aurielmvfournier.com/2014/07/wetland-management-and-rails/).
 
