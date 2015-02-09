@@ -3,7 +3,7 @@ date: 2015-02-05
 round: Round 12
 title: About Karl Broman
 author: Karl Broman
-permalink: /2015/02/karl-broman
+permalink: /2015/02/karl-broman/
 tags:
   - Biography
 ---
