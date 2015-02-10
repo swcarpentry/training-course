@@ -1,3 +1,13 @@
+---
+date: 2014-02-09
+round: Round 12
+title: About Kai Yang
+author: Kai Yang
+permalink: /2015/02/kai-yang/
+tags:
+  - Biography
+---
+
 # Kai Yang
 
 I was a software engineer at Microsoft and Sony Electronics, working on video pipeline. I think I can contribute to science community by advocating software maintainability and reproducibility with my experiences on large-scale systems. In the past I did have had frustrations with hard-to-read, hard-to-maintain C codes written by electrical engineers. I believe similar concerns might have been seriously perceived in science communities as more and more researchers are mutually relying on the codes written by them.
