@@ -1,5 +1,5 @@
 ---
-date: 2014-02-10
+date: 2015-02-10
 round: Round 12
 title: About Pandurang Kolekar
 author: Pandurang Kolekar
@@ -7,8 +7,6 @@ permalink: /2015/02/pandurang-kolekar/
 tags:
   - Biography
 ---
-
-#Pandurang Kolekar
 
 Hello everyone!
 I am PhD student at Bioinformatics Centre, University of Pune, Pune, India. 
