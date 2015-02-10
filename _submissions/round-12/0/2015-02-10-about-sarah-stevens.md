@@ -7,7 +7,7 @@ permalink: /2015/02/sarah-stevens/
 tags:
   - Biography
 ---
-[Sarah Stevens](https://sites.google.com/site/bactstevens/home) is a phD student in the [Microbiology Doctoral Training Program](http://www.microbiology.wisc.edu/) 
+[Sarah Stevens](https://sites.google.com/site/bactstevens/home) is a PhD candidate in the [Microbiology Doctoral Training Program](http://www.microbiology.wisc.edu/) 
 at the University of Wisconsin - Madison.  She works in the McMahon Lab, using metagenomes 
 and single-cell genomes to track microbial populations in two lakes in Wisconsin, 
 Lake Mendota and Trout Bog Lake.
