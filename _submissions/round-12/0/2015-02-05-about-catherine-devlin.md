@@ -14,3 +14,5 @@ was a Minnesotan and a chemical engineer, but today she
 lives in Dayton, Ohio.  She was the first chair of
 [PyOhio](http://pyohio.org) and has taught four rounds
 of the [Midwest Python Workshop for Women](http://catherinedevlin.blogspot.com/2013/08/python-workshop-for-women-indy-2-and.html).
+
+*What I found hardest about using Git the first time was...*

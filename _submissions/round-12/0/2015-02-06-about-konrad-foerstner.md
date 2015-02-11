@@ -15,3 +15,5 @@ editors](https://en.wikipedia.org/wiki/Emacs). Besides his research
 activities he tries to make the world a better place by spreading the
 idea of openness and reproducibility in science and beyond. Usually, he
 does not bite.
+
+*What I found hardest about using Git the first time was...*

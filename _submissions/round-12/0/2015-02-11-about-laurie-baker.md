@@ -9,3 +9,4 @@ tags:
 ---
 I am a PhD Candidate at the University of Glasgow, Scotland. My research focuses on the eradication of rabies in European foxes over the past 4 decades. Specifically, I am interested in studying the determinants of rabies persistence and evaluating how vaccination strategies can be optimized to eliminate infection. I am Maine native and a marine biologist by training with a strong interest in quantitative biology and programming. My past research has focused on topics ranging from grey seals to squid. 
 
+*What I found hardest about using Git the first time was...*

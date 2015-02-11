@@ -24,3 +24,5 @@ I have good knowledge of C, Java, Perl, Python and R. I am interested in develop
 In future, I would love to learn and teach programming and software development to empower the reserach in Life sciences. 
 
 I am looking forward to learn new skills. Thank you!
+
+*What I found hardest about using Git the first time was...*

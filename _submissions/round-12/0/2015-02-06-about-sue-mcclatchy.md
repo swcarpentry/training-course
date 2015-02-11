@@ -13,3 +13,5 @@ how to do quantitative trait locus analysis. It's good they don't know this - th
 She entered genomics after a first career as a K-12 teacher, in which she taught Advanced Placement Biology
 at private American schools in Latin America. Now she has the best of both careers - great students
 and a really interesting research lab setting.
+
+*What I found hardest about using Git the first time was...*

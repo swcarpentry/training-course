@@ -14,3 +14,5 @@ John doesn't do enough system administration in code, but what he has done
 has been in Perl, Python and CFEngine.
 John was an invited speaker at the LISA 14 conference on the subject of storage 
 system evaluation. He's fond of cake and talking about himself in the third person.
+
+*What I found hardest about using Git the first time was...*

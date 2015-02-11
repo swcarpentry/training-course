@@ -7,7 +7,6 @@ permalink: /2015/02/adam-richie-halford/
 tags:
   - Biography
 ---
-
 Adam Richie-Halford is a second year PhD student in the Department of
 Physics at the University of Washington and a Department of Energy
 [Computational Science Graduate Fellow](http://www.krellinst.org/csgf/).
@@ -23,3 +22,5 @@ You can learn more about Adam
 
  - on [GitHub](https://github.com/richford)
  - on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Jy76il8AAAAJ)
+
+*What I found hardest about using Git the first time was...*

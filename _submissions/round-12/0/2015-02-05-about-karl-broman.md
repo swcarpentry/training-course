@@ -7,7 +7,6 @@ permalink: /2015/02/karl-broman/
 tags:
   - Biography
 ---
-
 [Karl Broman](http://kbroman.org) is a professor in the Department of
 Biostatistics and Medical Informatics at the University of
 Wisconsin-Madison. He's an applied statistician working on problems in
@@ -19,3 +18,5 @@ one-credit course on
 [Tools for Reproducible Research](http://kbroman.org/Tools4RR) aimed
 at statistics graduate students (covering reproducible research
 concepts as well as R, knitr, Markdown, LaTeX, git, make).
+
+*What I found hardest about using Git the first time was...*

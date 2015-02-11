@@ -19,3 +19,5 @@ he is responsible for the mathematical modeling and computer
 multiphysics simulation of microreactors. Previously, during his
 studies, he also worked for a year at Bayer Technology Services
 (Germany) as a data analyst.
+
+*What I found hardest about using Git the first time was...*

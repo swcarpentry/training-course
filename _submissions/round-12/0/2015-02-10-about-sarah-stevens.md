@@ -17,3 +17,5 @@ facilitates discussion of methods among researchers at the University of Wiscons
 who study microbial ecology and evolution.  MoMiEE also contains a Python study group, which 
 Sarah also organizes.  Sarah is very interested in communicating science and teaching 
 researchers computational skills.
+
+*What I found hardest about using Git the first time was...*

@@ -13,3 +13,5 @@ large infrastructure and writing about the complexities of open source release
 engineering. She likes to share her knowledge of release engineering by teaching classes 
 or giving talks. Outside of work, she can be found hitting the pavement with her running 
 mates, preparing for the next road race.
+
+*What I found hardest about using Git the first time was...*
