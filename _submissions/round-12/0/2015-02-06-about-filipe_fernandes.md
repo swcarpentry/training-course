@@ -10,7 +10,7 @@ tags:
 [Filipe Fernandes](http://ocefpaf.github.io/homepage/) is a physical
 oceanographer interested in education and computer literacy.  During the day
 Filipe works for the Southeast Coastal Ocean Observing Regional Association
-([SECOORA](http://ocefpaf.github.io/secoora/) and at night writes a
+([SECOORA](http://ocefpaf.github.io/secoora/)) and at night writes a
 [blog](http://ocefpaf.github.io/python4oceanographers/) about the use of
 Python in oceanography.
 
