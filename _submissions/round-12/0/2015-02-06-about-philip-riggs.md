@@ -1,5 +1,5 @@
 ---
-date: 2015-02-1
+date: 2015-02-10
 round: Round 12
 title: About Philip Riggs
 author: Philip Riggs
