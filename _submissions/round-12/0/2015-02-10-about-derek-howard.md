@@ -10,3 +10,5 @@ tags:
 I'm a graduate student based at the Hospital for Sick Children in Toronto, Canada. My research is focused on the developmental regulation of single neuron properties and how this affects their informating processing. 
 
 Given the requirement for developing reproducible and shareable data analysis techniques, I am hoping to improve my programming and scientific software knowledge to help pass it on toother researchers. I am also particularly looking forward to learning about best practices in educational psychology and teaching scientific computing.
+
+*What I found hardest about using Git the first time was...*

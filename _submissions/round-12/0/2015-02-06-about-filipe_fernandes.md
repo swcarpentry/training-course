@@ -21,3 +21,5 @@ available, and open source with a CC license, on GitHub.
 [Weather and Climate](http://ocefpaf.github.io/weather_and_climate),
 [Waves and Tides](http://ocefpaf.github.io/waves_and_tides) and
 [Descriptive Oceanography](http://ocefpaf.github.io/descriptive_oceanography))
+
+*What I found hardest about using Git the first time was...*

@@ -14,3 +14,4 @@ Recently, Victor contributed to translation of [software carpentry](http://softw
 
 Victor have two master degrees(software engineering and statistics) and Ph.D ABD.
 
+*What I found hardest about using Git the first time was...*

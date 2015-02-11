@@ -16,3 +16,5 @@ He has a background in biomedical engineering and in the future, would like to
 transfer his interdisciplinary skills to a clinical setting. He is also
 occasionally a mentor for other students and enjoys teaching learners from age
 four and up.
+
+*What I found hardest about using Git the first time was...*

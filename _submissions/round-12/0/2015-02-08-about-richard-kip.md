@@ -19,3 +19,5 @@ Richard has worked for UCSB for the last 16 years in various roles;
 help desk, programmer, sysadmin, mentor, and manager. Most of this 
 work has been with open source tools and projects. He currently resides in 
 Santa Barbara with his wife and newborn son.
+
+*What I found hardest about using Git the first time was...*

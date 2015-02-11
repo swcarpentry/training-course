@@ -19,3 +19,5 @@ data processing, analysis, and visualization since a few years. I have some
 experience with Linux/Bash as well. I am looking forward to learn more
 about teaching in general and about how to best help others learn about programming and
 good coding practices.
+
+*What I found hardest about using Git the first time was...*

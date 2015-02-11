@@ -12,3 +12,5 @@ He has worked for more than 11 years in a variety of industries utilizing a
 variety of languages. He has experience in software best practices including
 code reviews, agile development and continuous integration.
 Avijit has a Bachelors in computer engineering, and presently lives in Toronto.
+
+*What I found hardest about using Git the first time was...*

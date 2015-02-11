@@ -13,3 +13,4 @@ large portion of the work on the Human Genome Project. Simon writes
 software for HPC operations in python, and is learning R, Go and Ruby.
 He also helps run the International Discworld Convention. 
 
+*What I found hardest about using Git the first time was...*

@@ -15,5 +15,4 @@ Darya currently lives in Brisbane, and in her free time braves the local flora a
 
 True to her name, Darya does speak Russian, although she also spent nine years in the US as a child, and has been rated as sounding more American than her Californian boss by everyone in her lab. 
 
-
-
+*What I found hardest about using Git the first time was...*
