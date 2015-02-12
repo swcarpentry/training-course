@@ -14,3 +14,5 @@ My academic background is in computer science. At U .of Utah, I wrote master the
 My motivations to join SWC are to obtain credentials for teaching positions, help scientists in software and data engineering, and learn from scientists' perspectives for my future algorithm and tool development in data science. 
 
 *What I found hardest about using Git the first time was...*
+
+I had no way to figure out whether my pull request had been successfully received. When I clicked "Create Pull Request" for the same file, I had no idea about the status of my original request. 

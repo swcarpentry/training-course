@@ -16,3 +16,6 @@ Darya currently lives in Brisbane, and in her free time braves the local flora a
 True to her name, Darya does speak Russian, although she also spent nine years in the US as a child, and has been rated as sounding more American than her Californian boss by everyone in her lab. 
 
 *What I found hardest about using Git the first time was...*
+The first time I used git I struggled with the concepts of staging and committing - why did you need to have two separate areas for these two processes: was git commitment-phobic???
+
+And while I use git daily for version control of my work, and to edit text files with a small group of technologically savvy collaborators, I still struggle with the proper ways of working with git in a large group environment, with multiple branches used by multiple people that can be adequately merged into one final beautiful codebase.  
