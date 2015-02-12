@@ -17,4 +17,4 @@ I'm looking forward to learning alot more about evidence-based teaching!
 
 *What I found hardest about using Git the first time was...*
 Understanding how to merge files using the command line! I use git frequently, but mostly as a version control, and at most with 2 or 3 other people working on separate files within the same repository. The social coding aspect is still a little hard to me, even after using git for a few years.
-In addition, my R workspace often exceeds the 100mb upload and causes pushes to fail. Removing a file from a past git commit if a difficult and annoying task. 
+In addition, my R workspace often exceeds the 100mb upload and causes pushes to fail. Removing a file from a past git commit is a difficult and annoying task. 
