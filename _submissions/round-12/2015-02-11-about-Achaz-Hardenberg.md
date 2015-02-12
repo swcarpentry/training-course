@@ -1,3 +1,12 @@
+---
+date: 2015-02-11
+round: Round 12
+title: About Achaz von Hardenberg
+author: Achaz von Hardenberg
+permalink: /2015/02/Achaz-Hardenberg/
+tags:
+  - Biography
+---  
 Achaz von Hardenberg is a wildlife ecologist working at the *Alpine Wildlife Research Centre* of the *Gran Paradiso National Park*, Italy. 
 His main research interests are in behavioural ecology, population dynamics, molecular ecology, biodiversity monitoring, conservation 
 and in the application of both Bayesian and classical statistical approaches to model ecological data.  
