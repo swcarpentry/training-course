@@ -25,10 +25,10 @@ available, and open source with a CC license, on GitHub.
 *What I found hardest about using Git the first time was...*
 
 ... I had some experience with SVN (Centralized) and Mercurial
-(Decentralized), that made my transition to git a little bit smoother than
+(Decentralized) that made my transition to git a little bit smoother than
 usual.  However, there are several git commands and actions that I found hard
-to wrap my mind around like: rebasing, cherry picking, squashing and etc.
+to wrap my mind around, such as rebasing, cherry picking, squashing, etc.
 Some of those I eventually got the hang of, while others I am only able to
 execute like a "first time cooker" following a recipe.  If I had to summarized
-in one answer I guess that what I found hardest about git is its complexity to
-perform tasks that where simple with SVN.
+I guess that what I found hardest about git is "its complexity to perform
+tasks that were simple with SVN."
