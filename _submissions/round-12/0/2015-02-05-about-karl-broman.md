@@ -20,3 +20,6 @@ at statistics graduate students (covering reproducible research
 concepts as well as R, knitr, Markdown, LaTeX, git, make).
 
 *What I found hardest about using Git the first time was...*
+remembering to pull my collaborator's changes before making my own
+changes. But my most vivid nightmares about Git concern detached HEAD
+states.
