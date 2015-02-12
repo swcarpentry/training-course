@@ -11,4 +11,4 @@ I was born when [Ticket to ride](https://www.youtube.com/watch?v=VMxyK9azXR4) wa
 at [Telefónica R&D branch](http://www.tid.es) and I have developed SW for more than 25 years. I hold a Ph.D. in Art History and I
 am currently finishing the second one in Science, working in models of population biology at [UPM](http://www.upm.es). I found very interesting the idea of Software Carpentry because scientific programming can benefit a lot of software industry best practices.
 
-*What I found hardest about using Git the first time was...*
+What I found most strange about using Git the first time was that it has not a strong concept of release, like SVN, for instance. It took me a while to understand that it is unnecesary.
