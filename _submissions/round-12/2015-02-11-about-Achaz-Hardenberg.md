@@ -3,6 +3,7 @@ date: 2015-02-11
 round: Round 12
 title: About Achaz von Hardenberg
 author: Achaz von Hardenberg
+permalink: /2015/02/achaz-hardenberg/
 tags:
   - Biography
 ---  
