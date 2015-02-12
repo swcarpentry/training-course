@@ -12,3 +12,5 @@ tags:
 She is a 2015 Fellow of the [Software Sustinability Institute](http://software.ac.uk) and hopes to run Software Carpentry training sessions in Wolverhampton and at [PyConUK 2015](http://pyconuk.org/).
 
 *What I found hardest about using Git the first time was...*
+
+Figuring out which fork of a repo is *upstream* and which is *downstream*.

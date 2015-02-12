@@ -18,4 +18,8 @@ who study microbial ecology and evolution.  MoMiEE also contains a Python study 
 Sarah also organizes.  Sarah is very interested in communicating science and teaching 
 researchers computational skills.
 
-*What I found hardest about using Git the first time was...*
+What I found hardest about using Git the first time was understanding which commands were 
+for Git and which were for GitHub.  In this first exercise, what I struggled with was updating my 
+branch with upstream, since you have to use `git checkout gh-pages` and `git merge upstream/gh-pages` 
+where examples online instead use `git checkout master` and `git merge upstream/master`.  It 
+took me a couple tries to realize I needed to use the gh-pages branch instead.
