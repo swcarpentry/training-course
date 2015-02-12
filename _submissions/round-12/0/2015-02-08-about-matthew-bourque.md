@@ -20,3 +20,5 @@ computing, but he is also a big supporter of open source and collaborative
 programming.  Matthew is excited to develop teaching skills and learn best
 practices that will help him spread programming knowledge and skills to others
 in various analytical fields.
+
+*What I found hardest about using Git the first time was...*

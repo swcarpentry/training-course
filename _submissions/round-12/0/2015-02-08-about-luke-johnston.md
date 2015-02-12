@@ -28,3 +28,5 @@ show me the best ways to teach researchers these concepts.
 I (occasionally) write on my
 [blog](http://lwjohnst86.github.io/about/) when I am not busy doing
 analyses.
+
+*What I found hardest about using Git the first time was...*

@@ -11,3 +11,5 @@ tags:
 microscopist-turned-software enthusiast.  He enjoys learning and gets
 excited about helping other people learn.  He is especially excited about
 helping people get a great start in coding practices.
+
+*What I found hardest about using Git the first time was...*

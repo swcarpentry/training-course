@@ -24,3 +24,5 @@ have.
 
 In what spare time remains, he juggles, unicycles (preferably off-road)
 and rock climbs. He also likes reading.
+
+*What I found hardest about using Git the first time was...*
