@@ -13,6 +13,6 @@ She spends her weekends wandering across hillsides with a very enthusiastic pup 
 
 *What I found hardest about using Git the first time was...*
 
-While I've used git to do version control on my own work, I've never submitted code or worked with collaborators on a repo. I found it difficult to wrap my head around the proper strategy and syntax to get this working from the command line without directly pushing to the master branch.   
+While I've used git to do version control on my own work, I've never worked with collaborators on a repo. I found it difficult to wrap my head around the proper strategy and syntax to get this working from the command line without directly pushing to the master branch.   
 
 
