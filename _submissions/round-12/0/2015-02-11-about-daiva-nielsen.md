@@ -15,3 +15,8 @@ I am currently arranging my plans for a post-doctoral fellowship and am still in
 My life at the moment leaves me little free time, but I do manage to fit in activities outside of my laptop and the lab/classroom. I am a proud member of the Toronto Lithuanian Youth Choir and travel around North America performing Lithuanian songs at heritage events.
 
 *What I found hardest about using Git the first time was...*
+<<<<<<< HEAD
+=======
+
+I have been using Git/GitHub for about 6 months and am mainly using it with a colleague to coordinate a project we are working on. It has made collaboration so much easier. When I was just starting with Git I had trouble with adding/committing changes effectively. I would make many edits to many files and then do one large add/commit. This wasn't very useful to our project's log and I realized it was more effective for me to commit smaller chunks of edits more frequently. 
+>>>>>>> upstream/gh-pages
