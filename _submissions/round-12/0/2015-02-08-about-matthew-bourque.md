@@ -22,4 +22,14 @@ collaborative programming.  Matthew is excited to develop teaching skills and
 learn best practices that will help him spread programming knowledge and
 skills to others in various analytical fields.
 
-*What I found hardest about using Git the first time was...*
+What I found hardest about using Git for the first time was the fact that a 
+branch is snapshot of the entire repository rather than a separate set of 
+physical files. Learning Git as a SVN user, it was a bit difficult to
+understand that a particular file can exist in several different states, yet be
+stored in the same location within the repository.  As a result, I often found
+myself accidentally modifying files under the incorrect branch.
+
+I have now been using Git and Github for a little over two years and now have
+a good understanding of the Git model.  However, most of my work on Git/Github
+has been in an individual effort, so working on remote repositories with
+other collaborators is a new avenue for me.
