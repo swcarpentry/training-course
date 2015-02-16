@@ -504,7 +504,7 @@ know you all.
     -   The difference between novice, competent and expert and how
         experts can be bad teachers because they jump from A-Z with
         little explanation
--   Sarah Wiebe (George Brown College): linuxchiq 0.1
+-   Sarah (college): linuxchiq 0.1
     -   That there is a physiological reason that after 45 mins your
         brain shuts down. :)
 -   John Girgis (university of Ottawa - EST Time Zone): Noiraud, 0.4;
