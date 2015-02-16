@@ -11,9 +11,6 @@ Kristopher Keipert is a PhD student in theoretical chemistry at Iowa State Unive
 He is interested in utilizing high performance computing on heteregeneous architectures to solve
 scientific problems. He is an enthusiastic fan of the Detroit Red Wings, Python, and the open-source 
 movement.
-<<<<<<< HEAD
-=======
 
 *What I found hardest about using Git the first time was...*
 Remembering the differences between each data transport command. Push, pull, commit, fork, merge, clone...
->>>>>>> upstream/gh-pages
