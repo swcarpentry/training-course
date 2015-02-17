@@ -12,3 +12,8 @@ to atmospheric science for PhD. She spends much more time working with software 
 she had ever thought she would. She now enjoys working on both - science and software!
 
 *What I found hardest about using Git the first time was...*
+
+I used Git first time almost 3 years ago and my previous experiences with version 
+control systems were based on baazar. 
+The most difficult thing about Git for me was (and still is!) the number 
+of options and number of ways to achieve the same result, or *almost* the same... 
