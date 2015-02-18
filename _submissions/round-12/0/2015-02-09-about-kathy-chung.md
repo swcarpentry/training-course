@@ -7,9 +7,10 @@ permalink: /2015/02/kathy-chung/
 tags:
   - Biography
 ---
-
 Kathy Chung has a recent PhD in Drama from U of Toronto and a very
-old BAsc in Civil Engineering.  She has worked as a learning skills
+old BASc in Civil Engineering.  She is interested in computing in 
+the humanities and social sciences.  She has worked as a learning skills
 counsellor and a writing instructor at U of T.  She is curious about
-what SWC is doing and wants to learn more.  She is also interested
-in computing in the humanities and sings tenor in a choir.
+what SWC is doing and wants to learn more.  She is interested in
+computing in the humanities and social sciences. Kathy also sings tenor
+in the Hart House Chorus.

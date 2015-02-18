@@ -19,3 +19,14 @@ he is responsible for the mathematical modeling and computer
 multiphysics simulation of microreactors. Previously, during his
 studies, he also worked for a year at Bayer Technology Services
 (Germany) as a data analyst.
+
+*What I found hardest about using Git the first time was...*
+Precisely, to pull the changes from the original (forked)
+repository. There were to many new concepts and it was difficult to configure
+the upstream properly (pull didn't work out of the box). 
+On the other hand, reverting file changes in case of conflict
+was also painful and I found myself, copying new files in other location
+and deleting the repository in order to forking it again.
+This time was surprisingly easier, but now I have a better understanding of
+git, branching (learned thanks to swcarpentry) and the nomenclature which 
+could be complex for a non-native English speaker ;) 

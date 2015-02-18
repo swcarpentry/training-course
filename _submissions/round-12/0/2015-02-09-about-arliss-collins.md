@@ -11,3 +11,5 @@ Arliss Collins is the training coordinator for the Mozilla Science Lab, an open 
  partner. When she's not managing the lives of two very busy kids she works on educational activities and trainings for Mozilla, including Software Carpentry
 workshops globally. After working with the Software Carpentry instructors for over a year she is ready to become part of the team.
 She is educated as a geophysical engineer and an avid curler.
+
+*What I found hardest about using Git the first time was...*

@@ -19,3 +19,13 @@ data processing, analysis, and visualization since a few years. I have some
 experience with Linux/Bash as well. I am looking forward to learn more
 about teaching in general and about how to best help others learn about programming and
 good coding practices.
+
+*What I found hardest about using Git the first time was...*
+
+I have no experience with version control systems, so it took a while to
+figure out what a pull request is, still a lot to learn I think, and am not
+really sure what the difference between a fork and a branch is. I am using Git
+from the command line, and as it was hard to remember all new commands
+I used an IPython Notebook for most of work flow, this made it easier I think.
+Haven't tried rebasing, squashing etc. I found a graphical interface that
+illustrates branches etc ('gitg'), this was helpful too. 
