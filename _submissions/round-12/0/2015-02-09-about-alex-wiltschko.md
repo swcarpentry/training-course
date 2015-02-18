@@ -11,4 +11,4 @@ I was born and raised in Texas, then traveled north to earn a B.S. in Neuroscien
 
 When away from the lab bench or the computer keyboard, I enjoy landscape photography, playing squash, and practicing billiards.
 
-*What I found hardest about using Git the first time was...*
+*What I found hardest about using Git the first time was...* that certain operations felt irreversible. For instance, if you add a file to be committed, it's not clear how to un-add that file. The reverse of many (most?) operations in git are completely separate operations with large impedance mismatches, in terms of complexity and thought required to execute properly.
