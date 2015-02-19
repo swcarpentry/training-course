@@ -12,3 +12,5 @@ Her undergraduate degree was in cellular, molecular and microbial biology, and s
 Heather is a volunteer with [Let's Talk Science](http://www.letstalkscience.ca), a Canada-wide non-profit organization that delivers free hands-on science demonstrations and activities to youth.
 
 *What I found hardest about using Git the first time was...*
+initiating and/or cloning repositories in the correct directories. Sometimes I think I have done it correctly, but discover .git is located in my root directory instead.
+I first learned about and began using Git in May of last year and am still getting myself in the habit of committing my files on a regular basis.

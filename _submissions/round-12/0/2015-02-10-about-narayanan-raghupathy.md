@@ -10,3 +10,7 @@ tags:
 Narayanan Raghupathy is a post-doc at The Jackson Laboratory and working on developing computational and statistical methods for analyzing high-throughput sequence data. In an earlier life he studied Physics, but jumped ship to work at the intersection on biology, computer science, and statistics. More recently he got interested in reproducible open science and wants to practice it in real life.
 
 *What I found hardest about using Git the first time was...*
+
+The hardest part of using git is getting my head wrapped around forking other people's directory and making changes and merging it. 
+
+
