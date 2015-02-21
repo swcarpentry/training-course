@@ -55,7 +55,15 @@ If you'd like inspiration, please look at:
 -   <http://swcarpentry.github.io/training-course/2014/09/concept-map-primary-and-foreign-keys-in-sql/>
 -   <http://swcarpentry.github.io/training-course/2014/09/concept-map-git-3-collaborating/>
 
-Or page 229 of the hardcover copy of "How Learning Works"
+Or page 229 of the hardcover copy of "How Learning Works".  You may also enjoy:
+
+-   <http://files.software-carpentry.org/training-course/2012/08/cherubini-venolia-whiteboard-2007.pdf>
+-   <http://files.software-carpentry.org/training-course/2012/08/harskamp-mayer-modality.pdf>
+-   <http://files.software-carpentry.org/training-course/2012/08/mayer-reduce-cognitive-load.pdf>
+-   <http://www.washingtonpost.com/blogs/answer-sheet/wp/2013/05/15/what-if-finlands-great-teachers-taught-in-u-s-schools-not-what-you-think/>
+-   <http://hechingerreport.org/content/ed-tech-promoters-need-understand-us-learn_16821/>
+-   <http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf>
+-   <https://twitter.com/tpoi/status/509846902737625088>
 
 **10:00 EST**
 
