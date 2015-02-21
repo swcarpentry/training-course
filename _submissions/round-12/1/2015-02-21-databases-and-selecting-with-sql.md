@@ -18,6 +18,8 @@ Here's the rough draft of the introductory SQL concept map.
 
 ![Concept map for SQL selection](https://i.imgur.com/rdD4MlJ.jpg)
 
-It's meant to show the main elements of a relational
-database and to introduce the SQL `SELECT`*`field_name,
-field_name`*`FROM`*`table_name`*`;` statement.
+It's meant to show the main elements of a relational database and
+to introduce the SQL statement
+<code>
+SELECT <i>field_name, field_name</i> FROM <i>table_name</i>;
+</code>
