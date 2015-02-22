@@ -11,7 +11,9 @@ tags:
 I'm a little weak on R at the command line, so I figured I'd do a refresher from the course [Command-Line Programs](https://swcarpentry.github.io/r-novice-inflammation/06-cmdline.html).
 
 Here's my version:
-<img src="https://imgur.com/YqpmIQF" alt="concept map of R scripts at command line">
+![concept map of R scripts at command line](https://imgur.com/rdD4MlJ.jpg)
+
+
 
 
 
