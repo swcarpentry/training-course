@@ -13,7 +13,7 @@ After reading the [Pipes and Filters
 Lesson](http://swcarpentry.github.io/shell-novice/03-pipefilter.html), here is
 my attempt to get the core concepts of connecting commands by pipes
 
-![Concept map for Pipes](http://i.imgur.com/P1z9bHp.jpg)
+![Concept map for Pipes](http://i.imgur.com/P1z9bHp.jpg?2)
 
 I'm attempting to show the concept of a program's output, and how it is
 independent of the program itself - that it may be sent off to another program,
