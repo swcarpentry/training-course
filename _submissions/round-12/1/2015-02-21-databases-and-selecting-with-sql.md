@@ -16,10 +16,7 @@ on selecting data in SQL.
 
 Here's the rough draft of the introductory SQL concept map.
 
-<a href="https://i.imgur.com/rdD4MlJ.jpg">
-<img src="https://i.imgur.com/rdD4MlJ.jpg" 
-alt="Concept map for SQL selection" 
-align="middle" width="400"></a>
+![Concept map for SQL selection](https://i.imgur.com/rdD4MlJ.jpg)
 
 It's meant to show the main elements of a relational database and
 to introduce the SQL statement
