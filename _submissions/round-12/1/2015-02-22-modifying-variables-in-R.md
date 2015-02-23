@@ -8,7 +8,6 @@ tags:
   - Concept Maps
   - R
 ---
-
 The map below relates to the
 [introductory R lesson](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html) 
 on variables and assignments.

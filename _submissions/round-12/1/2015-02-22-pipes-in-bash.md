@@ -12,5 +12,3 @@ tags:
 I created a concept map for part of the Shell lessons, specifically [pipes in bash](http://swcarpentry.github.io/shell-novice/03-pipefilter.html). In this map I've attempted to capture the purposes for using pipes as well as how they are used and what they are composed of. 
 
 ![Concept map of pipes in bash](http://imgur.com/tbnRXWW)
-
-
