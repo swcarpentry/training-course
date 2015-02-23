@@ -14,3 +14,5 @@ He contributed to the R library called [picante](http://cran.r-project.org/web/p
 He's very interested in both new ways of communicating and demystifying technical subjects and especially any way to make all types of learning a more active experience.
 
 *What I found hardest about using Git the first time was...*
+
+It was (and still is) hard for me to keep all possible git workflows in my head.  And when I started it was with a few different groups that used different workflows.  I feel like at the beginnning if I had learned one workflow very well and then gradually added all the git nuances and complexity it would have been a less frustrating learning experience.

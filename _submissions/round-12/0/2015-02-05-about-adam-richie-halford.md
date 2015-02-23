@@ -24,3 +24,16 @@ You can learn more about Adam
  - on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Jy76il8AAAAJ)
 
 *What I found hardest about using Git the first time was...*
+
+...its differences from SVN. I had some familiarity with SVN when I
+first started using Git. I tried to apply my previous experience with
+SVN workflows to a Git workflow. This was initially confusing because
+in Git there are many more places where the "source" can exist. This
+is a great example of the "inappropriate prior knowledge" that Susan
+Ambrose discusses in [How Learning Works](http://amzn.com/0470484101).
+For simple, local Git workflows, the SVN workflow serves as a useful
+analogy for a Git workflow. For example, both SVN and Git have `add`
+and `commit` commands. But the analogy breaks down when one starts to
+consider the *distributed* Git workflow. Borrowing Ambrose's jargon
+once more, learning git became much easier for me once I understood the
+"conditions of applicability" of my prior experience with SVN.
