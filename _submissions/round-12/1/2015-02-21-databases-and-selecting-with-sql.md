@@ -1,7 +1,7 @@
 ---
 date: 2015-02-21
 round: Round 12
-title: Second Meeting for Round 12
+title: Selecting Data in SQL
 author: Adam Richie-Halford
 permalink: /2015/02/databases-selecting-with-sql/
 tags:
