@@ -8,7 +8,7 @@ tags:
   - Concept Map
   - R
 ---
-From here: http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html
+From here: <http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html>
 
 ![Concept map for manipulating data with R](http://i.imgur.com/OX7V0vh.jpg)
 

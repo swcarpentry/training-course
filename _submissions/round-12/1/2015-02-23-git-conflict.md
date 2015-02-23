@@ -1,7 +1,7 @@
 ---
 date: 2015-02-23
 round: Round 12
-title: Git Conflict - Auriel Fournier
+title: Git Conflict
 author: Auriel Fournier
 permalink: /2015/02/git-conflict/
 tags:
