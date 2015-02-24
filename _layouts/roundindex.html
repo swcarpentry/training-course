@@ -6,10 +6,13 @@ layout: default
     <h1>{{ page.title }}</h1>
   </div>
   {% assign submissions = site.submissions | where:"round",page.title | sort: 'date' %}
+  <table class="table table-striped">
   {% for submission in submissions reversed %}
-  <h3>
-    <a href="{{ submission.url | prepend: site.baseurl }}">{{ submission.title }}</a>
-    <small>Submitted by {{ submission.author }} on {{ submission.date | date: "%b %-d, %Y" }}</small>
-  </h3>
+  <tr>
+    <td><a href="{{ submission.url | prepend: site.baseurl }}">{{ submission.title }}</a></td>
+    <td>{{ submission.author }}</td>
+    <td>{{ submission.date | date: "%b %-d, %Y" }}</td>
+  </tr>
   {% endfor %}
+  </table>
 </div>
