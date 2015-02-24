@@ -1,7 +1,7 @@
 ---
 date: 2015-02-24
 round: Round 12
-title: Second Meeting for Round 12
+title: Loading data in R
 author: Remi Daigle
 permalink: /2015/02/R-at-command-line/
 tags:
