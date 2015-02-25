@@ -5,11 +5,10 @@ title: Pipes and Filters Concept Map
 author: Daniel Wheeler
 permalink: /2015/02/pipes-and-filters/
 tags:
-  - Concept Maps
+  - Concept Map
   - Pipes
   - Filters
 ---
-
 Here is my concept map for pipes and filters. I wanted to convey the
 difference between redirection and pipes. The [pipes and filters
 lesson](http://swcarpentry.github.io/shell-novice/03-pipefilter.html)

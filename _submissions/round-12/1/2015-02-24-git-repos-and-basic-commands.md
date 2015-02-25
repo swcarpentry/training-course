@@ -5,7 +5,7 @@ title: Concept Map Git Repos and Basic Commands
 author: Kathy Chung
 permalink: /2015/02/git-repos-and-basic-commands/
 tags:
- - Concept Maps
+ - Concept Map
  - Git
 ---
 

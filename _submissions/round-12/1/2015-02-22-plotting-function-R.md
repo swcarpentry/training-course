@@ -1,15 +1,13 @@
 ---
 date: 2015-02-22
 round: Round 12
-title: Second Meeting for Round 12
+title: Concept Map for Plot() in R
 author: Ben Weinstein
 tags:
   - R
   - plot
+  - Concept Map
 ---
-
-#Concept Map for Plot() in R
-
 [Link to Software Carpentry Lesson](http://software-carpentry.org/v5/novice/r/01-starting-with-data.html)
 
 I tried to imagine a new R user, what would be all the pieces needed to start discussing the plot() function?

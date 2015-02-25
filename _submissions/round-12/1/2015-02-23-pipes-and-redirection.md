@@ -5,7 +5,7 @@ title: Pipes and Redirection Concept Map
 author: Simon Fraser
 permalink: /2015/02/pipes-and-redirection/
 tags:
-  - Concept Maps
+  - Concept Map
   - Pipes
 ---
 After reading the [Pipes and Filters

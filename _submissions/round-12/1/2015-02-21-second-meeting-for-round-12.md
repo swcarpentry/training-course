@@ -5,7 +5,7 @@ title: Second Meeting for Round 12
 author: Greg Wilson
 permalink: /2015/02/second-meeting/
 tags:
-  - Concept Maps
+  - Concept Map
 ---
 Meeting 2: Feb 19, 2015
 

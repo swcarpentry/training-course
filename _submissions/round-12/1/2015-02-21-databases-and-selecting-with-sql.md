@@ -5,7 +5,7 @@ title: Selecting Data in SQL
 author: Adam Richie-Halford
 permalink: /2015/02/databases-selecting-with-sql/
 tags:
-  - Concept Maps
+  - Concept Map
   - SQL
 ---
 I don't know much about SQL so when we were asked to create a concept
