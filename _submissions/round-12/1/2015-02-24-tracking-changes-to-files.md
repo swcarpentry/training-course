@@ -16,4 +16,4 @@ The lesson covers how to check the status of files in the repository, how to add
 
 Please review my concept map and help me improve it:
 
-[Tracking changes to files](http://imgur.com/tkC9uDy)
+[Tracking changes to files](http://i.imgur.com/tkC9uDy.jpg)
