@@ -30,3 +30,16 @@ I (occasionally) write on my
 analyses.
 
 *What I found hardest about using Git the first time was...*
+
+I've been using Git daily for the last year.  Git was my first
+exposure to version control, so there was no unlearning for me.  Given
+that, the hardest part about Git was *getting myself to actually start
+using it*.  I had frequently read that Git was sometimes confusing and
+difficult, and so I was apprehensive about starting to use it, mainly
+because I didn't always have time to devote to learning something new.
+However, having used it for a full year now, I can say that Git has
+actually be a lot more enjoyable (for me) compared to other
+experiences I've had with statistical coding.  Maybe the warnings
+about Git mentally prepared me for it, but, I wish I had of started
+sooner (TBH, I stalled in using it for about 2-3 months, so not that
+long).
