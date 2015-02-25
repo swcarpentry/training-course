@@ -11,4 +11,4 @@ tags:
 
 This concept maps links the the four major concepts from [this lesson](http://swcarpentry.github.io/git-novice/01-backup.html) on tracking changes to files using git.
 
-![Track Changes with Git](https://flic.kr/p/rkjcCG)
+<a href="https://flic.kr/p/rkjcCG"><img src="https://farm9.staticflickr.com/8612/16627483772_ac3f1db481_z.jpg" width="640" height="427" alt="Track Changes with Git"></a>
