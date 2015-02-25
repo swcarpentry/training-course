@@ -1,7 +1,7 @@
 ---
 date: 2015-02-25
 round: Round 12
-title: Programming with R: Creating functions Concept Map
+title: Programming with R - Creating functions Concept Map
 author: Darya Vanichkina
 permalink: /2015/02/25/creatingfunctionsR-conceptmap/
 tags:
