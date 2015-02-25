@@ -15,7 +15,7 @@ http://swcarpentry.github.io/python-novice-inflammation/04-func.html
 This concept map is intended to illustrate functions in programming languages, including the design and use of functions.
 
 Please review and download at 
-[Functions in Programming Languages](http://imgur.com/gWC7JpI)
+[Functions in Programming Languages](http://i.imgur.com/gWC7JpI.jpg)
 
  
 
