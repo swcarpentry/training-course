@@ -1,5 +1,5 @@
 ---
-date: 2015-02-018
+date: 2015-02-18
 round: Round 12
 title: About Jessica Gallinger
 author: Jessica Gallinger
