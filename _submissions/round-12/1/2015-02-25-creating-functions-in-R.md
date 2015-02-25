@@ -5,7 +5,7 @@ title: Creating Functions in R
 author: Sue McClatchy
 permalink: /2015/02/creating-functions-in-R/
 tags:
-  - Concept Maps
+  - Concept Map
   - Functions
 ---
 The map below relates to the

@@ -5,7 +5,7 @@ title: Modifying Variables in R
 author: Dirk Eddelbuettel
 permalink: /2015/02/modifying-variables-in-R/
 tags:
-  - Concept Maps
+  - Concept Map
   - R
 ---
 The map below relates to the

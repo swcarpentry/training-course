@@ -5,7 +5,7 @@ title: Loading data in R
 author: Remi Daigle
 permalink: /2015/02/R-at-command-line/
 tags:
-  - Concept Maps
+  - Concept Map
   - R
 ---
 One of the biggest stumbling blocks to learning R is first getting your data into R. I mapped out this part of this part of the [Analyzing Patient Data](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html) lesson.

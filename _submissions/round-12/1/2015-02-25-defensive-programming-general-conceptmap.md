@@ -3,7 +3,7 @@ date: 2015-02-25
 round: Round 12
 title: Defensive programming concept map
 author: Vladimir Sudilovsky
-permalink: /2015/02/25/defensive-programming-general-conceptmap/
+permalink: /2015/02/defensive-programming-general-conceptmap/
 tags:
   - Defensive Programming
   - Concept Map

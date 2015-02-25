@@ -2,8 +2,8 @@
 date: 2015-02-25
 round: Round 12
 title: Unix: relative and absolute paths
-author: DonnaHenderson
-permalink: /2015/02/25/relative_and_absolute_paths/
+author: Donna Henderson
+permalink: /2015/02/relative-and-absolute-paths/
 tags:
   - Unix
   - Concept Map

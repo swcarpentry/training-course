@@ -8,8 +8,8 @@ tags:
   - Programming
   - Debugging
   - Testing
+  - Concept Map
 ---
-
 My concept map illustrates the concept of test-driven development from the [Programming with Python - Defensive Programming](http://swcarpentry.github.io/python-novice-inflammation/05-defensive.html) lesson.
 
 Here is my sketch concept map.  Comments welcome!

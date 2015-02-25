@@ -5,11 +5,10 @@ title: Git Conflict
 author: Auriel Fournier
 permalink: /2015/02/git-conflict/
 tags:
-  - Concept Maps
+  - Concept Map
   - Git
   - Conflict
 ---
-
 After reading the [Conflicts Lesson](https://swcarpentry.github.io/git-novice/03-conflict.html), here is
 my attempt to visualize how conflict resolution works. 
 

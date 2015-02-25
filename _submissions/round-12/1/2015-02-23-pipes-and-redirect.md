@@ -5,10 +5,9 @@ title: Pipes and Redirection in Bash
 author: Amy Boyle
 permalink: /2015/02/pipes-are-rad/
 tags:
-  - Concept Maps
+  - Concept Map
   - Pipes
 ---
-
 I created a concept map for the lesson on [pipes and redirection](http://swcarpentry.github.io/shell-novice/03-pipefilter.html) in bash.
 
 ![Pipes Redirection Concept Map](http://i.imgur.com/MWRMU7a.jpg?1)
