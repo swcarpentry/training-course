@@ -1,7 +1,7 @@
 ---
 date: 2015-02-25
 round: Round 12
-title: About Kai Yang
+title: Functions in Programming Languages
 author: Kai Yang
 permalink: /2015/02/functions-in-programming-languages/
 tags:
