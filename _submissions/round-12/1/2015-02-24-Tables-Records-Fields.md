@@ -16,4 +16,4 @@ SQL provides several orders of magnitude more functionality than a spreadsheet e
 
 Here's my rough sketch concept map: 
 
-![Concept Map for Tables-Records-Fields](http://imgur.com/vy2GPWx.jpg)
+<a href="http://imgur.com/vy2GPWx.jpg"><img src="http://imgur.com/vy2GPWx.jpg" alt="Conept Map for Tables-Records-Fields" width="650px" /></a>

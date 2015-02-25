@@ -19,4 +19,6 @@ tricker constructing this than I had anticipated!
 
 You can view the concept map here:
 
+<iframe src="https://drive.google.com/file/d/0BwcpijIuzsgrYXR1RFdtTHJFMHc/preview" width="640" height="480"></iframe>
+
 ![Unix Files and Folders](https://drive.google.com/file/d/0BwcpijIuzsgrYXR1RFdtTHJFMHc/view?usp=sharing)

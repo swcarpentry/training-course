@@ -22,4 +22,4 @@ overcome that prejudice by:
 The lesson on [python functions](http://swcarpentry.github.io/python-novice-inflammation/04-func.html)
 does (1) well, and the simple concept map below might help with (2).
 
-![Concept map for Python Functions](http://imgur.com/r7zm9XJ)
+<a href="http://i.imgur.com/r7zm9XJ.jpg"><img src="http://i.imgur.com/r7zm9XJ.jpg" width="500px" alt="Concept map for Python Functions" /></a>
