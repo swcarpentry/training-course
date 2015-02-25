@@ -8,6 +8,7 @@ tags:
   - Git
   - Changes
   - Tracking
+  - Concept map
 ---
 
 My concept map covers the concepts covered in the Software Carpentry lesson ["Tracking changes to files"](http://swcarpentry.github.io/git-novice/01-backup.html).
