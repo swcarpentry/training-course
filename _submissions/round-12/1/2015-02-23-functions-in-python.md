@@ -11,4 +11,4 @@ My concept map is for the lesson [Creating Functions](http://swcarpentry.github.
 
 Here's my map:
 
-![Concept map for functions in Python](http://imgur.com/E1eI1Zn)
+![Concept map for functions in Python](http://i.imgur.com/E1eI1Zn.jpg)
