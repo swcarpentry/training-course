@@ -1,7 +1,7 @@
 ---
 date: 2015-02-25
 round: Round 12
-title: Function: Concept Map
+title: "Function: Concept Map"
 author: Evgenij Belikov
 permalink: /2015/02/function-concept-map/
 tags:

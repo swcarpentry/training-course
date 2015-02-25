@@ -1,7 +1,7 @@
 ---
 date: 2015-02-25
 round: Round 12
-title: Programming with Python: Python Conditionals Concept Map
+title: Python Conditionals Concept Map
 author: Narayanan Raghupathy
 permalink: /2015/02/python-conditionals-concept-map/
 tags:

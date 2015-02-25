@@ -1,7 +1,7 @@
 ---
 date: 2015-02-25
 round: Round 12
-title: Unix: relative and absolute paths
+title: "Unix: relative and absolute paths"
 author: Donna Henderson
 permalink: /2015/02/relative-and-absolute-paths/
 tags:

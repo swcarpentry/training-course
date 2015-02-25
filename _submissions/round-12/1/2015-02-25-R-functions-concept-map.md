@@ -12,4 +12,4 @@ This is a concept map for the first two learning objectives in the [Programming 
 
 I chose this topic because a lot of very deep concepts are introduced when we start teaching about functions, which were underappreciated by me when I was a student and first introduced to them. I have tried to draw the concept map I would end up with (and hope students would walk away with and refer to later) after teaching the SWC lesson.  
 
-![Functions in R](http://i.imgur.com/lsoeRHt.jpg)
+<a href="http://i.imgur.com/lsoeRHt.jpg"><img src="http://i.imgur.com/lsoeRHt.jpg" alt="Functions in R" width="600px;"/></a>
