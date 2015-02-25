@@ -9,8 +9,8 @@ tags:
   - Functions
 ---
 The map below relates to the
-[introductory R lesson](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html) 
-on creating functions.
+[introductory R lesson](http://swcarpentry.github.io/r-novice-inflammation/02-func-R.html) 
+on creating R functions.
 
 It specifically addresses the basics at the beginning of the lesson.
 
