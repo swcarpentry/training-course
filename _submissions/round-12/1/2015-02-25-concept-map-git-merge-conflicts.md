@@ -10,4 +10,4 @@ tags:
 ---
 This concept map describes `git` merge conflicts and how to resolve them.
 
-<img src="https://dl.dropboxusercontent.com/u/1692749/concept-map-git-merge-conflicts.jpg" style="width:300px;" alt="Git merge conflict concept map"/>
+<img src="https://dl.dropboxusercontent.com/u/1692749/concept-map-git-merge-conflicts.jpg" style="width:600px;" alt="Git merge conflict concept map"/>
