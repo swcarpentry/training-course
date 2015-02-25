@@ -15,3 +15,5 @@ Recently, Victor contributed to translation of [software carpentry](http://softw
 Victor have two master degrees(software engineering and statistics) and Ph.D ABD.
 
 *What I found hardest about using Git the first time was...*
+
+The hardest thing is the differences in mental model. In particular, my experience is that the Korean education system heavily encourage competions not only students and teachers, but also schools. Therefore, collaboration with sort of global or massive-scale tools is wierd.

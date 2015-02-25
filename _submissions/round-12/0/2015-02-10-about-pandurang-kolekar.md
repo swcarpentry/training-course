@@ -26,3 +26,6 @@ In future, I would love to learn and teach programming and software development 
 I am looking forward to learn new skills. Thank you!
 
 *What I found hardest about using Git the first time was...*
+
+Well, I found it difficult to memorise the commands for collaborative use of Git. I am going through online help documentation of Git and GitHub to get familiar with this version control system. It is really helpful! I will get used to it after few more fork, clone, commit, push and pull requests.
+
