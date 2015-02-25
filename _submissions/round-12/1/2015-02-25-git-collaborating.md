@@ -11,4 +11,4 @@ tags:
 
 This concept map illustrates the relationship between remote and local repositories, how to connect and sync them in the conext of a collaborative project. 
 Here is the relevant link to the software carpentry course: http://swcarpentry.github.io/git-novice/02-collab.html
-My concept map draft: ![collaborating using git](https://plus.google.com/photos/105684087836062192608/albums/6119861409141296801)
+My concept map draft: ![collaborating using git](http://i.imgur.com/MZbIOrg.jpg?1)
