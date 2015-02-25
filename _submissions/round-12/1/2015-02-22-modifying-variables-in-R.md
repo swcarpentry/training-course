@@ -15,12 +15,12 @@ on variables and assignments.
 It focuses on the assignment challenge in the middle of the lesson where the
 following code snippet is given
 
-```
+<pre>
 mass <- 47.5  
 age <- 122  
 mass <- mass * 2.0  
 age <- age - 20  
-```
+</pre>
 
 and a simple visualization is sought. My attempt follows:
 
