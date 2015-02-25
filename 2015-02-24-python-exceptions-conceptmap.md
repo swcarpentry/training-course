@@ -16,4 +16,4 @@ The concept map also listed many of the common kinds of exceptions. I used [this
 
 I mapped the first 2 learning objectives of the lesson. You can view the concept map here:
 
-![Python Erros and Exceptions](http://i.imgur.com/1sFEXcY.jpg)
+![Python Errors and Exceptions](http://i.imgur.com/1sFEXcY.jpg)
