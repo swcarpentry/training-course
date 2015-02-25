@@ -13,4 +13,4 @@ This is a concept map for the learning objectives in [Programming with Python: M
 
 I have tried capture the basics of Python Conditional statements (if, elif, else) in the concept map. I think having the grasp of conditionals in Python gives the learner a great tool and hop the concept helps a bit.
  
-![Python Conditionals](https://www.dropbox.com/s/k1nvjcwuj4rv0pv/Narayanan_Raghupathy_Python_Conditionals_Concept_Map.pdf?dl=0)
+![Python Conditionals](http://imgur.com/J109QsN)
