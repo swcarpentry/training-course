@@ -10,4 +10,4 @@ tags:
 ---
 This is the concept map I came up with for using conditionals, from [Programming with R - Making Choices](http://swcarpentry.github.io/r-novice-inflammation/04-cond.html). I tried to capture the thought process that goes into creating an if/else statement. 
 
-![image](https://dl.dropboxusercontent.com/u/83532348/CondStatementsCONCEPT.jpg)
+![image](https://www.dropbox.com/s/xfq5nc6k43iau2x/CondState-CONCEPT2.png?dl=0)
