@@ -1,7 +1,7 @@
 ----
 date: 2015-02-25
 round: Round 12
-title: Files in git
+title: Files in Git
 author: Elizabeth Wickes
 permalink: /2015/02/files-in-git/
 tags:
