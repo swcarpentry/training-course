@@ -13,4 +13,4 @@ My concept map visualizes the concept of a pandas dataframe.
 
 Here's my concept map:
 
-![Pandas Concept Map](http://i.imgur.com/X7wcpL7.jpg?2)
+![Pandas Concept Map](http://i.imgur.com/X7wcpL7.jpg)
