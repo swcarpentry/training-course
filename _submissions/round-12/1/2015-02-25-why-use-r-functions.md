@@ -1,16 +1,14 @@
 ---
 date: 2015-02-25
 round: Round 12
-title: Why use R functions?
+title: Why Use R Functions?
 author: Luke W. Johnston
 permalink: /2015/02/why-use-r-functions/
 tags:
   - R
   - Functions
   - Concept Map
-
 ---
-
 I developed this concept map based on the
 [R functions lesson](swcarpentry.github.io/r-novice-inflammation/02-func-R.html),
 focusing mainly on the *reason* to use functions and less on the how

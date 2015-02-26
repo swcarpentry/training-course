@@ -1,15 +1,14 @@
 ---
 date: 2015-02-26
 round: Round 12
-title: Python dict
+title: Python Dictionaries
 author: Malvika Sharan
 permalink: /2015/02/python-dict-concept-map/
 tags:
   - Concept Map
   - Python
 ---
-When i started to learn Python few years ago, I remember I was not very familier with the concept of dictionary and avoided to use it, I decided to map out the
-so i decided to draw a concept map of built-in properties of dict (the properties from collections.defaultdict is not included).
+When i started to learn Python few years ago, I remember I was not very familier with the concept of dictionary and avoided to use it, I decided to map out the so I decided to draw a concept map of built-in properties of dict (the properties from collections.defaultdict is not included).
 
 Here is built in properties and methos of python mapping type container, dictionary.
 

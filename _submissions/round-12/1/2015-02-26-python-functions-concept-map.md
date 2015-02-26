@@ -8,7 +8,6 @@ tags:
   - Python
   - Functions
   - Concept Map
-
 ---
 Concept map on what Python functions are and why they're used, as introduced in [the novice Python training](http://swcarpentry.github.io/python-novice-inflammation/04-func.html). 
 

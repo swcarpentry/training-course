@@ -1,7 +1,7 @@
 ---
 date: 2015-02-25
 round: Round 12
-title: Pandas Dataframes Concept Map
+title: Pandas Dataframes
 author: Ariel Bowers
 permalink: /2015/02/pandas-dataframes/
 tags:
