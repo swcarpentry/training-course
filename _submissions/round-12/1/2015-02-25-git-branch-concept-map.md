@@ -15,4 +15,4 @@ I had my mind so set on making a concept map on Git branches after last week's m
 
 Here is my concept map:
 
-<a href="https://www.flickr.com/photos/131568169@N02/16027113824" title="ConceptMap by Heather Gibling, on Flickr"><img src="https://farm9.staticflickr.com/8643/16027113824_8b8b125ac2_s.jpg" width="75" height="75" alt="ConceptMap"></a>
+<a href="https://www.flickr.com/photos/131568169@N02/16027113824" title="ConceptMap by Heather Gibling, on Flickr"><img src="https://farm9.staticflickr.com/8643/16027113824_8b8b125ac2_s.jpg" width="700" alt="ConceptMap"></a>
