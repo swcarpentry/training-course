@@ -11,7 +11,7 @@ tags:
   - Concept Map
 ---
 
-Although simple, I think that this concept map with the python code used might be useful for non-programmers.
+Although simple, I think that this concept map might be useful for non-programmers.
 
 I have found that these to variable types are often confused and can lead to important bugs not easy to find. I think that the example shown provides a context where this can easily be understood. Adding or removing dimensions "redefine" your system (notice the reference the classic book Flatland). Python also reallocates the memory address when you execute `coordinates +=(z)` whereas it does not when using a list.
 
