@@ -15,4 +15,9 @@ lives in Dayton, Ohio.  She was the first chair of
 [PyOhio](http://pyohio.org) and has taught four rounds
 of the [Midwest Python Workshop for Women](http://catherinedevlin.blogspot.com/2013/08/python-workshop-for-women-indy-2-and.html).
 
-*What I found hardest about using Git the first time was...*
+*What I found hardest about using Git the first time was...* 
+manually resolving merge conflicts.  It was horrifying to have
+git write all sorts of difficult-to-understand garbage
+*into my files*, and leave me in a mysterious state where
+I just wanted to go back to where I was before the merge
+(but I didn't even know how to do that).
