@@ -13,4 +13,4 @@ from the [Databases and SQL - Selecting Data](http://swcarpentry.github.io/sql-n
 
 Here is my concept map:
 
-![SQL Select Statement Concept Map](http://i.imgur.com/VCQK3GV.jpg)
+![SQL Select Statement Concept Map](http://i.imgur.com/iykzS9I.jpg)
