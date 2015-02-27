@@ -3,7 +3,7 @@ date: 2015-02-26
 round: Round 12
 title: Pipes in Bash
 author: Kristopher Keipert
-permalink: /2015/02/pipes-in-bash/
+permalink: /2015/02/pipes-in-bash-2/
 tags:
   - Concept Map
   - Python

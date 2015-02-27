@@ -3,7 +3,7 @@ date: 2015-02-22
 round: Round 12
 title: Pipes in bash -- Concept Map
 author: Morgan Taschuk
-permalink: /2015/02/pipes-in-bash/
+permalink: /2015/02/pipes-in-bash-1/
 tags:
   - Concept Map
   - Bash
