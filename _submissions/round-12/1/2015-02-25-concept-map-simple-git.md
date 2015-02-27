@@ -12,4 +12,4 @@ Link to [Version Control with Git](http://swcarpentry.github.io/git-novice/01-ba
 
 The part of the lesson I've mapped is simple version control with git via the command line.
 
-[Concept Map](http://i.imgur.com/XEWX2XT.jpg)
+![Concept Map](http://i.imgur.com/XEWX2XT.jpg)
