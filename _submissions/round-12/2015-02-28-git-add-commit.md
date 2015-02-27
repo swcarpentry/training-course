@@ -1,7 +1,7 @@
 ---
-date: 2015-02-28
+date: 2015-02-27
 round: Round 12
-title: Concept map: git add to stage, commit to repo
+title: Git add to stage, commit to repo
 author: Hugues Fontenelle
 permalink: /2015/02/git-add-commit/
 tags:

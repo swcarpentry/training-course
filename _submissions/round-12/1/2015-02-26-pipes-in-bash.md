@@ -11,4 +11,6 @@ tags:
 ---
 A concept map for pipes in Bash, derived from the Software Carpentry lesson [Pipes and Filters](http://swcarpentry.github.io/shell-novice/03-pipefilter.html).
 
-<a href="http://i.imgur.com/SefEK4O.jpg"><img src="http://i.imgur.com/HEJvwdl.jpg" title"Pipes in Bash Concept Map" /></a>
+**To see comments, please view [this page](/training-course/2015/02/pipes-in-bash/)**.
+
+<a href="http://i.imgur.com/SefEK4O.jpg"><img src="http://i.imgur.com/HEJvwdl.jpg" title="Pipes in Bash Concept Map" /></a>
