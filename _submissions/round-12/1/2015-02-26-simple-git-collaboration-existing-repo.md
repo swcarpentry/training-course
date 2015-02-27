@@ -1,9 +1,9 @@
 ---
 date: 2015-02-26
 round: Round 12
-title: git collaboration from existing cloud repo
+title: Git Collaboration From Existing Cloud Repo
 author: Tessa Pierce 
-permalink: /2015/02/26/simple-git-collaboration-existing-repo
+permalink: /2015/02/simple-git-collaboration-existing-repo/
 tags:
   - Concept Map
   - Git
