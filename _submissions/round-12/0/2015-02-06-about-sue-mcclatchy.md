@@ -14,4 +14,4 @@ She entered genomics after a first career as a K-12 teacher, in which she taught
 at private American schools in Latin America. Now she has the best of both careers - great students
 and a really interesting research lab setting.
 
-*What I found hardest about using Git the first time was...*
+*What I found hardest about using Git the first time was the terminology. I understand the words push and pull for example, but don't understand what they mean in this context.*

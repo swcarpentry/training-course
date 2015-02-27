@@ -12,3 +12,5 @@ Sarah is a librarian at a college and holds a Master of Library and Information 
 She also teaches students how to research information better.
 
 *What I found hardest about using Git the first time was...*
+
+I found the documentation was not great for newcomers.

@@ -12,3 +12,5 @@ I am Malvika Sharan, a bioinformatics PhD candidate in the Institute for Molecul
 I value the integration of softwares and informatics to carry out science more effectively. In near future, I want to get involved in teaching informatics to the biologists through community driven unseminars in my University. I am looking forward to learning about how efficient teaching works so that I can train myself in this direction in more practical manner.
 
 *What I found hardest about using Git the first time was...*
+
+I am familiar with the basics of Git. I find it hard (frightening) to merge the branches when working on a file that is shared with multiple people.

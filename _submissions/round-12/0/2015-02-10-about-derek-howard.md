@@ -12,3 +12,5 @@ I'm a graduate student based at the Hospital for Sick Children in Toronto, Canad
 Given the requirement for developing reproducible and shareable data analysis techniques, I am hoping to improve my programming and scientific software knowledge to help pass it on toother researchers. I am also particularly looking forward to learning about best practices in educational psychology and teaching scientific computing.
 
 *What I found hardest about using Git the first time was...*
+
+I have little experience with Git and Github and what I found most difficult was differentiating between what I needed to do on Github and what needed to be done with git. At first, I could easily mistake the forking process for cloning or vis-versa.

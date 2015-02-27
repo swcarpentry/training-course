@@ -11,4 +11,4 @@ I am a marine ecologist interested in larval ecology, ocean health, and the desi
 
 I use R for my day to day computing needs, but I also have some experience with MATLAB, Fortran, and Linux/Bash. I also taught R as part of my Intertidal Ecology class at Dalhousie University and I uploaded my R tutorial to [GitHub](https://github.com/remi-daigle/R_tutorial_ocean). My students really enjoyed the R aspect of my classe and I'm really looking forward to further improving my teaching abilities!
 
-*What I found hardest about using Git the first time was...*
+What I found hardest about using Git the first time was being confused about branches vs forks. I am unsure which to use in what scenario. This stems from primarily using Git as a linear version control and not exploring the branch/fork options.
