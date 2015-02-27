@@ -10,4 +10,4 @@ tags:
 ---
 A concept map showing the relationships between files and directories in Unix. Taken from [The Unix Shell: Files and Directories](https://swcarpentry.github.io/shell-novice/01-filedir.html). I could not figure out a way to include absolute and relative paths.
 
-<a href="http://imgur.com/nS244Sk"><img src="http://imgur.com/nS244Sk" style="width: 600px;" alt="Concept map for Unix files and directories" /></a>
+<a href="http://imgur.com/nS244Sk"><img src="http://i.imgur.com/nS244Sk" style="width: 600px;" title="Concept map for Unix files and directories" /></a>
