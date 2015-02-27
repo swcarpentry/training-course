@@ -3,7 +3,7 @@ date: 2015-02-26
 round: Round 12
 title: Python Functions
 author: Meredith Durbin
-permalink: /2015/02/python-functions-concept-map/
+permalink: /2015/02/python-functions-concept-map-mdurbin/
 tags:
   - Python
   - Functions
