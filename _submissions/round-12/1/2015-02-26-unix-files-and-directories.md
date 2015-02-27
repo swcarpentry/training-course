@@ -1,7 +1,7 @@
 ---
 date: 2015-02-26
 round: Round 12
-title: unix files directories
+title: Unix Files and Directories
 author: Richard Kip
 permalink: /2015/02/unix-files-directories/
 tags:
