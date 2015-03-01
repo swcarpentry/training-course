@@ -13,4 +13,4 @@ For a while I've wanted to learn more about Open Licensing so I thought I'd delv
 My concept map outlines the Licensing section under the final topic, Open Science, in the lesson "Version Control with Git" lesson 
 at [here](http://swcarpentry.github.io/git-novice/04-open.html).
 The concept map image can be found at ... 
-![Open Science Licensing](https://www.flickr.com/photos/15574637@N06/16675698482/)
+![Open Science Licensing](http://i.imgur.com/gVg1Koj.jpg)
