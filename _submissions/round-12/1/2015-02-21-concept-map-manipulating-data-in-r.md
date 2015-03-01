@@ -10,7 +10,7 @@ tags:
 ---
 From here: http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html
 
-![Concept map for manipulating data with R](http://i.imgur.com/OX7V0vh.jpg)
+![Concept map for manipulating data with R](http://i.imgur.com/LlEDNMm.jpg)
 
 This concept map is meant to capture the Manipulating data with R section,
 including accessing data and applying functions to data.
