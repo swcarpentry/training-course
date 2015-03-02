@@ -10,6 +10,6 @@ tags:
 ---
 From here: <http://swcarpentry.github.io/git-novice/>
 
-![Concept map for working with files in git](http://i.imgur.com/nipIncW.jpg)
+![Concept map for working with files in git](http://i.imgur.com/Suc4R1q.jpg)
 
 I'm really new to working with git, and this is about as far as I got for solid-ish knowledge of things.
