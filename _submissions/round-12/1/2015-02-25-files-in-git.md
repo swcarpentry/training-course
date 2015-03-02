@@ -1,4 +1,4 @@
-----
+---
 date: 2015-02-25
 round: Round 12
 title: Files in Git
@@ -7,7 +7,7 @@ permalink: /2015/02/files-in-git/
 tags:
   - Concept Map
   - git
-----
+---
 From here: <http://swcarpentry.github.io/git-novice/>
 
 ![Concept map for working with files in git](http://i.imgur.com/nipIncW.jpg)
