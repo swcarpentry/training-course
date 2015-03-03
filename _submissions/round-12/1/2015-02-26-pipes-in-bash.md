@@ -13,4 +13,4 @@ A concept map for pipes in Bash, derived from the Software Carpentry lesson [Pip
 
 **To see comments, please view [this page](/training-course/2015/02/pipes-in-bash/)**.
 
-<a href="http://i.imgur.com/SefEK4O.jpg"><img src="http://i.imgur.com/SefEK4O.jpg" title="Pipes in Bash Concept Map" /></a>
+<a href="http://i.imgur.com/qjNAtHd.png"><img src="http://i.imgur.com/qjNAtHd.png" title="Pipes in Bash Concept Map" /></a>
