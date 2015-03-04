@@ -3,7 +3,7 @@ date: 2015-02-24
 round: Round 12
 title: Loading data in R
 author: Remi Daigle
-permalink: /2015/02/R-at-command-line/
+permalink: /2015/02/loading-data-in-R/
 tags:
   - Concept Map
   - R
