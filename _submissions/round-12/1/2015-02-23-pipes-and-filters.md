@@ -3,7 +3,7 @@ date: 2015-02-23
 round: Round 12
 title: Pipes and Filters Concept Map
 author: Daniel Wheeler
-permalink: /2015/02/pipes-and-filters/
+permalink: /2015/02/pipes-and-filters-wheeler/
 tags:
   - Concept Map
   - Pipes
