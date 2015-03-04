@@ -14,3 +14,7 @@ My first attempt at a concept map is from part of the novice Python lesson [Anal
 I've tried to illustrate the material on Python lists.
 
 <a href="http://imgur.com/tGv2YG5"><img alt="Concept map of Python lists" src="http://i.imgur.com/tGv2YG5.jpg?1" width="500px"/></a>
+
+Below is a revised version of the concept map aiming at making it a bit clearer.
+
+<a href="http://imgur.com/lsRsMtN"><img alt="Updated concept map of Python lists" src="http://i.imgur.com/lsRsMtN.jpg" width="500px"/></a>
