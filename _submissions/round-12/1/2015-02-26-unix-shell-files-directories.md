@@ -3,7 +3,7 @@ date: 2015-02-26
 round: Round 12
 title: unix shell files directories
 author: Peter Fields
-permalink: /2015/02/unix-shell-files-directories/
+permalink: /2015/02/Unix-Shell-Files-Directories/
 tags:
   - Concept Map
   - Unix
