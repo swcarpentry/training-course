@@ -9,6 +9,9 @@ tags:
   - Git
 ---
 The basic structure of a "remote" on git. Here you pull from "upstream" to get the changes that other people have made in their own forks of an original repository.
-Definitely some room for improvement.
 
-![Basic structure of a git remote](https://www.evernote.com/shard/s257/sh/07b8c5ed-40e0-485d-b281-a8b526208a3d/fc2e4b01477560fc55f7212d659dfb0c/res/57e7ec04-f1d4-42f0-96a2-036bd19f4e4c/20150226_151717.jpeg?resizeSmall&width=832&alpha=)
+Revision 2
+![Basic structure of a git remote](https://dl.dropboxusercontent.com/u/17444491/misc/concept_map_github_remote-v2.jpeg)
+
+Revision 1
+![Basic structure of a git remote](https://dl.dropboxusercontent.com/u/17444491/misc/concept_map_github_remote-v1.jpeg)
