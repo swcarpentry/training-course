@@ -12,5 +12,4 @@ tags:
 Basic concept map for an OpenMP programming class, including major topics and
 interrelations.
 
-![http://i.imgur.com/bgrS1xy.png](http://i.imgur.com/bgrS1xy.png)
 ![http://i.imgur.com/mhdWbIq.jpg](http://i.imgur.com/mhdWbIq.jpg)
