@@ -11,7 +11,7 @@ tags:
 
 This is a concept map of how to manipulate (subset) data in R.  
 
-[Imgur](http://i.imgur.com/THQRYoi.jpg)
+![Concept Map](http://i.imgur.com/THQRYoi.jpg)
 
 I made a few changes from [the lesson](http://software-carpentry.org/v5/novice/r/01-starting-with-data.html) and covering similar ground to [this example](http://swcarpentry.github.io/training-course/2014/06/concept-map-subsetting-in-r/)--
 I focused on "subsetting" rather than "manipulating" because at least within my head I think of 
