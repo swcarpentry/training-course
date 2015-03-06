@@ -9,8 +9,6 @@ tags:
   - Function
   - Programming Language
 ---
-SWC link:
-http://swcarpentry.github.io/python-novice-inflammation/04-func.html
 
 This concept map is intended to illustrate functions in programming languages, including the design and use of functions.
 
