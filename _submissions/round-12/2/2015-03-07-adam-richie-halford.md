@@ -36,10 +36,10 @@ print lc, 'line(s)'
 How can we get this program to return the number of lines in the 
 file `sample.txt`?
 
-a. `python my_line_count.py sample.txt`
-b. `python my_line_count.py > sample.txt`
-c. `python my_line_count.py < sample.txt`
-d. `python my_line_count.py | sample.txt`
+1. `python my_line_count.py sample.txt`
+2. `python my_line_count.py > sample.txt`
+3. `python my_line_count.py < sample.txt`
+4. `python my_line_count.py | sample.txt`
 
 ### An alternative
 
@@ -70,12 +70,12 @@ This just moves the cursor down to the next line, which is not
 what we expected so we hit `CTRL-D` to get back to the command 
 line. What happens next?
 
-a. The python program prints the number of lines in 
+1. The python program prints the number of lines in 
 `sample.txt`, i.e. `10 lines`, to stdout.
-b. The python program prints `0 lines` to stdout.
-c. The python program overwrites all of the data we had 
+2. The python program prints `0 lines` to stdout.
+3. The python program overwrites all of the data we had 
 in `sample.txt` with the text `0 lines`.
-d. The shell gives us an error because `sample.txt` is not 
+4. The shell gives us an error because `sample.txt` is not 
 a command.
 
 Both of these questions test the same material. In my opinion 
@@ -102,19 +102,19 @@ What should we expect as the output of the command
 $ python add_args.py 5 3`
 ```
 
-a. '53'
-b. TypeError: cannot concatenate 'str' and 'int' objects
-c. 8
-d. 'add_args.py5'
+1. '53'
+2. TypeError: cannot concatenate 'str' and 'int' objects
+3. 8
+4. 'add_args.py5'
 
 ### Analysis of answers
 
 The distractors in this question are:
 
-a. The student understands that `argv` is a list of strings, 
+1. The student understands that `argv` is a list of strings, 
 but doesn't understand that `argv[0]` is script name.
-b. The student understands that `argv[0]` is the script name but 
+2. The student understands that `argv[0]` is the script name but 
 doesn't understand that all `argv` is a list of strings. So they 
 expect the second argument to be interpreted as an `int`.
-c. The student understands neither that `argv` is a list of 
+3. The student understands neither that `argv` is a list of 
 strings, nor that `argv` starts with the script name.
