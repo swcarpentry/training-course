@@ -19,21 +19,21 @@ Both questions refer to these two tables.
 `family` table
 -------------- 
 
-|ID|Name    |Address       |
-|--|--------|--------------|
-| 1|Jacksons|122 Elm       |
-| 2|Smiths  |191 Oak Apt. 3|
+| ID | Name     | Address        |
+| -- | -------- | -------------- |
+|  1 | Jacksons | 122 Elm        |
+|  2 | Smiths   | 191 Oak Apt. 3 |
 
 ... etc.; 20 rows total
 
 `pet` table
 -----------
 
-|ID|Name      |Species|Family|
-|--|----------|-------|------|
-| 1|Princess  |iguana |     2|
-| 2|Ingratius |cat    |     6|
-| 3|Noah      |cat    |  NULL|
+| ID | Name       | Species | Family |
+| -- | ---------- | ------- | ------ |
+|  1 | Princess   | iguana  |      2 |
+|  2 | Ingratius  | cat     |      6 |
+|  3 | Noah       | cat     |   NULL |
 
 ... etc.; 30 rows total
 
