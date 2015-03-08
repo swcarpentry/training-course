@@ -3,12 +3,15 @@ date: 2015-03-07
 round: Round 12
 title: Assessment - Open Science
 author: Victor Kwangchun Lee
-permalink: /2015/03/open-science/
+permalink: /2015/03/victor-lee-mcq/
 tags:
   - Assessment
   - MCQ
   - Open Science
 ---
+
+The two MCQs are based on the [Open Science](http://swcarpentry.github.io/git-novice/04-open.html) lesson from Version Control with Git. 
+
 
 **Qustion 1.** When writing scientific software, there are several things to consider first. Is there anything software developers should **not** consider?
 
