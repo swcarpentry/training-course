@@ -1,7 +1,7 @@
 ---
 date: 2015-03-07
 round: Round 12
-title: Third Meeting for Round 12
+title: MCQs for Command-Line Programs in Python
 author: Adam Richie-Halford
 permalink: /2015/03/adam-richie-halford-mcq/
 tags:
