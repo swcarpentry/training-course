@@ -17,20 +17,22 @@ Both questions refer to these two tables.
 
 ## `family` table
 
-ID | Name     | Address        
--- | -------- | -------------- 
-1  | Jacksons | 122 Elm        
-2  | Smiths   | 191 Oak Apt. 3 
+<table>
+<tr><th>ID</th><th>Name</th><th>Address</th></tr>
+<tr><td>1</td><td>Jacksons</td><td>122 Elm</td></tr>
+<tr><td>2</td><td>Smiths</td><td>191 Oak Apt. 3</td></tr>
+</table>
 
 ... etc.; 20 rows total
 
 ## `pet` table
 
-ID | Name       | Species | Family 
--- | ---------- | ------- | ------
-1  | Princess   | iguana  | 2     
-2  | Ingratius  | cat     | 6     
-3  | Noah       | cat     | NULL   
+<table>
+<tr><th>ID</th><th>Name</th><th>Species</th><th>Family</th></tr>
+<tr><td>1</td><td>Princess</td><td>iguana</td><td>2</td></tr>
+<tr><td>2</td><td>Ingratius</td><td>cat</td><td>6</td></tr>
+<tr><td>3</td><td>Noah</td><td>cat</td><td>NULL</td></tr>
+</table>
 
 ... etc.; 30 rows total
 
