@@ -1,7 +1,7 @@
 ---
 date: 2015-03-07
 round: Round 12
-title: Assessment - Open Science
+title: MCQs for testing R function knowledge
 author: Will Cornwell
 permalink: /2015/03/will-cornwell-mcq/
 tags:
@@ -11,7 +11,7 @@ tags:
 ---
 
 
-### Two MCQ's to test knowledge about [R functions](http://swcarpentry.github.io/r-novice-inflammation/02-func-R.html).
+## Two MCQs to test knowledge about [R functions](http://swcarpentry.github.io/r-novice-inflammation/02-func-R.html).
 
 In addition to the [SWC R function lesson](http://swcarpentry.github.io/r-novice-inflammation/02-func-R.html), some ideas for these questions derived from [the Rshiny tutorial](http://shiny.rstudio.com/tutorial/) and also from [Hadley Wickham's excellent introduction to R functions](http://adv-r.had.co.nz/Functions.html#lexical-scoping).  I really wish someone had taught me about R functions as a grad student--would have saved me years of frustration.  
 
