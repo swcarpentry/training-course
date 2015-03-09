@@ -3,7 +3,7 @@ date: 2015-02-01
 round: Round 12
 title: About Andrew MacDonald
 author: Andrew MacDonald
-permalink: /2015/02/greg-wilson/
+permalink: /2015/02/andrew-macdonald/
 tags:
   - Biography
 ---
