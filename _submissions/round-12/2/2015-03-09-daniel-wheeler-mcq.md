@@ -1,12 +1,12 @@
 ---
-date: 2015-02-23
+date: 2015-03-09
 round: Round 12
 title: Unix Shell -- Finding Things -- Multiple Choice Questions
 author: Daniel Wheeler
-permalink: /2015/03/daniel-wheeler-mcq/
+permalink: /2015/03/daniel-wheeler-mcq
 tags:
   - Multiple Choice Questions
-  - Unis Shell
+  - Unix Shell
   - Finding Things
 ---
 
