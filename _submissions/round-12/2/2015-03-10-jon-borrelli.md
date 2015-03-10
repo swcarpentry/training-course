@@ -13,12 +13,13 @@ Question 1
 
 Suppose you had a dataframe named `df`: 
 
- V1 V2 V3 V4 V5  
- 02 66  4 94 12  
- 78 97  5 44 71  
- 92 32 55 17 73  
- 18 82 96  1 38  
- 49 25 15 80 29  
+| A  | B  | C  | D  | E  |  
+|----|----|----|----|----|  
+| 02 | 66 | 04 | 94 | 12 |  
+| 78 | 97 | 05 | 44 | 71 |  
+| 92 | 32 | 55 | 17 | 73 |  
+| 18 | 82 | 96 | 01 | 38 |  
+| 49 | 25 | 15 | 80 | 02 |  
 
 How could I ask R to return the 3rd and 5th rows of the dataframe? 
 
