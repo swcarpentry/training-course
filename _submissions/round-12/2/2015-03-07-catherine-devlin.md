@@ -1,7 +1,7 @@
 ---
 date: 2015-03-07
 round: Round 12
-title: Multiple choice question: SQL joins
+title: SQL joins
 author: Catherine Devlin
 permalink: /2015/03/catherine-devlin-mcq/
 tags:

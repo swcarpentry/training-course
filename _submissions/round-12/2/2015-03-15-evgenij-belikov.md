@@ -18,13 +18,13 @@ Multiple answers are possible (tested with python 2.6.6 and 2.7.8).
 
 Which of the following values/expressions are equivalent to `True`?
 
-1. `0`
-2. `1`
-3. `2`
-4. `'word'`
-5. `[1,2,3]`
-6. `x and False`
-7. `True or x`
+1.  `0`
+2.  `1`
+3.  `2`
+4.  `'word'`
+5.  `[1,2,3]`
+6.  `x and False`
+7.  `True or x`
 
 
 ## MCQ 2.
@@ -32,43 +32,43 @@ Which of the following values/expressions are equivalent to `True`?
 Given `x = 3`, which of the following will print out the value of x?
 
 1. 
-```python
+```
 if x = 3:
    print x
 ```
 
 2.
-```python
+```
 if x == 3:
 print x
 ```
 
 3.
-```python
+```
 if x == 3:
           print x
 ```
 
 4.
-```python
+```
 if x == 3
    print x
 ```
 
 5.
-```python
+```
 if x == '3'
    print x
 ```
 
 6.
-```python
+```
 if (x==3):
    print x
 ```
 
 7.
-```python
+```
 if 3 == x:
           print x
 ```

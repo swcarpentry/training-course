@@ -23,15 +23,13 @@ lesson.
 Suppose we write our own version of a line count program 
 called `my_line_count.py`:
 
-```python
-import sys
-
-lc = 0
-for line in sys.stdin:
-    lc +=1
-
-print lc, 'line(s)'
-```
+    import sys
+    
+    lc = 0
+    for line in sys.stdin:
+        lc +=1
+    
+    print lc, 'line(s)'
 
 How can we get this program to return the number of lines in the 
 file `sample.txt`?
@@ -49,22 +47,19 @@ to invert it so that it reads:
 Suppose we write our own version of a line count program 
 called `my_line_count.py`:
 
-```python
-import sys
-
-lc = 0
-for line in sys.stdin:
-    lc +=1
-
-print lc, 'line(s)'
-```
+    import sys
+    
+    lc = 0
+    for line in sys.stdin:
+        lc +=1
+    
+    print lc, 'line(s)'
 
 We have a file called `sample.txt` which has exactly 10 lines 
 in it. We want to test our program with this file so we run the 
 command
-```
-$ python my_line_count.py > sample.txt
-```
+
+    $ python my_line_count.py > sample.txt
 
 This just moves the cursor down to the next line, which is not 
 what we expected so we hit `CTRL-D` to get back to the command 
@@ -91,16 +86,13 @@ about how I could improve the first one by making it less leading.
 
 Consider the following python program `add_args.py`:
 
-```python
-import sys
-
-print sys.argv[0] + sys.argv[1]
-```
+    import sys
+    
+    print sys.argv[0] + sys.argv[1]
 
 What should we expect as the output of the command 
-```
-$ python add_args.py 5 3`
-```
+
+    $ python add_args.py 5 3`
 
 1. '53'
 2. TypeError: cannot concatenate 'str' and 'int' objects

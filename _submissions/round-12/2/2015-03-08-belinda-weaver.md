@@ -1,7 +1,7 @@
 ---
 date: 2015-03-08
 round: Round 12
-title: MCQ: Version control with Git plus Using the Shell
+title: Version control with Git plus Using the Shell
 author: Belinda Weaver
 permalink: /2015/03/belinda-weaver-mcq/
 tags: 

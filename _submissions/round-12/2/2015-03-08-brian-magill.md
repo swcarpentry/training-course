@@ -11,18 +11,18 @@ tags:
 For this question I decided to use material from the SQL lesson on creating and 
 modifying data: http://swcarpentry.github.io/sql-novice-survey/09-create.html
 
-The table **Atmospheric_Aerosols** created by the statement:
+The table `Atmospheric_Aerosols` created by the statement:
 
-**CREATE TABLE Atmospheric_Aerosols(**  
-**datetime      text not null,  -- time stamp for measurement (yyyy-mm-dd hh:mm:ss)**  
-**altitude      real not null,  -- altitude of measurement (in km)**  
-**latitude      real not null,  -- latitude where measurement occurred (in degrees)**  
-**longitude     real not null,  -- longitude where measurement occurred (in degrees)**  
-**type_id       int  not null,  -- numeric code for aerosol type**  
-**optical_depth real not null,  -- (dimensionless)**  
-**primary key(datetime, altitude),**  
-**foreign key(type) references Type_Description(type_id)**  
-**);**  
+    CREATE TABLE Atmospheric_Aerosols(  
+        datetime      text not null,  -- time stamp for measurement (yyyy-mm-dd hh:mm:ss)  
+        altitude   real not null,  -- altitude of measurement (in km)  
+        latitude   real not null,  -- latitude where measurement occurred (in degrees)  
+        longitude  real not null,  -- longitude where measurement occurred (in degrees)  
+        type_id    int  not null,  -- numeric code for aerosol type  
+        optical_depth real not null,  -- (dimensionless)  
+        primary key(datetime, altitude),  
+        foreign key(type) references Type_Description(type_id)  
+    );  
 
 A SQL statement to delete only the entries for type 58 would be:
 
@@ -46,13 +46,13 @@ http://swcarpentry.github.io/sql-novice-survey/01-select.html.
 
 To retrive data from a database using SQL a person would:
 
-   1. Loop through each row with a **for** statement.
+1. Loop through each row with a `for` statement.
 
-   2. Use a **QUERY** statement with the appropirate limits.
+2. Use a `QUERY` statement with the appropirate limits.
 
-   3. Use a **select** statement.
+3. Use a `select` statement.
 
-   4. Use SQL's **FETCH** statement with the appropriate **WHERE**, **GROUP BY**, and **ORDER BY** clauses.
+4. Use SQL's `FETCH` statement with the appropriate `WHERE`, `GROUP BY`, and `ORDER BY` clauses.
 
 
 >In the first choice I am checking to see if the students are getting SQL confused with an Imperative computer language.  When a SQL database was added to a new version of one of my projects, most of my coworkers had a lot of trouble conceptualizing how it worked.  No matter how many times I would say think of it in terms of Set Theory, they could only think of programming languages as a list of instructions. (People who do not have a lot of programming 

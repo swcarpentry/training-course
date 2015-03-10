@@ -19,14 +19,12 @@ In addition to the [SWC R function lesson](http://swcarpentry.github.io/r-novice
 
 What will this code return?
 
-```
-x <- 1
-f <- function() {
-  y <- 2
-  return(c(x, y))
-}
-f()
-```
+    x <- 1
+    f <- function() {
+      y <- 2
+      return(c(x, y))
+    }
+    f()
 
 ### options:
 
@@ -42,14 +40,12 @@ d) a vector with two elements `"x"` and `"y"`
 
 What will this code print to screen?
 
-```
-f <- function() {
-  x<-3
-  y<-x+3
-  return(c(x, y))
-}
-y
-```
+    f <- function() {
+      x<-3
+      y<-x+3
+      return(c(x, y))
+    }
+    y
 
 ### options:
 
