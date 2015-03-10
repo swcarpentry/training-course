@@ -5,7 +5,7 @@ title: Reading text Data into R
 author: Dirk Eddelbuettel
 permalink: /2015/03/dirk-eddelbuettel-mcq/
 tags:
-  - Multiple Choice Questions (MCQ)
+  - MCQ
   - R
 ---
 

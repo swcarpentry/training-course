@@ -12,10 +12,10 @@ Below are two MCQs relating to the Creating Functions in python from [this lesso
 
 (The following questions assume python version 2.7 or below)
 
-<pre>    def compute_slope(y=0, x, b=0):
+    def compute_slope(y=0, x, b=0):
         """calculate the slope, m, in the equation y = mx + b"""
         m = (y - b) / x
-    return m</pre>
+        return m
 
 1. The function above was written to solve for the slope of a straight line. There is at least one problem, identify its location.
     1. issue in the parameter names of the function

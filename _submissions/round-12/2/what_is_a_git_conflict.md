@@ -7,8 +7,8 @@ permalink: /2015/03/git_conflict/
 tags:
   - Git
   - conflict
+  - MCQ
 ---
-
 Lesson on what a git conflict is, why it occurs and how you can tell it is happening. 
 
 My goal with the first question is to see if they understand what a conflict is, otherwise we need to go farther back. 

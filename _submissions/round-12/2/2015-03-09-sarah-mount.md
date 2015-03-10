@@ -7,7 +7,7 @@ permalink: /2015/03/sarah-mount-mcq/
 tags:
  - Assessment
  - MCQ
- - git
+ - Git
 ---
 This set of MCQs is intended to accompany Topic 3 of the [lesson on git merge](http://swcarpentry.github.io/git-novice/03-conflict.html).
 

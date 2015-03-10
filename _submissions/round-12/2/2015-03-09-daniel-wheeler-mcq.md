@@ -5,7 +5,7 @@ title: Unix Shell -- Finding Things -- Multiple Choice Questions
 author: Daniel Wheeler
 permalink: /2015/03/daniel-wheeler-mcq/
 tags:
-  - Multiple Choice Questions
+  - MCQ
   - Unix Shell
   - Finding Things
 ---

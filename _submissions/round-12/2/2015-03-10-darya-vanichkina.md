@@ -7,7 +7,7 @@ permalink: /2015/03/darya-vanichkina-mcq/
 tags:
  - Assessment
  - MCQ
- - sql
+ - SQL
 ---
 
 ## MCQ1
