@@ -27,10 +27,10 @@ to get feedback as we're teaching
 about how much people are actually learning.
 To do this:
 
-1.  Pick as small topic *from our existing lessons*.
+1.  Pick a small topic *from our existing lessons*.
     It doesn't have to be different from the topic you used for your concept map,
     but choosing something new will give you an opportunity to learn more about our lessons.
-2.  Come up with two MCQs and add them to the blog in the `_submissions/2` directory.
+2.  Come up with two MCQs and add them to the blog in the `_submissions/round-12/2` directory.
     Please use `yyyy-mm-dd-forename-surname.md` as the filename
     (e.g., `2015-03-06-greg-wilson.md`)
     and `/yyyy/mm/forename-surname-mcq/` as the permalink
