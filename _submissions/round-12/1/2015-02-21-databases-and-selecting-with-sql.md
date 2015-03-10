@@ -5,7 +5,7 @@ title: Selecting Data in SQL
 author: Adam Richie-Halford
 permalink: /2015/02/databases-selecting-with-sql/
 tags:
-  - Concept Maps
+  - Concept Map
   - SQL
 ---
 I don't know much about SQL so when we were asked to create a concept
@@ -16,7 +16,7 @@ on selecting data in SQL.
 
 Here's the rough draft of the introductory SQL concept map.
 
-![Concept map for SQL selection](https://i.imgur.com/rdD4MlJ.jpg)
+![Concept map for SQL selection](http://i.imgur.com/pssRLWf.jpg?1)
 
 It's meant to show the main elements of a relational database and
 to introduce the SQL statement
