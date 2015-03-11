@@ -1,4 +1,5 @@
 ---
+n
 date: 2015-03-11
 round: Round 12
 title: MCQ for Python range() function and list 
@@ -15,17 +16,20 @@ The two multiple choice questions here are related to the Programming with Pytho
 You want to create a list containing elements 1,2,3,4,5, and store it in a variable named "myList", Select the one or more python commands that will give you the list
 
 a. myList = range(5)
+
 b. myList = range(1,5)
+
 c. myList = range(1,6)
+
 d. myList = range(1,7)[0:5]
 
 ## Question 2
 Consider the following three Python statements
-'''python
+```python
   myList=range(5)
   myList.reverse()
   print myList[3:4]
-'''
+```
 
 What will the last print statement do ?
 a. 1
