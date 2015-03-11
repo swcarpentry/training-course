@@ -24,21 +24,27 @@ Consider the following code:
 What will be printed?
 
 a)
+
     [[1,2,3],[4,5],6] 
 
 b)
+
     [2,3] 
 
 c)
+
     [2,3,4,5,6]
 
 d)
+
     [[2,3],[4,5],6] 
 
 e)
+
     [4,5]
 
 f)
+
     [[4,5],6] 
 
 
@@ -54,9 +60,11 @@ Consider the following code:
 What will be printed?
 
 a)
+
     ['a','b','c']
 
 b)
+
     'e'
 
 c)
@@ -64,6 +72,7 @@ c)
     ['e'],['h']
 
 d)
+
     ['g','h','i']
 
 Explanation of distractors:
