@@ -1,5 +1,4 @@
 ---
-n
 date: 2015-03-11
 round: Round 12
 title: MCQ for Python range() function and list 
@@ -7,6 +6,7 @@ author: Narayanan Raghupathy
 permalink: /2015/03/narayanan-raghupathyr-mcq/
 tags:
  - MCQ
+ - Python
 ---
 
 The two multiple choice questions here are related to the Programming with Python lesson (Storing Multiple Values in Lists) [http://swcarpentry.github.io/python-novice-inflammation/03-lists.html]
@@ -32,13 +32,21 @@ Consider the following three Python statements
 ```
 
 What will the last print statement do ?
+
 a. 1
+
 b. 4
+
 c. [2,1]
+
 d. [1]
 
 ## Explanation for Question 2's answers 
+
 a: did not understand the slice operation returns a list
+
 b: did not understand the list starts with 0 not 1 and slice operation returns a list
+
 c: did not understand the specific slice operation gives list with single element
+
 d: correct answer
