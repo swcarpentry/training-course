@@ -24,4 +24,6 @@ B. The total number of flips is 10 not 7, students selecting this option see the
 
 C. Correct answer, the probability of getting three heads in 10 draws is around 0.11
 
-D. The student has confused with the probability of a point estimate (3 heads) denoted by the dbinom density function with the probability of getting 3 or less heads, which is the cumulative distribution function pbinom.
+D. The student has confused with the probability of a point estimate (3 heads) denoted by the dbinom density function with the probability of getting 3 or less heads, which is the cumulative distribution function pbinom. While the estimate is not that far off, the increasing function towards ten should seem wrong.
+
+
