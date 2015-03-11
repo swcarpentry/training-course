@@ -9,8 +9,8 @@ tags:
   - Python
 ---
 
-These multiple choice quesitons are for the "[Creating Functions]"
-(http://www.software-carpentry.org/v5/novice/python/02-func.html) lesson.
+These multiple choice quesitons are for the "Creating Functions"
+(http://www.software-carpentry.org/v5/novice/python/02-func.html) lesson from the 'Python for Novices' course.
 
 ### Formative Assesment
 
