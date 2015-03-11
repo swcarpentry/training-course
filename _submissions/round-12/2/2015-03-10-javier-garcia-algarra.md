@@ -14,23 +14,23 @@ The MCQs are designed fo the "Making choices" section of Programming in R
 
 ### Formative Assessment
 
-  YouAreATeenAger <- function(Age)
-  {
-    if ((Age > 20) | (Age < 12)) {
-      teenager <- FALSE
-    } else {
-      teenager <- TRUE
+    YouAreATeenAger <- function(Age)
+    {
+      if ((Age > 20) | (Age < 12)) {
+        teenager <- FALSE
+      } else {
+        teenager <- TRUE
+      }
+      return(teenager)
     }
-    return(teenager)
-  }
 
-  yourage <- 68
+    yourage <- 68
 
-  if (YouAreATeenAger(yourage)){
-    print("You are a teenager")
-  } else {
-    print("You are not a teenager")
-  }
+    if (YouAreATeenAger(yourage)){
+      print("You are a teenager")
+    } else {
+      print("You are not a teenager")
+    }
 
 
 
@@ -44,23 +44,23 @@ What will be printed?
 
 Now, you have to figure what this code makes:
 
-  WhatYouAre <- function(Age)
-  {
-    whatyouare <- "Senior"
-    if ((Age >= 20) & (Age <70)) {
-      whatyouare <- "Adult"
+    WhatYouAre <- function(Age)
+    {
+      whatyouare <- "Senior"
+      if ((Age >= 20) & (Age <70)) {
+        whatyouare <- "Adult"
+      }
+      else if ((Age >= 13) | (Age < 20)) {
+        whatyouare <- "Teen Ager"
+      } else {
+        whatyouare <- "Kid"
+      }
+      return(whatyouare)
     }
-    else if ((Age >= 13) | (Age < 20)) {
-      whatyouare <- "Teen Ager"
-    } else {
-      whatyouare <- "Kid"
-    }
-    return(whatyouare)
-  }
 
-  print(WhatYouAre(78))
-  print(WhatYouAre(45))
-  print(WhatYouAre(18))
+    print(WhatYouAre(78))
+    print(WhatYouAre(45))
+    print(WhatYouAre(18))
 
 
 
