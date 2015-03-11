@@ -3,7 +3,7 @@ date: 2015-03-10
 round: Round 12
 title: Slicing a Dataframe
 author: Jon Borrelli
-permalink: /2015/03/jon-borrelli-mcq
+permalink: /2015/03/jon-borrelli-mcq/
 tags:
   - R
   - slicing
@@ -13,20 +13,21 @@ Question 1
 
 Suppose you had a dataframe named `df`: 
 
-| A  | B  | C  | D  | E  |  
-|----|----|----|----|----|  
-| 02 | 66 | 04 | 94 | 12 |  
-| 78 | 97 | 05 | 44 | 71 |  
-| 92 | 32 | 55 | 17 | 73 |  
-| 18 | 82 | 96 | 01 | 38 |  
-| 49 | 25 | 15 | 80 | 02 |  
+<table border="1">
+<tr><th> A  </th><th> B  </th><th> C  </th><th> D  </th><th> E  </th></tr>
+<tr><td> 02 </td><td> 66 </td><td> 04 </td><td> 94 </td><td> 12 </td></tr>
+<tr><td> 78 </td><td> 97 </td><td> 05 </td><td> 44 </td><td> 71 </td></tr>
+<tr><td> 92 </td><td> 32 </td><td> 55 </td><td> 17 </td><td> 73 </td></tr>
+<tr><td> 18 </td><td> 82 </td><td> 96 </td><td> 01 </td><td> 38 </td></tr>
+<tr><td> 49 </td><td> 25 </td><td> 15 </td><td> 80 </td><td> 02 </td></tr>
+</table>
 
 How could I ask R to return the 3rd and 5th rows of the dataframe? 
 
-**A.** `df[3,5]`   
-**B.** `df[c(3,5)]`  
-**C.** `df(c(3,5),)`    
-**D.** `df[c(3,5),]`    
+1.  `df[3,5]`   
+2.  `df[c(3,5)]`  
+3.  `df(c(3,5),)`    
+4.  `df[c(3,5),]`    
 
 
 Question 2
@@ -37,14 +38,14 @@ With the same dataframe as above, what would the following code produce?
 max(df[2:4, c(1,4)])
 ```
 
-**A.** 92  
-**B.** 96  
-**C.** 78  
-**D.** 97
+1.  92
+2.  96
+3.  78
+4.  97
 
 **Misconceptions**
 
-**A.** Correct answer  
-**B.** They have switched rows and columns  
-**C.** Not understood that `2:4` means rows 2, 3, and 4 (not just 2 and 4)  
-**D.** Not understood that `c(1,4` is different from `1:4`
+1.  Correct answer  
+2.  They have switched rows and columns  
+3.  Not understood that `2:4` means rows 2, 3, and 4 (not just 2 and 4)  
+4.  Not understood that `c(1,4` is different from `1:4`
