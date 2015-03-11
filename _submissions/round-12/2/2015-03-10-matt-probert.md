@@ -1,7 +1,7 @@
 ---
 date: 2015-03-10
 round: Round 12
-title: Multiple Choice Quesitons for Python Functions
+title: Multiple Choice Questions for Python Functions
 author: Matt Probert
 permalink: /2015/03/matt-probert-mcq/
 tags:
@@ -9,10 +9,10 @@ tags:
   - Python
 ---
 
-These multiple choice quesitons are for the "Creating Functions"
+These multiple choice questions are for the "Creating Functions"
 (http://www.software-carpentry.org/v5/novice/python/02-func.html) lesson from the 'Python for Novices' course.
 
-### Formative Assesment
+### Formative Assessment
 
 Consider the following code:
 
@@ -32,7 +32,7 @@ a) 0
 b) 1
 c) 2
 
-### Summative Assesment
+### Summative Assessment
 
 Consider the following code:
 
