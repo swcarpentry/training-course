@@ -70,7 +70,7 @@ What will be printed?
 2.  "Teen Ager" "Adult" "Teen Ager"
 3.  "Senior" "Adult" "Kid"
 
-Explanation of answer and distractors:
+Explanation of the MCQ
 
 1.  Wrong. The student has not realized that second choice uses the OR operator instead of AND, so it is always TRUE if first choice is not met.
 2.  Correct Answer
