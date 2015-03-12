@@ -16,7 +16,16 @@ My questions are related to the lesson that introduces NumPy [Analyzing Patient 
 
 #### Question 1:
 
-You have 1D array `a = numpy.array([2,4,6,8,10,12])`. How can you select the last three elements, i.e., 8, 10, 12?
+You have a 1D array `a`:
+~~~ {.python}
+a = numpy.array([2,4,6,8,10,12]) 
+a
+~~~
+~~~ {.output}
+array([[1, 2, 3, 4],
+       [5, 6, 7, 8]])
+~~~
+How can you select the last three elements, i.e., 8, 10, 12?
 
 a) `a[4:]`
 
@@ -28,10 +37,21 @@ d) `a[3,4,5]`
 
 #### Question 2:
 
+You have a 2D array `b`:
 ~~~ {.python}
-b = np.array([[1,2,3,4],[5,6,7,8]])
+b = numpy.array([[1,2,3,4],[5,6,7,8]])
+b
 ~~~
 ~~~ {.output}
 array([[1, 2, 3, 4],
        [5, 6, 7, 8]])
 ~~~
+How can you check the maximum value in the second and last row?
+
+a) `b[1].max()`
+
+b) `b[:,1].max()`
+
+c) `b[1,:].max()`
+
+d) `b.max()[1]`
