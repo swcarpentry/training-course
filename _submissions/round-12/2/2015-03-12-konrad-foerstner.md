@@ -1,11 +1,13 @@
 ---
 date: 2015-03-12
 round: Round 12
-title: Python Lists and Pandas Dataframes
+title: MCQ - Shell Pipes and Filters
 author: Konrad Förstner
 permalink: /2015/03/konrad-foerstner-mcq/
 tags:
   - MCQ
+  - Shell
+  - Pipes
 ---
 
 # Multiple choice questions with diagnotic answers
