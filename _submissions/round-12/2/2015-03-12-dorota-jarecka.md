@@ -55,9 +55,9 @@ c) `b[1,:].max()`
 
 d) `b.max()[1]`
 
-## Discussion of the answers and possible misconceptions:
+###### Discussion of the answers and possible misconceptions:
 
-a) OK - demonstrates a possible shorter notation, i.e., b[1] is the same as b[1,:]  
+a) OK - demonstrates a possible shorter notation, i.e., `b[1]` is the same as `b[1,:]`  
 
 b) wrong - one can confuse the C/F order
 
