@@ -1,7 +1,7 @@
 ---
 date: 2015-03-07
 round: Round 12
-title: MCQ for If Conditionals in Python
+title: Conditionals in Python
 author: Sarah Stevens
 permalink: /2015/03/sarah-stevens-mcq/
 tags:

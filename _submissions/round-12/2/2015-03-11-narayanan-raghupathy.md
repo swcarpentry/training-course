@@ -1,7 +1,7 @@
 ---
 date: 2015-03-11
 round: Round 12
-title: MCQ for Python range() function and list 
+title: Python range() function and list 
 author: Narayanan Raghupathy
 permalink: /2015/03/narayanan-raghupathyr-mcq/
 tags:
@@ -9,7 +9,7 @@ tags:
  - Python
 ---
 
-The two multiple choice questions here are related to the Programming with Python lesson (Storing Multiple Values in Lists) [http://swcarpentry.github.io/python-novice-inflammation/03-lists.html]
+The two multiple choice questions here are related to the Programming with Python lesson [Storing Multiple Values in Lists](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html).
 
 ## Question 1
 

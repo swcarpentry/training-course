@@ -1,19 +1,19 @@
 ---
 date: 2015-03-11
 round: Round 12
-title: MCQ: Interaction between assignment, iteration, and mutability in python
+title: Interaction between assignment, iteration, and mutability in python
 author: Vladimir Sudilovsky
 permalink: /2015/03/vladimir-sudilovsky-mcq/
 tags: 
   - MCQ
   - Multiple Choice Questions
-  - python
+  - Python
 ---
 
 This question is related to iteration and mutability in python; The relevant lessons are
 
-  - [loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html)
-  - [lists, mutability](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html)
+-   [loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop.html)
+-   [lists, mutability](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html)
 
 For this question, the following code will be executed by python (2.7):
 
