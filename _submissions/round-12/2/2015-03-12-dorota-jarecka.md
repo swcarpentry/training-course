@@ -22,8 +22,7 @@ a = numpy.array([2,4,6,8,10,12])
 a
 ~~~
 ~~~ {.output}
-array([[1, 2, 3, 4],
-       [5, 6, 7, 8]])
+array([ 2,  4,  6,  8, 10, 12])
 ~~~
 How can you select the last three elements, i.e., 8, 10, 12?
 
@@ -55,3 +54,13 @@ b) `b[:,1].max()`
 c) `b[1,:].max()`
 
 d) `b.max()[1]`
+
+## Discussion of the answers and possible misconceptions:
+
+a) OK - demonstrates a possible shorter notation, i.e., b[1] is the same as b[1,:]  
+
+b) wrong - one can confuse the C/F order
+
+c) OK
+
+d) wrong - default behavior for `array.max()` is calculating one value for all array 
