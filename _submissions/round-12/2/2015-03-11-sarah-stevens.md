@@ -45,7 +45,7 @@ a bullet and a letter for the answers.  Suggestions?
 
 * a.  `98 not greater`
 		`99 not greater`
-		`100 equals`
+		`100 not greater`
 		`101 greater`
 		`102 greater` (testing understanding of range counting)
 * b.  `98 not greater`
