@@ -1,7 +1,7 @@
 ---
 date: 2015-03-12
 round: Round 12
-title: Basic operations in R (slicing data and calculating means)
+title: Slicing Data and Calculating Means in R
 author: Laura Graham
 permalink: /2015/03/laura-graham-mcq/
 tags:
@@ -14,14 +14,14 @@ Question 1
 
 Consider the following dataframe (dat):
 
-| A  | B   | C   | D   | E   |
-|----|-----|-----|-----|-----|
-| 5  | 24  | 53  | 23  | 78  |
-| 2  | 102 | 57  | 1   | 34  |
-| 7  | 38  | 2   | 149 | 246 |
-| 3  | 48  | 6   | 46  | 2   |
-| 12 | 1   | 301 | 3   | 58  |
-
+<table border="1">
+<tr><td> A </td><td>B  </td><td>C  </td><td>D  </td><td>E </td></tr>
+<tr><td> 5 </td><td>24 </td><td>53 </td><td>23 </td><td>78 </td></tr>
+<tr><td> 2 </td><td>102</td><td>57 </td><td>1  </td><td>34 </td></tr>
+<tr><td> 7 </td><td>38 </td><td>2  </td><td>149</td><td>246 </td></tr>
+<tr><td> 3 </td><td>48 </td><td>6  </td><td>46 </td><td>2 </td></tr>
+<tr><td> 12</td><td>1  </td><td>301</td><td>3  </td><td>58 </td></tr>
+</table>
 
 Which code would correctly return the value 38. 
 

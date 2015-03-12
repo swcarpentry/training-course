@@ -1,5 +1,5 @@
 ---
-date: 2015-03-07
+date: 2015-03-11
 round: Round 12
 title: Conditionals in Python
 author: Sarah Stevens
@@ -17,48 +17,48 @@ a bullet and a letter for the answers.  Suggestions?
 
 1.  Given the following code, which output would be printed if num = 137?
 
-        	if num > 100:
-    			print 'greater'
-    			if num % 2 == 1:
-        			print 'even'
-			elif num % 2 ==1:
-    			print 'odd'
-			else:
-    			print 'not greater'
+            if num > 100:
+                print 'greater'
+                if num % 2 == 1:
+                    print 'even'
+            elif num % 2 ==1:
+                print 'odd'
+            else:
+                print 'not greater'
 
-* a. 	`greater`
-		`even`
-* b. 	`greater`
-		`odd`
-* c. 	`odd`
-* d. 	`not greater`
-* e. 	`odd`
-		`not greater`
+* a.     `greater`
+        `even`
+* b.     `greater`
+        `odd`
+* c.     `odd`
+* d.     `not greater`
+* e.     `odd`
+        `not greater`
 
 2.  Given the following code, which output would be printed?
 
-		for num in range(98,102):
-        	if num > 100:
-    			print num, 'greater'
-			else:
-    			print num, 'not greater'
+        for num in range(98,102):
+            if num > 100:
+                print num, 'greater'
+            else:
+                print num, 'not greater'
 
 * a.  `98 not greater`
-		`99 not greater`
-		`100 not greater`
-		`101 greater`
-		`102 greater` (testing understanding of range counting)
+        `99 not greater`
+        `100 not greater`
+        `101 greater`
+        `102 greater` (testing understanding of range counting)
 * b.  `98 not greater`
-    	`99 not greater`
-    	`100 greater`
-    	`101 greater` (testing understanding of conditional statement)
+        `99 not greater`
+        `100 greater`
+        `101 greater` (testing understanding of conditional statement)
 * c.  `98 not greater`
-    	`99 not greater`
-    	`100 not greater`
-    	`101 greater` (correct answer)
+        `99 not greater`
+        `100 not greater`
+        `101 greater` (correct answer)
 * d.  `98 not greater`
-		`99 not greater`
-    	`101 greater` (testing understanding of conditional statement)
+        `99 not greater`
+        `101 greater` (testing understanding of conditional statement)
 * e.  none of the above (in case misunderstanding both range and conditional)
 
 Not sure if the 'none of the above' makes sense for the 2nd question but I wanted to include 
