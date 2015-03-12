@@ -1,7 +1,7 @@
 ---
 date: 2015-03-10
 round: Round 12
-title: Slicing a Dataframe
+title: Slicing a Dataframe in R
 author: Jon Borrelli
 permalink: /2015/03/jon-borrelli-mcq/
 tags:
@@ -9,7 +9,10 @@ tags:
   - slicing
   - MCQ
 ---
-Question 1 
+
+I made these questions based on the [Analyzing Patient Data](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html) lesson from the R programming lessons. 
+
+# Question 1 
 
 Suppose you had a dataframe named `df`: 
 
@@ -30,7 +33,7 @@ How could I ask R to return the 3rd and 5th rows of the dataframe?
 4.  `df[c(3,5),]`    
 
 
-Question 2
+# Question 2
 
 With the same dataframe as above, what would the following code produce?   
 
