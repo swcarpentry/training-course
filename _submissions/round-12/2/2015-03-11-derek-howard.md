@@ -1,8 +1,8 @@
 ---
 date: 2015-03-11
 round: Round 12
-title: MCQ for 
-author: Derek Howard Python lesson 1
+title: MCQ for Python lesson 1
+author: Derek Howard
 permalink: /2015/03/derek-howard-mcq/
 tags:
   - Assessment
