@@ -2,7 +2,7 @@
 date: 2015-03-12
 round: Round 12
 title: Python Multiple Choice Questions
-author: Kai Yang
+author: Joseph Long
 permalink: /2015/03/joseph-long-mcq/
 tags:
   - Multiple Choice Question
