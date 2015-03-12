@@ -1,0 +1,29 @@
+---
+date: 2015-03-12
+round: Round 12
+title: Reverse a string using Python
+author: Malvika Sharan
+permalink: /2015/03/Python_reverse_string/
+tags:
+  - Python
+  - string reverse
+  - MCQ
+---
+Lesson on Programming with Python, taken from here: http://swcarpentry.github.io/python-novice-inflammation/02-loop.html
+
+**Which of the following codes will correctly reverse a string, i.e. word = 'Newton' to new_word = 'notweN'? Hint, you can start by assuming either of these conditions,
+new_word = [] or new_word = ''**
+
+a.  for letter in (word)[-1:]
+        new_word.append(letter)
+b.  new_word = word[-1::]
+c.  new_word = word[::-1]
+d. for letter in (word)[::-1]:
+    new_word.append(letter)
+
+**Reasons behind the chosen MCQs**
+
+a demonstrates that the student have not learnt about how to solve this problem, but uses the logic that the list is being accessed in reversed manner
+b demonstrates that the student vaguely remembers about the usage of double colon symbol (::) but might be confused where to use it
+c is the right answer  
+d shows that they have understanding of how loops work but have ignored the basic solution. However, This could also be a right answer when ''.join(new_word) was there, but this will return only the list of reversed letters
