@@ -11,6 +11,7 @@ tags:
   - Pandas
   - Dataframe
 ---
+
 The first MCQ relates to the introductory (intermediate) lesson on Python programming from the v 5.2 lessons: [01-intro-python](https://github.com/swcarpentry/bc/blob/gh-pages/intermediate/python/01-intro-python.md)
 
 You have a Pandas dataframe (assigned to the variable `df`) with the following data:
@@ -25,13 +26,10 @@ You have a Pandas dataframe (assigned to the variable `df`) with the following d
 
 Which of the following code snippets will return the temperature and rainfall of rows 2 and 3?
 
-a) `df[['temperature','rainfall']][1:3]`
-
-b) `df['temperature', 'rainfall'][1:3]`
-
-c) `df.iloc[1:3]`
-
-d) `df.iloc[1:3,1:2]`
+1.  `df[['temperature','rainfall']][1:3]`
+2.  `df['temperature', 'rainfall'][1:3]`
+3.  `df.iloc[1:3]`
+4.  `df.iloc[1:3,1:2]`
 
 
 The second MCQ relates to the v 5.3 [novice Python lesson](http://swcarpentry.github.io/python-novice-inflammation/) and focuses on Python lists, which I also used for the  [concept map exercise](http://swcarpentry.github.io/training-course/2015/02/python-lists/).
@@ -41,20 +39,17 @@ You have the following list: `myList = [42, 1, 0, 'moon']`. What output does the
     myList.reverse()
     print myList[1], myList[-1]
 
-  a) `42, 'moon'`
+1.  `42, 'moon'`
+2.  `1, 'moon'`
+3.  `0, 42`
+4.  `0, 1`
 
-  b) `1, 'moon'`
+*Explanation:*
 
-  c) `0, 42`
+Answer 1 should diagnose whether the student has understood that `.reverse()` changes `myList` and should indicate whether the student has picked up on that Python starts numbering with 0, and not 1.
 
-  d) `0, 1`
+Answer 2 is intended to distinguish between cases where the student understands how the numbering of elements works and what the index -1 refers to, but that it has not understood how the `.reverse()` method works
 
-*explanation:*
+Answer 3 is the correct answer
 
-Answer **a** should diagnose whether the student has understood that `.reverse()` changes `myList` and should indicate whether the student has picked up on that Python starts numbering with 0, and not 1.
-
-Answer **b** is intended to distinguish between cases where the student understands how the numbering of elements works and what the index -1 refers to, but that it has not understood how the `.reverse()` method works
-
-Answer **c** is the correct answer
-
-Answer **d** is to diagnose whether the student has understood how `.reverse()` works but not which element the index -1 refers to.
+Answer 4 is to diagnose whether the student has understood how `.reverse()` works but not which element the index -1 refers to.
