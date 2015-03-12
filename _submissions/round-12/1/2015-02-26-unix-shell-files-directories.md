@@ -1,7 +1,7 @@
 ---
 date: 2015-02-26
 round: Round 12
-title: unix shell files directories
+title: Unix Shell Files Directories
 author: Peter Fields
 permalink: /2015/02/unix-shell-files-directories/
 tags:
