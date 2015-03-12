@@ -13,11 +13,13 @@ These MCQs are for the Python lesson on Making Choices section (http://swcarpent
 
 * Question 1 - Suppose we want to test for inclusion in a set, where something is "in" the set if it has property-A and one of either proprty-B or property-C (assume all are boolean values).  A prototype function is below:
 
+```
 def func( A, B, C ):
 	if( A and B or C ):
 		return True
 	else:
 		return False
+```
 
 ** This function will properly classify items based on their properties
 ** This function will NOT properly classify items based on their properties
@@ -26,6 +28,7 @@ def func( A, B, C ):
 
 * Question 2 - What is the output from the following function when the argument, x, is 30?
 
+```
 def func( x ):
 	if( x >5 ):
 		print "X is greater than 5"
@@ -33,6 +36,7 @@ def func( x ):
 		print "X is greater than 10"
 	if( x > 20 ):
 		print "X is greater than 20"
+```
 
 ** 'X is greater than 5'
 ** 'X is greater than 10'
