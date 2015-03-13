@@ -5,7 +5,7 @@ title: Shell MCQs
 author: Matthew Collins
 permalink: /2015/03/matthew-collins-mcq/
 tags:
-  - Multiple Choice Questions (MCQ)
+  - MCQ
   - Shell
 ---
 
@@ -22,13 +22,13 @@ What is the output of
 
     $ bash display.sh a b "c d"
 
-a. ```a, b, c, d```
+a. `a, b, c, d`
 
-b. ```d, c, b, a```
+b. `d, c, b, a`
 
-c. ```c d, b, a```
+c. `c d, b, a`
 
-d. ```, c d, b, a```
+d. `, c d, b, a`
 
 
 ## Question 2, Piping your own scripts
@@ -45,15 +45,15 @@ What is the output of the following code?
     bash do-stats.sh *[AB].txt | bash sorted.sh
 
 
-a. A sorted list of file names processed by do-stats.sh (They've mistaken the 
-command sort for the script they wrote sorted.sh OR they forgot that sorted
-outputs the sorted number of lines and does not just sort names of files.)
+1.  A sorted list of file names processed by do-stats.sh (They've mistaken the 
+    command sort for the script they wrote sorted.sh OR they forgot that sorted
+    outputs the sorted number of lines and does not just sort names of files.)
 
-b. An error because sorted.sh expects a parameter with a "*" in it. (They have
-think that "$@" is a placeholder only for file globs like the example.)
+2.  An error because sorted.sh expects a parameter with a "*" in it. (They have
+    think that "$@" is a placeholder only for file globs like the example.)
 
-c. An error because the output of one script can't be sent to another script.
-(The answer I am really checking to make sure they do not give.)
+3.  An error because the output of one script can't be sent to another script.
+    (The answer I am really checking to make sure they do not give.)
 
-d. A sorted list of the total number of lines in each file that was processed
-by do-state.sh. (The right answer.)
+4.  A sorted list of the total number of lines in each file that was processed
+    by do-state.sh. (The right answer.)
