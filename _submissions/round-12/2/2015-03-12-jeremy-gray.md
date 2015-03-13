@@ -3,7 +3,7 @@ date: 2015-03-12
 round: Round 12
 title: The Call Stack (scoping) in R
 author: Jeremy Gray
-permalink: /2015/03/jeremy-gray-mcq/
+permalink: /2015/03/jeremy-gray/
 tags:
   - Multiple Choice Questions (MCQ)
   - R
@@ -33,10 +33,10 @@ function1<-function(){
 c(function1(),a,b)
 ```
 
-A.  10,20,10,20
-B.  1,2,1,2
-C.  10,20,1,2
-D.  1,2,10,20
+1.  10,20,10,20
+2.  1,2,1,2
+3.  10,20,1,2
+4.  1,2,10,20
 
 #### Question 2
 
@@ -53,10 +53,10 @@ function2<-function(){
 c(function2(),a,b)
 ```
 
-A.  10,20,10,20
-B.  1,2,10,20
-C.  R will produce an error - Error: object 'b' not found
-D.  1,20,10,20
+1.  10,20,10,20
+2.  1,2,10,20
+3.  R will produce an error - Error: object 'b' not found
+4.  1,20,10,20
 
 #### Discussion of Question 2
 
