@@ -3,7 +3,7 @@ date: 2015-03-13
 round: Round 12
 title: Multiple Choice Questions
 author: Martin Bentley
-permalink: /2015/03/bentley-mcq/
+permalink: /2015/03/martin-bentley-mcq/
 tags:
   - Multiple Choice Question
 ---

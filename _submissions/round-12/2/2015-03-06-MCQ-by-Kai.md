@@ -3,7 +3,7 @@ date: 2015-03-06
 round: Round 12
 title: Assessment with MCQs
 author: Kai Yang
-permalink: /2015/03/MCQ-by-Kai/
+permalink: /2015/03/kai-yang-mcq/
 tags:
   - Multiple Choice Question
 ---
