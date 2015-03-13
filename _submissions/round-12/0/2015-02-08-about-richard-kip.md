@@ -23,4 +23,7 @@ Santa Barbara with his wife and newborn son.
 *What I found hardest about using Git the first time was...*
 
 Understanding the workflow involved with a distributed version control system. 
-Working with multiple repositories makes my head hurt.
+I've been working with git and Github for around a year now, but it is very 
+infrequent. This leaves be feeling like a perpetual beginner. My workflow is 
+also very simple with everything tending to me in master.  Working with multiple 
+repositories/branches makes my head hurt.

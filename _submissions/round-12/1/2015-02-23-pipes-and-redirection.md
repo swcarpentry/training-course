@@ -1,14 +1,13 @@
 ---
 date: 2015-02-23
 round: Round 12
-title: Pipes and Redirection Concept Map - Simon Fraser
+title: Pipes and Redirection Concept Map
 author: Simon Fraser
 permalink: /2015/02/pipes-and-redirection/
 tags:
-  - Concept Maps
+  - Concept Map
   - Pipes
 ---
-
 After reading the [Pipes and Filters
 Lesson](http://swcarpentry.github.io/shell-novice/03-pipefilter.html), here is
 my attempt to get the core concepts of connecting commands by pipes

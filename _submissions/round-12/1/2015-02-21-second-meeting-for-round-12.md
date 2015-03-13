@@ -5,7 +5,7 @@ title: Second Meeting for Round 12
 author: Greg Wilson
 permalink: /2015/02/second-meeting/
 tags:
-  - Concept Maps
+  - Concept Map
 ---
 Meeting 2: Feb 19, 2015
 
@@ -654,8 +654,8 @@ Or page 229 of the hardcover copy of "How Learning Works".  You may also enjoy:
     -   git: 0.5 -\> 0.4
 -   Darya Vanichkina
     -   Surprising: you can share concept maps with students, which may
-        assist their learning
-    -   Counter-intuitive: that ... (will finish later)
+        assist their learning. I have always shyed away from concept maps, because at least in biology, you frequently end up with too many arrows linking the different components, and not enough details characterizing each of the components. I have frequently seen how students would look over a concept map that I had drawn, and assumed they understood the material, when they could only label the nodes in the map, and couldn't re-label the edges from internal memory and understanding.
+    -   Counter-intuitive: just how limiting/inhibiting prior knowledge can be to learning, and how carefully this needs to be managed to make sure students can and do learn, understand and internalize the material they need - without feeling that they are being pressured to change their world views and belief systems (and it's apparent how this applies to biology, my "primary" field of research, with the concepts of evolution, vaccines or GMOs, but I think it also has a place in computer science learning, with so many people being hindered by the preconceptions of an "analytical" vs "creative" mind, being a "geek" vs being a "normal" person, and (unfortunately) gender stereotypes).  
     -   git 0.7 -\> 0.4. Especially using the Github client and web
         interface to do the things I'm used to doing on command line
 -   Jeremy Gray (U of Toronto)
