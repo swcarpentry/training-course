@@ -31,22 +31,33 @@ If we ran the query `SELECT ident FROM site WHERE lat<"0" AND long<"0";`, what w
 
 a)
 
+    ident | lat | long
+    --- | --- | --- 
     Q-2 | -23.18 | -33.80
     Q-4 | -54.26 | -34.49
+
 b)
 
-    |Q-2|
-    |Q-4|
+    | ident |
+    | --- |
+    | Q-2 |
+    | Q-4 |
+
 c)
 
+    | ident |
+    | --- |
     |P-1|
     |P-2|
     |Q-1|
     |Q-2|
     |Q-3|
     |Q-4|
+
 d)
 
+    ident | lat | long
+    --- | --- | --- 
     P-1 | -32.10 |  40.10
     P-2 | -15.43 |  23.43
     Q-1 |  50.34 | -20.01
