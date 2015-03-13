@@ -30,7 +30,7 @@ Given the following line of code to generate matrix 'y', how would you subset th
 A. `y[nrow=2]`
 B. `y[2]` 
 C. `y[,2]` 
-D. `y[2,] `
+D. `y[2,]`
 
 #### Misconceptions
 
