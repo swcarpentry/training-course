@@ -1,7 +1,7 @@
 ---
 date: 2015-03-13
 round: Round 12
-title: What is a Commit?
+title: Functions in R - MCQ
 author: Andrew MacDonald
 permalink: /2015/03/andrew-macdonald-mcq/
 tags:
