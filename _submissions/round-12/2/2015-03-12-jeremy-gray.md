@@ -21,17 +21,15 @@ The two questions probe understanding of how variables are used across environme
 
 After running the following code, what will R return (answer without running)?
 
-```{r}
-a<-10
-b<-20
-function1<-function(){
-	a<-1
-	b<-2
-	c(a,b)
-}
-
-c(function1(),a,b)
-```
+    a<-10
+    b<-20
+    function1<-function(){
+    	a<-1
+    	b<-2
+    	c(a,b)
+    }
+    
+    c(function1(),a,b)
 
 1.  10,20,10,20
 2.  1,2,1,2
@@ -42,16 +40,14 @@ c(function1(),a,b)
 
 After running the following code, what will R return (answer without running)?
 
-```{r}
-rm(a,b)
-a<-10
-b<-20
-function2<-function(){
-	a<-1
-	c(a,b)
-}
-c(function2(),a,b)
-```
+    rm(a,b)
+    a<-10
+    b<-20
+    function2<-function(){
+    	a<-1
+    	c(a,b)
+    }
+    c(function2(),a,b)
 
 1.  10,20,10,20
 2.  1,2,10,20
@@ -66,4 +62,4 @@ c(function2(),a,b)
 
 3.  This tests the students understanding of how R searches for variables - if they dont understand it goes up in environments, they will choose this
 
-4.  This is the correct answer
+4.  This is the correct answer.
