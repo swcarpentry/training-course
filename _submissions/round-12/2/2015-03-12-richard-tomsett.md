@@ -30,12 +30,15 @@ Suppose we have a table, called site, that stores the latitude and longitude of 
 If we ran the query `SELECT ident FROM site WHERE lat<"0" AND long<"0";`, what would be returned?
 
 a)
+
     Q-2 | -23.18 | -33.80
     Q-4 | -54.26 | -34.49
 b)
+
     |Q-2|
     |Q-4|
 c)
+
     |P-1|
     |P-2|
     |Q-1|
@@ -43,6 +46,7 @@ c)
     |Q-3|
     |Q-4|
 d)
+
     P-1 | -32.10 |  40.10
     P-2 | -15.43 |  23.43
     Q-1 |  50.34 | -20.01
@@ -68,7 +72,10 @@ d) `SELECT * FROM site WHERE ident LIKE "Q%" AND (lat<"0" OR long<"0");`
 This is intended to test knowledge of the LIKE keyword for selecting partial matches (rather than using =), and knowledge of the execution order of AND and OR. I wasn't sure how best to deal with the distractors without giving hints as to the correct answer...
 
 a) is incorrect because it uses = rather than LIKE for partial matching. If the student can't remember the LIKE keyword, they may be tempted by this one.
+
 b) is incorrect for the same reason as a, but also gets the brackets wrong (it's equivalent to `SELECT * FROM site WHERE (ident="Q%" AND lat<"0") OR long<"0";` A student that didn't know the LIKE keyword and got the AND/OR execution order wrong might pick this one.
+
 c) is incorrect because of the lack of brackets, though it gets the LIKE keyword correct. A student who knew the LIKE keyword, but not the AND/OR execution order, might pick this one.
+
 d) is the correct answer.
 
