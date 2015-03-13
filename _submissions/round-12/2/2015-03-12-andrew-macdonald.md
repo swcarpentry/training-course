@@ -1,5 +1,5 @@
 ---
-date: 2015-02-21
+date: 2015-03-13
 round: Round 12
 title: What is a Commit?
 author: Andrew MacDonald
@@ -51,23 +51,19 @@ Functions with default arguments
 
 Which of the following lines will return this dataframe:
 
-<table>
-<thead>
-<tr class="header">
-<th align="left">week</th>
-<th align="left">days</th>
-<th align="left">living_room</th>
-<th align="left">forgiven</th>
+<table border="1">
+<tr>
+<th>week</th>
+<th>days</th>
+<th>living_room</th>
+<th>forgiven</th>
 </tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">45</td>
-<td align="left">45</td>
-<td align="left">44</td>
-<td align="left">47</td>
+<tr>
+<td>45</td>
+<td>45</td>
+<td>44</td>
+<td>47</td>
 </tr>
-</tbody>
 </table>
 
 1.  `BNL(45, 45, 44, week = 47)`
