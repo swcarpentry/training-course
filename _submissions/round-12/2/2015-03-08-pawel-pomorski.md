@@ -38,9 +38,9 @@ Summative assessment
 
 What will be the output of the Python program shown above?
 
-1.  5,5     
-1.  3,5     
-1.  3,3     
+1.  5 5     
+1.  3 5     
+1.  3 3     
 1.  program will stop at statement a=b and produce en error  
 
 Comments for answers to the second question:
