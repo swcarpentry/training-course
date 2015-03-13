@@ -9,11 +9,26 @@ tags:
   - Shell
 ---
 
+These questions are from the shell scripting lesson: [Shell script lesson](http://swcarpentry.github.io/shell-novice/05-script.html)
 
-[Shell script lesson](http://swcarpentry.github.io/shell-novice/05-script.html)
 
+## Question 1
 
-## Question 1, 
+Given the script display.sh containing
+
+    echo "$4", "$3", "$2", "$1"
+
+What is the output of
+
+    $ bash display.sh a b "c d"
+
+a. ```a, b, c, d```
+
+b. ```d, c, b, a```
+
+c. ```c d, b, a```
+
+d. ```, c d, b, a```
 
 
 ## Question 2, Piping your own scripts
