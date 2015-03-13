@@ -1,0 +1,44 @@
+---
+date: 2015-03-12
+round: Round 12
+title: Shell MCQs
+author: Matthew Collins
+permalink: /2015/03/matthew-collins-mcq/
+tags:
+  - Multiple Choice Questions (MCQ)
+  - Shell
+---
+
+
+[Shell script lesson](http://swcarpentry.github.io/shell-novice/05-script.html)
+
+
+## Question 1, 
+
+
+## Question 2, Piping your own scripts
+
+With this question I wanted to make sure everyone understands that there is no
+difference between existing programs and the scripts they write. Everything 
+outputs to the same stdout so pipes can be used with both. I also wanted to get
+people to think about having not just one massive script; they too can write a
+bunch of small things to chain together.
+
+
+What is the output of the following code?
+
+    bash do-stats.sh *[AB].txt | bash sorted.sh
+
+
+a. A sorted list of file names processed by do-stats.sh (They've mistaken the 
+command sort for the script they wrote sorted.sh OR they forgot that sorted
+outputs the sorted number of lines and does not just sort names of files.)
+
+b. An error because sorted.sh expects a parameter with a "*" in it. (They have
+think that "$@" is a placeholder only for file globs like the example.)
+
+c. An error because the output of one script can't be sent to another script.
+(The answer I am really checking to make sure they do not give.)
+
+d. A sorted list of the total number of lines in each file that was processed
+by do-state.sh. (The right answer.)
