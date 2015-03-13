@@ -1,7 +1,7 @@
 ---
 date: 2015-03-12
 round: Round 12
-title: Python: slicing and calculating maximum
+title: Python slicing and calculating maximum
 author: Dorota Jarecka
 permalink: /2015/03/dorota-jarecka-mcq/
 tags:
@@ -17,50 +17,52 @@ My questions are related to the lesson that introduces NumPy [Analyzing Patient 
 #### Question 1:
 
 You have a 1D array `a`:
-~~~ {.python}
-a = numpy.array([2,4,6,8,10,12]) 
-a
-~~~
-~~~ {.output}
-array([ 2,  4,  6,  8, 10, 12])
-~~~
+
+    a = numpy.array([2,4,6,8,10,12]) 
+    print a
+
+produces:
+
+    array([ 2,  4,  6,  8, 10, 12])
+
 How can you select the last three elements, i.e., 8, 10, 12?
 
-a) `a[4:]`
+1.  `a[4:]`
 
-b) `a[4:8]`
+2.  `a[4:8]`
 
-c) `a[3:]`
+3.  `a[3:]`
 
-d) `a[3,4,5]`
+4.  `a[3,4,5]`
 
 #### Question 2:
 
 You have a 2D array `b`:
-~~~ {.python}
-b = numpy.array([[1,2,3,4],[5,6,7,8]])
-b
-~~~
-~~~ {.output}
-array([[1, 2, 3, 4],
-       [5, 6, 7, 8]])
-~~~
+
+    b = numpy.array([[1,2,3,4],[5,6,7,8]])
+    print b
+
+produces:
+
+    array([[1, 2, 3, 4],
+           [5, 6, 7, 8]])
+
 How can you check the maximum value in the second and last row?
 
-a) `b[1].max()`
+1.  `b[1].max()`
 
-b) `b[:,1].max()`
+2.  `b[:,1].max()`
 
-c) `b[1,:].max()`
+3.  `b[1,:].max()`
 
-d) `b.max()[1]`
+4.  `b.max()[1]`
 
 ###### Discussion of the answers and possible misconceptions:
 
-a) OK - demonstrates a possible shorter notation, i.e., `b[1]` is the same as `b[1,:]`  
+1.  OK - demonstrates a possible shorter notation, i.e., `b[1]` is the same as `b[1,:]`  
 
-b) wrong - one can confuse the C/F order
+2.  wrong - one can confuse the C/F order
 
-c) OK
+3.  OK
 
-d) wrong - default behavior for `array.max()` is calculating one value for all array 
+4.  wrong - default behavior for `array.max()` is calculating one value for all array 
