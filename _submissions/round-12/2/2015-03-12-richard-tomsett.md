@@ -15,15 +15,15 @@ These questions are for the [Databases and SQL - Filtering](http://swcarpentry.g
 
 Suppose we have a table, called site, that stores the latitude and longitude of locations:
 
-    ident | lat | long
-    --- | --- | --- 
-    P-1 | -32.10 |  40.10
-    P-2 | -15.43 |  23.43
-    P-3 |  12.24 |  10.54
-    Q-1 |  50.34 | -20.01
-    Q-2 | -23.18 | -33.80
-    Q-3 |  37.67 | -40.23
-    Q-4 | -54.26 | -34.49
+    ident | lat    | long
+    ----- | ------ | ------
+    P-1   | -32.10 |  40.10
+    P-2   | -15.43 |  23.43
+    P-3   |  12.24 |  10.54
+    Q-1   |  50.34 | -20.01
+    Q-2   | -23.18 | -33.80
+    Q-3   |  37.67 | -40.23
+    Q-4   | -54.26 | -34.49
 
 #### Question 1:
 
@@ -31,39 +31,39 @@ If we ran the query `SELECT ident FROM site WHERE lat<"0" AND long<"0";`, what w
 
 a)
 
-    ident | lat | long
-    --- | --- | --- 
-    Q-2 | -23.18 | -33.80
-    Q-4 | -54.26 | -34.49
+    ident | lat    | long
+    ----- | ------ | ------ 
+    Q-2   | -23.18 | -33.80
+    Q-4   | -54.26 | -34.49
 
 b)
 
     | ident |
-    | --- |
-    | Q-2 |
-    | Q-4 |
+    | ----- |
+    | Q-2   |
+    | Q-4   |
 
 c)
 
     | ident |
-    | --- |
-    |P-1|
-    |P-2|
-    |Q-1|
-    |Q-2|
-    |Q-3|
-    |Q-4|
+    | ----- |
+    | P-1   |
+    | P-2   |
+    | Q-1   |
+    | Q-2   |
+    | Q-3   |
+    | Q-4   |
 
 d)
 
-    ident | lat | long
-    --- | --- | --- 
-    P-1 | -32.10 |  40.10
-    P-2 | -15.43 |  23.43
-    Q-1 |  50.34 | -20.01
-    Q-2 | -23.18 | -33.80
-    Q-3 |  37.67 | -40.23
-    Q-4 | -54.26 | -34.49
+    ident | lat    | long
+    ----- | ------ | -----
+    P-1   | -32.10 |  40.10
+    P-2   | -15.43 |  23.43
+    Q-1   |  50.34 | -20.01
+    Q-2   | -23.18 | -33.80
+    Q-3   |  37.67 | -40.23
+    Q-4   | -54.26 | -34.49
 
 #### Question 2:
 
