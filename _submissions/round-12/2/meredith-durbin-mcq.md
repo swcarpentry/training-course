@@ -20,10 +20,10 @@ Suppose you have the following datasets:
 
 In order, what types of data are these? 
 
-    a. List, array, list of arrays
-    b. List, list, list of tuples
-    c. Array, array, array of tuples
-    d. Ambiguous/could be multiple types
+1.  List, array, list of arrays
+1.  List, list, list of tuples
+1.  Array, array, array of tuples
+1.  Ambiguous/could be multiple types
 
 ### Summative question: indexing
 
@@ -34,15 +34,14 @@ Suppose you run the following code:
 
 What gets printed?
 
-    a. [6, 5, 4]
-    b. 2
-    c. 7
-    d. [3, 2, 1]
+1.  [6, 5, 4]
+1.  2
+1.  7
+1.  [3, 2, 1]
 
-a. Those who choose (a) understand the structure of the list, but forget that Python indexing starts at 0.
+Analysis:
 
-b. Those who choose (b) fail to understand that n[2] is selecting for the item with index 2 and not the value 2.
-
-c. Those who choose (c) understand that Python indexing starts at 0, but fail to understand how the list is structured.
-
-d. Correct
+1.  Those who choose (a) understand the structure of the list, but forget that Python indexing starts at 0.
+2.  Those who choose (b) fail to understand that n[2] is selecting for the item with index 2 and not the value 2.
+3.  Those who choose (c) understand that Python indexing starts at 0, but fail to understand how the list is structured.
+4.  Correct
