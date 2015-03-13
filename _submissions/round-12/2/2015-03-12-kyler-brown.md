@@ -1,7 +1,7 @@
 ---
 date: 2015-03-12
 round: Round 12
-title: Third Meeting for Round 12
+title: Boolean logic in Python MCQs
 author: Kyler Brown
 permalink: /2015/03/kyler-brown-mcq/
 tags:
