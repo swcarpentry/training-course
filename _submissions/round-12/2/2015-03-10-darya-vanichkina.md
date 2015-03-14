@@ -23,6 +23,7 @@ tags:
 
     If your table Visited looks like:
 
+    ident	site	dated
     751	DR-3	1930-02-26 
     752	DR-3	-null-
     837	MSK-	1932-01-14
