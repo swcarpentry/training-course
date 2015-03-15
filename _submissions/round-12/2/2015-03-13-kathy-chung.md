@@ -1,7 +1,7 @@
 ---
 date: 2015-03-13
 round: Round 12
-title: MCQ: Unix Shell finding things
+title: Finding Things in the Unix Shell
 author: Kathy Chung
 permalink: /2015/03/kathy-chung-mcq/
 tags:
