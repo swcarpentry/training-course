@@ -1,7 +1,7 @@
 ---
 date: 2015-02-22
 round: Round 12
-title: Second Meeting for Round 12
+title: R at command line
 author: Jeremy Gray
 permalink: /2015/02/R-at-command-line/
 tags:

@@ -3,7 +3,7 @@ date: 2015-02-25
 round: Round 12
 title: Shell Scripts
 author: Konrad Förstner
-permalink: /2015/02/shell-scripts/
+permalink: /2015/02/concept-map-shell-scripts/
 tags:
   - Concept Map
   - Shell scripts
