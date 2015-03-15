@@ -409,3 +409,43 @@ or whoever was supposed to drop off power bars didn't.
 Roll with it,
 and remember to laugh
 (even if it's a bit hysterically).
+
+## What's In Your Bag?
+
+When we asked our instructors what they have in their knapsack when they go to teach a workshop,
+they gave us the list below.
+Any single person will only have a subset of this,
+but it's still worth checking the whole list every time you travel.
+
+*   sticky notes
+*   good shoes (because you're going to be standing all day)
+*   a variety of video adapters
+*   cough drops (which you should start using *before* your throat feels raw)
+*   a spare t-shirt (and/or deodorant --- it can get very warm in front of the projector)
+*   a spare power adapter
+*   laptop stickers
+*   a toothbrush (or mouthwash, or breath mints --- you're going to be talking to a lot of people after drinking a lot of coffee)
+*   a granola bar or some other snack in case you can't get out for lunch
+*   some antacid tablets (in case you *did* manage to get out for lunch)
+*   business cards
+*   name tags
+*   a printed copy of the notes for reference during teaching (or a tablet you can put beside your laptop)
+*   an insulated cup for tea or coffee (and remember: if someone asks a difficult question, taking a sip will give you a few seconds in which to think of a good answer)
+*   spare glasses or contacts
+*   a notebook and pen
+*   a USB WiFi dongle (in case your laptop's internal WiFi won't talk to the university network)
+*   some sort of WiFi hub (in case networking in the room isn't working)
+*   whiteboard markers (in case the room's have run dry)
+*   a laser pointer (if you like that sort of thing)
+*   pocket tissues and hand sanitizer (so you don't come home from the workshop with a cold)
+*   a travel lock of some kind
+*   a few USB stickers with some or all of:
+    *   the lesson notes, whatever data files the learners will be using, etc.
+    *   installers for Canopy, Anaconda, RStudio, and other software (in case the room's WiFi won't handle the load)
+    *   a virtual machine image and VirtualBox installers for Mac and Windows (for people who have insuperable setup problems)
+    *   Ubuntu Live images (so that people can boot into Linux if need be)
+*   An [Ostrich pillow](http://www.ostrichpillow.com/) for power napping
+*   exercise gear (a bathing suit, jogging shoes and shorts, yoga gear, etc.)
+*   power socket adapters (if you're traveling internationally)
+*   a couple of empty plastic containers to use as an ad hoc stand for your laptop (because lecterns are too low for live coding)
+*   a spare laptop (though it's better to ask the host to take care of this)
