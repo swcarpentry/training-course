@@ -3,6 +3,7 @@ date: 2015-03-15
 round: Round 12
 title: Multiple Choice Questions for SQL
 author: Matt Dickenson
+permalink: /2015/03/matt-dickenson-mcq/
 tags:
   - MCQ
   - assessment
