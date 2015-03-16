@@ -1,3 +1,14 @@
+---
+date: 2015-03-16
+round: Round 12
+title: Load and extract data in R
+author: Huixi Violet Zhang
+permalink: /2015/03/violet-zhang-mcq/
+tags:
+  - R
+  - MCQ
+---
+
 The MCQs are designed to assess the ability to use R to load and extract data in the comma-separated values(csv) format, as seen in the lesson: http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html.
 
 Q1. There is a CSV format data set in the file "inflammation.csv" in the current directory, which each row holds information for a single patient and the columns represent successive days. The first few rows looks like: 
@@ -8,12 +19,14 @@ Q1. There is a CSV format data set in the file "inflammation.csv" in the current
 0,1,1,3,3,1,3,5,2,4,4,7,6,5,3,10,8,10,6,17,9,14,9,7,13,9,12,6,7,7,9,6,3,2,2,4,2,0,1,1
 ...
 Which of the following commond will correctly load the data as a data.frame in R
+
 A. dat = read.csv(File = "inflammation.csv")
 B. dat = read.csv(File = "inflammation.csv", header = FALSE)
 C. dat = read.table(File = "inflammation.csv")
 D. dat = read.delim(File = "inflammation.csv", header = FALSE)
 
 Q2. Now that you have succesfully loaded the above CSV file as a data frame dat, which of the following command would you use to extract the data in the 4th row?
+
 A. dat[4]
 B. dat[4, ]
 C. dat[ ,4]
