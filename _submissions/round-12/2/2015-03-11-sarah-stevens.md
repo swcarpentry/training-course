@@ -17,14 +17,14 @@ a bullet and a letter for the answers.  Suggestions?
 
 1.  Given the following code, which output would be printed if num = 137?
 
-            if num > 100:
-                print 'greater'
-                if num % 2 == 1:
-                    print 'even'
-            elif num % 2 ==1:
-                print 'odd'
-            else:
-                print 'not greater'
+        if num > 100:
+            print 'greater'
+            if num % 2 == 0:
+                print 'even'
+        elif num % 2 == 1:
+            print 'odd'
+        else:
+            print 'not greater'
 
 * a.     `greater`
         `even`
