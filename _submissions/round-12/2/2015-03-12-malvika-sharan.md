@@ -11,12 +11,11 @@ tags:
 ---
 Lesson on Programming with Python, taken from here: http://swcarpentry.github.io/python-novice-inflammation/02-loop.html
 
-**Which of the following codes will correctly reverse a string, i.e. word = 'Newton' to new_word = 'notweN'? Hint, you can start by assuming either of these conditions,
-new_word = [] or new_word = ''**
+**Which of the following codes will correctly reverse a string, i.e. word = 'Newton' to new_word = 'notweN'?**
 
 1.
-
-    for letter in (word)[-1:]
+    new_word = []
+    for letter in (word)[-1:]:
         new_word.append(letter)
 
 2.
@@ -28,7 +27,7 @@ new_word = [] or new_word = ''**
     new_word = word[::-1]
 
 4.
-
+    new_word = []
     for letter in (word)[::-1]:
         new_word.append(letter)
 
