@@ -14,7 +14,7 @@ Wednesday, March 11, 2015
 #Summative
 ###What is the probability of getting three heads in ten coin flips?
 
-<a href="https://www.flickr.com/photos/benweinstein/16842139316" title="unnamed-chunk-1-1 by Ben Weinstein, on Flickr"><img src="https://farm8.staticflickr.com/7636/16842139316_3ca4394c3c_s.jpg" width="75" height="75" alt="unnamed-chunk-1-1"></a>
+<a href="https://www.flickr.com/photos/benweinstein/16842139316" title="unnamed-chunk-1-1 by Ben Weinstein, on Flickr"><img src="https://farm8.staticflickr.com/7636/16842139316_3ca4394c3c_s.jpg" width="400" height="400" alt="unnamed-chunk-1-1"></a>
 
 #Explanation and distractors
 
