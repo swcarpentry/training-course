@@ -14,7 +14,7 @@ Wednesday, March 11, 2015
 #Summative
 ###What is the probability of getting three heads in ten coin flips?
 
-![](./2015-03-10-Ben-Weinstein_files/figure-html/unnamed-chunk-1-1.png) 
+<a href="https://www.flickr.com/photos/benweinstein/16842139316" title="unnamed-chunk-1-1 by Ben Weinstein, on Flickr"><img src="https://farm8.staticflickr.com/7636/16842139316_3ca4394c3c_s.jpg" width="75" height="75" alt="unnamed-chunk-1-1"></a>
 
 #Explanation and distractors
 
@@ -25,5 +25,3 @@ B. The total number of flips is 10 not 7, students selecting this option see the
 C. Correct answer, the probability of getting three heads in 10 draws is around 0.11
 
 D. The student has confused with the probability of a point estimate (3 heads) denoted by the dbinom density function with the probability of getting 3 or less heads, which is the cumulative distribution function pbinom. While the estimate is not that far off, the increasing function towards ten should seem wrong.
-
-
