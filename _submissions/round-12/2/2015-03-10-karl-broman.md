@@ -24,30 +24,24 @@ conditional statements and might lead to discussion of statements like
 
 Consider the following function.
 
-```
-f <-
-function(vec, threshold=10)
-{
-    number <- 0
-    for(v in vec) {
-        if(v <= threshold)
-            number <- number + 1
+    f <-
+    function(vec, threshold=10)
+    {
+        number <- 0
+        for(v in vec) {
+            if(v <= threshold)
+                number <- number + 1
+        }
+    
+        return(number)
     }
-
-    return(number)
-}
-```
 
 _What value would `f(c(3, 10, 5, 8, 28), 5)` return?_
 
-a. 1
-
-b. 2
-
-c. 3
-
-d. 4
-
+1.  1
+2.  2
+3.  3
+4.  4
 
 #### Question 2
 
@@ -55,25 +49,18 @@ Consider the function defined in the previous question.
 
 _What value would `f(NULL)` return?_
 
-a. This will give an error.
-
-b. 0
-
-c. 1
-
-d. `NULL`
+1.  This will give an error.
+2.  0
+3.  1
+4.  `NULL`
 
 
 #### Discussion of Question 2
 
-a. This is incorrect. I had in mind that a student might thing that a
-   `for` loop wouldn't work with an empty set of values.
+1.  This is incorrect. I had in mind that a student might thing that a `for` loop wouldn't work with an empty set of values.
 
-b. This is the correct answer. The `for` loop ends up getting skipped,
-   since `vec` is empty.
+2.  This is the correct answer. The `for` loop ends up getting skipped, since `vec` is empty.
 
-c. This is incorrect. I had in mind that a student might think that
-   `v` would take the value `NULL` and that `NULL <= threshold` might be
-   interpreted as `TRUE`.
+3.  This is incorrect. I had in mind that a student might think that `v` would take the value `NULL` and that `NULL <= threshold` might be interpreted as `TRUE`.
 
-d. I guess this is the "fish" answer. Writing these MCQs is hard.
+4.  I guess this is the "fish" answer. Writing these MCQs is hard.

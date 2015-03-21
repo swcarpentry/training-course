@@ -16,76 +16,74 @@ These multiple choice quesitons are for the "Storing Multiple Values in Lists"
 
 Consider the following code:
 
-```python
-fruit = ['apple', 'orange', 'grapes', 'peach']
-fruit[2] = 'lemon'
-for item in fruit:
-    print item
-```
+    fruit = ['apple', 'orange', 'grapes', 'peach']
+    fruit[2] = 'lemon'
+    for item in fruit:
+        print item
+
 
 What will be printed?
 
 a)
-```
-apple
-lemon
-grapes
-peach
-```
+
+    apple
+    lemon
+    grapes
+    peach
+
 
 b)
-```
-apple
-orange
-lemon
-peach
-```
+
+    apple
+    orange
+    lemon
+    peach
+
 
 c)
 
-```
-['apple', 'lemon', 'grapes', 'peach']
-```
+
+    ['apple', 'lemon', 'grapes', 'peach']
+
 
 d)
-```
-['apple', 'orange', 'lemon', 'peach']
-```
+
+    ['apple', 'orange', 'lemon', 'peach']
+
 
 ### Summative Assesment
 
 Consider the following code:
 
-```python
-evens = [2, 4, 6, 8, 10]
-evens.append(16)
-del evens[4]
-print evens[2:]
-```
+    evens = [2, 4, 6, 8, 10]
+    evens.append(16)
+    del evens[4]
+    print evens[2:]
+
 
 What will be printed?
 
 a)
-```
-[4, 6, 10, 16]
-```
+
+    [4, 6, 10, 16]
+
 
 b)
-```
-6
-8
-16
-```
+
+    6
+    8
+    16
+
 
 c)
-```
-[6, 8, 16]
-```
+
+    [6, 8, 16]
+
 
 d)
-```
-[4, 6, 8, 16]
-```
+
+    [4, 6, 8, 16]
+
 
 Explanation of distractors:
 

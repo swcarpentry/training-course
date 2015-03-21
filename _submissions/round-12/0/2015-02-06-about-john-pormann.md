@@ -14,3 +14,6 @@ Throughout my career, I've seen a lot of "bad" code -- code that was written by 
 I'm looking forward to learning to how to improve my teaching so I can help researchers stop worrying about code and keep their focus on the science.
 
 *What I found hardest about using Git the first time was...*
+
+... getting the initial configuration set up correctly, particularly the need for an upstream master (git remote add upstream) to be able to pull down new changes from the main branch.
+
