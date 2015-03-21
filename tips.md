@@ -4,6 +4,23 @@ author: Greg Wilson
 layout: page
 permalink: /tips/
 ---
+## Code of Conduct
+
+Make sure everyone knows that there's a [code of conduct][conduct].
+If someone (including a fellow instructor) speaks down to someone or otherwise makes them feel unwelcome,
+speak to them about it.
+Make sure *you* know about
+[unconscious bias][unconscious-bias] and [stereotype threat][stereotype-threat],
+[how to counter them[countering-stereotype-threat],
+and [how to be a good ally][being-a-good-ally].
+
+## The Goal
+
+Emphasize that we're not trying to turn scientists into professional programmers.
+Instead,
+we're trying to teach good software development skills
+to enable productive, reproducible, reusable research.
+
 ## Talk Before and After
 
 Software Carpentry runs biweekly debriefing meetings online for people who have recently taught workshops.
@@ -17,17 +34,35 @@ to talk about who's teaching what,
 who's handling which bits of prep,
 etc.
 
+## Avoid Using the 'J' Word
+
+Don't say "just", as in, "Oh, it's easy, you just..."
+The things we teach are intrinsically hard,
+and far too much software makes doing them even harder.
+Talking down to users&mdash;in particular,
+implying that it's their fault for not already understanding this&mdash;isn't just rude.
+It also undercuts their confidence and motivation,
+which in turn impedes learning.
+
+Similarly,
+[don't get caught up in pointless argument][argument-cultures]
+or technical one-upmanship.
+The point of teaching is not to show the learners that you know more than them,
+or more than your fellow instructor.
+In particular,
+never hesitate to sacrifice completeness for clarity.
+
 ## Online Lessons
 
-Point learners at [http://software-carpentry.org/lessons.html](http://software-carpentry.org/lessons.html),
+Point learners at <http://software-carpentry.org/lessons.html>,
 which is the permanent home of the current learning materials.
 They should also be directed to
-[Software Carpentry's FAQ](http://software-carpentry.org/faq.html).
+[Software Carpentry's FAQ][swc-faq].
 
 ## Re-Use
 
 Explain that the lesson materials can all be freely re-mixed and re-used
-under the [Creative Commons - Attribution](http://software-carpentry.org/LICENSE.html) (CC-BY) license,
+under the [Creative Commons - Attribution (CC-BY) license][swc-license],
 provided people cite us as the original source
 (e.g., provide a link back to our site).
 However,
@@ -62,13 +97,6 @@ probably won't show up.
 (We fantasize occasionally about turning people away if they haven't installed software,
 or at least downloaded the installers,
 but in practice it's hard to do.)
-
-## The Goal
-
-Emphasize that we're not trying to turn scientists into professional programmers.
-Instead,
-we're trying to teach good software development skills
-to enable productive, reproducible, reusable research.
 
 ## Sticky Notes
 
@@ -126,7 +154,7 @@ This reduces the effort per learner,
 gives you a chance to see what they think you're saying,
 and provides a record after the workshop of what was actually taught.
 
-## Summarizing What's Been Covered
+## Summarize What's Been Covered
 
 For workshops that extend over more than two days (e.g. four afternoons spread over two weeks),
 it's a good idea to email the learners at the end of each day with a summary of what was taught
@@ -168,16 +196,10 @@ Point learners at the online versions of the long-form notes
 if you do it before the lesson,
 they'll try to read the notes while you're trying to talk.
 
-## Live Coding, Slides, and Diagrams
-
-Our workshops use live coding (for reasons discussed below):
-slides should only be used at the very start of a lesson to motivate it.
-The one exception is diagrams:
-it's often easier to bring up a prepared diagram than to draw it in real time on a whiteboard.
-
 ## Why Live Coding?
 
-Our workshops use live coding instead of slides because:
+Do not use slides.
+Instead, program live in front of your audience:
 
 1.  Having to type things in slows the instructor down
     to something closer to the learners' pace.
@@ -199,14 +221,19 @@ Our workshops use live coding instead of slides because:
     since they, as novices, are going to be making a lot of mistakes
     and need to know what to do when that happens.
 
+## Slides and Diagrams
+
+The one exception to the "no slides" rule is diagrams:
+it's often easier to bring up a prepared diagram than to draw it in real time on a whiteboard.
+
 ## Pairing
 
-[Pair programming](https://en.wikipedia.org/wiki/Pair_programming) is the practice of having
+[Pair programming][pair-programming] is the practice of having
 two developers work together on one machine.
 Each takes turns being the pilot and the navigator,
 i.e., being the one who types and the one who comments.
 This effectively results in real-time code review,
-which [research has shown](http://www.sciencedirect.com/science/article/pii/S0950584909000123)
+which [research has shown][pair-programming-research]
 results in higher productivity.
 
 Pairing is also a good practice in workshops:
@@ -268,8 +295,7 @@ write it down in the Etherpad so that
 
 ## Pitfalls
 
-Instructing at a workshop isn't trivial.
-The most important thing is to remember that
+The most important thing to remember is that
 no lesson plan survives contact with the audience.
 Whether it's the network going down
 or the sudden realization that many of your learners *don't* know how to use SSH,
@@ -277,6 +303,25 @@ you will frequently need to improvise.
 And even when there aren't hiccups like those,
 try your best to adjust your pace and examples based on
 learners' questions, puzzled looks, and sighs of impatience.
+
+### Plan for fatigue.
+
+Teaching is tiring.
+Teaching for an entire day without a break is exhausting,
+and when you are exhausted,
+you will start to rush things and make mistakes.
+You should therefore try to schedule the workshop so that
+no one teaches more than a half day at a stretch.
+
+### Check the setup.
+
+Do you have enough power outlets?
+(Are you sure?)
+Do you have enough bandwidth to handle fifty people hitting your version control repository at the same time?
+(How do you know?)
+Can everyone actually log in?
+Are the washrooms unlocked?
+Does campus security know you're using the room over the weekend?
 
 ### Allow enough time for setup.
 
@@ -313,6 +358,17 @@ This does *not* mean you have to shout,
 crack three jokes a minute,
 or harangue them about how this stuff is really, really important,
 but you do owe it to your audience to show up mentally as well as physically.
+
+### Don't insult your learners.
+
+Disparaging remarks about tools the learners are currently using may be meant humorously,
+but are often taken as denigrating or insulting.
+For example,
+a lot of scientists have done a lot of first-rate research using Excel on Windows;
+telling them that this is somehow wrong will make them defensive,
+which will inhibit learning.
+Instead,
+talk positively about the benefits of the new approach that you're about to show them.
   
 ### Don't be all talk, no action.
 
@@ -341,7 +397,7 @@ quick changes that they can't follow and certain
 groups of learners will never say that this makes them
 uncomfortable - or ask questions.
 
-### Never copy and paste.
+### Don't copy and paste.
 
 It's easy to find code snippets on the web
 but impress upon learners that part of what
@@ -360,7 +416,7 @@ There's no point collecting feedback
 during and after each workshop 
 if you don't change what and how you teach to reflect it.
 
-### Tell learners "why".
+### Tell learners why.
 
 Most of our learners are graduate students in science and engineering,
 so they know what evidence looks like, 
@@ -368,7 +424,7 @@ and why working practices should be evidence-based.
 That doesn't mean you have to have the whole of 
 empirical software engineering at your fingertips,
 but please do read
-*[Facts and Fallacies of Software Engineering](http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/)*
+*[Facts and Fallacies of Software Engineering][facts-fallacies-book]*
 and sprinkle a few of the findings it quotes into your lessons.
   
 ### Don't show them the forest but not the trees.
@@ -379,16 +435,6 @@ Point out that connecting things with pipes in the shell is like chaining functi
 or that they can use a shell script to re-run a bunch of different tests before committing to version control,
 and so on.
 If possible, take 15 minutes or so each day to show them how you use these tools in your day-to-day work.
-
-### Don't underestimate setup requirements.
-
-Do you have enough power outlets?
-(Are you sure?)
-Do you have enough bandwidth to handle fifty people hitting your version control repository at the same time?
-(How do you know?)
-Can everyone actually log in?
-Are the washrooms unlocked?
-Does campus security know you're using the room over the weekend?
 
 ### Don't let your learners ignore each other.
 
@@ -444,8 +490,21 @@ but it's still worth checking the whole list every time you travel.
     *   installers for Canopy, Anaconda, RStudio, and other software (in case the room's WiFi won't handle the load)
     *   a virtual machine image and VirtualBox installers for Mac and Windows (for people who have insuperable setup problems)
     *   Ubuntu Live images (so that people can boot into Linux if need be)
-*   An [Ostrich pillow](http://www.ostrichpillow.com/) for power napping
+*   An [Ostrich pillow][ostrich-pillow] for power napping
 *   exercise gear (a bathing suit, jogging shoes and shorts, yoga gear, etc.)
 *   power socket adapters (if you're traveling internationally)
 *   a couple of empty plastic containers to use as an ad hoc stand for your laptop (because lecterns are too low for live coding)
 *   a spare laptop (though it's better to ask the host to take care of this)
+
+[argument-cultures]: https://www.kateheddleston.com/blog/argument-cultures-and-unregulated-aggression
+[being-a-good-ally]: http://dynamicecology.wordpress.com/2014/04/30/stereotype-threat-and-ally-work/
+[conduct]: http://software-carpentry.org/conduct.html
+[countering-stereotype-threat]: http://dynamicecology.wordpress.com/2014/04/29/countering-stereotype-threat/
+[facts-fallacies-book]: http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425/
+[ostrich-pillow]: http://www.ostrichpillow.com/
+[pair-programming-research]: http://www.sciencedirect.com/science/article/pii/S0950584909000123
+[pair-programming]: https://en.wikipedia.org/wiki/Pair_programming
+[stereotype-threat]: http://dynamicecology.wordpress.com/2014/04/28/stereotype-threat-a-summary-of-the-problem/
+[swc-faq]: http://software-carpentry.org/faq.html
+[swc-license]: http://software-carpentry.org/LICENSE.html
+[unconscious-bias]: http://womeninastronomy.blogspot.com/2014/05/why-we-resist-unconscious-bias.html
