@@ -1,5 +1,5 @@
 ---
-date: 2015-03-10
+date: 2015-03-20
 round: Round 12
 title: "I won't give you your exam until you pay your tuition"
 author: Karl Broman
