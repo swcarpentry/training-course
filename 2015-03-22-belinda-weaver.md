@@ -1,12 +1,12 @@
-+---
-+date: 2015-03-22
-+round: Round 12
-+title: "My teacher thought I was a dunce"
-+author: Belinda Weaver
-+permalink: /2015/03/belinda-weaver-motivation
-+tags:
-+  - Motivation
-+---
+---
+date: 2015-03-22
+round: Round 12
+title: "My teacher thought I was a dunce"
+author: Belinda Weaver
+permalink: /2015/03/belinda-weaver-motivation
+tags:
+  - Motivation
+---
 
 ### My teacher thought I was a dunce
 
