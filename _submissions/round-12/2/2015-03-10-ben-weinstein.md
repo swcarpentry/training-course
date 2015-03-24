@@ -1,22 +1,24 @@
-# Probability in R
-Ben Weinstein  
-Wednesday, March 11, 2015  
-
-#Formative
-
-###Which probability distribution should we use to model coin flips given a finite number of trials?
+---
+date: 2015-03-10
+round: Round 12
+title: Probability in R
+author: Ben Weinstein
+permalink: /2015/03/ben-weinstein-mcq/
+tags:
+  - MCQ
+---
+Which probability distribution should we use to model coin flips given a finite number of trials?
 
 * Binomial 
 * Negative Binomial 
 * Normal 
 * Poisson 
 
-#Summative
-###What is the probability of getting three heads in ten coin flips?
+What is the probability of getting three heads in ten coin flips?
 
 <a href="https://www.flickr.com/photos/benweinstein/16842139316" title="unnamed-chunk-1-1 by Ben Weinstein, on Flickr"><img src="https://farm8.staticflickr.com/7636/16842139316_3ca4394c3c_s.jpg" width="200" height="200" alt="unnamed-chunk-1-1"></a>
 
-#Explanation and distractors
+**Explanation and distractors**
 
 A. The size of the draw and number of successes are reversed. Good conceptual test - since it is nonsensical to draw 10 heads from 3 flips.
 
