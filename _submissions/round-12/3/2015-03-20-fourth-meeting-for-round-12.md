@@ -31,6 +31,87 @@ tags:
     -   the [teaching tips](/training-course/tips/) section of this website.
 5.  Greg will send a note separately about Git/GitHub/Markdown tutorials to those who signed up.
 
+**Groups for Practice Lessons**
+
+*   East Asia/Australia 1
+    *   Will Cornwell
+    *   Victor KC Lee
+    *   Belinda Weaver
+*   Europe 1
+    *   Donna Henderson
+    *   Johan Hjelm
+    *   Laurie Baker
+*   Europe 2
+    *   Matt Probert
+    *   Laura Graham
+    *   Sarah Mount
+*   Europe 3
+    *   Horacio Vargas
+    *   Javier Garcia-Algarra
+    *   Fran Navarro
+*   Europe 4
+    *   Konrad Forstner
+    *   Hugues Fontenelle
+    *   Richard Tomsett
+*   Europe 5
+    *   Owen Stephens
+    *   Simon Fraser
+    *   Marios Isaakidis
+*   South America / Eastern North America 1
+    *   Jon Borrelli
+    *   Ariel Bowers
+    *   Kris Keipert
+*   South America / Eastern North America 2
+    *   Dirk Eddelbuettel
+    *   Sarah W.
+    *   Violet Zhang
+*   South America / Eastern North America 3
+    *   Galen Collier
+    *   Meredith Durbin
+    *   Arliss Collins
+*   South America / Eastern North America 4
+    *   Daiva Nielsen
+    *   April Clyburne-Sherin
+    *   Remi Daigle
+*   South America / Eastern North America 5
+    *   Vladimir Sudilovsky
+    *   Jeremy Gray
+    *   Brian Magill
+*   South America / Eastern North America 6
+    *   Auriel Fournier
+    *   Burke Squires
+    *   Derek Howard
+*   South America / Eastern North America 7
+    *   Elizabeth Wickes
+    *   Sue McClatchy
+    *   Narayanan Raghupathy
+*   South America / Eastern North America 8
+    *   Heather Gibling
+    *   Kathy Chung
+    *   Kim Moir
+*   South America / Eastern North America 9
+    *   Filipe Pires Alvarenga Fernandes
+    *   Matthew Collins
+    *   Morgan Taschuk
+*   South America / Eastern North America 10
+    *   Kyler Brown
+    *   Luke Johnston
+    *   Matthew Bourque
+*   Western North America 1
+    *   Kai Yang
+    *   Tessa Pierce
+    *   Amy Boyle
+*   Western North America 2
+    *   Michael Sarahan
+    *   Phil Rosenfield
+    *   Matt Dickenson
+*   Western North America 3
+    *   Sarah Stevens
+    *   Dorota Jarecka
+    *   Ben Weinstein
+*   Pending
+    *   Karl Broman
+
 **Questions**
 
 -   What did you learn about your topic (and how to teach it) from
