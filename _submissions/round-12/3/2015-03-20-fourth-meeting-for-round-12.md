@@ -37,6 +37,9 @@ tags:
     *   Will Cornwell
     *   Victor KC Lee
     *   Belinda Weaver
+*   East Asia/Australia 2
+    *   Karl Broman
+    *   Darya Vanichkina
 *   Europe 1
     *   Donna Henderson
     *   Johan Hjelm
@@ -57,6 +60,9 @@ tags:
     *   Owen Stephens
     *   Simon Fraser
     *   Marios Isaakidis
+*   Europe 6
+    *   Arvind Sundaram
+    *   Martin Bentley
 *   South America / Eastern North America 1
     *   Jon Borrelli
     *   Ariel Bowers
@@ -97,6 +103,10 @@ tags:
     *   Kyler Brown
     *   Luke Johnston
     *   Matthew Bourque
+*   South America / Eastern North America 11
+    *   Pawel Pomorski
+    *   Joseph Long
+    *   Catherine Devlin
 *   Western North America 1
     *   Kai Yang
     *   Tessa Pierce
@@ -109,8 +119,9 @@ tags:
     *   Sarah Stevens
     *   Dorota Jarecka
     *   Ben Weinstein
-*   Pending
-    *   Karl Broman
+*   Western North America 4
+    *   Adam Richie-Halford
+    *   Jessica Gallinger
 
 **Questions**
 
