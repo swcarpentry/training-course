@@ -3,13 +3,10 @@ date: 2015-03-22
 round: Round 12
 title: "My teacher thought I was a dunce"
 author: Belinda Weaver
-permalink: /2015/03/belinda-weaver-motivation
+permalink: /2015/03/belinda-weaver-motivation/
 tags:
   - Motivation
 ---
-
-### My teacher thought I was a dunce
-
 I attended an all girls school where I excelled at languages and history but was consistently weak in **maths**. My father was a wizard at maths and my older sister and brother were A students in maths, but I was a B student at best, and I always had to struggle to keep up. I was able to do this until Grade 10 (Junior), but in the final two years of school (Senior), I got lost and have stayed lost ever since. This was largely because of the teaching, which was very poor.
 
 My teacher for Senior maths was a woman who had **never** taught maths at Senior level before. She was learning as we went along, which did not help, as she did not have sufficient grasp of the material to make it intelligible to me. She had been my teacher for Junior maths, and had consistently favoured a group of girls in the class – calling on them for answers, holding them up as models, while ignoring other students. I might as well have been invisible and inaudible. She was just not interested in me. If I tried to get assistance, she made me feel bad, or blamed me for not catching on quickly enough.
