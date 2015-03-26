@@ -3,7 +3,7 @@ date: 2015-03-22
 round: Round 12
 title: Demotivation Scenario
 author: Daiva Nielsen
-permalink:/2015/03/daiva-nielsen-motivation/
+permalink: /2015/03/daiva-nielsen-motivation/
 tags:
   - Motivation
 ---
