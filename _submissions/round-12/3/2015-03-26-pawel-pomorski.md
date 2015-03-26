@@ -2,7 +2,7 @@
 date: 2015-03-26
 round: Round 12
 title: "The Strange Case of a Professor Who Was Too Nice to Students"
-author: Filipe Fernandes
+author: Pawel Pomorski
 permalink: /2015/03/pawel-pomorski-motivation/
 tags:
   - Motivation
