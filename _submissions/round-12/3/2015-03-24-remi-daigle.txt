@@ -1,0 +1,13 @@
+---
+date: 2015-03-24
+round: Round 12
+title: That's a fail!
+author: Remi Daigle
+permalink: /2015/03/remi-daigle-motivation/
+tags:
+  - Motivation
+---
+
+One of the most demotivational things that occured to me was during grad school. Some other biology graduate students and I were struggling with an assignment which was outside our field of expertise (i.e. not a biology assignment). We asked the prof if our strategy was on the right track and he told us: "That's a fail" without elaborating or providing feedback.
+
+This situation could have been improved had the prof given us constructive feedback or even identified what exactly we were doing wrong. Simply stating that we would fail was not encouraging particularly since we were learning material from outside our comfort zone.
