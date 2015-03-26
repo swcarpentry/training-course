@@ -63,6 +63,7 @@ tags:
 *   Europe 6
     *   Arvind Sundaram
     *   Martin Bentley
+    *   Evgenij Belikov
 *   South America / Eastern North America 1
     *   Jon Borrelli
     *   Ariel Bowers
@@ -122,6 +123,8 @@ tags:
 *   Western North America 4
     *   Adam Richie-Halford
     *   Jessica Gallinger
+    *   Daniel Wheeler
+    *   John Moreau
 
 **Questions**
 
