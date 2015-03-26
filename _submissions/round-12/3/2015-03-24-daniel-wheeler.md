@@ -16,20 +16,21 @@ perfect example of demotivating instruction.
 
 I attended a fencing camp a number of years ago and the experience is
 still branded in my consciousness. The camp was highly anticipated by
-the members of my fencing club. It was to be instructed by
-[Professor Zbigniew Czajkowski](http://en.wikipedia.org/wiki/Zbigniew_Czajkowski),
-one of the world's greatest fencing maestros. He has coached the very
-best, including Olympic medalists and world champions, and is revered
-among the Polish instructors at my fencing club who are all schooled
-in his method of fencing. Unfortunately, I did not find the camp to be
-a motivating experience, but rather a traumatic one. His method of
+the members of my fencing club. It was to be instructed by [Professor
+Zbigniew
+Czajkowski](http://en.wikipedia.org/wiki/Zbigniew_Czajkowski), one of
+the world's greatest fencing maestros. He has coached the very best,
+including Olympic medalists and world champions, and is revered among
+the Polish instructors at my fencing club who are all schooled in his
+method of fencing. Unfortunately, I did not find the camp to be a
+motivating experience, but rather a traumatic one. His method of
 instruction was the antithesis of the informal way in which we
-interacted with our regular fencing coaches. His regimented and
-abusive way of imparting knowledge was something that we were entirely
-unfamiliar with and belonged in a B grade World War II flick. We were
-the naughty children and he was the stern and raging master, in a
-situation that required us to suppress our egos and submit in a way
-that we were not prepared for.
+interacted with our regular fencing coaches. His regimented way of
+imparting knowledge was something that we were entirely unfamiliar
+with and belonged in a B grade World War II flick. We were the naughty
+children and he was the stern and raging master, in a situation that
+required us to suppress our egos and submit in a way that we were not
+prepared for.
 
 I didn't absorb anything from the great maestro, I have no memory of
 any of the topics discussed or any of the fencing drills that I
