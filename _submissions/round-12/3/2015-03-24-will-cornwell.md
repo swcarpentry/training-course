@@ -1,12 +1,12 @@
-+---
-+date: 2015-03-24
-+round: Round 12
-+title: Stochastic assessment as a demotivational tool
-+author: Will Cornwell
-+permalink: /2015/03/will-cornwell-motivation/
-+tags:
-+  - Motivation
-+---
+---
+date: 2015-03-24
+round: Round 12
+title: Stochastic assessment as a demotivational tool
+author: Will Cornwell
+permalink: /2015/03/will-cornwell-motivation/
+tags:
+  - Motivation
+---
 
 When I was an undergrad, we had a PhD student running one of our
 sections of a large course.  The course had a number of essay
