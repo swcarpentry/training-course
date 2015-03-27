@@ -8,7 +8,6 @@ tags:
   - Motiviation
   - Ecology
 ---
-
 I earned the first and only "C" of my undergraduate career in an ecology course that
 approached the subject in a dry, mathematical, textbook-heavy manner. My earlier 
 courses had been field courses by the ocean, in the mountains, in the deserts. I 
@@ -19,6 +18,7 @@ during his lectures. Sex in an ecology class is a perfectly appropriate topic, b
 his treatment of the topic was not appropriate. It was creepy and made me feel 
 uncomfortable. I also lost respect for him as a professor and stopped taking the course
 seriously, so much so that I slept through the final exam.
+
 I wish he understood the damage that he did by sharing what was on his mind with us.
 It's good to show your human side, but what's on your mind might not be appropriate
 or welcome in certain situations. Had he stopped making sexual references, I could have
