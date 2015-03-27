@@ -1,0 +1,19 @@
+---
+date: 2015-03-24
+round: Round 12
+title: Public Humiliation 
+author: Heather Gibling
+permalink: /2015/03/heather-gibling-motivation/
+tags:
+  - Motivation
+---
+
+I've had my share of teachers and professors who didn't seem to care about what they were teaching or about grading students fairly, but the worst case of demotivation occurred during the final semester of my undergrad. I was taking a course on a topic I was very interested in and passionate about, and I had been waiting a couple of years before I could take the course. 
+
+I used accommodations for writing exams at the time, and at the beginning of the semester, the prof insisted on providing the accommodations himself. I didn't think this would be a problem until two hours before I was scheduled to write the midterm, when he called my cell phone and told me I'd have to be there an hour earlier because he had to travel to the other campus to supervise the other students. I didn't notice the call right away, and by the time I got there he was aggravated and kept telling me how he was going to be late for the other students. There were other issues with the accommodations he provided, so I soon after talked to the centre that handles accommodations and asked if I would be able to switch to having my accommodations with them. They agreed and advised me on how to talk to the prof about it. I sent the prof a polite email explaining the situation and asked if we could discuss it after our next class, as I didn't want to discuss it in front of the other students (he had already, on two occasions, publicly discussed the fact that I had accommodations).
+
+When I got to class, he insisted on talking about it then and there. He was angry, which I wasn't expecting at all, and kept telling me that he had the right to provide the accommodations himself and that I agreed to it and couldn't change it. He said that if I didn't like it, I could drop his course. Then he turned to a student sitting nearby and told him that he would be witness to our conversation, that he agreed that I said the prof would provide the accommodations, and that I was ok with the situation. I tearfully said I wasn't ok with that. The entire class was silent, as was the guest lecturer in the front setting up his presentation. Eventually the prof left me, and I basically ran out of the room crying.
+
+I'm not sure if I could have done anymore than what I did afterwards. I was terrified of the prof from then on, and considered dropping the course (I already had enough credits to graduate), but I wouldn't have been eligible for the Dean's list if I did. After talking with a counsellor from the accommodation centre, we came up with a plan, and with her acting as my liaison, she managed to get the prof to agree to let me write the final exam in the accommodation centre (with his secretary supervising me). I felt I had to tiptoe around him to avoid him grading me more harshly than the other students on the remaining assignments. I attended lectures but stopped participating and asking questions, and I completely lost interest in the course I had been so excited to take.
+
+After my final marks were submitted, the counsellor told me they were going to talk to the Dean of the professor's department about the incident (but without discussing who was involved) and hold a meeting for all of the faculty about student privacy. I wish I had been more adamant about having the centre talk to the professor directly, as there was no way they could ensure he would attend the meeting, and I doubt he even got a slap on the wrist at the end of it all. I do think, however, it was a good idea to hold that meeting to ensure other teaching staff knew the rules surrounding student privacy and how to talk to students about issues.
