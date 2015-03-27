@@ -64,6 +64,9 @@ tags:
     *   Arvind Sundaram
     *   Martin Bentley
     *   Evgenij Belikov
+*   Europe 7
+    *   Malvika Sharan
+    *   John Constable
 *   South America / Eastern North America 1
     *   Jon Borrelli
     *   Ariel Bowers
