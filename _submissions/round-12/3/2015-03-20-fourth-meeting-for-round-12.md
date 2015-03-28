@@ -89,7 +89,6 @@ tags:
     *   Brian Magill
 *   South America / Eastern North America 6
     *   Auriel Fournier
-    *   Burke Squires
     *   Derek Howard
 *   South America / Eastern North America 7
     *   Elizabeth Wickes

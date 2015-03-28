@@ -5,8 +5,8 @@ title: Demotivation by Disinterest
 author: Johan Hjelm
 permalink: /2015/03/johan-hjelm-motivation/
 tags:
-  - motivation
-  - demotivation
+  - Motivation
+  - Demotivation
 ---
 
 I have been quite fortunate throughout my academic studies I think, and haven't had
