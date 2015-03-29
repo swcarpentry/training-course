@@ -1,13 +1,12 @@
 ---
 date: 2015-03-20
 round: Round 12
-title: "Demotivation and Privilege"
+title: Demotivation and Privilege
 author: Andrew MacDonald
 permalink: /2015/03/andrew-macdonald-demotivation-privilege/
 tags:
   - Motivation
 ---
-
 Our assignment this week was to describe an occasion when we felt demotivated in the course of our education.  I think this is a useful exercise, but I think we should try to go farther!  Demotivation doesn’t affect everyone equally -- it is particularly tied to privilege. 
 
 I've definitely experienced good and bad teaching, and corresponding highs and lows in motivation, over the course of my education (example above).  But I've also mostly been told that I belong in science / computer stuff -- for example, everywhere I look in those fields I see people who look exactly like me.  Frankly, I don't think I'd be too demotivated by somebody dropping a careless "just" or "it's easy" during instruction.  Somebody else might, and I think that this has less to do with our individual histories and more to do with systematic inequalities that benefit one group at the expense of others.
