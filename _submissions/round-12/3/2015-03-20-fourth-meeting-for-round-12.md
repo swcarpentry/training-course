@@ -90,6 +90,7 @@ tags:
 *   South America / Eastern North America 6
     *   Auriel Fournier
     *   Derek Howard
+    *   Andrew MacDonald
 *   South America / Eastern North America 7
     *   Elizabeth Wickes
     *   Sue McClatchy
