@@ -14,9 +14,6 @@ tags:
   - Markdown
  
 ---
-
-# How Instructor Training has made me want to quit programming and teaching
-
 I have struggled over writing and posting this blog post. When we received the assignment to write about a demotivating educational experience, I struggled to think of a good example from the classroom. Then I realized that the most demotivating experience of my life was still going.
 
 Software Carpentry Instructor Training has sapped my enthusiasm for both programming and for teaching in general.  
