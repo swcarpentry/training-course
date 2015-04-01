@@ -5,9 +5,8 @@ title: Demotivation
 author: Arvind Sundaram
 permalink: /2015/03/arvind-sundaram-motivation/
 tags:
-  - Inspiration from the tutor
+  - Motivation
 ---
-
 Two of my tutors have helped me in understading the importance of a good teacher.
 
 First the worst case -
