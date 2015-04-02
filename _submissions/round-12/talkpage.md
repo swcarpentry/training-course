@@ -58,4 +58,17 @@ While we build out our skills, each of us will come across key ideas that help u
      Note that new parts of the lesson appear below the current one, so scroll
      down after completing a task.
 
+## Github Pages
+
+Github pages, such as what you are probably reading this on, use a backend
+named `jekyll`. This can be found [here](http://jekyllrb.com/).
+
+The most useful pages regarding how this works for people contributing to the
+instructors' course are probably the
+ [frontmatter](http://jekyllrb.com/docs/frontmatter/) and the
+ [structure](http://jekyllrb.com/docs/structure/) pages. Note that the
+ structure used here is not the default. But hopefully knowing what the tool
+ being used is will make writing these pages a trifle less opaque.
+
+## A Final Note
 If this page is missing something you think it should cover, let us know in the comments. Or better yet, make a pull request and add it to the page!
