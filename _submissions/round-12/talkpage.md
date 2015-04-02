@@ -40,5 +40,7 @@ While we build out our skills, each of us will come across key ideas that help u
     -   [Nano](http://www.nano-editor.org/download.php) - (Windows/Linux) Often used as a Vim alternative at bootcamps. Integrates nicely with Gitbash on windows.
     -   [Sublime Text](http://www.sublimetext.com/) - (Mac/Windows/Linux) Is a popular code editor with a large ecosystem of extension packages and custom themes.
     -   Add your Favorite Text Editor Here!
+- Cheat sheets:
+    -   A good cheat sheet for GitHub-flavored Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 If this page is missing something you think it should cover, let us know in the comments. Or better yet, make a pull request and add it to the page!
