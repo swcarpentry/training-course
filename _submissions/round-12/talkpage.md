@@ -9,20 +9,33 @@ tags:
   - Github
   - Markdown
 ---
-## Motivation 
-Many of us have had some difficulties with Git, Github, and Markdown. As anyone who's read my [demotivation post](http://swcarpentry.github.io/training-course/2015/03/john-moreau-motivation/) knows, I have definitely struggled with the tools. Since then I have received some helpful tutoring (thank you Ivan) and even more offers to help. That support has improved my motivation greatly. 
- 
-While we build out our skills, each of us will come across key ideas that help us understand the tools better. I am posting this talk page so we can share those tips and tricks with each other along the way. Please feel free to add comments below or even add directly to the markdown file. As people add comments, I will incorporate their contributions into this text. 
+## Motivation
+Many of us have had some difficulties with Git, Github, and Markdown. As anyone who's read my [demotivation post](http://swcarpentry.github.io/training-course/2015/03/john-moreau-motivation/) knows, I have definitely struggled with the tools. Since then I have received some helpful tutoring (thank you Ivan) and even more offers to help. That support has improved my motivation greatly.
 
-*Remember, if you had trouble with it, so did somebody else.*   
+While we build out our skills, each of us will come across key ideas that help us understand the tools better. I am posting this talk page so we can share those tips and tricks with each other along the way. Please feel free to add comments below or even add directly to the markdown file. As people add comments, I will incorporate their contributions into this text.
 
-## Git 
+*Remember, if you had trouble with it, so did somebody else.*
+
+## Git
 
 -   General principles you found confusing?
 -   Tips for working on the commmand line?
 -   Your comment here!
+-   Useful references
+    -   [This](https://rogerdudler.github.io/git-guide/) is quite a good
+        high-level overview for a bunch of common tasks. Covers at least
+        creating a repo, linking to a remote, creating branches, resetting a
+        local repo. It is a good introduction, but for something more meaty:
+    -   I have usually gone to the [Pro Git](http://git-scm.com/book/en/v2)
+        book.
+        This covers pretty much everything that one might need to do with git,
+        but is consequently _much_ less accessible than the first link.
+        -   It does have an [entire chapter about github](http://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
+        though, which is nice. This chapter covers setting up an account, pull
+        requests, forking, and a lot more of advanced stuff that I have not
+        even looked at in detail.
 
-## Github 
+## Github
 
 -   Did you have issues keeping your local machine in sync with the official repo?
 -   Any suggestions on keeping branches neat?
@@ -32,11 +45,17 @@ While we build out our skills, each of us will come across key ideas that help u
 -   One thing that confused me about Markdown was that I didn't know you could edit a Markdown file with a plain text editor.
 -   There are some markdown editors which show your formatted text next to your raw file.
     -   [MarkdownPad](http://markdownpad.com/) - (Windows) Wonderful side-by-side editor, with support for multiple flavors of Markdown.
-    -   [DayOne](http://dayoneapp.com/) - (Mac/iOS) DayOne is a journal app that supports native Markdown. A great way to get some daily practice with Markdown. 
+    -   [DayOne](http://dayoneapp.com/) - (Mac/iOS) DayOne is a journal app that supports native Markdown. A great way to get some daily practice with Markdown.
     -   Many other iOS text editors support Markdown. Do you have a favorite?
 -   Here are some suggestions for plain text editors:
     -   [Notepad ++](http://notepad-plus-plus.org/) - (Windows) Great for multiple languages, including R, Python, and SQL.
     -   [Nano](http://www.nano-editor.org/download.php) - (Windows/Linux) Often used as a Vim alternative at bootcamps. Integrates nicely with Gitbash on windows.
     -   Add your Favorite Text Editor Here!
+
+-  Tutorials
+    -   [This](http://markdowntutorial.com/)
+     is a nice (interactive) introduction to the basics of markdown.
+     Note that new parts of the lesson appear below the current one, so scroll
+     down after completing a task.
 
 If this page is missing something you think it should cover, let us know in the comments. Or better yet, make a pull request and add it to the page!
