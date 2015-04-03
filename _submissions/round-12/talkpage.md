@@ -34,6 +34,37 @@ While we build out our skills, each of us will come across key ideas that help u
         though, which is nice. This chapter covers setting up an account, pull
         requests, forking, and a lot more of advanced stuff that I have not
         even looked at in detail.
+-   Tutorials
+    -   If you want to try this sort of thing in a live environment, without
+        worrying about installing things, give [try-git](https://try.github.io/)
+        a go. It walks you through how to connect a remote, adding files, basic
+        branching, and commits.
+    -   Another nice resource with a good overview of the basic commands is
+        [git-it](http://jlord.us/git-it/), which is available at [github](https://github.com/jlord/git-it)
+        as well. This allows you to create a terminal app that allows you to
+        step through a series of challenges which teach those basic commands.
+
+#### Note on git resources
+
+The above have been put together with the expectation that people are interested
+in learning to use git on the command line.  
+If one is only interested in writing the blog posts needed, then the
+web-interface of github is sufficient:
+
+1. Log in to GitHub and navigate to the directory where the posts live.  
+    Please do this on your own fork, so that Greg can review incoming changes.
+2. Click on the [Create a new file here](https://help.github.com/articles/creating-new-files/) button:
+
+    ![fork-and-create](https://cloud.githubusercontent.com/assets/209920/6977500/83b02104-d973-11e4-890e-6584eeccf159.png)
+
+    If you don't already have a fork, that will be a “Fork this project and create a new file” button.
+
+3. Follow the
+[rest of the steps](https://help.github.com/articles/creating-new-files/)
+to create the commit and pull-request for that new file.
+
+If something in the above is not clear, just yell and we can try make it
+clearer.
 
 ## Github
 
