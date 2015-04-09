@@ -37,6 +37,7 @@ While we build out our skills, each of us will come across key ideas that help u
 -   Here are some suggestions for plain text editors:
     -   [Notepad ++](http://notepad-plus-plus.org/) - (Windows) Great for multiple languages, including R, Python, and SQL.
     -   [Nano](http://www.nano-editor.org/download.php) - (Windows/Linux) Often used as a Vim alternative at bootcamps. Integrates nicely with Gitbash on windows.
+    -   [Atom](https://atom.io/)  - (Windows/Mac/Linux) Free and open source text editor developed by GitHub with real-time preview of markdown text (ctrl+shift+m) and other nice stuff like syntax highlighting or a file tree-view which tracks files being changed (ready to commit).
     -   Add your Favorite Text Editor Here!
 
 If this page is missing something you think it should cover, let us know in the comments. Or better yet, make a pull request and add it to the page!
