@@ -3,7 +3,7 @@ date: 2015-04-10
 round: Round 12
 title: 3 minutes teaching video - Functions in Python
 author: Hugues
-permalink: /2015/04/hugues-fontenelle-teaching-video/
+permalink: /2015/04/hugues-fontenelle-video/
 tags:
   - Video
   - Practice Teaching
