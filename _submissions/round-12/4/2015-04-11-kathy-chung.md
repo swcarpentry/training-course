@@ -1,7 +1,7 @@
 ---
 date: 2015-04-11
 round: Round 12
-title: GREP Practise Teaching Video
+title: Using grep
 author: Kathy Chung
 permalink: /2015/04/kathy-chung-video/
 tags:

@@ -1,16 +1,14 @@
 ---
 date: 2015-04-10
 round: Round 12
-title: 3 min practice teaching - Unix Pipes
+title: Unix Pipes
 author: Tessa Pierce
 permalink: /2015/04/tessa-pierce-video/
 tags:
   - Practice Teaching
   - Video
 ---
-
-
-I chose to teach about pipes in unix, taken directly from the [novice shell lesson](http://swcarpentry.github.io/shell-novice/03-pipefilter.html). 
+I chose to teach about pipes in Unix, taken directly from the [novice shell lesson](http://swcarpentry.github.io/shell-novice/03-pipefilter.html). 
 
 Video [on youtube](https://youtu.be/e_NsO6u2tgM). Some feedback I'll mention (to avoid it being repeated) was 1. bigger font, and 2. fewer distractions (let terminal take up the entire screen). Other feedback would be much appreciated!
 

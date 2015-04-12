@@ -1,14 +1,13 @@
 ---
 date: 2015-04-12
 round: Round 12
-title: Karl Broman's Practice Video
+title: Subsetting Vectors in R
 author: Karl Broman
 permalink: /2015/04/karl-broman-video/
 tags:
   - Practice Teaching
   - Video
 ---
-
 Here is my [practice teaching video](https://vimeo.com/124722688), on
 subsetting vectors in R.
 

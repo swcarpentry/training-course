@@ -1,7 +1,7 @@
 ---
 date: 2015-04-10
 round: Round 12
-title: How to Subset in R Video
+title: How to Subset in R
 author: Auriel Fournier
 permalink: /2015/04/auriel-fournier-video/
 tags:

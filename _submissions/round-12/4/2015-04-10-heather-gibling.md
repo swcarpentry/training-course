@@ -1,14 +1,13 @@
 ---
 date: 2015-04-10
 round: Round 12
-title: 3 Min Video - Subsetting Vectors in R 
+title: Subsetting Vectors in R 
 author: Heather Gibling
 permalink: /2015/04/heather-gibling-video/
 tags:
   - Practice Teaching
   - Video
 ---
-
 Here is my [practice teaching video](https://www.youtube.com/watch?v=FwHynNv1hY0) for programming in R.
 
 I chose the bit on subsetting character vectors from the first R lesson ([Analyzing Patient Data](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html)), as my first practice teaching was on subsetting data tables.

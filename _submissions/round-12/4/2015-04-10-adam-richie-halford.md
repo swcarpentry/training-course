@@ -1,14 +1,13 @@
 ---
 date: 2015-04-10
 round: Round 12
-title: Practice Teaching Shell Loops
+title: Shell Loops
 author: Adam Richie-Halford
 permalink: /2015/04/adam-richie-halford-video/
 tags:
   - Practice Teaching
   - Video
 ---
-
 [Here is video](https://youtu.be/I8cc6R3sW5g) of my practice lesson for
 loops in the Unix shell. I chose the very first part of the [SWC shell
 loops lesson](https://swcarpentry.github.io/shell-novice/04-loop.html).

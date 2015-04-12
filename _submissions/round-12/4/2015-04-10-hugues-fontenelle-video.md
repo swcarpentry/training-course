@@ -1,14 +1,13 @@
 ---
 date: 2015-04-10
 round: Round 12
-title: 3 minutes teaching video - Functions in Python
-author: Hugues
+title: Functions in Python
+author: Hugues Fontenelle
 permalink: /2015/04/hugues-fontenelle-video/
 tags:
   - Video
   - Practice Teaching
 ---
-
 I recorded myself teaching a very basic introduction to Functions in Python, in less than three minutes.
 The [video](https://www.youtube.com/watch?v=XozGjngpwUo) is on my YouTube channel that I just set up for the occasion.
 
