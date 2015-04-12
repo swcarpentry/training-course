@@ -1,7 +1,7 @@
 ---
 date: 2015-04-10
 round: Round 12
-title: Heather Gibling's Practice Video 
+title: 3 Min Video - Subsetting Vectors in R 
 author: Heather Gibling
 permalink: /2015/04/heather-gibling-video/
 tags:
