@@ -2,7 +2,7 @@
 date: 2015-04-13
 round: Round 12
 title: Repeating Actions with Loops
-author: Kathy Chung
+author: Filipe Fernandes
 permalink: /2015/04/filipe-fernandes-video/
 tags:
  - Practice Teaching
