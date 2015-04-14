@@ -9,7 +9,7 @@ tags:
   - Video
 ---
 
-[Video is here](https://youtu.be/Xnfzc85W95k).  I chose tracebacks in Python as
+[Video is here](https://www.youtube.com/embed/Xnfzc85W95k?vq=hd1080).  I chose tracebacks in Python as
 this is an extremely useful skill to give people.  It enables them to help
 themselves, and helps them understand how things work - especially when things
 get complicated.
