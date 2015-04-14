@@ -1,7 +1,7 @@
 ---
 date: 2015-04-13
 round: Round 12
-title: Git Diff
+title: Video: Git Diff
 author: Morgan Taschuk
 permalink: /2015/04/morgan-taschuk-video/
 tags:
