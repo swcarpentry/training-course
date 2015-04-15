@@ -19,7 +19,9 @@ is worth a thousand words!
 One of my colleagues found the lesson and the graphics very helpful as well, even though
 he has a better command of git than I do. It's not intuitive.
 
-[The video is posted on YouTube](https://youtu.be/Gdj4r8S1fOM).
+[The video is posted on YouTube](https://youtu.be/f-Bf9hrxg34).
 
-Unfortunately there's no audio to accompany the video. I'm not sure why not -
-the mic was not muted. It was the first time I'd used QuickTime to record.
+The first time I recorded I didn't realize you had to select an audio input
+source from the drop-down menu, so there was no audio. The second time I had
+technical issues with my computer. The third time worked like a charm. Practice makes
+perfect.
