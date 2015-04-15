@@ -31,7 +31,7 @@ insightful nor novel.
 
 That being said, we should always plan and strive for well-planned and
 delivered instruction, which includes a level of motivation, engagement and
-persuasiveness to wins the attention of the students
+persuasiveness that wins the attention of the students
 
 #### Note
 
