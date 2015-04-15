@@ -9,8 +9,7 @@ tags:
   - Video
 ---
 
-Here is the video on writing simple for loops in R.  It's pretty basic, but it could fit well into some kind of 
-larger lesson like one on processing data from multiple files.  
+Here is [a video on writing simple for loops in R](http://youtu.be/UtUUqN9FUIg).  It's pretty basic, but it could fit well into a number of different larger lesson like one on processing multiple files.  
 
 I have heard from Victor that I should work more on putting informative comments in my code as I go, 
 which is a very good suggestion, but hard to implement in short videos.
