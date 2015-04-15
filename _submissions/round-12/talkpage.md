@@ -77,6 +77,15 @@ clearer.
 -   There are some markdown editors which show your formatted text next to your raw file.
     -   [MarkdownPad](http://markdownpad.com/) - (Windows) Wonderful side-by-side editor, with support for multiple flavors of Markdown.
     -   [DayOne](http://dayoneapp.com/) - (Mac/iOS) DayOne is a journal app that supports native Markdown. A great way to get some daily practice with Markdown.
+<<<<<<< HEAD
+    -   [ByWord](http://bywordapp.com) - (Mac OS X) ByWord is a general Markdown editor. It has a preview mode and supports export in HTML, RTF, Word, PDF and LaTeX
+    -   Many other iOS text editors support Markdown. Do you have a favorite?
+-   Here are some suggestions for plain text editors:
+    -   [Notepad ++](http://notepad-plus-plus.org/) - (Windows) Great for multiple languages, including R, Python, and SQL.
+    -   [Nano](http://www.nano-editor.org/download.php) - (Windows/Linux) Often used as a Vim alternative at bootcamps. Integrates nicely with Gitbash on windows.
+    -   Add your Favorite Text Editor Here!
+    -   [SublimeText](http://www.sublimetext.com) - (Windows/Mac OS X) Powerful general text editor. Supports a wide array of formats/syntaxes including Markdown and there are lots of plugins which can be installed to extend functionality (e.g. support for Git)
+=======
     -   [Mou](http://25.io/mou/) and the Mou-inspired [MacDown](http://macdown.uranusjr.com/) are great markdown editors for Mac.
 -   Here are some suggestions for plain text editors:
     -   [Notepad ++](http://notepad-plus-plus.org/) - (Windows) Great for multiple languages, including R, Python, and SQL.
@@ -106,6 +115,7 @@ instructors' course are probably the
  being used is will make writing these pages a trifle less opaque.
 
 ## A Final Note
+>>>>>>> upstream/gh-pages
 
 If this page is missing something you think it should cover, let us know in the comments.
 Or better yet, make a pull request and add it to the page!
