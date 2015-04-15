@@ -1,7 +1,7 @@
 ---
 date: 2015-04-13
 round: Round 12
-title: Video: Reading Data in R
+title: Reading Data in R
 author: John Moreau
 permalink: /2015/04/john-moreau-video/
 tags:

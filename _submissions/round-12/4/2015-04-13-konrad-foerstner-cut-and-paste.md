@@ -3,10 +3,9 @@ date: 2015-04-13
 round: Round 12
 title: The shell commands cut and paste
 author: Konrad Förstner
-permalink: /2015/04/konrad-foerstner-cut-and-paste/
+permalink: /2015/04/konrad-foerstner-video/
 tags:
-  - cut 
-  - paste
+  - Video
   - shell
   - teaching lesson
 ---
