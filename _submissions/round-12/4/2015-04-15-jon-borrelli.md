@@ -3,10 +3,13 @@ date: 2015-04-15
 round: Round 12
 title: Getting Info About Your Data in R
 author: Jon Borrelli
+permalink: /2015/04/jon-borrelli-video
 tags:
   - Practice Teaching
   - Video
 ---
+
+
 
 My practice lesson was from the novice R lessons, the _Manipulating Data_ section of [Analyzing Patient Data](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data.html). 
 
