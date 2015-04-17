@@ -25,3 +25,4 @@ The first time I recorded I didn't realize you had to select an audio input
 source from the drop-down menu, so there was no audio. The second time I had
 technical issues with my computer. The third time worked like a charm. Practice makes
 perfect.
+Git and Github are still largely incomprehensible. I can get them to work but I never know how or why.
