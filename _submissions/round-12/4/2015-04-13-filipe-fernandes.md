@@ -18,6 +18,6 @@ that there is plenty of room for improvement.  Specially if I remove the first
 part "looping over a string" and go straight to, a more useful skill,
 opening multiple files.
 
-<iframe width="480" height="385" src="https://www.youtube.com/embed/XozGjngpwUo" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="385" src="https://youtu.be/N8S_4uEUwyE" frameborder="0" allowfullscreen></iframe>
 
 Special thanks to Matthews Collins for recording the video.
