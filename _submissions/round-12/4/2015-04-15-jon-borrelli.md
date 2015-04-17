@@ -3,7 +3,7 @@ date: 2015-04-15
 round: Round 12
 title: Getting Info About Your Data in R
 author: Jon Borrelli
-permalink: /2015/04/jon-borrelli-video
+permalink: /2015/04/jon-borrelli-video/
 tags:
   - Practice Teaching
   - Video
