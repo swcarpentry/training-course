@@ -10,8 +10,7 @@ tags:
   - teaching lesson
 ---
 
-<iframe width="420" height="315" src="https://youtu.be/gQwb_HpTcQE" frameborder="0" 
-allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gQwb_HpTcQE" frameborder="0" allowfullscreen></iframe>
 
 [This video](https://www.youtube.com/watch?v=gQwb_HpTcQE) contains a
 short introduction into the shell commands
