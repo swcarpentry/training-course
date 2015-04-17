@@ -1,7 +1,7 @@
 ---
 date: 2015-04-16
 round: Round 12
-title: Teaching Demo: Python Novice, Analyzing Data from Multiple Files
+title: "Teaching Demo: Python Novice, Analyzing Data from Multiple Files"
 author: Joseph Long
 permalink: /2015/04/joseph-long-video/
 tags:
