@@ -76,7 +76,6 @@ tags:
     *   Sarah W.
     *   Violet Zhang
 *   South America / Eastern North America 3
-    *   Galen Collier
     *   Meredith Durbin
     *   Arliss Collins
 *   South America / Eastern North America 4
@@ -769,8 +768,6 @@ tags:
         teaching in the classroom helped me identify some.
 -   Kyler Brown:
     <https://swcarpentry.github.io/training-course/2015/03/kyler-brown-mcq/>
--   Galen Collier (Clemson University, traveling & connecting by phone
-    only)
 -   Belinda Weaver The University of Queensland/QCIF
     <http://swcarpentry.github.io/training-course/2015/03/belinda-weaver-mcq/>
     -   I learned that there is more than one right answer so you have
