@@ -29,9 +29,11 @@ to set up a time for your final online demo lesson.
 It's been a privilege getting to you know -
 I hope we have a chance to teach together some day.
 
+*   Ahmad Albaqsami: Python
 *   Evgenij Belikov: Shell
 *   Martin Bentley: Git
 *   Jon Borrelli: Git
+*   Matthew Bourque: Python
 *   Amy Boyle: MATLAB
 *   Karl Broman: R
 *   Kyler Brown: Python
@@ -41,12 +43,14 @@ I hope we have a chance to teach together some day.
 *   Will Cornwell: Git
 *   Remi Daigle: MATLAB
 *   Catherine Devlin: Mercurial
+*   Mat Dickinson: R
 *   Dirk Eddelbuettel: SQL
 *   Filipe Fernandes: Shell
 *   Hugues Fontenelle: Shell
 *   Auriel Fournier: R
 *   Konrad Förstner: Git
 *   Javier Garcia: R
+*   Heather Gibling: SQL
 *   Laura Graham: SQL
 *   Jeremy Gray: Python
 *   Donna Henderson: R
@@ -68,6 +72,7 @@ I hope we have a chance to teach together some day.
 *   Pawel Pomorski: Python
 *   Narayanan Raghupathy: Python
 *   Adam Richie-Halford: Python
+*   Philip Rosenfield: Git
 *   Michael Sarahan: Git
 *   Malvika Sharan: Python
 *   Owen Stephens: SQL
