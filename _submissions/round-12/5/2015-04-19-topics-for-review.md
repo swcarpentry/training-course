@@ -67,6 +67,7 @@ I hope we have a chance to teach together some day.
 *   Kim Moir: Mercurial
 *   John Moreau: SQL
 *   Sarah Mount: Shell
+*   Francisco Navarro: MATLAB
 *   Daiva Nielsen: Shell
 *   Tessa Pierce: R
 *   Pawel Pomorski: Python
