@@ -73,6 +73,7 @@ I hope we have a chance to teach together some day.
 *   Juan Nunez-Iglesias: Git
 *   Tessa Pierce: R
 *   Pawel Pomorski: Python
+*   John Pormann: Python
 *   Narayanan Raghupathy: Python
 *   Adam Richie-Halford: Python
 *   Philip Rosenfield: Git
