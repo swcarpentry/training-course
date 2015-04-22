@@ -3,7 +3,7 @@ date: 2015-04-15
 round: Round 12
 title: Python lists
 author: Sarah Mount
-permalink: /2015/04/sarah-mount-video
+permalink: /2015/04/sarah-mount-video/
 tags:
   - Video
   - Practice Teaching
