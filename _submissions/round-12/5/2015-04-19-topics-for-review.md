@@ -55,6 +55,7 @@ I hope we have a chance to teach together some day.
 *   Jeremy Gray: Python
 *   Donna Henderson: R
 *   Johan Hjelm: Python
+*   Derek Howard: Python
 *   Marios Isaakidis: SQL
 *   Dorota Jarecka: Git
 *   Luke Johnston: Git
