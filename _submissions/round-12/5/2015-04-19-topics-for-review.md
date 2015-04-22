@@ -50,7 +50,7 @@ I hope we have a chance to teach together some day.
 *   Auriel Fournier: R
 *   Konrad Förstner: Git
 *   Javier Garcia: R
-*   Heather Gibling: SQL
+*   Heather Gibling: R
 *   Laura Graham: SQL
 *   Jeremy Gray: Python
 *   Donna Henderson: R
