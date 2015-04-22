@@ -70,6 +70,7 @@ I hope we have a chance to teach together some day.
 *   Sarah Mount: Shell
 *   Francisco Navarro: MATLAB
 *   Daiva Nielsen: Shell
+*   Juan Nunez-Iglesias: Git
 *   Tessa Pierce: R
 *   Pawel Pomorski: Python
 *   Narayanan Raghupathy: Python
