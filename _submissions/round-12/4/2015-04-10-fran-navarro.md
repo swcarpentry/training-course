@@ -13,7 +13,7 @@ This 3 minute video is based on the Defensive programming part of Software Carpe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/98H0mZw9uUU" frameborder="0" allowfullscreen></iframe>
 
-As you will notice, I’m not used to explain these kind of exercises in English since I am Spanish ^^
+As you will notice, I'm not used to explain these kind of exercises in English since I am Spanish ^^
 Perhaps I should have reduced the content due to my lack of fluency, but preparing and recording this example help me a lot to really understand these defensive programming techniques.
 
 I used screencast-o-matic.com and the IPython notebook with Anaconda and Python 3.

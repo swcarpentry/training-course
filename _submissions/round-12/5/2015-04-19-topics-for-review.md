@@ -48,7 +48,7 @@ I hope we have a chance to teach together some day.
 *   Filipe Fernandes: Shell
 *   Hugues Fontenelle: Shell
 *   Auriel Fournier: R
-*   Konrad Förstner: Git
+*   Konrad Forstner: Git
 *   Javier Garcia: R
 *   Heather Gibling: R
 *   Laura Graham: SQL

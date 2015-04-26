@@ -15,4 +15,3 @@ I was impressed with Greg's citing on his father's teaching experience. That mig
 Overall, I was shocked at my ignoring so many seemingly simple concepts when I was an instructor or a TA. The adopted textbook is also an excellent choice. Lastly, the small-group teaching practice is an enjoyable process of peer review. I believe this kind of team spirit is what Greg is trying to build.
 
 One improvement suggestion in my mind is that for feedbacks or comments on postings, Greg might want to make formal assignments so that everyone can get even amount of feedbacks. 
-

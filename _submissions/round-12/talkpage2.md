@@ -57,7 +57,7 @@ web-interface of github is sufficient:
 
     ![fork-and-create](https://cloud.githubusercontent.com/assets/209920/6977500/83b02104-d973-11e4-890e-6584eeccf159.png)
 
-    If you don't already have a fork, that will be a “Fork this project and create a new file” button.
+    If you don't already have a fork, that will be a "Fork this project and create a new file" button.
 
 3. Follow the
 [rest of the steps](https://help.github.com/articles/creating-new-files/)

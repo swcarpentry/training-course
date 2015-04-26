@@ -76,7 +76,7 @@ so recording a live session is a sneaky way to prevent you from putting in more 
         before starting the course. Would be a good test to see if
         people have the time, and hopefully would teach them a few of
         the work flows before starting.
--   Konrad Förstner (University of Würzburg)
+-   Konrad Forstner (University of Würzburg)
     -   I stumble in one of the discussed issue - previous knowledge
         (cut & paste in gui tools vs. cut & paste in the Shell) - should
         have taken care of this.
@@ -116,7 +116,7 @@ so recording a live session is a sneaky way to prevent you from putting in more 
     -   Git+GitHub: 8
     -   Not sure... As you said, people are learning Git as the
         training goes.
--   Malvika Sharan (University of Würzburg)
+-   Malvika Sharan (University of Wurzburg)
     -   Preparation is the key, else i tend to get nervous
     -   'body-language factor' is missing from both teacher and
         students in online teaching, whereas in the classroom you can
