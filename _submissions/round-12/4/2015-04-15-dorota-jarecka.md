@@ -1,7 +1,7 @@
 ---
 date: 2015-04-15
 round: Round 12
-title: 
+title: Parameterization in py.test 
 author: Dorota Jarecka
 permalink: /2015/04/dorota-jarecka-video/
 tags:
