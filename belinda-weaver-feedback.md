@@ -10,7 +10,7 @@ tags:
 ---
 ### Feedback on Instructor Training 
 
-I really enjoyed this course, and I think the extended delivery actually kept me in – I would have been tempted to drop out of the 2-day course because of a lack of knowledge of the Software Carpentry lesson material - too much to take on in a such short time.
+I really enjoyed this course, and I think the extended delivery actually kept me in – I would have been tempted to drop out of the 2-day course because of a lack of knowledge of the Software Carpentry lesson material - too much to take on in such a short time.
 
 All I really brought to the course was a strong desire to teach skills to researchers – I actually knew very little about Unix, Git, Python, and so on, but I figured I could learn those (which I have begun to do). While not necessarily being a prerequisite, it might be good if new trainees had attended a bootcamp as a learner so they would have at least some basic knowledge of the lesson material. 
 
