@@ -3,7 +3,7 @@ date: 2015-02-25
 round: Round 12
 title: Branches in Git
 author: Heather Gibling
-permalink: /2015/02/heather-gibling/
+permalink: /2015/02/heather-gibling-concept-map/
 tags:
   - Concept Map
   - Git

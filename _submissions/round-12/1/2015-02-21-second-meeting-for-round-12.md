@@ -787,17 +787,6 @@ Or page 229 of the hardcover copy of "How Learning Works".  You may also enjoy:
         anything else (sadly).
     -   Two weeks ago: 0
     -   Actually: 0 (and not much better yet)
--   Galen Collier (Clemson University)
-    -   **Interesting:** the importance of taking the time to address
-        inaccurate prior knowledge that may otherwise be disruptive to
-        new learning (rather than simply trying to work around it).
-    -   **Implausible or counterintuitive:** initially, the
-        effectiveness of having learners work with multiple
-        organization/classification patterns of information seemed as
-        though it might be counterproductive (an unnecessary cognitive
-        juggling act), but value of doing so is now clear.
-    -   Git knowledge: expected 0.5, actual 0.7 (I work in an
-        environment with many experienced Git users)
 -   Philip Riggs
     -   **Interesting:** Having learners demonstrate knowledge by
         building concept maps, and how providing organizational concept

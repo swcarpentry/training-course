@@ -719,28 +719,6 @@ You may also enjoy:
     -   I think I (finally) understood better the topic addressed
         (immutable vs mutable). This one has resisted me since I learnt
         programming with a language that didn't care about this.
--   Galen Collier (Clemson University)
-    -   Not yet sure about what it would have been helpful for Greg to
-        address about GitHub blog posts. I'll update this entry if I
-        think of something.
-    -   Time spent: just a few minutes for each part of the process. I
-        selected one of the simpler topics (shell commands), so it
-        should have been a relatively concise concept map. I was working
-        under the impression that it would be most useful to create a
-        concept map on-the-fly when it's needed to briefly explain
-        something during the teaching process, so I wanted to practice
-        with quick, simple concept maps.
-    -   Learned from my own concept map: creating the concept map gave
-        me an opportunity to revise my pattern of thought when it comes
-        to teaching that concept. I haven't been using concept maps in
-        teaching, and I now realize how efficient they can be.
-    -   Learned from looking at others' maps: examining the concept maps
-        that others helped me better understand how to make a concept
-        map more useful for teaching. Seeing the specific features that
-        need to be present and the general format helped me revise my
-        approach to creating concept maps and seeing the variety of
-        examples helped demonstrate to me that this can be used for a
-        very broad range of technology concepts.
 -   Matthew Collins,
     <http://swcarpentry.github.io/training-course/2015/02/programming-with-databases/>
     -   How long it took - Maybe 30-40 min
