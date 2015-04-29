@@ -1,7 +1,7 @@
 ---
 date: 2015-04-28
 round: Round 12
-title: Wickes - Shell navigation
+title: Shell Navigation
 author: Elizabeth Wickes
 permalink: /2015/04/elizabeth-wickes-video/
 tags:
