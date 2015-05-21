@@ -11,7 +11,7 @@ If someone (including a fellow instructor) speaks down to someone or otherwise m
 speak to them about it.
 Make sure *you* know about
 [unconscious bias][unconscious-bias] and [stereotype threat][stereotype-threat],
-[how to counter them[countering-stereotype-threat],
+[how to counter them][countering-stereotype-threat],
 and [how to be a good ally][being-a-good-ally].
 
 ## The Goal
