@@ -4,7 +4,7 @@ description: >
   Software Carpentry is a volunteer organization
   that teaches researchers how to get more done with computers
   in less time and with less pain.
-baseurl: "/training-course"
+baseurl: ""
 twitter_username: swcarpentry
 github_username: swcarpentry
 github_projectname: training-course
