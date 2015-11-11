@@ -4,13 +4,6 @@ round: Round 8
 title: SSH Public Key Authentication to Internal IPython Notebook
 author: Chris Friedline
 permalink: /2014/03/ssh-public-key-authentication-to-internal-ipython-notebook/
-enclosure:
-  - |
-    |
-        http://files.software-carpentry.org/training-course/2014/03/swc_ssh_notebook.mp4
-        7652531
-        video/mp4
-        
 tags:
   - Video
 ---

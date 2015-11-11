@@ -17,26 +17,26 @@ Most of these questions fall into the category of what I think more people need 
 
 2. How do I avoid reinventing the wheel?
 
-*   Novice: Doesn't.  Many common routines written over and over again, often without the knowledge that the capability is already implemented, usually better, in a standard library, third-party library, or even built-in language feature.
+*   Novice: Doesn't. Many common routines written over and over again, often without the knowledge that the capability is already implemented, usually better, in a standard library, third-party library, or even built-in language feature.
 *   Intermediate: Knows that many if not most things they are trying to do has already been done and can be Googled for, and copy/pasted into their code, or possibly imported from a library.
 *   Expert: Has knowledge of what capabilities already exist in standard and third-party libraries, or even where to look if they suspect the capability should exist. Makes frequent use of third-party libraries and manages the requirements for their project effectively.
 
 3. How do I distribute my code so that others may use it?
 
 *   Novice: E-mails the source files around.
-*   Intermediate: Puts the files in a version control repository with a web interface that others can access.  Possibly adds some basic standard build/packaging mechanisms (Makefile, setup.py, etc.).
-*   Expert: Makes source code available through VCS repository (except when proprietary). Makes source or binary release archives (where applicable) available for download with sensible version numbers. Includes release notes, readme, etc.  Gets the project added to OS package repositories if it's applicable to a wide-enough audience.
+*   Intermediate: Puts the files in a version control repository with a web interface that others can access. Possibly adds some basic standard build/packaging mechanisms (Makefile, setup.py, etc.).
+*   Expert: Makes source code available through VCS repository (except when proprietary). Makes source or binary release archives (where applicable) available for download with sensible version numbers. Includes release notes, readme, etc. Gets the project added to OS package repositories if it's applicable to a wide-enough audience.
 
 4. How do I install new versions of different software and libraries either for use or evaluation? (Although this is a general question, I'm going to approach it in a Python-specific context, since that's what I deal with the most on a daily basis, though a lot of these could be generalized).
 
-*   Novice: Doesn't.  Works with what their sysadmin has given them. Possibly occasionally harasses sysadmin to upgrade some library if the installed version isn't recent enough to do their work.
-*   Intermediate: Knows how to install new code using easy_install, pip, or setup.py from an extracted source tarball or VCS checkout.  Usually installs into a site-wide site-packages and sometimes makes a mess of dependencies or conflicts with OS packaging system. Or, if they don't have root access, knows how to install to a local path and add it to PYTHONPATH.
+*   Novice: Doesn't. Works with what their sysadmin has given them. Possibly occasionally harasses sysadmin to upgrade some library if the installed version isn't recent enough to do their work.
+*   Intermediate: Knows how to install new code using easy_install, pip, or setup.py from an extracted source tarball or VCS checkout. Usually installs into a site-wide site-packages and sometimes makes a mess of dependencies or conflicts with OS packaging system. Or, if they don't have root access, knows how to install to a local path and add it to PYTHONPATH.
 *   Expert: Does not install into system site-packages except through the OS packaging system or when certain that a package is not being managed by the OS. Frequently installs into local directories, especially when evaluating new packages or new versions of a package. Uses many different software stacks segregated into different installation paths, and possibly uses virtualenv and/or buildout. Sometimes has many different Python installations as well.
 
 5. How do I track what changes I've made to my code?
 
 *   Novice: Either doesn't at all, or possibly through some history listing in the file itself that's updated (sometimes) when a change is made.
-*   Intermediate: Uses a VCS and writes sometimes descriptive commit messages. Also keeps a history listing in the file itself, or adds comments in the source code on lines that were changed describing when it was changed, by who, and why.  That is, uses VCS, but still sticks to old habits that would be mostly unnecessary when using it effectively.
+*   Intermediate: Uses a VCS and writes sometimes descriptive commit messages. Also keeps a history listing in the file itself, or adds comments in the source code on lines that were changed describing when it was changed, by who, and why. That is, uses VCS, but still sticks to old habits that would be mostly unnecessary when using it effectively.
 *   Expert: Uses VCS religiously, and tries to write descriptive commit messages as often as possible. Commits early and often, and often works in branches when experimenting with new changes so as to not clutter the change history. Uses blame/annotate/log to find out who did what when, and why.
 
 6. How can I debug problems in my code?

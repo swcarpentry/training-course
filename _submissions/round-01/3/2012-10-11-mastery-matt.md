@@ -11,11 +11,11 @@ Everyone has added a lot of great ideas! Like Ben I took a different tack and I 
 
 1. My program is crashing!
 
-*   <span style="font-size: medium;">Novice: changes things at random, adds print statements</span>
-*   <span style="font-size: medium;">Intermediate: knows how to read a Python traceback, understands common error cases</span>
-*   <span style="font-size: medium;">Advanced: uses a debugger, logs program state, uses assertions to enforce program validity</span>
+*   Novice: changes things at random, adds print statements
+*   Intermediate: knows how to read a Python traceback, understands common error cases
+*   Advanced: uses a debugger, logs program state, uses assertions to enforce program validity
 
-<span style="font-size: medium;"><span style="line-height: 24px;">2. My results are wrong and I don't know why!</span></span>
+2. My results are wrong and I don't know why!
 
 *   Novice: changes things at random, adds print statements, spends a lot of time reading source code
 *   Intermediate: keeps intermediate results

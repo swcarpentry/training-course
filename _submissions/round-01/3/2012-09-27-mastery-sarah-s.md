@@ -44,5 +44,3 @@ I found this exercise was helpful for me to think about what I need to learn, wh
 *   *novice*: What?! Someone else might see my code? I guess I'll make sure it seems to work ok and has some annotations.
 *   *intermediate*: modularized code that runs from some intermediate stage, where the data is cleaned up. Reconstructs analyses and provides the output.
 *   *expert*: modularized code that runs from start (raw data) to finished product (figures, tables, etc.). Shared online in a way that is easy for others to download, use, replicate, and understand.
-
-&nbsp;

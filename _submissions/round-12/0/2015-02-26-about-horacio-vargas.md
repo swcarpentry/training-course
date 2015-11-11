@@ -1,7 +1,7 @@
 ---
 date: 2015-02-26
 round: Round 12
-title: About Horacio Vargas	
+title: About Horacio Vargas
 author: Horacio Vargas
 permalink: /2015/02/horacio-vargas/
 tags:

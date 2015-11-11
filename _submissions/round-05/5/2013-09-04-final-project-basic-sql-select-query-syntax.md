@@ -5,6 +5,8 @@ title: 'Final Project: Basic SQL SELECT query syntax'
 author: Billy Rowell
 permalink: /2013/09/final-project-basic-sql-select-query-syntax/
 tags:
+  - Lessons
+  - MCQ
 ---
 For my final project, I'm going to explain basic SQL query syntax, including SELECT, FROM, and WHERE clauses.  I will assume that they are familiar with terms for describing data in spreadsheet form, and if they understand a little basic set algebra (union and intersection) I'll explain joins.  If there is time, I can get into ORDER BY and GROUP BY.
 

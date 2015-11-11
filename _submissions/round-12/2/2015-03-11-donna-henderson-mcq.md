@@ -5,7 +5,7 @@ title: MCQs for Storing Multiple Values in Python Lists
 author: Donna Henderson
 permalink: /2015/03/donna-henderson-mcq/
 tags:
-  - Multiple Choice Questions
+  - MCQ
   - Python Lists
 ---
 

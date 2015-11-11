@@ -5,7 +5,7 @@ title: Assessment with MCQs
 author: Kai Yang
 permalink: /2015/03/kai-yang-mcq/
 tags:
-  - Multiple Choice Question
+  - MCQ
 ---
 
 Question 1. 

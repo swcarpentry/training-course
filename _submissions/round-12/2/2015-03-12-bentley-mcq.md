@@ -5,7 +5,7 @@ title: Multiple Choice Questions
 author: Martin Bentley
 permalink: /2015/03/martin-bentley-mcq/
 tags:
-  - Multiple Choice Question
+  - MCQ
 ---
 
 ## Question 1 - Python

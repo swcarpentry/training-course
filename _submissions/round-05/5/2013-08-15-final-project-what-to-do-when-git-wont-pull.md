@@ -5,6 +5,7 @@ title: "Final Project: What to do when git won't pull"
 author: Chris Holdgraf
 permalink: /2013/08/final-project-what-to-do-when-git-wont-pull/
 tags:
+  - Lessons
 ---
 # Overview
 

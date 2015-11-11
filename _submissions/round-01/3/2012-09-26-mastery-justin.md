@@ -9,9 +9,9 @@ tags:
 ---
 As I started drafting my list of questions, I reflected a bit on Greg's phrase "what we’re trying to help our learners do". I ended up with a list that was focused around the stages in our learner's research (ie, those cartoons of the scientific methods that we learned about in high school), rather than the particular tasks that they may want to perform. Overall, though, I'd say that the questions aren't so different from Greg's, although they're phrased and organized differently. Note that my descriptions of the "Expert" are probably more like "Advanced Intermediate", since that is roughly how I would characterize the limits of my own knowledge :P.
 
-Before beginning the "computational" part of their research, I'm presuming that our students have selected some question of scientific interest, found  a source of raw data, and selected a reasonable approach for data analysis.
+Before beginning the "computational" part of their research, I'm presuming that our students have selected some question of scientific interest, found a source of raw data, and selected a reasonable approach for data analysis.
 
-1.  How do I get the data into a useful, cleaned, and correctly formatted digital file without making  errors? 
+1.  How do I get the data into a useful, cleaned, and correctly formatted digital file without making errors? 
     *   Novice: type everything into an Excel spreadsheet, or open the raw data file and copy/paste into a new file
     *   Intermediate: do the same, but with notes on each step and saving copies of the raw and final data (or perhaps writing a small script to track actions); files are intelligently named and organized; end results are visually checked
     *   Expert: all file conversions automated with error checking; conversion script unit and integration tested, data files are text-based

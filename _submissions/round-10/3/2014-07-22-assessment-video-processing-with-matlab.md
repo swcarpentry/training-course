@@ -4,7 +4,7 @@ title: 'Assessment --- Video processing with matlab'
 author: Tom
 permalink: /2014/07/assessment-video-processing-with-matlab/
 round: Round 10
-categories:
+tags:
   - Assessment
 ---
 **Question 1**

@@ -4,7 +4,7 @@ title: 'Demotivation: my story'
 author: Liberty Foreman
 permalink: /2014/10/demotivation-my-story/
 round: Round 11
-categories:
+tags:
   - Motivation
 ---
 The reason I have chosen this story is because although it happened during the very young stages of my life (up to the age of 14) it has shaped the way I think and learn up until this day.

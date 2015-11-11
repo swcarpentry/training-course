@@ -4,19 +4,6 @@ round: Round 8
 title: 'Screencast: Improving the behaviour of the up and down arrows in bash'
 author: Jean-Christophe Leyder
 permalink: /2014/03/screencast-improving-the-behaviour-of-the-up-and-down-arrows-in-bash/
-enclosure:
-  - |
-    |
-        http://files.software-carpentry.org/training-course/2014/03/screencast-bash-history.mp4
-        5817745
-        video/mp4
-        
-  - |
-    |
-        http://files.software-carpentry.org/training-course/2014/03/screencast-bash-history.m4v
-        5817745
-        video/mp4
-        
 tags:
   - Video
 ---

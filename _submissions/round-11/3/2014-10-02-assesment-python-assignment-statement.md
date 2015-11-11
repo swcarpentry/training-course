@@ -1,6 +1,6 @@
 ---
 date: 2014-10-02
-title: 'Assesment: python assignment statement'
+title: 'Assessment: python assignment statement'
 author: R. David Murray
 permalink: /2014/10/assesment-python-assignment-statement/
 round: Round 11

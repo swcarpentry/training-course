@@ -4,7 +4,7 @@ title: 'Reverse instructional design --- summarising data in R'
 author: Andy Leung
 permalink: /2014/07/reverse-instructional-design-data-aggregation-in-r/
 round: Round 10
-categories:
+tags:
   - Assessment
 ---
 This assessment will be given after a short introduction to summarising data in R. The introduction will cover only *summarise* and *ddply* from the *plyr *package.

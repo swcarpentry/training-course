@@ -11,7 +11,7 @@ In this round, we're going to try to reach consensus on what "mastery" of the So
 
 **Step 1:** please read the following:
 
-*   Chapter 4 of <cite>How Learning Works</cite>;
+*   Chapter 4 of *How Learning Works*;
 *   the [competence matrix][1] essay on the Software Carpentry site; and
 *   the [Systematic Curriculum Design][2] post on the same site.
 

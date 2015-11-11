@@ -11,7 +11,7 @@ There is a difference between questions that are intended to "sum up what our le
 
 I have started by trying to list some of the questions that actually do get asked by novices, which are often triggered by an immediate and glaring problem such as a segmentation violation in a C++ program. Part of our task in Software Carpentry must be to encourage researchers to make the connection between these emergencies and the broader issues of reliability and reproducibility, as well as persuading those whose code does not crash that they should still be suspicious of its output, and think about how to record their work.
 
-1.   How can I understand my predecessor's code? 
+1.  How can I understand my predecessor's code? 
     *   Novice: read it, print it out, annotate it, ask author if available
     *   Intermediate: run it, read it, add print statements, ask author if available
     *   Expert: run it, read it, try simple test data, refactor it, write unit and integration tests, ask author if available

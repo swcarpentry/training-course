@@ -4,7 +4,7 @@ title: Reverse Instructional Design – Question/Code challenge grep and fasta f
 author: Jennifer Shelton
 permalink: /2014/07/questioncode-challenge-grep-and-fasta-files/
 round: Round 10
-categories:
+tags:
   - Assessment
 ---
 My post is at : <https://github.com/kstatebioinfo/swc/blob/master/grep_fasta.md>.

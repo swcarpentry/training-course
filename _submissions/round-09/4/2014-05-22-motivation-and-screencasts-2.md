@@ -52,7 +52,7 @@ Group 9 / May 21, 2014
 *   Class is split on which was more useful --- concept maps or assessment questions
 *   Use the one you find more useful, and if you're cooperating with someone who already did done --- do the other. It's more likely to uncover new perspectives.
 *   Students learn things with different patterns and MCQs more attentative to the students needs.  Concept maps better at helping instructor --- HT hsingtzu
-*   Greg likes using concept maps when working face to face (i.e. can draw on a white board).  Assesment and MCQ and the specific text associated with that works better when working remotely, via version control. etc.
+*   Greg likes using concept maps when working face to face (i.e. can draw on a white board).  Assessment and MCQ and the specific text associated with that works better when working remotely, via version control. etc.
 *   **Scaffolding** --- many people, when given a blank sheet of paper, are, afraid. Giving them a "fill in the blanks" skeleton solves that, and also helps checking their answers quickly.
 *   When there is a case to be made for each option in an MCQ, you can ask the student to rank the options.
 *   If everyone answers correctly before you start --- just skip to the next lecture. If everyone stares blankly, teach. What if it's half and half? 
@@ -146,7 +146,7 @@ Questions for today:
     *   Q3. I think my questions would let me know if someone was an absolute beginner or not --- they wouldn't serve to 'grade' people's levels of knowledge.
     *   Q4. I think it would work pretty well for checking if people's took in the lesson content --- which would be for a beginner.
     *   Q5. Yes and yes- actually what was helpful was seeing someone else's questions for the same lesson / concept map.
-*   Alex Simperler (Imperial College London, UK):<http://teaching.software-carpentry.org/2014/05/09/assesment-to-graham-etheringtons-while-concept-map/> 
+*   Alex Simperler (Imperial College London, UK):<http://teaching.software-carpentry.org/2014/05/09/assessment-to-graham-etheringtons-while-concept-map/> 
     *   Q1 10 minutes --- needed to find old slides about perl
     *   Q2 was good
     *   Q3 I would have recognized them as programmers
@@ -219,7 +219,7 @@ Questions for today:
 *   Timothy Warren (University of Washington, Seattle) <http://teaching.software-carpentry.org/2014/05/17/assessment-for-python-dictionaries-3/> 
     *   About an hour.
     *   Helpful feedback pointed out that my directions for 2nd question (not multiple choice) were unclear.
-    *   I think my question would provide useful assesment prior to teaching.
+    *   I think my question would provide useful assessment prior to teaching.
     *   Ditto for assessement after teaching.
     *   Yes --- questions useful for design of teaching.
 *   Mark Wilber (University of California, Santa Barbara): <http://teaching.software-carpentry.org/2014/05/15/assessment-for-python-functions/> 

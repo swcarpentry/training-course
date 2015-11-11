@@ -4,7 +4,7 @@ title: Motivation
 author: Fatma Imamoglu
 permalink: /2014/10/motivation-4/
 round: Round 11
-categories:
+tags:
   - Motivation
 ---
 I can post two discouraging but probably very general events, I could not recall any specific event that was discouraging. (My apologize for my rather late post.)  

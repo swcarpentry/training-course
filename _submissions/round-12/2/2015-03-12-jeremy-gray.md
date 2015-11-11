@@ -5,7 +5,7 @@ title: The Call Stack (scoping) in R
 author: Jeremy Gray
 permalink: /2015/03/jeremy-gray/
 tags:
-  - Multiple Choice Questions (MCQ)
+  - MCQ
   - R
   - Call Stack
 ---

@@ -5,14 +5,14 @@ title: Multiple Choice Quesitons for Storing Multiple Values in Python Lists
 author: Matthew Bourque
 permalink: /2015/03/matthew-bourque-mcq/
 tags:
-  - Multiple Choice Questions
+  - MCQ
   - Python
 ---
 
 These multiple choice quesitons are for the "Storing Multiple Values in Lists"
 [lesson](http://swcarpentry.github.io/python-novice-inflammation/03-lists.html).
 
-### Formative Assesment
+### Formative Assessment
 
 Consider the following code:
 
@@ -51,7 +51,7 @@ d)
     ['apple', 'orange', 'lemon', 'peach']
 
 
-### Summative Assesment
+### Summative Assessment
 
 Consider the following code:
 

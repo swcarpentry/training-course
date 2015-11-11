@@ -4,13 +4,6 @@ round: Round 6
 title: 'Screencast: Get help in terminal'
 author: Raniere Silva
 permalink: /2013/09/screencast-get-help-in-terminal/
-enclosure:
-  - |
-    |
-        http://www.ime.unicamp.br/~ra092767/sc.webm
-        5288459
-        video/webm
-        
 tags:
   - Video
 ---

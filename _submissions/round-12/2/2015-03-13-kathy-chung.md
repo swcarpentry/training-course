@@ -6,7 +6,6 @@ author: Kathy Chung
 permalink: /2015/03/kathy-chung-mcq/
 tags:
  - MCQ
- - Multiple Choice Questions
  - Unix Shell
 ---
 The two MCQs relate to finding things with the Unix Shell.  Question One relates to lesson [http://swcarpentry.github.io/shell-novice/01-filedir.html](http://swcarpentry.github.io/shell-novice/01-filedir.html) 

@@ -4,7 +4,7 @@ title: In a demotivated situation
 author: Alif
 permalink: /2014/10/in-a-demotivated-situation/
 round: Round 11
-categories:
+tags:
   - Motivation
 ---
 Having ups and downs in my whole academic life were and are still ongoing events. I suffered from demotivation a number of times, but I was managed to overcome from most of those situations fair quickly due to my encouraging and extremely loving parents (specially my mom). Out of all those events, I would like to share a very recent event that occurred during my graduate studies, which I am still trying to recover from.

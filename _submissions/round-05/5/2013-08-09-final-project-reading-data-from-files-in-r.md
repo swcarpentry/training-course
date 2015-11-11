@@ -6,6 +6,8 @@ author: Nichole Bennett
 permalink: /2013/08/final-project-reading-data-from-files-in-r/
 tags:
 tags:
+  - Lessons
+  - MCQ
 ---
 **Topic:**
 

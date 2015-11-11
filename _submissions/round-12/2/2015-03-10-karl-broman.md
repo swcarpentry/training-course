@@ -5,7 +5,7 @@ title: Functions and loops in R
 author: Karl Broman
 permalink: /2015/03/karl-broman-mcq/
 tags:
-  - Multiple Choice Questions (MCQ)
+  - MCQ
   - R
 ---
 

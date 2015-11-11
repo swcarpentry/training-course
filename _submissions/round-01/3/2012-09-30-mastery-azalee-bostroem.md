@@ -11,90 +11,48 @@ I based my questions on what I find most important in my work. I think this can 
 
 1. How do I document what I've done so that my work is repeatable by someone else?
 
-<p style="padding-left: 30px;">
-  <strong>Novice:</strong> Don't
-</p>
+Novice: Don't
 
-<p style="padding-left: 30px;">
-  <strong>Intermediate:</strong> In line comments. Keep a notebook. Provide big picture information in a doc string at the beginning.
-</p>
+Intermediate: In line comments. Keep a notebook. Provide big picture information in a doc string at the beginning.
 
-<p style="padding-left: 30px;">
-  <strong>Expert: </strong>All of the above. Write a readme file. Keep examples of how to run the code. Version control the code and output as an example. <em>I haven't ever used make files, but would this be an appropriate place for one?</em>
-</p>
+Expert: All of the above. Write a readme file. Keep examples of how to run the code. Version control the code and output as an example. *I haven't ever used make files, but would this be an appropriate place for one?*
 
-2. How do I write programs which I can reuse? How do I organize my work so that I can reuse it?
+2. How do I write programs which I can reuse? How do I organize my work so that I can reuse it?
 
-<p style="padding-left: 30px;">
-  <strong>Novice: </strong>Don't write reusable programs.
-</p>
+Novice: Don't write reusable programs.
 
-<p style="padding-left: 30px;">
-  <strong>Intermediate: </strong>Write short functions with optional input parameters. Keep a central program folder for each project.
-</p>
+Intermediate: Write short functions with optional input parameters. Keep a central program folder for each project.
 
-<p style="padding-left: 30px;">
-  <strong>Expert:</strong>
-</p>
+Expert:
 
 3. How do I test my code in a time efficient manner (I know this is very context specific)?
 
-<p style="padding-left: 30px;">
-  <strong>Novice:</strong> Test everything once you've finished the whole program. Make sure you get the reasonable results on the analysis you wrote your program for.
-</p>
+Novice: Test everything once you've finished the whole program. Make sure you get the reasonable results on the analysis you wrote your program for.
 
-<p style="padding-left: 30px;">
-  <strong>Intermediate: </strong>Test each function as you write it on a know case.
-</p>
+Intermediate: Test each function as you write it on a know case.
 
-<p style="padding-left: 30px;">
-  <strong>Expert: </strong>Write a set of test functions? Use assertion to catch common errors?
-</p>
+Expert: Write a set of test functions? Use assertion to catch common errors?
 
 4. How do I make my work available to others?
 
-<p style="padding-left: 30px;">
-  <strong>Novice: </strong>Email upon request
-</p>
+Novice: Email upon request
 
-<p style="padding-left: 30px;">
-  <strong>Intermediate: </strong>Put on shared storage location
-</p>
+Intermediate: Put on shared storage location
 
-<p style="padding-left: 30px;">
-  <strong>Expert:</strong> Use a version controlled repository
-</p>
+Expert: Use a version controlled repository
 
 5. How do I track things I've tried that haven't worked?
 
-<p style="padding-left: 30px;">
-  <strong>Novice:</strong> Don't
-</p>
+Novice: Don't
 
-<p style="padding-left: 30px;">
-  <strong>Intermediate:</strong> Keep a notebook
-</p>
+Intermediate: Keep a notebook
 
-<p style="padding-left: 30px;">
-  <strong>Expert:</strong>?
-</p>
+Expert:?
 
 6. What should my code output and to where?
 
-<p style="padding-left: 30px;">
-  <strong>Novice:</strong> Data and plots to the screen and terminal windows
-</p>
+Novice: Data and plots to the screen and terminal windows
 
-<p style="padding-left: 30px;">
-  <strong>Intermediate:</strong> Data and plots written to files
-</p>
+Intermediate: Data and plots written to files
 
-<p style="padding-left: 30px;">
-  <strong>Expert: </strong>In addition to writing data and plots to files write a log detailing the execution.
-</p>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+Expert: In addition to writing data and plots to files write a log detailing the execution.

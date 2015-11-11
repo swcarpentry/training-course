@@ -5,7 +5,6 @@ title: Python Multiple Choice Questions
 author: Meredith Durbin
 permalink: /2015/03/meredith-durbin-mcq/
 tags:
-  - Multiple Choice Question
   - MCQ
   - Python
 ---

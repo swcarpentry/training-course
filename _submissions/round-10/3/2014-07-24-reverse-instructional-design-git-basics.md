@@ -4,7 +4,7 @@ title: 'Reverse Instructional Design- Git Basics'
 author: Scott Talafuse
 permalink: /2014/07/reverse-instructional-design-git-basics/
 round: Round 10
-categories:
+tags:
   - Assessment
 ---
 1.  You have created a new git repository in your current directory with the 'git init' command.

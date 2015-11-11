@@ -13,7 +13,7 @@ For our fourth round, we're going to take a look at some teaching tools. To get 
 2.  Read his ["Learnable Programming" essay][4].
 3.  And then read commentary by [Mark Guzdial][5] and [Neil Brown][6].
 
-Using all of that, and what you've learned in the previous three rounds, your task is to create a short lesson on something of your choice using the IPython Notebook. Your lesson should start with a small concept map (but not as small as [Matt Davis's][7] <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> with the one key idea you're teaching at the center, and half a dozen related ideas that you're *not*  around it. At the bottom, please include a brief explanation of:
+Using all of that, and what you've learned in the previous three rounds, your task is to create a short lesson on something of your choice using the IPython Notebook. Your lesson should start with a small concept map (but not as small as [Matt Davis's][7]) with the one key idea you're teaching at the center, and half a dozen related ideas that you're *not* around it. At the bottom, please include a brief explanation of:
 
 1.  how you would use the notebook in front of a class when teaching live;
 2.  how learners would go through it on their own outside of class; and

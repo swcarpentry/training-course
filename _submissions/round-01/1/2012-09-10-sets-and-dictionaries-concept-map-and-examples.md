@@ -15,7 +15,7 @@ tags:
 
 ****You are teaching a class and wish to store homework and test scores in an easily accessible way. You make a dictionary with student names as keys. For each key (student's name) you create another dictionary with keys: 'test' and 'homework'. Both test and homework reference lists with the student's test scores and homework scores. The dictionary looks like this:
 
->>>  student\_scores\_dict = {'Adele': {'test': [70.0, 75.0], 'homework': [90.0, 91.5, 90.2, 89.0, 95.0]}, 
+>>> student\_scores\_dict = {'Adele': {'test': [70.0, 75.0], 'homework': [90.0, 91.5, 90.2, 89.0, 95.0]}, 
 
 <p style="padding-left: 30px;">
   'James': {'test': [60.0, 80.1], 'homework': [80.0, 85.0, 83.0, 89.0, 82.5]},
@@ -25,8 +25,6 @@ tags:
   'Martha': {'test': [90.0, 95.0], 'homework': [90.0, 91.0, 92.0, 95.0, 92.5]}}
 </p>
 
-&nbsp;
-
 Now it is easy to get information on the test and homework scores. For instance, to get the average homework score of each student:
 
 >>> for student\_name in student\_scores_dict.keys():
@@ -34,8 +32,6 @@ Now it is easy to get information on the test and homework scores. For instance,
 <p style="padding-left: 60px;">
   print student_name, mean(student_scores_dict[student_name]['homework'])
 </p>
-
-&nbsp;
 
 ## Contrasting example:
 
@@ -52,8 +48,6 @@ Another way to keep track of groups of items is a tuple. In this case the first 
 <p style="padding-left: 30px;">
   (Martha', [90.0, 95.0], [90.0, 91.0, 92.0, 95.0, 92.5])]
 </p>
-
-&nbsp;
 
 While this is a valid way to store information, it has three distinct disadvantages: first, you have to remember what order you stored things in (i.e. that test scores are first then homework scores), second, you can't add to your tuple: you have to create a new tuple, and third, you can't easily access the record of one student.
 
@@ -103,8 +97,6 @@ To put the new quiz scores into your dictionary, you can add a new key to your i
   student_scores_dict[student_name]['quiz'] = student_quiz_scores[student_name]
 </p>
 
-&nbsp;
-
 In this case you don't have to worry about accidentally placing a student's quiz scores with another student's name and there is no requirement that the either dictionary have any order. Additionally, you can keep your original data structure by just adding a key. Your new dictionary looks like this:
 
 >>> student\_scores\_dict = {'Adele': {'test': [70.0, 75.0], 'homework': [90.0, 91.5, 90.2, 89.0, 95.0], 'quiz': [80.0, 82.0]}, 
@@ -117,8 +109,6 @@ In this case you don't have to worry about accidentally placing a student's quiz
   'Martha': {'test': [90.0, 95.0], 'homework': [90.0, 91.0, 92.0, 95.0, 92.5], 'quiz': [95.0, 90.0]}}
 </p>
 
-&nbsp;
-
 **Part 2**
 
 Finally, you want to find Adele's lowest homework score.
@@ -129,15 +119,11 @@ For the tuple data structure you have to know which tuple in the list belongs to
 
 >>> print min(student\_scores\_tup2\[0\]\[2\])
 
-&nbsp;
-
 *Dictionary Case:*
 
 For the dictionary data structure, you can reference Adele's homework data by using her name and 'homework' as keys:
 
 >>> print min(student\_scores\_dict\['Adele'\]\['homework'\])
-
-&nbsp;
 
 ## Deep Concepts:
 
@@ -145,13 +131,9 @@ The first part of this example highlights the basic construction of a dictionary
 
 The contrasting case shows the limitations of tuples and the benefits of having keys to reference items. The flexibility of a dictionary is show: the ability to add keys at any time as well as the ability to access any piece of the dictionary independent of the other pieces. The benefits of having the key names to remind you of what items are stored is also shown. This example also shows how you can combine information from 2 dictionaries with the same keys into a single dictionary. It exposes students to the sorted function and will demonstrate that keys are case sensitive.
 
-&nbsp;
-
 ## Time of assignment:
 
 The reading took me about 2.5 hours and creating the concept map and the write up an additional 2 hours = 4.5 hours total
-
-&nbsp;
 
 ## Prerequisite concepts;
 

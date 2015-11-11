@@ -7,7 +7,6 @@ permalink: /2015/03/belinda-weaver-mcq/
 tags: 
   - Assessment
   - MCQ
-  - Multiple Choice Questions
   - Git
   - Shell
 ---

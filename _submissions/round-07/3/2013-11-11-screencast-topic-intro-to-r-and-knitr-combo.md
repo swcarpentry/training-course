@@ -4,13 +4,6 @@ round: Round 7
 title: 'Screencast (with video): Intro to R and knitr combo'
 author: Denis Haine
 permalink: /2013/11/screencast-topic-intro-to-r-and-knitr-combo/
-enclosure:
-  - |
-    |
-        http://files.software-carpentry.org/training-course/2013/11/introR_knitr4.mp4
-        7332970
-        video/mp4
-        
 tags:
   - Video
 ---

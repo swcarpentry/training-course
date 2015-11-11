@@ -5,6 +5,7 @@ title: 'Reverse Instructional Design: python dict'
 author: Clare Sloggett
 permalink: /2014/07/reverse-instructional-design-python-dict/
 tags:
+  - MCQ
 ---
 **Multiple choice: **
 

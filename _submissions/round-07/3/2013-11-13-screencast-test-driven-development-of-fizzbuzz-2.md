@@ -4,13 +4,6 @@ round: Round 7
 title: 'Screencast: Test driven development of FizzBuzz'
 author: Cliburn Chan
 permalink: /2013/11/screencast-test-driven-development-of-fizzbuzz-2/
-enclosure:
-  - |
-    |
-        http://files.software-carpentry.org/training-course/2013/11/fizzbuzz2.mp4
-        6491766
-        video/mp4
-        
 tags:
   - Video
 ---

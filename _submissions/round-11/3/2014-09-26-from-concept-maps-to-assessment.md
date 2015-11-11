@@ -37,14 +37,14 @@ We'll meet again on October 8 and 9, and I'll do my best to show up at the right
 *   Different concept maps ~ different paintings of the same thing: done in different ways but expressing the same ideas, and they are all understandable
 *   Worse is better: better to get something out there then spend too much time polishing
 *   Testing/Assessment 
-    *   Summative assesment: Final exam. wraps everything up at the end (sum of all acquired knowledge)We are not just assessing the learning with summative assessment. We are also assessing whether the teaching was successful. The problem is that as soon as we are assessing teachers, they will teach to the test because it's the only rational response.
-    *   Formative assesment: Coaching during the learning process. It's the assessment that you get over the course of the course.
-    *   **Assesment** NOT THE SAME as **testing**
+    *   Summative assessment: Final exam. wraps everything up at the end (sum of all acquired knowledge)We are not just assessing the learning with summative assessment. We are also assessing whether the teaching was successful. The problem is that as soon as we are assessing teachers, they will teach to the test because it's the only rational response.
+    *   Formative assessment: Coaching during the learning process. It's the assessment that you get over the course of the course.
+    *   **Assessment** NOT THE SAME as **testing**
     *   Testing is a sensitive topic because it can be misused so easily.
 *   Reverse Instructional Design: 
     *   The idea of test driven design is that if I want to add a feature, the first thing I do is write the test. That's my goal post. Then I write the code that passes the test.
     *   When teaching, first construct the summative exam to assess whether your teaching was successful. May be useful to present key concepts early on as "key concepts" or "learning goals" (or something like that) to give students some targets to work towards.
-    *   Also design the formative assesments, so that students come into the final assesment well prepared
+    *   Also design the formative assessments, so that students come into the final assessment well prepared
     *   **If you don't know how to tell whether someone has learned something, you shouldn't be teaching yet.** What change will I be able to observe in the learner? The second step is to figure out the formative assessment that you will provide along the way. This is so the learners can assess along the way what they've learned and what they haven't. This is the reverse of how many of us teach.
     *   You start with what you want to teach and then base an assignment off of that. It helps a lot with scoping. (i.e. When a teacher goes through the first half of the class really slow and then the rest of the course at lightning speed.)
     *   Tell students early on what you expect them to learn.

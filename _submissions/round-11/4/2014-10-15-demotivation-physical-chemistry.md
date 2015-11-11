@@ -4,7 +4,7 @@ title: 'Demotivation: Physical Chemistry'
 author: Lauren Michael
 permalink: /2014/10/demotivation-physical-chemistry/
 round: Round 11
-categories:
+tags:
   - Motivation
 ---
 After my first year of college, pursuing two majors (Biology and Chemistry), I was dreading the new school year, where I would be joining Chemistry juniors (as only a second-year student, myself) for the particularly-difficult courses in Physical Chemistry (I and II). In case you're less familiar, Physical Chemistry is regularly regarded as one of the hardest college topics/courses, but I was pretty sure I could handle the material. 

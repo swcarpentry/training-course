@@ -5,7 +5,7 @@ title: Multiple Choice Questions for Python Functions
 author: Matt Probert
 permalink: /2015/03/matt-probert-mcq/
 tags:
-  - Multiple Choice Questions
+  - MCQ
   - Python
 ---
 

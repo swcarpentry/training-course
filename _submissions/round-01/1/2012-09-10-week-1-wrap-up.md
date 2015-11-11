@@ -6,13 +6,13 @@ author: Greg Wilson
 permalink: /2012/09/week-1-wrap-up/
 tags:
 ---
-We had our first online video meeting this afternoon.  13 people took part (three of them voice-only, one text-only) as we walked through [Week 1's concept maps][1].
+We had our first online video meeting this afternoon. 13 people took part (three of them voice-only, one text-only) as we walked through [Week 1's concept maps][1].
 
 **Observations**
 
 *   Some focused on terms and relationships ([http://teaching.software-carpentry.org/2012/09/07/week-1-python-libraries/][2])
 *   Others were organized around commands and options ([http://teaching.software-carpentry.org/2012/09/07/week-1-the-shell-finding-things/][3])
-*   And some were... minimalist <img src="http://localhost:8080/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley" /> ([http://teaching.software-carpentry.org/2012/09/06/week-1-shell-pipes-and-filters/][4])
+*   And some were... minimalist :-) ([http://teaching.software-carpentry.org/2012/09/06/week-1-shell-pipes-and-filters/][4])
 *   Sometimes hard to think of contrasting/boundary examples (often introduced with words like "however...")
 
 **Questions**

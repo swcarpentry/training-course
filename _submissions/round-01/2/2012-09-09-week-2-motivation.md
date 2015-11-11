@@ -39,7 +39,7 @@ Please then write a post for this blog describing:
 Please:
 
 1.  Be as specific as possible about what motivated/demotivated you and why (anecdotes are good).
-2.  Put your post in the "Week 2&#8243; category (like this one) by Friday Sept 14, so that everyone can look everything over before our group discussion.
+2.  Put your post in the "Week 2" category (like this one) by Friday Sept 14, so that everyone can look everything over before our group discussion.
 3.  Include an estimate of how many hours you spent on this task.
 
  [1]: http://www.amazon.com/How-Learning-Works-Research-Based-Jossey-Bass/dp/0470484101/

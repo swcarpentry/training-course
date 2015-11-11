@@ -4,13 +4,6 @@ round: Round 7
 title: 'Screencast: Essential tools to improve your UNIX experience.'
 author: David Rio
 permalink: /2013/11/screencast-essential-tools-to-improve-your-unix-experience/
-enclosure:
-  - |
-    |
-        http://f.cl.ly/items/193K020i3z352s1N1U2P/swc-essential-unix-tools%20-%20Broadband.m4v
-        10672649
-        video/mp4
-        
 tags:
   - Video
 ---

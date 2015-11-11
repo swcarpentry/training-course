@@ -4,7 +4,7 @@ title: Discouragement story
 author: Maneesha Sane
 permalink: /2014/10/discouragement-story/
 round: Round 11
-categories:
+tags:
   - Motivation
 ---
 My graduate degree (masters) is in educational linguistics. My first semester I took an intro to linguistics class. That semester, the intro class was really big so the department chose to split the class up by whether students were enrolled in a masters or doctoral program. The doctoral section was taught by the regular professor while the masters section was taught by a doctoral student. I'll call her Mary. This was immediately discouraging because it seemed like the university was basically saying that masters students were not worth being taught by an expert in the field, and that someone who seemed just a bit ahead of us was good enough.

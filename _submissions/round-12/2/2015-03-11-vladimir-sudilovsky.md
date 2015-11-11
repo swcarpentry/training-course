@@ -6,7 +6,6 @@ author: Vladimir Sudilovsky
 permalink: /2015/03/vladimir-sudilovsky-mcq/
 tags: 
   - MCQ
-  - Multiple Choice Questions
   - Python
 ---
 
