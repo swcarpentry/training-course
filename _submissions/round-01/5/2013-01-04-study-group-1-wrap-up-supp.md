@@ -13,7 +13,7 @@ I enjoyed joining the Teaching Software Carpentry study group for a few main rea
 
 1.  I began to feel like I could connect with a larger community of scientist-programmers
 2.  I wanted to become better and more confident in teaching others (especially programming skills)
-3.  Gain others perspectives of *how *to teach programming concepts and at *what level* we should be aiming in workshops
+3.  Gain others perspectives of *how* to teach programming concepts and at *what level* we should be aiming in workshops
 
 **Highlights**:
 

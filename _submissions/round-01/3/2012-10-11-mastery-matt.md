@@ -25,7 +25,7 @@ Everyone has added a lot of great ideas! Like Ben I took a different tack and I 
 
 *   Novice: eyeballs things or assumes correctness
 *   Intermediate: manually compares results to previous runs or other codes
-*   Advanced: writes code in small, functional units and uses unit tests to ensure correctness. uses regression tests to compare to known results.
+*   Advanced: writes code in small, functional units and uses unit tests to ensure correctness. uses regression tests to compare to known results.
 
 4. I want my computer to do X, but I don't know how!
 

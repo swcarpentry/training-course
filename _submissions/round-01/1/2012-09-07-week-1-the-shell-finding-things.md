@@ -9,8 +9,6 @@ tags:
 ---
 # [<img class="alignnone size-large wp-image-223" title="shell_finding_concept_map" src="http://files.software-carpentry.org/training-course/2012/09/shell_finding_concept_map-1024x679.jpg" alt="" width="707" height="468" />][1]
 
-&nbsp;
-
 ## Prerequisite Knowledge
 
 This post assumes you have worked with a shell before, and understand several basic concepts:

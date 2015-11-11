@@ -9,11 +9,9 @@ tags:
 ---
 [<img class="alignnone size-medium wp-image-247" title="ControlFlow" src="http://files.software-carpentry.org/training-course/2012/09/ControlFlow-300x231.png" alt="" width="300" height="231" />][1]
 
-&nbsp;
-
 **Mainstream Example**
 
-You can use  a while loop and a less than (<) comparator along with a len() to print out a list of nations and the cities that are associated with them. This example demonstrates the way in which functions (namely print) may be performed repeatedly on associated data (nations and cities) in separate data structures (separate lists).
+You can use a while loop and a less than (<) comparator along with a len() to print out a list of nations and the cities that are associated with them. This example demonstrates the way in which functions (namely print) may be performed repeatedly on associated data (nations and cities) in separate data structures (separate lists).
 
 <pre>italy = ["Rome", "Pisa", "Florence", "Venice", "Trieste"]
 argentina = ["Mendoza", "Buenos Aires", "Patagonia"]
@@ -58,16 +56,14 @@ print "or Lobster Thermidor a Crevette with a mornay sauce served in a Provencal
 
 **Deeper Concepts**
 
-Deeper concepts in these examples include the notion that a student can leverage available tools such as list and dictionary iterators to save time as well as the notion that some data structures (in this case, dictionaries) might be inherently better than others (in this case, lists) at storing certain data (nation and city pairs).
+Deeper concepts in these examples include the notion that a student can leverage available tools such as list and dictionary iterators to save time as well as the notion that some data structures (in this case, dictionaries) might be inherently better than others (in this case, lists) at storing certain data (nation and city pairs).
 
 **Prerequisite Knowledge**
 
-The student must have seen the Monty Python Spam skit in order to think the contrasting example is funny. Also, the student must understand the print function, the construction of lists, the construction of dictionaries, the list notion of  an index, and the dictionary notions of key and value pairs.
+The student must have seen the Monty Python Spam skit in order to think the contrasting example is funny. Also, the student must understand the print function, the construction of lists, the construction of dictionaries, the list notion of  an index, and the dictionary notions of key and value pairs.
 
-<span style="color: #000000;"><strong>Task Time Commitment</strong></span>
+**Task Time Commitment**
 
 This task took a little over an hour. Conveniently, I had available examples from a flow control lecture I wrote a while back. Else, it probably would have taken longer.
-
-&nbsp;
 
  [1]: http://files.software-carpentry.org/training-course/2012/09/ControlFlow.png

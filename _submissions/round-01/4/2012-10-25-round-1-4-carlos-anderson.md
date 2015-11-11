@@ -11,8 +11,6 @@ Here's the concept map I would use (the topics I didn't cover are in pink):
 
 [<img class="alignnone size-full wp-image-757" title="concept_map" src="http://files.software-carpentry.org/training-course/2012/10/concept_map2.png" alt="" width="700" height="506" />][1]
 
-&nbsp;
-
 Here's a link to the IPython Notebook for the lesson: [File][2](raw) and [View][3](nbviewer).
 
 1. To use it, I would have the page printed out next to me as a guide, but start with a completely blank notebook for the students. I would have them follow along with me, likely doing more experimentation as they ask questions or come up with examples.

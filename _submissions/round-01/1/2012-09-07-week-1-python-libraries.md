@@ -17,8 +17,6 @@ Beginning programmers often learn that to keep code simple, readable, and non-re
 
 Some modules are already built into Python (e.g., `re`, `sys`, and `os`), but others can be downloaded from third parties or developed directly yourself. In fact, every `.py` file can be used as a library by other programs. Once a module is installed on or saved to your computer, you can import it into a program to use the functions and variables stored within it.
 
-&nbsp;
-
 **How can I use a library?**
 
 To use a module, you can use a simple import statement, which should come at the beginning of your program. For an example, let’s look at a standard Python library, `math`. To access the functions within this module start with:
@@ -45,8 +43,6 @@ Another option to avoid using dot notation is to import *all* the functions dire
 
 <pre>from math import * #use with caution</pre>
 
-&nbsp;
-
 **Making your own libraries**
 
 Importing a code that you have written as a library works the same as in the examples above, provided that you have saved your code as a `.py` file. For example, if you will be using a function or set of functions in multiple programs, you can save them in a separate file as `myfunctions.py`. Be sure to include in your module whatever import command are necessary for it to work. In another program, you can import it using:
@@ -54,8 +50,6 @@ Importing a code that you have written as a library works the same as in the exa
 <pre>import myfunctions</pre>
 
 Note that you don't need to include the `.py` extension.
-
-&nbsp;
 
 **Where can I learn more about libraries?**
 
@@ -67,17 +61,9 @@ A few websites and books that may be helpful are listed below:
 
 [Practical Computing For Biologists][4]
 
-&nbsp;
-
 **Notes**
 
 It took me ~6.5 hrs to do this assignment, including the readings. I used [CmapTools][5] to make the concept map, which looks much sharper than my first attempt at it using powerpoint (Thanks for the suggestion, Justin Kitzes!)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
  [1]: http://files.software-carpentry.org/training-course/2012/09/PythonLibrariesCmap.jpg
  [2]: http://docs.python.org/library/
