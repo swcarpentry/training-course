@@ -8,10 +8,8 @@ This site is the home of a training course run by [Software Carpentry][1] that t
 You don't need to be an expert programmer to take part: in fact, we prefer instructors who are only two steps ahead of their learners and can still remember what it's like to find programming difficult and confusing. You *do* need to be enthusiastic and willing to volunteer to help teach others what you know, and also willing to abide by our [code of conduct][3].
 
 <div align="center">
-Our online courses are full for the remainder of 2015.
-<br/>
-Please complete <a href="http://software-carpentry.org/pages/register.html">this form</a>
-if you would like to be added to the waiting list for 2016.
+Our online courses are presently full.
+Please keep an eye on the [Software Carpentry][1] blog for announcements of upcoming courses.
 </div>
 
 [1]: http://software-carpentry.org
